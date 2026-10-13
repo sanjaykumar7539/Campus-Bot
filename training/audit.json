@@ -1,0 +1,30 @@
+{
+  "sqlite": {
+    "integrity": "ok",
+    "row_counts": {
+      "chat_sessions": 23,
+      "messages": 54,
+      "sqlite_sequence": 1,
+      "feedback": 0,
+      "users": 0,
+      "revoked_tokens": 0,
+      "security_audit_log": 0,
+      "learned_question_phrases": 1
+    }
+  },
+  "collections": [
+    {
+      "name": "langchain",
+      "count": 3133
+    }
+  ],
+  "excluded_chunks": 1014,
+  "examples": {
+    "train": 1469,
+    "validation": 144
+  },
+  "public_sources": 442,
+  "source_overlap": 0,
+  "training_type": "continued language modeling on public source text; not validated question-answer tuning",
+  "private_chat_logs_exported": false
+}

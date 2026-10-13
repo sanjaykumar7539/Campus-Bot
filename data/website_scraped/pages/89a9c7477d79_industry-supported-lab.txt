@@ -1,0 +1,83 @@
+URL: https://egspec.org/academics/departments/undergraduate/computer-science-and-engineering/industry-supported-lab
+EXTRACTOR: requests+bs4
+
+Academics
+Departments
+Computer Science and Engineering
+Industry Supported Lab
+Altair® AI Studio
+/ Open Details
+( VMware ) VMware Supported Cloud Computing laboratory
+Other Links
+Alumni Survey
+Graduate Exit Survey
+Employer Survey
+Student Certificate Submission
+Department Quick Links
+About
+Department Highlights
+HoD's Desk
+Faculty Details
+Curriculum
+Research & Publications
+Industry Collaboration
+Student Achievements
+Placements
+Program Outcomes
+Programme Educational Objectives
+Programme Specific Outcomes
+Department Contact
+Dr. T. Ganesan
+Phone:
+9942666526
+Mail:
+[email protected]
+X
+Data Science Design Software
+Make powerful insights accessible to your entire organization.
+No matter how your team is structured or how mature your data science efforts are, Altair AI Studio (formerly RapidMiner Studio)
+is the data science tool anyone can use to design and prototype highly explainable AI and machine learning models
+that help build trust throughout your organization.
+Mentor:
+Dr. G. Pushpa
+Mrs. E. Saranya
+Mentee:
+Computer Science and Engineering Students
+Student Coordinators:
+M. Divyadharshini
+M. Kiruthvi
+S.R. Reshma
+J. Deeksha
+Watch Video
+VMware Supported Cloud Computing laboratory
+Cloud Computing & Virtualization
+Empowering students with industry-standard cloud computing and virtualization technologies.
+This laboratory provides hands-on experience with VMware's suite of products, enabling students to design,
+deploy, and manage cloud infrastructure.
+Be part of our journey to empower aspiring engineers, scientists, and managers towards success!
+04356 251114
+E.G.S Pillay Engineering College
+Old Nagore Road, Thethi Village
+Nagapattinam - 611002
+Follow Us:
+On Campus
+28.4°C
+Cloudy
+Facebook
+LinkedIn
+Twitter
+Instagram
+YouTube
+Copyright © 2006 - 2026 All
+Rights Reserved by
+EGS Pillay Group of Institutions
+Developed By
+Raghavan Jeeva
+|
+Status Page
+Sitemap
+Privacy Policy
+Terms & Conditions
+Contact Web Admin
+Website last updated on:
+2026-10-12 04:03:06 PM

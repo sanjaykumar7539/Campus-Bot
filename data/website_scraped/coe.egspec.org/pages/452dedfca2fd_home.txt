@@ -1,0 +1,14 @@
+URL: https://coe.egspec.org/
+EXTRACTOR: requests+bs4
+
+Exam Schedules
+Results UG / PG / Ph.D
+Ph.D Course Work APR/MAY 2026 - Result
+Exam Time Table
+No active time tables.
+Templates
+Loading Templates...
+Links
+External Faculty Registration
+Practical Panel Internal
+Feedback/Comment about Us

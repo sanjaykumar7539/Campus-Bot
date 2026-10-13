@@ -1,0 +1,113 @@
+URL: https://egspec.org/activities/professional-bodies/csi
+EXTRACTOR: requests+bs4
+
+Activities
+Professional Bodies
+Computer Society of India
+Welcome to CSI Student Branch
+Name of the Chapter : CSI Student Branch
+Membership Number : I 01720
+Inauguration : May’2013
+Counselor : Dr. S. Subashree ASP/CSE
+CSI Membership
+/ PDF File
+ANNUAL PLAN
+Special Mention
+Received certificate of Institutional Accerdidation to engage in Knowledge Sharing, Technology Promotion and Skill Upgration in the academic year of 2014-2015
+Event Details [June’2014 – December’2015]
+S.No
+Date
+Name of the Event
+Department
+Organizing Coordinator(s)
+1
+16/06/2014 – 21/06/2014
+One week value added course on Cloud Infrastructure and Services
+IT&CSE
+Mr.S.Manikandan, AP/IT, Mr.S.Palanimurugan, AP/IT, Mr.J.Noorul Ameen, AP/CSE, Ms.Sindoori, AP/CSE
+2
+18/07/2014 – 19/07/2014
+Two days Hands-On Cloud Infrastructure and Services
+IT
+Mr.S.Manikandan, AP/IT
+3
+19/07/2014
+One day Seminar on Prime Skills for Engineering Professionals
+CSE
+Mr.K.Balasubramaniyan, AP/CSE, Mr.G.Arul Selvan, AP/CSE
+4
+09/08/2014
+One day Guest Lecture on An Insight on Academic Projects
+CSE & IT
+Mr.Sudhir Shenai, AP/CSE, Mr.Prabhakaran, AP/CSE, Mr.A.Javed Sultan, AP/IT
+5
+One day workshop on Water and Waste Management
+R&D
+Dr.M.K.Mizhra, Director/R&D
+6
+23/08/2014
+National Level Technical Symposium
+Mr.S.Palanimurugan, AP/IT, Ms.E.Vijayavani, AP/IT
+7
+06/09/2014 - 07/09/2014
+MCA
+Mr.C.Mallika, AP/MCA, Mr.Selvaganapathy, AP/MCA
+8
+13/09/2014
+One day Hands-On workshop on Database Administration and Management
+Ms.E.Vijayavani, AP/IT, Ms.S.Lavanya, AP/IT
+9
+20/09/2014
+Mr.M.Marcko, AP/CSE, Mr.S.Aravindhan, AP/CSE
+10
+27/09/2014
+One day Hands-On workshop on Android Mobile Apps
+Mr.S.Palanimurugan, AP/IT, Mr.K.Manikanda Kumaran, AP/IT
+11
+28/02/2015
+Appdhoom – 2 Event Android Mobile Apps Development
+Prof.S.Manikandan, AP/IT
+12
+08/06/2015 - 13/06/2015
+Value Added Course and EMC Online Test
+Prof.S.Aravinthan, AP/CSE, Prof.S.Praveenkumar, AP/CSE
+13
+Value Added Course on Java Fundamentals and Java Programming
+Prof.S.Manikandan, AP/IT, Prof.V.M.Suresh, AP/IT, Prof.S.Mahalakshmi, AP/CSE, Prof.Vennila, AP/CSE
+Action Plan
+Planned to register maximum of 150 students in every year.
+Planned to get permanent membership for faculty member’s atleast 5 per year.
+To publish Staff/Students research papers or problem in every month CSI magazine issue.
+Planned to organize CSI Sponsored 2 events in every semester.
+To arrange Guest Lecture, Implant Training, Industrial Visit through CSI Institute – Interaction Cell.
+Instructed to all Staff/Students to attend CSI Sponsored Symposium, Seminars, Workshops, Conference etc in every semester (atleast any 2 events).
+Recommended to all Research scholars to publish their research papers in CSI Chapter and receives grants from CSI.
+Planned to get minimum of 2 grants from CSI for different events.
+Planned to organize CSI annual meet in our institution.
+Be part of our journey to empower aspiring engineers, scientists, and managers towards success!
+04356 251114
+E.G.S Pillay Engineering College
+Old Nagore Road, Thethi Village
+Nagapattinam - 611002
+Follow Us:
+On Campus
+28.4°C
+Cloudy
+Facebook
+LinkedIn
+Twitter
+Instagram
+YouTube
+Copyright © 2006 - 2026 All
+Rights Reserved by
+EGS Pillay Group of Institutions
+Developed By
+Raghavan Jeeva
+|
+Status Page
+Sitemap
+Privacy Policy
+Terms & Conditions
+Contact Web Admin
+Website last updated on:
+2026-10-12 04:03:06 PM

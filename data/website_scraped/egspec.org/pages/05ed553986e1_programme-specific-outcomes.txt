@@ -1,0 +1,61 @@
+URL: https://egspec.org/academics/departments/postgraduate/master-of-computer-applications/programme-specific-outcomes
+EXTRACTOR: requests+bs4
+
+Academics
+Departments
+Master of Computer Applications
+Program Specific Outcomes
+Program Specific Outcomes (PSOs)
+##
+PSO1
+To design, develop and test software solutions for real world applications using modern computational tools and techniques.
+PSO2
+To manage and analyze huge volumes of data in real-world applications and analyze with the aid of modern computing platforms, techniques and tools.
+Department Quick Links
+About
+Department Highlights
+Hod's Desk
+Faculty Details
+Curriculum
+Research & Publications
+Innovative Practices
+Industry Collaboration
+Laboratories and Facilities
+Placements
+Student Achievements
+Program Outcomes
+Programme Educational Objectives
+Programme Specific Outcomes
+Department Contact
+Dr. J. Vanitha
+Phone:
++919443728519
+Mail:
+[email protected]
+Be part of our journey to empower aspiring engineers, scientists, and managers towards success!
+04356 251114
+E.G.S Pillay Engineering College
+Old Nagore Road, Thethi Village
+Nagapattinam - 611002
+Follow Us:
+On Campus
+28.4°C
+Cloudy
+Facebook
+LinkedIn
+Twitter
+Instagram
+YouTube
+Copyright © 2006 - 2026 All
+Rights Reserved by
+EGS Pillay Group of Institutions
+Developed By
+Raghavan Jeeva
+|
+Status Page
+Sitemap
+Privacy Policy
+Terms & Conditions
+Contact Web Admin
+Website last updated on:
+2026-10-12 04:03:06 PM

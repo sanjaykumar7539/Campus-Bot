@@ -1,0 +1,65 @@
+URL: https://egspec.org/academics/departments/undergraduate/computer-science-and-engineering
+EXTRACTOR: requests+bs4
+
+Academics
+Departments
+Computer Science and Engineering
+About
+The Department of Computer Science and Engineering was established at Edayathangudy G.S. Pillay Engineering College in the academic year 1995-1996. The department's goal is to meet the demand for Computer Engineers in software companies, banking sectors, and private sectors. The department has been offering the UG program since 1995 and the PG program since 2012. It has a Recognized Research Centre for PhD/M.S. (By Research) and obtained Permanent Affiliation from Anna University in 2014-15. The department was accredited by NBA in 2016 and achieved NBA-Tier 1 accreditation in 2021.
+The department boasts highly qualified and experienced faculty members, and has well-equipped infrastructure including seven laboratories for practical work, an additional lab for hardware and software, and a research lab for research activities. We provide Programming Skill Development Training using tools like E-Box, Skillrack, Terv, Datanerdz, AWS, and Android Development Kit. The department has also received funding from TNSCST under Young Scientist Research Fellowship and Computer Skills for School Students.
+The department has established the Computer Engineers Association (CEA) to promote student talent and development. We organize international and national conferences through the association. Notably, we conducted the ACES-ACM-IIT Delhi India’s Biggest Networking Championship Zonal Level Workshop cum Competition, with winners participating in the final competition in Delhi. The department offers various industry-oriented training courses, value-added courses, and competitive exam training (GATE, GRE, TOEFL, etc.). We also run social programs like Computer Literacy Awareness Programs for government employees, the public, and school students. Our students have excelled in co-curricular and extra-curricular activities, including participation in the Guinness Record for the Biggest Software Development Project at Kaashiv Infotech, Chennai.
+Vision
+To produce globally competent computer professionals capable of adapting to the ever-changing technological trends of industry and society.
+Mission
+1. To build core competencies desirable for computer professionals, including design, development, testing, and maintenance of software systems for real-world projects.
+2. To train students in emerging technologies to make them preferable to employers.
+3. To provide state-of-the-art learning facilities for effective implementation of learner-centric teaching and learning processes, fostering professional skills, self-learning, and lifelong learning capabilities.
+Other Links
+Department Tech Magazine
+Department Quick Links
+Department Highlights
+HoD's Desk
+Faculty Details
+Curriculum
+Research & Publications
+Industry Collaboration
+Student Achievements
+Industry Supported Lab
+Placements
+Program Outcomes
+Programme Educational Objectives
+Programme Specific Outcomes
+Event Reports
+Department Contact
+Dr. K. Balasubramanian
+Phone:
+9942666526
+Mail:
+[email protected]
+Be part of our journey to empower aspiring engineers, scientists, and managers towards success!
+04356 251114
+E.G.S Pillay Engineering College
+Old Nagore Road, Thethi Village
+Nagapattinam - 611002
+Follow Us:
+On Campus
+28.4°C
+Cloudy
+Facebook
+LinkedIn
+Twitter
+Instagram
+YouTube
+Copyright © 2006 - 2026 All
+Rights Reserved by
+EGS Pillay Group of Institutions
+Developed By
+Raghavan Jeeva
+|
+Status Page
+Sitemap
+Privacy Policy
+Terms & Conditions
+Contact Web Admin
+Website last updated on:
+2026-10-12 04:03:06 PM

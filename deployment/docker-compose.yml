@@ -1,0 +1,40 @@
+services:
+  chatbot-api:
+    build:
+      context: ..
+      dockerfile: deployment/Dockerfile
+    ports:
+      - "8000:8000"
+    volumes:
+      - ../vector_db:/app/vector_db
+      - ../models:/app/models
+      - ../data:/app/data
+      - ../logs:/app/logs
+    env_file:
+      - ../.env
+    environment:
+      VECTOR_DB_PATH: /app/vector_db
+      SLM_MODEL_PATH: /app/models/phi3-mini
+      AUTO_OPEN_BROWSER: "false"
+      DATABASE_URL: ${DATABASE_URL:-sqlite:////app/college_chatbot.db}
+      VECTOR_BACKEND: ${VECTOR_BACKEND:-chroma}
+      PGVECTOR_URL: ${PGVECTOR_URL:-}
+    restart: unless-stopped
+  postgres:
+    build:
+      context: ..
+      dockerfile: deployment/postgres.Dockerfile
+    image: campusmind-postgres:pg16-postgis-pgvector
+    profiles: ["postgres"]
+    environment:
+      POSTGRES_DB: campusmind
+      POSTGRES_USER: campusmind
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-change-me}
+    volumes:
+      - campusmind_postgres:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+    restart: unless-stopped
+
+volumes:
+  campusmind_postgres:

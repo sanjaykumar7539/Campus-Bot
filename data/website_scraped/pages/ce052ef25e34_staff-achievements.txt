@@ -1,0 +1,8 @@
+URL: https://egspec.org/staff-achievements
+EXTRACTOR: requests+bs4
+
+We're Building Something Great!
+Thank you for your patience. The
+Staff Achievements
+page is under construction. Please check back soon for updates.
+Return to Homepage

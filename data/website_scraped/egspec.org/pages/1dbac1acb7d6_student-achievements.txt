@@ -1,0 +1,181 @@
+URL: https://egspec.org/academics/departments/undergraduate/civil-engineering/student-achievements
+EXTRACTOR: requests+bs4
+
+Academics
+Departments
+Civil Engineering
+Student Achievements
+#
+Reg No
+Name
+Guide Name
+Year of Publication
+Title
+Journal Name
+1
+E20CER001
+Arthi.K
+Dr.Ashwini.B
+24.04.2024
+Effect of Mechanical Properties of Concrete Using Nano Titanium Dioxide and Partial Replacement of Fly Ash in Cementitious Material
+International Journal of Research Publication and Reviews
+2
+E20CEL371
+Ramprasath.R
+Effect of Mechanical Properties of Concrete using Nano Silica and Partial Replacement of Fly Ash in Cementitious Material
+3
+E20CEL365
+S.Gokulanathan
+Dr.Agilandeshwari.. N.H
+2024
+Sustainable Concrete Made with seawater, Metakaolin and flyash
+Journal of Emerging Technologies and Innovative Research
+4
+E20CE028
+V.Harshidha
+5
+E20CEL303
+M.Arun kumar
+6
+E20CEL318
+A.BraveenKumar
+18.11.2022
+Study On Frp Laminates And Failures In Concrete Columns
+E20CEL374
+Syed Bava Fakrudeen
+E17CER051
+Mahmood Anas
+Dr.Anand Kumar Varma
+01.10.2021
+Determination of air quality index and its impacts on human health in Chennai City
+Magna Scientia Advanced Research and Reviews
+E17CER036
+Harun Raseed
+Harun Raseed M
+E17CER049
+Madhan Kumar R
+E17CER066
+Nitish Balasubramanian O
+Arthi K
+Mr. Pirakasam
+26.02.2022
+Use of Waste Water Tyres and Plastics for Road Constructions
+E20CER005
+Aarthi R
+7
+E20CER012
+Harshidha V
+8
+E20CER013
+Mahalakshmy T M
+E18CER015
+Hari Haran E
+04.09.2019
+Winner
+Chess Inter-University Match
+E.G.S. Pillay Engineering College
+E19CER020
+A. Irfan Ali
+14.09.2019
+Triple Jump Inter-University Match
+Arasu Engineering College
+Long Jump Inter-University Match
+820815103057
+Nirmal N
+18.09.2019
+Badminton Inter-University Match
+E18CER034
+Priyadharshine S
+25.09.2019
+III Prize
+National Level Technical Symposium
+Brick-It Uce, Thirukuvalai
+E17CER101
+Tamilmani
+05.10.2019
+Basketball For Men Inter-University Match
+Kings Engineering College
+E19CER057
+Sriram V
+E17CER023
+Dhakshna Moorthy A
+03.12.2019
+Ball Badminton Inter-University Match
+9
+E19CER034
+Mariya Martin Jacob A
+10
+E19CER047
+Pradeesh R
+11
+E19CER064
+Sasi Kinsilin E
+12
+E19CER073
+Vengadeshwaran S
+13
+E19CEL319
+Mohamed Faheem H
+24.12.2019
+Third
+Table Tennis Inter-University Match
+Prime College Of Architecture And Planning
+14
+E17CEL309
+Muhamed Haniff M
+05.03.2020
+II Prize
+Symposium
+Cad-It Nit, Pudhucherry
+15
+E17CER002
+Abarna P
+13.03.2020
+I Prize
+Symposium Code Cracking
+16
+E17CER050
+Mahalakshmi R
+Department Quick Links
+About
+Faculty Details
+Curriculum
+Research & Publications
+Industry Collaboration
+Placements
+Program Outcomes
+Programme Educational Objectives
+Programme Specific Outcomes
+Department Contact
+Civil Engineering Department
+Phone:
+7708805998
+Mail:
+[email protected]
+Be part of our journey to empower aspiring engineers, scientists, and managers towards success!
+04356 251114
+E.G.S Pillay Engineering College
+Old Nagore Road, Thethi Village
+Nagapattinam - 611002
+Follow Us:
+On Campus
+28.4°C
+Cloudy
+Facebook
+LinkedIn
+Twitter
+Instagram
+YouTube
+Copyright © 2006 - 2026 All
+Rights Reserved by
+EGS Pillay Group of Institutions
+Developed By
+Raghavan Jeeva
+|
+Status Page
+Sitemap
+Privacy Policy
+Terms & Conditions
+Contact Web Admin
+Website last updated on:
+2026-10-12 04:03:06 PM

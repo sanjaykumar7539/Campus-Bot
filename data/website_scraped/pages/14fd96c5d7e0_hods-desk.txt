@@ -1,0 +1,8 @@
+URL: https://egspec.org/academics/departments/%7Bdepartment%7D/hods-desk
+EXTRACTOR: requests+bs4
+
+We're Building Something Great!
+Thank you for your patience. The
+HOD's Desk
+page is under construction. Please check back soon for updates.
+Return to Homepage

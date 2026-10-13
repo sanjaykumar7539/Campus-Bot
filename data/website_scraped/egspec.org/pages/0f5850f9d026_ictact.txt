@@ -1,0 +1,130 @@
+URL: https://egspec.org/activities/professional-bodies/ictact
+EXTRACTOR: requests+bs4
+
+Activities
+Professional Bodies
+ICT Academy
+Welcome to ICT Academy
+Name of the Academy : ICT Academy (Industry – Institute)
+Membership Number : 020131
+Inauguration : December’2013
+Coordinator : Prof.S.Manikandan HoD/IT
+Special Mention
+Privileged Associate Membership since 2015
+ICT Academy Best Academic Partner Award - 2015,2016
+ICT Academy Best Practices Award : Student Engagement - 2018
+Certifications
+S.No
+List of Courses
+Faculty Certification
+Student Certification
+01
+EMC Academic Associate on Cloud Infrastructure and Services
+30
+300
+02
+VMWare IT Academy for Data Centre and Virtualization
+10
+100
+03
+PHP and MySQL
+04
+Oracle Java Programming and Java Fundamentals
+20
+400
+05
+Campus to Corporate
+06
+IBM Blue MIX
+07
+ICTACT Context
+--
+50
+08
+Oracle Day
+09
+Sales Force - Trail Head - Learnathon - 2018
+HR Conclave
+750
+Proposal
+International Conference on Research and Development in Information and Communication Technology (ICRDICT-2015)
+International Conference on Innovative Research in Electrical Sciences (ICIRES-2015)
+International Conference on Innovative Research in Management Studies (ICIRMS-2015)
+International Conference on Research and Development in Information and Communication Technology (ICRDICT-2016)
+Banking Financial Services and Insurance – Short term skill development programme on passed out graduate students
+Digital Literacy programme
+English Literacy Programme
+Entrepreneurship Programme
+Project Funding
+Name of the Project
+Funding Agency
+Amount (in Lakhs)
+Year of Completion
+Beneficiary
+1
+Banking Financial Services and Insurance (Batch – 1)
+Tamil Nadu Skill Development Corporation & ICTACT
+0.50
+2015
+2013,2014 passed out unemployed Youth
+2
+0.58
+(ongoing) 2014,2015 passed out unemployed Youth
+3
+Digital Literacy Programme
+Govt. of India & ICTACT
+2016
+Unliterary Peoples
+4
+English Literacy Programme for School Teachers
+TADCHO
+2017
+SC/ST School Teachers
+Action Plan
+Every year 100 students to attend ICTACT bridge course.
+Every year minimum of 2 faculties from each department to attend Faculty development programme and get International Certification from reputed industries like EMC2, National Instruments etc..
+Planned to attend at least 2 Student development programmes per year.
+To publish Staff/Students research papers or problem in ICTACT International Journal.
+Planned to organize ICTACT Sponsored 2 events in every semester.
+To arrange Guest Lecture, Implant Training, Industrial Visit through ICTACT Institute – Interaction Cell.
+Instructed to all Staff/Students to attend ICTACT Sponsored Symposium, Seminars, Workshops, Conference etc in every semester (at least any 2 events).
+Recommended to all Research scholars to publish their research papers in ICATCT and receive grants from ICTACT.
+Recommended to all faculties to train and encourage the students to attend Quiz, Project Expo, Poster Presentation etc.
+List of Valued added course and Skill Development courses
+Autodesk Certification on CAD/CAM and Civil
+5
+6
+National Instruments Certification on Digital Communications
+Faculty Development Programme
+Faculty Development Program - IIMBx
+Faculty Development Centre - NMTT
+Faculty Development Programme - Research Foundation of India
+Faculty Development Programme - IIM Indore
+National Faculty Development Programme - NMC
+Be part of our journey to empower aspiring engineers, scientists, and managers towards success!
+04356 251114
+E.G.S Pillay Engineering College
+Old Nagore Road, Thethi Village
+Nagapattinam - 611002
+Follow Us:
+On Campus
+28.4°C
+Cloudy
+Facebook
+LinkedIn
+Twitter
+Instagram
+YouTube
+Copyright © 2006 - 2026 All
+Rights Reserved by
+EGS Pillay Group of Institutions
+Developed By
+Raghavan Jeeva
+|
+Status Page
+Sitemap
+Privacy Policy
+Terms & Conditions
+Contact Web Admin
+Website last updated on:
+2026-10-12 04:03:06 PM

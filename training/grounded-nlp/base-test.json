@@ -1,0 +1,80 @@
+{
+  "metrics": null,
+  "adapter_tensor_count": 0,
+  "weights_finite": true,
+  "evaluation_split": "test",
+  "evidence_grounded_task": true,
+  "validation_fact_overlap": [
+    "autonomous",
+    "college_name",
+    "established",
+    "program_counts",
+    "scope_nursing",
+    "scope_pharmacy"
+  ],
+  "answers": [
+    {
+      "question": "Engineering college started in which year?",
+      "expected": "The college was established in 1995.",
+      "generated": "The college was established in 1995.",
+      "source_url": "https://egspec.org/about/history",
+      "exact_match": true,
+      "factual_correct": true,
+      "review_reason": "Correct year from evidence"
+    },
+    {
+      "question": "What do the letters EGSPEC stand for?",
+      "expected": "EGSPEC is E. G. S. Pillay Engineering College.",
+      "generated": "EGSPEC stands for E. G. S. Pillay Engineering College.",
+      "source_url": "https://egspec.org/about/history",
+      "exact_match": false,
+      "factual_correct": true,
+      "review_reason": "Correct expanded name with equivalent wording"
+    },
+    {
+      "question": "Which year marks autonomous status for engineering?",
+      "expected": "The official history page says the college has had autonomous status from 2017, approved by the UGC and Anna University, Chennai.",
+      "generated": "The official history page says the college has had autonomous status from 2017, approved by the UGC and Anna University, Chennai.",
+      "source_url": "https://egspec.org/about/history",
+      "exact_match": true,
+      "factual_correct": true,
+      "review_reason": "Correct autonomy year and approvals"
+    },
+    {
+      "question": "Give the recorded undergraduate and postgraduate totals for engineering.",
+      "expected": "The official history page reports 11 undergraduate programs and 9 postgraduate programs.",
+      "generated": "The official history page reports 11 undergraduate programs and 9 postgraduate programs for engineering.",
+      "source_url": "https://egspec.org/about/history",
+      "exact_match": false,
+      "factual_correct": true,
+      "review_reason": "Correct undergraduate and postgraduate totals"
+    },
+    {
+      "question": "When did the pharmacy institution first open?",
+      "expected": "Verified information for the requested college is unavailable.",
+      "generated": "The pharmacy institution first opened in 1995.",
+      "source_url": "",
+      "exact_match": false,
+      "factual_correct": false,
+      "review_reason": "Wrong college: engineering year used for pharmacy"
+    },
+    {
+      "question": "Tell me when nursing was founded.",
+      "expected": "Verified information for the requested college is unavailable.",
+      "generated": "The college was established in 1995.",
+      "source_url": "",
+      "exact_match": false,
+      "factual_correct": false,
+      "review_reason": "Wrong college: engineering year used for nursing"
+    }
+  ],
+  "exact_match_accuracy": 0.3333333333333333,
+  "answer_accuracy": 0.6666666666666666,
+  "accuracy_definition": "correct answers divided by evaluated answers, from 0 to 1; factual review required",
+  "manual_factual_review_required": false,
+  "automatic_activation": false,
+  "college_scope_accuracy": 0.0,
+  "factual_question_accuracy": 1.0,
+  "review_method": "Assistant review against supplied evidence and college ownership",
+  "deployment_approved": false
+}

@@ -1,0 +1,122 @@
+URL: https://egspec.org/activities/professional-bodies/iei
+EXTRACTOR: requests+bs4
+
+Activities
+Professional Bodies
+Institution of Engineers
+Welcome to IEI Corner
+Name of the Chapter : Institution of Engineers (India)
+Membership ID : IM 000343-5
+Students Chapter ID : 611002 / EGSP / MC
+No of Students Membership: 153
+List of activities conducted
+S.NO
+NAME OF THE ACTIVITY
+CATEGORY
+DATE
+COORDINATORS
+VENUE
+RESOURCE PERSONS
+01
+ENERGY AUDITING
+One day workshop
+18.02.2022
+Mr.G.Ganesan, AP/EEE
+Mr.G.Sundaravadivel,AP/MECH
+EGSPEC
+A.ThangamuthuDGM-Mechanical, NLC Ltd., Neyveli
+02
+ENERGY CONSERVATION AND ELECTRICAL SAFETY
+One day awareness program
+19.03.2014
+G.B.H.S.S, Nannilam
+03
+PROSPECTS OF POWER PLANTS IN ENGINEERING LIFE
+One day seminar
+21.01.2015
+R.Periyasamy, Council Memeber- IEI
+04
+EMBEDDED SYSTEMS
+23.01.15
+Mr.C.Mathuvanesan
+Mr.Nuthalsrinivasan AP/ECE
+Mrs. R. Lakshmi rekha,HOD/ECE, EGSPEC
+05
+HANDS ON EXPERIENCE IN SIMULATION OF CIRCUITS(HOINS)
+31.01.15
+Mr.Ramachandran
+Ms.Deepa AP/ECE
+Prof.A.Prabakaran, AP/ECE, AVCCE, Mayiladuthurai
+Mr.D.Devarajan,AP/ECE
+06
+NATIONAL CONGRESS ON ENGINEERING ,TECHNOLOGY,MANAGEMENT,SCINCE AND HUMANITIES
+National conference
+27.03.2015
+Mr.S.Palanimurugan AP/CSE
+Shri.R.Ganapathy,Advisor, MARG port, Karaikal
+07
+Energy conservation and electrical safety
+Awareness program
+22.03.2019
+Government school
+Government school students
+08
+Prospects of power plants in engineering life
+Seminar
+07.03.2019
+IEI mechanical chapter students
+09
+One day workshop on “Energy auditing”
+The Instituti on Of Enginee rs (India), Student Chapter - MECH
+10
+National level webinar on “Additive workflow in industries and benefits from its adaption”
+National level webinar
+17.09.2021
+Online
+11
+One day Awareness program for school students “Sigaram”
+18.06.2022
+School students
+12
+National level One day workshop on ‘Virtual lab’
+National level workshop
+29.01.2023
+Dr.G.Sundaravadivel,AP/MECH
+13
+One day workshop on “fire and safety”
+14.03.2024
+14
+International webinar on “3D printing Applications”
+International webinar
+19.07.2023
+Highlights
+Fetched the funded research project of Rs. 20,000/- by Prof. G.Ganesan, AP/EEE under R&D grant-in-aid scheme for the title "Renewable Energy based air conditioning system for public transports in green environment" during April 2015.[1][5]
+Around 460 student members from all the departments joined in ECSC (Engineering College Students Chapter) during September 2014.
+Every year 10 members from EGSP is selected and a scholarship amount of Rs.7,000 for each student members.
+Be part of our journey to empower aspiring engineers, scientists, and managers towards success!
+04356 251114
+E.G.S Pillay Engineering College
+Old Nagore Road, Thethi Village
+Nagapattinam - 611002
+Follow Us:
+On Campus
+28.4°C
+Cloudy
+Facebook
+LinkedIn
+Twitter
+Instagram
+YouTube
+Copyright © 2006 - 2026 All
+Rights Reserved by
+EGS Pillay Group of Institutions
+Developed By
+Raghavan Jeeva
+|
+Status Page
+Sitemap
+Privacy Policy
+Terms & Conditions
+Contact Web Admin
+Website last updated on:
+2026-10-12 04:03:06 PM

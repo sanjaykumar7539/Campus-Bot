@@ -1,0 +1,79 @@
+URL: https://egspec.org/events?event=aksharam-2025&filter=latest&page=4
+EXTRACTOR: requests+bs4
+
+Home
+Events
+Upcoming Events
+Upcoming / Latest
+Past Events
+Important
+50
+(Newest first)
+21
+Aug
+02:30 AM
+2026
+Virtual
+ALUMNI WEBINAR ON VARIOUS OPPORTUNITIES IN CIVIL ENGINEERING SECTOR
+View Details
+07:00 AM
+WEBINAR ON GENERATIVE AI: SKILLS FOR THE FUTURE
+19
+02:00 AM
+Auditorium
+SEMINAR ON SUSTAINABLES DEVELOPMENT GOALS (SDG) CONNECT 2030 STUDENTS AWARENESS PROGRAMME
+17
+08:00 AM
+Experimental Gas Dynamics - From wind tunnels to supersonic jet experiments
+13
+ALUMNI PROGRAM ON CONNECTING ALUMNI EXPERIENCE WITH STUDENT ASPIRATION TO CREATE CAREER OPPORTUNITIES - (SDG 8)
+12
+10:00 AM
+SAAMANNTHANPETTAI
+COMMUNITY OUTREACH PROGRAM ON " STAY SAFE FROM BANKING SCAMS
+09:30 AM
+GGB3312
+Career Pathways in SAP : Industry Insights, Skills & Opportunities
+27
+Jul
+09:45 AM
+PG - block
+Value Added Course - python full stack development
+Board Room
+INTERNATIONAL SEMINAR ON FROM RESEARCH TO GLOBAL IMPACT INNOVATION, PATENTS, INTERNATIONAL RESEARCH COLLABORATION & FUNDING OPPORTUNITIES
+06:00 AM
+06 DAYS ONLINE SHORT-TERM TRAINING PROGRAM ON "LAND USE LAND COVER (LULC) MAPPING AND CLASSIFICATION USING GIS AND REMOTE SENSING TECHNIQUES"
+Jun
+03:00 AM
+AUDITORIUM
+International Day of Yoga
+05
+01:30 AM
+SEMINAR ON FROM CLASS ROOM TO CORPORATE : COMMUNICATION SKILLS FOR PLACEMENT
+Be part of our journey to empower aspiring engineers, scientists, and managers towards success!
+04356 251114
+E.G.S Pillay Engineering College
+Old Nagore Road, Thethi Village
+Nagapattinam - 611002
+Follow Us:
+On Campus
+28.4°C
+Cloudy
+Facebook
+LinkedIn
+Twitter
+Instagram
+YouTube
+Copyright © 2006 - 2026 All
+Rights Reserved by
+EGS Pillay Group of Institutions
+Developed By
+Raghavan Jeeva
+|
+Status Page
+Sitemap
+Privacy Policy
+Terms & Conditions
+Contact Web Admin
+Website last updated on:
+2026-10-12 04:03:06 PM

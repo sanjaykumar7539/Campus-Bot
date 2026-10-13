@@ -1,0 +1,8 @@
+URL: https://coe.egspec.org/regulations
+EXTRACTOR: requests+bs4
+
+Regulation Directory
+Undergraduate (UG)
+Postgraduate (PG)
+UG Regulations (B.E. / B.Tech)
+PG Regulations (M.E. / M.B.A. / M.C.A.)

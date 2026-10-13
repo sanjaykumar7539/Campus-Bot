@@ -1,0 +1,59 @@
+URL: https://egspec.org/academics/departments/undergraduate/artificial-intelligence-and-machine-learning
+EXTRACTOR: requests+bs4
+
+Academics
+Departments
+Undergraduate
+Artificial Intelligence & Machine Learning
+About
+The Department of Artificial Intelligence and Machine Learning (AI & ML) at E.G.S. Pillay Engineering College is established to pioneer next-generation cognitive computing, deep learning algorithms, and intelligent autonomous systems. As artificial intelligence transforms every sector of industry and society, our B.Tech. AI & ML programme equips engineers with deep theoretical foundations, algorithmic thinking, and hands-on proficiency in machine learning, deep neural networks, natural language processing, computer vision, reinforcement learning, robotics, and generative AI. Supported by cutting-edge GPU-accelerated computing infrastructure and a vibrant research culture, students build scalable, ethical, and transformative AI solutions that address pressing industry challenges and shape the future of intelligent technologies.
+Vision
+To be an internationally acclaimed center of excellence in Artificial Intelligence and Machine Learning education, state-of-the-art research, and ethical innovation, nurturing transformative engineers who lead the intelligent technology era.
+Mission
+To deliver a comprehensive, industry-aligned curriculum combining core computing principles with advanced AI and Machine Learning methodologies.
+To promote interdisciplinary research and innovation in deep learning, computer vision, generative AI, and autonomous intelligent systems.
+To establish strong industry partnerships and global collaborative networks providing experiential learning and cutting-edge project opportunities.
+To cultivate ethical leadership, societal consciousness, and lifelong learning capabilities for sustainable technological advancement.
+Department Quick Links
+Department Highlights
+Hod's Desk
+Faculty Details
+Curriculum
+Placements
+Faculty Development Programme (FDP)
+Program Outcomes
+Programme Educational Objectives
+Programme Specific Outcomes
+Department Contact
+Head of Department
+Phone:
+04365251112
+Mail:
+[email protected]
+Be part of our journey to empower aspiring engineers, scientists, and managers towards success!
+04356 251114
+E.G.S Pillay Engineering College
+Old Nagore Road, Thethi Village
+Nagapattinam - 611002
+Follow Us:
+On Campus
+28.4°C
+Cloudy
+Facebook
+LinkedIn
+Twitter
+Instagram
+YouTube
+Copyright © 2006 - 2026 All
+Rights Reserved by
+EGS Pillay Group of Institutions
+Developed By
+Raghavan Jeeva
+|
+Status Page
+Sitemap
+Privacy Policy
+Terms & Conditions
+Contact Web Admin
+Website last updated on:
+2026-10-12 04:03:06 PM

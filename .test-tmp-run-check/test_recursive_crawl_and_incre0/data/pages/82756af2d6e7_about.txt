@@ -1,0 +1,4 @@
+URL: https://example.com/about/
+EXTRACTOR: requests+bs4
+
+Detailed admissions and department information

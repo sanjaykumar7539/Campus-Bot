@@ -1,0 +1,310 @@
+URL: https://egspec.org/about/administrative-organization
+EXTRACTOR: requests+bs4
+
+About us
+Adminstrative Organization
+Governing Body
+S.No
+Name of the Member
+Designation
+1.
+Mrs. Jothimani G.S. Pillay
+Chairman
+2.
+Shri. S. Senthil Kumar, B.Sc.,
+Secretary
+3.
+Shri. S. Arulprakasam
+Member – Trust
+4.
+Shri. S. Govindasamy
+5.
+Shri. S. Paramesvaran
+6.
+Shri. S. Sankarganesh
+7.
+Dr. K. Raghukandan, M.E.,Ph.D.,
+Member – Academic
+8.
+Shri. Sekhar MAARG Port
+Karaikal Member - Industrialist
+9.
+Shri. S. Kumaravelu
+Member – Auditor
+10.
+Shri. G. Vijayasundaram
+Member – Legal
+11.
+Shri. V. Balamurugan
+12.
+Shri. P. Sundaravelu
+Member - Construction
+13.
+AICTE Regional Officer
+Member
+14.
+State Government Nominee
+15.
+University Nominee
+16.
+Dr. S. Ramabalan, M.E.,Ph.D.,
+Member - Secretary
+17.
+Dr. S. Krishnamohan, M.E.,Ph.D.
+Member - Faculty
+18.
+Prof.Dr. M. Chinnadurai, M.E.,Ph.D.,
+Decentralization in working and grievance redressal mechanism
+1
+Academic Affairs
+Dr. S. Palani Murugan, Director (Academics)
++91 97904 86733 |
+[email protected]
+2
+Admission, DOTE
+Prof. G. Hari Nariyanan (Mech)
++91 93630 87377 |
+3
+AU Affiliation & AICTE Approval
+Dr. M. Chinnadurai (CSE)
++91 99655 28581 |
+4
+ISO MR
+Dr. R. Karthi (MBA)
++91 98427 74807 |
+5
+NBA Accreditation & QIC Nodal Centre
+6
+Library Advisory Committee
+Dr. B. Shanmugam (Lib)
++91 96293 88527 |
+7
+Disciplinary Committee
+Prof. A. Rajesh (IT) / Prof. V.R. Sugumaran
++91 97860 40862 / +91 98431 10290 |
+8
+Students Grievance Redressal
+Dr. S. Ponsadai Lakshmi (S&H)
++91 94434 93398 |
+9
+R&D
+Dr. M. Irshad Ahamed
++91 75986 90236 |
+10
+Exam Cell
+11
+Stationary Store
+Mr. Amirtha Raj
++91 96595 26330 |
+12
+Events Manager
+Mr. V. Gokulakrishanan
++91 70106 24026 |
+13
+Public Relations
+Dr. P. Anandraj (CSE)
++91 97509 22112 |
+14
+Media Coordination
+Mr. R. Vignesh
++91 93449 56163 |
+15
+Website & Web Application
+Dr. S. Praveen Kumar (CSE & BS) & Mr. J.S Raghavan
++91 99425 02245 / +91 80988 99666 |
+16
+Social Media & Branding
+Mr. J.S Raghavan
++91 99425 02245 |
+17
+Maintenance Division
+Mr. R. Ayyappan (ECE)
++91 95976 63063 |
+18
+Domain Mail
+19
+Estate / Landscaping Maintenance
+Mr. V. Senthilkumar
++91 90941 20781 |
+20
+System Administrator
+M. Mayakannan
++91 89460 37215 |
+21
+ERP Co-ordinator
+A. Amsaram
++91 97919 97191 |
+22
+Transport Facilities
+Mr. A. Saravanan
++91 75986 90315 |
+23
+ISTE Staff & Student Chapters
+Dr. S. Senthilkumar (ECE)
++91 96005 73995 |
+24
+IEEE Student’s Chapter
+Prof. K. Gokulraj (EEE)
++91 97915 24186 |
+25
+CSI Student’s Chapter
+Dr. K. Balasubramanian (CSE)
++91 99426 66526 |
+26
+ICTACT Coordinator
+Dr. S. Chandrasekar (CEO)
++91 98947 07007 |
+27
+IETE Student’s Chapter
+Dr. D. Devarajan (ECE)
++91 98940 55342 |
+28
+IE Student’s Chapter
+Dr. G. Sundaravadivel (Mech)
++91 99943 83029 |
+29
+Renewable Energy Club
+Dr. P.J. Suresh Babu (EEE)
++91 95851 60544 |
+30
+Grievance & Redressal Cell
+31
+Programmers Paradise Club
+Prof J. Noorul Ameen (AI & ML)
++91 91501 32532 |
+32
+Designers Domain Club
+Prof G. Arulselvan (IT)
++91 88706 41821 |
+33
+Ladies Hostel Deputy Warden
+Ms. Sharmila Banu
++91 80722 50027 |
+34
+Gents Hostel Deputy Warden
+Mr. K. Kalaiselvan
++91 80156 81821 |
+35
+EDC
+Prof. S. Selvaganapathy (MCA)
++91 97101 96914 |
+36
+Training & Placement Cell
+Dr. S. Manikandan (CSE)
++91 90479 02685 |
+37
+Alumni Association
+Dr. V. Sivaramakrishan (MECH)
++91 75986 90210 |
+38
+Sports/Athletics
+Mr. D. Velavan (PED)
++91 99429 97667 |
+39
+NSS Programme
+Prof. V. Sivaramakrishnan (Mech)
+40
+Youth Red Cross Society
+Prof. Naveen Antony (EEE)
++91 75986 90231 |
+41
+Citizen Consumer Club
+Dr. V. Sivaramakrishnan (Mech)
+42
+Red Ribbon Club
+43
+Women Empowerment Cell
+Dr. A.R. Deepa (S&H)
+123-456-7928 |
+Mechanism and Composition of Grievance redressal System
+The institution has a system to register grievances from students, staff and parents. Suggestion boxes are kept in all the building’s entrance.
+Students and Staff members can register their grievances in GR cell. Grievances are communicated to the grievance redressal cell by the students, staff and parents through oral communications and in written forms (if necessary).
+For all grievances, the corrective action will be taken and communicated to the concerned as soon as possible. Gender issue related problems associated with girl students and female staff members are addressed by Internal Compliance Committee (Anti-Sexual Harassment cell).
+Internal Compliance Committee
+Convener:
+Coordinator:
+Member:
+Girl Student Members:
+Frequency of Meeting:
+Prof. J. Vanitha ASP/(MCA)
+One faculty member from all Dept.
+One lady advocate
+Two Girl Student members
+Semester Once
+Anti-Ragging & Discipline Committee
+Prof. S. Krishnamohan Professor/Mech
+One Faculty from each Department
+Nagore Police Inspector, Tasildar, NGO Official, Parents, 2 Students, Non teaching staff
+Prohibition of Alcoholism Cell
+Dr. N. Ramanujam
+Parents, 2 Students, Faculty and Student Volunteers
+Library
+Service
+Availability
+Library services
+Yes
+Carpet area of library (in sqft)
+10520 sqft
+Reading space (in sqft)
+1800 sqft
+Number of seats in reading space
+150
+Number of users (issue book) per day
+250
+Number of users (reading space) per day
+200
+Timings
+During working day, weekend : 8.00 am to 6.00 pm
+Number of library staff
+06
+Number of library staff with degree in library
+05
+Bar code system availability (issue/return)
+Library services (internet/intranet)
+Library searching, indexing, news clipping
+Digital Library Services
+Internet
+Internet Services
+Yes, WiFi Campus
+Name of the Internet Provider
+Clapsy Networks - Fiber optic leased line 1:1
+Available bandwidth
+1Gbps
+Access Speed
+Very Good
+Availability of Internet in an Exclusive Lab
+Availability in most computing labs
+Availability in departments and other units
+Yes (Hostels, Labs, Workshops and etc.)
+Availability in Faculty rooms
+Faculty/students
+Yes, belongs to EGSPEC
+Security/privacy to email/internet users
+Yes, includes SOPHOS - NXG Firewall
+Be part of our journey to empower aspiring engineers, scientists, and managers towards success!
+04356 251114
+E.G.S Pillay Engineering College
+Old Nagore Road, Thethi Village
+Nagapattinam - 611002
+Follow Us:
+On Campus
+28.4°C
+Cloudy
+Facebook
+LinkedIn
+Twitter
+Instagram
+YouTube
+Copyright © 2006 - 2026 All
+Rights Reserved by
+EGS Pillay Group of Institutions
+Developed By
+Raghavan Jeeva
+|
+Status Page
+Sitemap
+Privacy Policy
+Terms & Conditions
+Contact Web Admin
+Website last updated on:
+2026-10-12 04:03:06 PM

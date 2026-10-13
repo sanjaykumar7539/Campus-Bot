@@ -1,0 +1,39 @@
+URL: https://egspec.org/admissions/faq
+EXTRACTOR: requests+bs4
+
+FAQ`s
+Frequently Asked Questions (FAQ)
+What are the admission requirements for EGS Pillay Engineering College?
+Admission requirements for EGS Pillay Engineering College vary by program. Please refer to the Admissions section on our website for detailed information or contact the Admissions Office for assistance.
+How do I apply for financial aid at EGS Pillay Engineering College?
+Financial aid application processes for EGS Pillay Engineering College vary. Please refer to the Financial Aid section on our website for detailed information or contact the Financial Aid Office for assistance.
+How do I contact EGS Pillay Engineering College?
+For inquiries or assistance, you can contact EGS Pillay Engineering College through the contact information provided on our website or visit the campus in person during office hours.
+Are online courses available at EGS Pillay Engineering College?
+EGS Pillay Engineering College offers a range of online courses. Please visit our website or contact the Admissions Office for more information on available online programs.
+04356 251114
+E.G.S Pillay Engineering College
+Old Nagore Road, Thethi Village
+Nagapattinam - 611002
+Follow Us:
+On Campus
+28.4°C
+Cloudy
+Facebook
+LinkedIn
+Twitter
+Instagram
+YouTube
+Copyright © 2006 - 2026 All
+Rights Reserved by
+EGS Pillay Group of Institutions
+Developed By
+Raghavan Jeeva
+|
+Status Page
+Sitemap
+Privacy Policy
+Terms & Conditions
+Contact Web Admin
+Website last updated on:
+2026-10-12 04:03:06 PM

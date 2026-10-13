@@ -1,0 +1,99 @@
+URL: https://egspec.org/activities/professional-bodies/iste
+EXTRACTOR: requests+bs4
+
+Activities
+Professional Bodies
+Indian Society of Technical Education
+Welcome to ISTE Corner
+Student Chapter No :
+TN-306
+Name of the Chapter : Indian Society for Technical Education (ISTE)
+Convener : Dr. S. Senthilkumar, M.Tech., Ph.D., Assistant Professor, ECE
+Staff Chapter Number : 1176
+Event Details
+S.No
+DATE
+NAME OF THE PROGRAM
+ORGANIZING DEPARTMENT
+1
+01.12.2025 to 06.12.2025
+Frontiers of Intelligent Biomedical Systems: Integrating IoT, AI and Embedded technologies for Next-Generation Healthcare
+BME
+2
+16.11.2005
+A recent trends on Ethical Hacking
+CSE
+3
+03.11.2025
+Industry 4.0: The Role of AI, IoT & Automation in in Achieving SDG 9
+ECE
+4
+03.10.2025
+The Role of Evolution
+IT
+5
+19.08.2025 to 21.08.2025
+Internet of Things
+MCA
+6
+10.03.2025
+Hands-on Training with Home Appliances
+7
+18.07.2024
+Hands on Training on Digital, Electronics Instruments
+8
+25.03.2024 to 27.03.2024
+Envision Recent Technology Trends with MATLAB& Cody Challenge
+ECE, EEE & BME
+9
+10.09.2023
+National level seminar on “Circular Economies in Waste valorization: Revolutionizing Sustainable materials and smart particles”
+Mech
+10
+24.08.2023
+Seminar on Guidelines for Journal Publication
+11
+17.06.2023
+Seminar on Guidelines for Patent Registration
+12
+01.03.2023 & 02.03.2023
+Deep Learning and Project Ideas using MATLAB
+13
+09.12.2021 to 11.12.2021
+Three days faculty development program on “MATLAB fundamentals for Engineering applications”
+14
+12.02.2020
+Seminar on “Need for digital India”
+15
+18.01.2019 & 20.01.2019
+Two Days Technical Workshop “Impact of outcome-based education for engineering students”
+16
+18.08.2018
+Job Opportunities in software sectors
+Be part of our journey to empower aspiring engineers, scientists, and managers towards success!
+04356 251114
+E.G.S Pillay Engineering College
+Old Nagore Road, Thethi Village
+Nagapattinam - 611002
+Follow Us:
+On Campus
+28.4°C
+Cloudy
+Facebook
+LinkedIn
+Twitter
+Instagram
+YouTube
+Copyright © 2006 - 2026 All
+Rights Reserved by
+EGS Pillay Group of Institutions
+Developed By
+Raghavan Jeeva
+|
+Status Page
+Sitemap
+Privacy Policy
+Terms & Conditions
+Contact Web Admin
+Website last updated on:
+2026-10-12 04:03:06 PM

@@ -1,0 +1,75 @@
+URL: https://egspec.org/academics/departments/undergraduate/electrical-and-electronics-engineering/program-outcomes
+EXTRACTOR: requests+bs4
+
+Academics
+Departments
+Electrical and Electronics Engineering
+Program Outcomes
+Program Outcomes (POs)
+##
+PO1: Engineering Knowledge
+Apply knowledge of mathematics, natural science, computing, engineering fundamentals and an engineering specialization as specified in WK1 to WK4 respectively to develop to the solution of complex engineering problems.
+PO2: Problem Analysis
+Identify, formulate, review research literature and analyze complex engineering problems reaching substantiated conclusions with consideration for sustainable development.
+PO3: Design/Development of Solutions
+Design creative solutions for complex engineering problems and design/develop systems/components/processes to meet identified needs with consideration for the public health and safety, whole-life cost, net zero carbon, culture, society and environment as required.
+PO4: Conduct Investigations of Complex Problems
+Conduct investigations of complex engineering problems using research-based knowledge including design of experiments, modelling, analysis & interpretation of data to provide valid conclusions.
+PO5: Engineering Tool Usage
+Create, select and apply appropriate techniques, resources and modern engineering & IT tools, including prediction and modelling recognizing their limitations to solve complex engineering problems.
+PO6: The Engineer and The World
+Analyze and evaluate societal and environmental aspects while solving complex engineering problems for its impact on sustainability with reference to economy, health, safety, legal framework, culture and environment.
+PO7: Ethics
+Apply ethical principles and commit to professional ethics, human values, diversity and inclusion; adhere to national & international laws.
+PO8: Individual and Collaborative Team work
+Function effectively as an individual, and as a member or leader in diverse/multi-disciplinary teams.
+PO9: Communication
+Communicate effectively and inclusively within the engineering community and society at large, such as being able to comprehend and write effective reports and design documentation, make effective presentations considering cultural, language, and learning differences
+PO10: Project Management and Finance
+Apply knowledge and understanding of engineering management principles and economic decision-making and apply these to one’s own work, as a member and leader in a team, and to manage projects and in multidisciplinary environments.
+PO11: Life-Long Learning
+Recognize the need for, and have the preparation and ability for i) independent and life-long learning ii) adaptability to new and emerging technologies and iii) critical thinking in the broadest context of technological change.
+Department Quick Links
+About
+Department Highlights
+HoD's Desk
+Faculty Details
+Curriculum
+Student Achievements
+Industry Collaboration
+Placements
+Programme Educational Objectives
+Programme Specific Outcomes
+Department Contact
+Dr. P. J. Suresh babu
+Phone:
++91 9585 160 544
+Mail:
+[email protected]
+Be part of our journey to empower aspiring engineers, scientists, and managers towards success!
+04356 251114
+E.G.S Pillay Engineering College
+Old Nagore Road, Thethi Village
+Nagapattinam - 611002
+Follow Us:
+On Campus
+28.4°C
+Cloudy
+Facebook
+LinkedIn
+Twitter
+Instagram
+YouTube
+Copyright © 2006 - 2026 All
+Rights Reserved by
+EGS Pillay Group of Institutions
+Developed By
+Raghavan Jeeva
+|
+Status Page
+Sitemap
+Privacy Policy
+Terms & Conditions
+Contact Web Admin
+Website last updated on:
+2026-10-12 04:03:06 PM

@@ -1,0 +1,90 @@
+{
+  "content_hashes": {
+    "58df3e8b0c8b58d2d8eabb4e351209e1fe64c0caceeb36b7dfafbf5addd68037": "https://admissions.egspgroup.in/nursing",
+    "673c4878a8f645192f77e5da08a22872d9e99ddb14fa8e5641e413de08f66656": "https://admissions.egspgroup.in/mba-and-mca",
+    "772b3ce01db86d14c0b5a8ce4b2f5e14efeb44a44ca718d5ad288472d44fe7c6": "https://admissions.egspgroup.in/admissions",
+    "79a6f670164e772c29840197a7002693d762cb407c456eabb34305beb59ba911": "https://admissions.egspgroup.in/academics",
+    "9b8d0d8feab4d1e19fe6ad44729a8f55e9d7e4a963be37d89e97b673319fce01": "https://admissions.egspgroup.in/polytechnic",
+    "c30e978eeeb17a1b39d5c4b90b99eab79d4bbfe34c2a306514cb865acf3e46d1": "https://admissions.egspgroup.in/engineering/undergraduate",
+    "c721ad4cc3efa65ac0c8f6e69ab3780a75c61a3651275e5cc560bcb7b386ffa2": "https://admissions.egspgroup.in/arts-science",
+    "d7777d68f18955a1f910775c91f696b9004e60753954804895109966b73af3c9": "https://admissions.egspgroup.in/stories/campus-tour",
+    "f298a9c68528d92029b1f3205b61abd5ea30313674cc7a8b180981bbae2a2cd6": "https://admissions.egspgroup.in/"
+  },
+  "last_check": "2026-10-12T15:46:54.175812+00:00",
+  "pdfs": {},
+  "resources": {
+    "https://admissions.egspgroup.in/": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "f298a9c68528d92029b1f3205b61abd5ea30313674cc7a8b180981bbae2a2cd6",
+      "kind": "page",
+      "last_seen": "2026-10-12T15:46:42.114225+00:00",
+      "path": "D:\\Campus\\data\\website_scraped\\admissions.egspgroup.in\\pages\\97780074f37c_home.txt"
+    },
+    "https://admissions.egspgroup.in/academics": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "79a6f670164e772c29840197a7002693d762cb407c456eabb34305beb59ba911",
+      "kind": "page",
+      "last_seen": "2026-10-12T15:46:42.809680+00:00",
+      "path": "D:\\Campus\\data\\website_scraped\\admissions.egspgroup.in\\pages\\feb9ead1c916_academics.txt"
+    },
+    "https://admissions.egspgroup.in/admissions": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "772b3ce01db86d14c0b5a8ce4b2f5e14efeb44a44ca718d5ad288472d44fe7c6",
+      "kind": "page",
+      "last_seen": "2026-10-12T15:46:43.322795+00:00",
+      "path": "D:\\Campus\\data\\website_scraped\\admissions.egspgroup.in\\pages\\611c8a763e4d_admissions.txt"
+    },
+    "https://admissions.egspgroup.in/arts-science": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "c721ad4cc3efa65ac0c8f6e69ab3780a75c61a3651275e5cc560bcb7b386ffa2",
+      "kind": "page",
+      "last_seen": "2026-10-12T15:46:44.010358+00:00",
+      "path": "D:\\Campus\\data\\website_scraped\\admissions.egspgroup.in\\pages\\06516c4fe34c_arts-science.txt"
+    },
+    "https://admissions.egspgroup.in/engineering/undergraduate": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "c30e978eeeb17a1b39d5c4b90b99eab79d4bbfe34c2a306514cb865acf3e46d1",
+      "kind": "page",
+      "last_seen": "2026-10-12T15:46:44.418295+00:00",
+      "path": "D:\\Campus\\data\\website_scraped\\admissions.egspgroup.in\\pages\\c47ca5d76ea8_undergraduate.txt"
+    },
+    "https://admissions.egspgroup.in/mba-and-mca": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "673c4878a8f645192f77e5da08a22872d9e99ddb14fa8e5641e413de08f66656",
+      "kind": "page",
+      "last_seen": "2026-10-12T15:46:44.852737+00:00",
+      "path": "D:\\Campus\\data\\website_scraped\\admissions.egspgroup.in\\pages\\4780501b98ea_mba-and-mca.txt"
+    },
+    "https://admissions.egspgroup.in/nursing": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "58df3e8b0c8b58d2d8eabb4e351209e1fe64c0caceeb36b7dfafbf5addd68037",
+      "kind": "page",
+      "last_seen": "2026-10-12T15:46:45.532346+00:00",
+      "path": "D:\\Campus\\data\\website_scraped\\admissions.egspgroup.in\\pages\\e967e8359761_nursing.txt"
+    },
+    "https://admissions.egspgroup.in/polytechnic": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "9b8d0d8feab4d1e19fe6ad44729a8f55e9d7e4a963be37d89e97b673319fce01",
+      "kind": "page",
+      "last_seen": "2026-10-12T15:46:46.050028+00:00",
+      "path": "D:\\Campus\\data\\website_scraped\\admissions.egspgroup.in\\pages\\764bea57603c_polytechnic.txt"
+    },
+    "https://admissions.egspgroup.in/stories/campus-tour": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "d7777d68f18955a1f910775c91f696b9004e60753954804895109966b73af3c9",
+      "kind": "page",
+      "last_seen": "2026-10-12T15:46:51.565911+00:00",
+      "path": "D:\\Campus\\data\\website_scraped\\admissions.egspgroup.in\\pages\\1c34bb41f908_campus-tour.txt"
+    }
+  },
+  "version": 3
+}

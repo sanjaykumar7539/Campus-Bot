@@ -1,0 +1,89 @@
+URL: https://egspec.org/academics/departments/undergraduate/cyber-security/program-outcomes
+EXTRACTOR: requests+bs4
+
+Academics
+Departments
+Cyber Security
+Program Outcomes
+Program Outcomes (POs)
+PO #
+Program Outcomes Description
+PO1
+Engineering Knowledge:
+Apply the knowledge of mathematics, science, engineering fundamentals, and specialized cyber defense techniques to the solution of complex computing and cybersecurity problems.
+PO2
+Problem Analysis:
+Identify, formulate, review research literature, and analyze complex cybersecurity challenges reaching substantiated conclusions using first principles of computer science, cryptography, and network security.
+PO3
+Design/Development of Solutions:
+Design robust security architectures, defense systems, and secure software components that meet specified needs with appropriate consideration for public safety, confidentiality, and data privacy regulations.
+PO4
+Conduct Investigations of Complex Problems:
+Use research-based knowledge and security analysis methods including vulnerability assessments, digital forensics, log forensics, and penetration testing to provide valid security findings.
+PO5
+Modern Tool Usage:
+Create, select, and apply appropriate cybersecurity and forensic tools (such as SIEM, Wireshark, Metasploit, Nessus, Autopsy, and IDS/IPS) to secure modern computing environments with an understanding of limitations.
+PO6
+The Engineer and Society:
+Apply contextual knowledge to assess cyber law, digital compliance, information privacy, and societal responsibilities relevant to the professional cybersecurity practice.
+PO7
+Environment and Sustainability:
+Understand the impact of secure and sustainable digital infrastructure solutions in societal and environmental contexts, promoting sustainable IT operations.
+PO8
+Ethics:
+Apply rigorous ethical principles, adhere to responsible vulnerability disclosure policies, and commit to professional ethics and legal standards in cybersecurity.
+PO9
+Individual and Team Work:
+Function effectively as an individual, and as a member or leader in diverse incident response teams and multidisciplinary security settings.
+PO10
+Communication:
+Communicate effectively on complex security architectures, threat reports, and audit findings with both technical teams and organizational executives.
+PO11
+Project Management and Finance:
+Demonstrate knowledge and understanding of cybersecurity management principles, risk governance, and apply these to manage security projects effectively.
+PO12
+Life-long Learning:
+Recognize the ongoing evolution of cyber threat landscapes and possess the preparation and ability to engage in independent lifelong learning and continuous security certification.
+Department Quick Links
+About
+Department Highlights
+Hod's Desk
+Faculty Details
+Curriculum
+Placements
+Faculty Development Programme (FDP)
+Programme Educational Objectives
+Programme Specific Outcomes
+Department Contact
+Head of Department
+Phone:
+04365251112
+Mail:
+[email protected]
+Be part of our journey to empower aspiring engineers, scientists, and managers towards success!
+04356 251114
+E.G.S Pillay Engineering College
+Old Nagore Road, Thethi Village
+Nagapattinam - 611002
+Follow Us:
+On Campus
+28.4°C
+Cloudy
+Facebook
+LinkedIn
+Twitter
+Instagram
+YouTube
+Copyright © 2006 - 2026 All
+Rights Reserved by
+EGS Pillay Group of Institutions
+Developed By
+Raghavan Jeeva
+|
+Status Page
+Sitemap
+Privacy Policy
+Terms & Conditions
+Contact Web Admin
+Website last updated on:
+2026-10-12 04:03:06 PM

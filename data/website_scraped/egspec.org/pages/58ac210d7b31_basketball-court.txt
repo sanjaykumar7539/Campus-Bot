@@ -1,0 +1,35 @@
+URL: https://egspec.org/facilities/basketball-court
+EXTRACTOR: requests+bs4
+
+Facilities
+Basketball Court
+Mr. D. Velavan,
+Director / Physical Education
+Sports is an essential and integral part of every human being Not only do the students excel in studies, their sporting achievements are also worthy. In, Cricket, Basketball, Badminton, Hockey, Tennis, Volleyball and other Sports. If sports & games are properly instituted in every organization, there will not be much physical suffering in this world keeping in mind; we encourage every student to take part in sports. We give special attention and training to students who want to build their career in any sports field.
+Be part of our journey to empower aspiring engineers, scientists, and managers towards success!
+04356 251114
+E.G.S Pillay Engineering College
+Old Nagore Road, Thethi Village
+Nagapattinam - 611002
+Follow Us:
+On Campus
+28.4°C
+Cloudy
+Facebook
+LinkedIn
+Twitter
+Instagram
+YouTube
+Copyright © 2006 - 2026 All
+Rights Reserved by
+EGS Pillay Group of Institutions
+Developed By
+Raghavan Jeeva
+|
+Status Page
+Sitemap
+Privacy Policy
+Terms & Conditions
+Contact Web Admin
+Website last updated on:
+2026-10-12 04:03:06 PM

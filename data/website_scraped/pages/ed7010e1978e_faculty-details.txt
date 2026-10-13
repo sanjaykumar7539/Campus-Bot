@@ -1,0 +1,86 @@
+URL: https://egspec.org/academics/faculty-details
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Faculty Details
+Department Faculty Details
+S.No
+Department & Programme
+Category
+Link
+1
+Bachelor of Artificial Intelligence and Data Science
+Bachelor
+/ PDF File
+2
+Bachelor of Artificial Intelligence & Machine Learning
+3
+Bachelor of Biomedical Engineering
+4
+Bachelor of Civil Engineering
+5
+Bachelor of Computer Science and Engineering
+6
+Bachelor of Computer Science & Business Systems
+7
+Bachelor of Cyber Security
+8
+Bachelor of Electrical and Electronics Engineering
+9
+Bachelor of Electronics and Communication Engineering
+10
+Bachelor of Information Technology
+11
+Bachelor of Mechanical Engineering
+12
+Master of Technology in Artificial Intelligence and Data Science
+Master
+13
+Master of Biomedical Engineering
+14
+Master of Environmental Engineering
+15
+Master of Computer Science and Engineering
+16
+Master of Power Electronics and Drives
+17
+Master of Communication Systems
+18
+Master of Manufacturing Engineering
+19
+Master of Business Administration (MBA)
+20
+Master of Computer Applications (MCA)
+21
+General Engineering
+Others
+22
+Department of Science and Humanities
+Be part of our journey to empower aspiring engineers, scientists, and managers towards success!
+04356 251114
+E.G.S Pillay Engineering College
+Old Nagore Road, Thethi Village
+Nagapattinam - 611002
+Follow Us:
+On Campus
+28.4°C
+Cloudy
+Facebook
+LinkedIn
+Twitter
+Instagram
+YouTube
+Copyright © 2006 - 2026 All
+Rights Reserved by
+EGS Pillay Group of Institutions
+Developed By
+Raghavan Jeeva
+|
+Status Page
+Sitemap
+Privacy Policy
+Terms & Conditions
+Contact Web Admin
+Website last updated on:
+2026-10-12 04:03:06 PM

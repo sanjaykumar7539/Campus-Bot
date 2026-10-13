@@ -1,0 +1,14 @@
+URL: https://admissions.egspgroup.in/engineering/undergraduate
+EXTRACTOR: requests+bs4
+
+B.E. / B.Tech Admissions 2026-27
+Secure your future with Top-Ranked Engineering programs at EGS Pillay Engineering College (NAAC A++).
+Why Study Engineering at EGSP?
+NAAC A++ Accredited Institution
+NBA Tier-1 Accredited Departments (Washington Accord)
+NIRF Ranked Innovation and Excellence
+150+ Industry Partnerships for Placements
+State-of-the-art Labs and Research Centers
+Join a legacy of engineering excellence. Our undergraduate programs are designed to meet global standards, ensuring our graduates are industry-ready from day one.
+Admissions Open 2026 - 2027
+Start your journey with EGS Pillay Group today.

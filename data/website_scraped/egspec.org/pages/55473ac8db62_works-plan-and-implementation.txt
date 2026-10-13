@@ -1,0 +1,48 @@
+URL: https://egspec.org/iqac/works-plan-and-implementation
+EXTRACTOR: requests+bs4
+
+IQAC
+Works and Implementation
+EGSPEC IQAC Works & Implementation
+EGSPEC IQAC outlines its comprehensive plan for improving quality teaching, student development, faculty growth, and internal quality audits.
+1. Quality Teaching & Learning Process
+Ensuring effective teaching and learning at both course and domain levels through classroom sessions, laboratory activities, and various related programs.
+2. Documentation Process
+Maintaining a single file that covers NBA, NAAC, and ISO requirements, as well as managing online documents and databases at both institutional and departmental levels, with centralized access.
+3. Academic Audits
+Conducting four internal audits (two per post every semester) and one external audit per year for each post during the even semester. Action taken reports will be generated for all institutional committees, offices, and departments (UG & PG).
+4. Students Development Programs & Activities
+Facilitating skill-based training programs for students, with a requirement that each student participate in at least one event per semester to foster overall development.
+5. Faculty Development Activities
+Planning faculty development initiatives under the Margha Dharshan scheme, with a requirement for all faculty members to participate in at least one event per year to enhance their skills and knowledge.
+6. IQAC Sponsored Programs
+Organizing programs such as Outcome-Based Education (OBE), auditing, and action-based programs. A minimum of four or five such programs will be conducted annually to ensure consistent quality improvement.
+7. AQAR Fill-up & Submission
+The Annual Quality Assurance Report (AQAR) will be filled out and submitted online by December 31st each year, with the necessary evidence included for compliance and transparency.
+Be part of our journey to empower aspiring engineers, scientists, and managers towards success!
+04356 251114
+E.G.S Pillay Engineering College
+Old Nagore Road, Thethi Village
+Nagapattinam - 611002
+Follow Us:
+On Campus
+28.4°C
+Cloudy
+Facebook
+LinkedIn
+Twitter
+Instagram
+YouTube
+Copyright © 2006 - 2026 All
+Rights Reserved by
+EGS Pillay Group of Institutions
+Developed By
+Raghavan Jeeva
+|
+Status Page
+Sitemap
+Privacy Policy
+Terms & Conditions
+Contact Web Admin
+Website last updated on:
+2026-10-12 04:03:06 PM

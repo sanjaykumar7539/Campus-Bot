@@ -1,0 +1,15 @@
+[
+  {
+    "id": "egspec-main-campus",
+    "title": "E.G.S. Pillay Engineering College",
+    "category": "campus",
+    "description": "Main engineering college campus",
+    "aliases": ["egspec", "e.g.s. pillay", "egs pillay", "college", "campus", "main block"],
+    "address": "Old Nagore Main Road, Thethi, Nagore, Nagapattinam, Tamil Nadu 611002",
+    "latitude": null,
+    "longitude": null,
+    "zoom": 16,
+    "verified": false,
+    "source_url": "https://www.egspec.org/public/support/contact-us"
+  }
+]

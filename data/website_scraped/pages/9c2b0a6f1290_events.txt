@@ -1,0 +1,76 @@
+URL: https://egspec.org/events?event=aksharam-2025&filter=latest&page=2
+EXTRACTOR: requests+bs4
+
+Home
+Events
+Upcoming Events
+Upcoming / Latest
+Past Events
+Important
+50
+(Newest first)
+28
+Sep
+06:30 AM
+2026
+Virtual
+"Professional Society Event-IWS WEBINAR ON Effect of Post-Deposition Heat Treatment on the Mechanical and Fatigue Crack Growth Behaviour of Hot-Wire TIG Wire Arc Additively Manufactured Ni Alloy 740H"
+View Details
+10:00 AM
+EGSP MAIN AUDITORIUM
+SKILL DEVELOPMENT PROGRAM DIGITAL ENTREPRENEURSHIP: MARKETING CONTENT CREATION & FREELANCING
+WEBINAR ON Campus to Career: Unlocking Success with Soft Skills
+27
+EXPERT TECHNICAL TALK GENERATIVE AI AND LARGE LANGUAGE MODELS: SHAPING THE FUTURE OF INTELLIGENT APPLICATIONS
+26
+WEBINAR ON Entrepreneurship Essentials for Engineers
+24
+09:30 AM
+SJB310
+WORKSHOP ON AI FRONTIER: DISCOVERING THE INTELLIGENCE & MACHINE LEARNING
+09:15 AM
+EEE simulation lab
+WORKSHOP ON EV POWERTRAIN DESIGN AND SIMULATION WITH HANDS-ON HARDWARE EXPOSURE
+23
+11:30 AM
+PG Block 303
+GUEST LECTURE ON WHY HRM IS IMPORTANT FOR COMPUTER APPLICATIONS
+21
+01:30 AM
+GGB312
+"GATE 2027 - Awareness, Strategy & Success for Mechanical Engineering Students"
+19
+Electronics Lab
+ISTE SPONSORED WORKSHOP ON EFFECTIVE LABORATORY OPERATION, MAINTENANCE AND DEVELOPMENT: FROM LABORATORY SETUP TO SUSTAINABLE TECHNICAL EXCELLENCE
+01:20 AM
+CC3
+SMART SYNTAX CLUB EVENT STARTUP SPARK: An Entrepreneurship Awareness Programme Ropoficiarice: Studente
+07:00 AM
+WEBINAR ON GENERATIVE AI & MACHINE LEARNING: HOW AI IS TRANSFORMING THE FUTURE
+Be part of our journey to empower aspiring engineers, scientists, and managers towards success!
+04356 251114
+E.G.S Pillay Engineering College
+Old Nagore Road, Thethi Village
+Nagapattinam - 611002
+Follow Us:
+On Campus
+28.4°C
+Cloudy
+Facebook
+LinkedIn
+Twitter
+Instagram
+YouTube
+Copyright © 2006 - 2026 All
+Rights Reserved by
+EGS Pillay Group of Institutions
+Developed By
+Raghavan Jeeva
+|
+Status Page
+Sitemap
+Privacy Policy
+Terms & Conditions
+Contact Web Admin
+Website last updated on:
+2026-10-12 04:03:06 PM

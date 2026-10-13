@@ -1,0 +1,73 @@
+URL: https://egspec.org/academics/departments/undergraduate/artificial-intelligence-and-machine-learning/department-highlights
+EXTRACTOR: requests+bs4
+
+Academics
+Departments
+Artificial Intelligence & Machine Learning
+Department Highlights
+S.No
+Salient Features & Key Highlights
+1
+GPU-Accelerated AI Research Lab:
+High-performance computing clusters powered by NVIDIA GPUs tailored for training deep learning models, computer vision, and transformer networks.
+2
+Hands-on Framework Training:
+Extensive practical coursework covering PyTorch, TensorFlow, Keras, Scikit-Learn, OpenCV, Hugging Face, LangChain, and ROS (Robot Operating System).
+3
+AI Innovation & Machine Learning Club:
+Active student community focused on Kaggle competitions, open-source AI contributions, Hackathons, and AI-driven social impact projects.
+4
+Generative AI & LLM Research Hub:
+Dedicated research cells working on Large Language Models, prompt engineering, Retrieval-Augmented Generation (RAG), and multimodal intelligence.
+5
+Industry MoUs & Internship Collaborations:
+Strategic partnerships with AI product companies, IT conglomerates, and research labs for capstone projects and industrial mentorship.
+6
+Interdisciplinary Robotics & Autonomous Systems:
+Collaborative research across computer vision, smart IoT, autonomous drone navigation, and healthcare diagnostic AI.
+7
+High-Demand Career Pathways:
+Strong placement assistance preparing students for roles as AI Engineers, Machine Learning Scientists, Data Engineers, Computer Vision Specialists, and NLP Engineers.
+Department Quick Links
+About
+Hod's Desk
+Faculty Details
+Curriculum
+Placements
+Faculty Development Programme (FDP)
+Program Outcomes
+Programme Educational Objectives
+Programme Specific Outcomes
+Department Contact
+Head of Department
+Phone:
+04365251112
+Mail:
+[email protected]
+Be part of our journey to empower aspiring engineers, scientists, and managers towards success!
+04356 251114
+E.G.S Pillay Engineering College
+Old Nagore Road, Thethi Village
+Nagapattinam - 611002
+Follow Us:
+On Campus
+28.4°C
+Cloudy
+Facebook
+LinkedIn
+Twitter
+Instagram
+YouTube
+Copyright © 2006 - 2026 All
+Rights Reserved by
+EGS Pillay Group of Institutions
+Developed By
+Raghavan Jeeva
+|
+Status Page
+Sitemap
+Privacy Policy
+Terms & Conditions
+Contact Web Admin
+Website last updated on:
+2026-10-12 04:03:06 PM

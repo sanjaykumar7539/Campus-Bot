@@ -1,0 +1,27 @@
+{
+  "content_hashes": {
+    "d663640088750cf16276d623c2588d7233f2b84b45f4b2e20832f47b16aa5618": "https://example.com/x.pdf",
+    "dced9c2ace13ec58ade0ad35df783f2b2e7268140705cdc644468861adf16a55": "https://example.com/about/"
+  },
+  "last_check": "2026-10-11T14:22:25.734416+00:00",
+  "pdfs": {},
+  "resources": {
+    "https://example.com/about/": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "dced9c2ace13ec58ade0ad35df783f2b2e7268140705cdc644468861adf16a55",
+      "kind": "page",
+      "last_seen": "2026-10-11T14:22:25.733417+00:00",
+      "path": "D:\\Campus\\.test-tmp-run-check\\test_recursive_crawl_and_incre0\\data\\pages\\82756af2d6e7_about.txt"
+    },
+    "https://example.com/x.pdf": {
+      "content_type": "application/pdf",
+      "duplicate_of": null,
+      "hash": "d663640088750cf16276d623c2588d7233f2b84b45f4b2e20832f47b16aa5618",
+      "kind": "document",
+      "last_seen": "2026-10-11T14:22:25.734416+00:00",
+      "path": "D:\\Campus\\.test-tmp-run-check\\test_recursive_crawl_and_incre0\\data\\documents\\fd53d11514a7_x.pdf"
+    }
+  },
+  "version": 3
+}

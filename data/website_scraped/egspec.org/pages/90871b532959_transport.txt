@@ -1,0 +1,138 @@
+URL: https://egspec.org/facilities/transport
+EXTRACTOR: requests+bs4
+
+Facilities
+Transport
+Department of Transport
+S.No
+Route
+Operated Via
+Starting Time
+Total KM
+1
+Mannargudi
+Kilvelur-Thiruvarur-Lakshumangudi
+07:05:00
+65
+2
+Velankanni
+Akkaraipettai-Poigainallur
+08:00:00
+15
+3
+Thethakudi
+Velankanni-Sembodai
+07:30:00
+45
+4
+Umbalacherry
+Velankanni-Alangudi-Thalainayar
+07:20:00
+50
+5
+Srivanjiyam
+Narimanam-Gangalancherry-Andipandhal
+07:25:00
+40
+6
+Thillaiyadi
+Karaikkal-Tharangambadi-Thirukkadaiyur
+7
+Sankaranpandhal
+T.R Pattinam-Karikkal-Poraiyar
+42
+8
+Kuthalam
+Thirumarugal-Sannanallur-Mayiladuthurai
+07:00:00
+70
+9
+Peralam
+Karaikkal-Thirunallar-Ambagarathur
+10
+Muthupettai
+Alangudi-Thiruthuraipoondi-Pandi
+75
+11
+Sembanorkoil
+Karikkal-Nedungadu-Arumbakkam
+12
+Thirukkuvalai
+Sikkal-Avarani-Thevur
+43
+13
+Thiruvarur
+Narimanam-Gangalancherry-Senthamangalam
+07:45:00
+38
+14
+Kudavasal
+Kilvelur-Thiruvarur-Kattur
+07:10:00
+60
+Alathambadi
+Kilvelur-Pulivalam-Mangudi
+07:15:00
+16
+Koradacherry
+Kilvelur-Thiruvarur-Ammaiyappan
+17
+Earavancherry
+Annamandapam-Polagam-Poonthottam
+18
+Nannilam
+Thirumarugal-Sannanallur
+35
+19
+Nangur
+Karaikkal-Tharangambadi-Karuvi-Thiruvenkadu
+55
+20
+Sirkali
+Karaikkal-Tharangambadi-Karuvi
+62
+21
+Ayakaranpulam
+Velankanni-Sembodai-Vedharanyam
+69
+22
+Karkathi
+Thirumarugal-Sannanallur-Kollumangudi
+23
+Thevur
+Sikkal-Kilvelur
+07:50:00
+24
+Kottur
+Velankanni-Thiruthuraipoondi
+25
+Mayiladuthurai
+Karikkal-Tharangambadi-Akkur-Sembanorkoil
+63
+Be part of our journey to empower aspiring engineers, scientists, and managers towards success!
+04356 251114
+E.G.S Pillay Engineering College
+Old Nagore Road, Thethi Village
+Nagapattinam - 611002
+Follow Us:
+On Campus
+28.4°C
+Cloudy
+Facebook
+LinkedIn
+Twitter
+Instagram
+YouTube
+Copyright © 2006 - 2026 All
+Rights Reserved by
+EGS Pillay Group of Institutions
+Developed By
+Raghavan Jeeva
+|
+Status Page
+Sitemap
+Privacy Policy
+Terms & Conditions
+Contact Web Admin
+Website last updated on:
+2026-10-12 04:03:06 PM

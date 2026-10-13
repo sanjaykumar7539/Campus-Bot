@@ -1,0 +1,78 @@
+URL: https://egspec.org/events?filter=old&page=3
+EXTRACTOR: requests+bs4
+
+Home
+Events
+Upcoming Events
+Upcoming / Latest
+Past Events
+Important
+50
+(Oldest first)
+12
+Sep
+09:30 AM
+2026
+AUDITORIUM
+MOTIVATIONAL TALK ON DREAM BIG ACHIEVE BIG
+View Details
+13
+10:00 AM
+Virtual
+ALUMNI WEBINAR ON AI DRIVEN TRANSFORMATION OF IT AND SOFTWARE MANAGEMENT ROLES
+19
+07:00 AM
+WEBINAR ON GENERATIVE AI & MACHINE LEARNING: HOW AI IS TRANSFORMING THE FUTURE
+01:20 AM
+CC3
+SMART SYNTAX CLUB EVENT STARTUP SPARK: An Entrepreneurship Awareness Programme Ropoficiarice: Studente
+Electronics Lab
+ISTE SPONSORED WORKSHOP ON EFFECTIVE LABORATORY OPERATION, MAINTENANCE AND DEVELOPMENT: FROM LABORATORY SETUP TO SUSTAINABLE TECHNICAL EXCELLENCE
+21
+01:30 AM
+GGB312
+"GATE 2027 - Awareness, Strategy & Success for Mechanical Engineering Students"
+23
+11:30 AM
+PG Block 303
+GUEST LECTURE ON WHY HRM IS IMPORTANT FOR COMPUTER APPLICATIONS
+24
+09:15 AM
+EEE simulation lab
+WORKSHOP ON EV POWERTRAIN DESIGN AND SIMULATION WITH HANDS-ON HARDWARE EXPOSURE
+SJB310
+WORKSHOP ON AI FRONTIER: DISCOVERING THE INTELLIGENCE & MACHINE LEARNING
+26
+WEBINAR ON Entrepreneurship Essentials for Engineers
+27
+EXPERT TECHNICAL TALK GENERATIVE AI AND LARGE LANGUAGE MODELS: SHAPING THE FUTURE OF INTELLIGENT APPLICATIONS
+28
+06:30 AM
+WEBINAR ON Campus to Career: Unlocking Success with Soft Skills
+Be part of our journey to empower aspiring engineers, scientists, and managers towards success!
+04356 251114
+E.G.S Pillay Engineering College
+Old Nagore Road, Thethi Village
+Nagapattinam - 611002
+Follow Us:
+On Campus
+28.3°C
+Partly Cloudy
+Facebook
+LinkedIn
+Twitter
+Instagram
+YouTube
+Copyright © 2006 - 2026 All
+Rights Reserved by
+EGS Pillay Group of Institutions
+Developed By
+Raghavan Jeeva
+|
+Status Page
+Sitemap
+Privacy Policy
+Terms & Conditions
+Contact Web Admin
+Website last updated on:
+2026-10-12 04:03:06 PM

@@ -1,0 +1,51 @@
+URL: https://egspec.org/activities/co-curricular/workshop
+EXTRACTOR: requests+bs4
+
+Activities
+Co-Curricular
+Workshops
+Idea
+EGSPEC
+is known for his renowance of conduct of Technical Events on its soil towards Students Development, Skill Upgradation and Technology Adaptation
+Some Familiar Events
+S.No
+Title of the Workshop
+1
+Mobile Application Development
+2
+Doing a Cloud with Eucalyptus
+3
+Web Development using Ruby Rails
+4
+Web Development using PHP
+5
+Next Generation Databases
+The content will be updated shortly. Thank you for your patience
+...
+Be part of our journey to empower aspiring engineers, scientists, and managers towards success!
+04356 251114
+E.G.S Pillay Engineering College
+Old Nagore Road, Thethi Village
+Nagapattinam - 611002
+Follow Us:
+On Campus
+28.4°C
+Cloudy
+Facebook
+LinkedIn
+Twitter
+Instagram
+YouTube
+Copyright © 2006 - 2026 All
+Rights Reserved by
+EGS Pillay Group of Institutions
+Developed By
+Raghavan Jeeva
+|
+Status Page
+Sitemap
+Privacy Policy
+Terms & Conditions
+Contact Web Admin
+Website last updated on:
+2026-10-12 04:03:06 PM

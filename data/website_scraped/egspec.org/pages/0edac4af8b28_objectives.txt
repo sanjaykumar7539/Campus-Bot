@@ -1,0 +1,64 @@
+URL: https://egspec.org/activities/students-clubs/objectives
+EXTRACTOR: requests+bs4
+
+Activities
+Student Clubs
+Objectives
+Student Club - Objectives
+A student technical club serves as a platform for students to enhance their technical skills,
+collaborate on project exposure, and engage with industry trends.
+1. Promote Technical Awareness & Skills
+Foster interest and knowledge to provide hands-on experience and training in technical skills, such as programming, robotics, and data analysis.
+2. Encourage Innovation & Creativity
+Inspire students to think creatively, design, and develop innovative projects and solutions.
+3. Build Community
+Create a platform for like-minded students to connect, collaborate, and learn from each other.
+4. Organize Technical Events
+Host workshops, seminars, hackathons, and other events to engage students and promote technical knowledge.
+5. Foster Industry Connections
+Establish relationships with industry professionals to provide students with networking opportunities, internships, and job opportunities.
+6. Support Academic Excellence
+Complement the academic programs by providing additional resources, mentorship program for students to excel in their technical pursuits.
+7. Encourage Entrepreneurship
+Inspire and support students to develop their own technical projects and startups.
+8. Establish a Strong Reputation
+Build a renowned Student Technical Club that attracts top talent and supports the development of skilled professionals.
+9. Create a Sustainable Ecosystem
+Foster a self-sustaining community that continues to grow, innovate, and support future generations of students.
+10. Drive Positive Impact
+Contribute to the betterment of society through the development of innovative solutions, products, and services.
+Institute Club Advisor
+Dr.S.Palanimurugan, M.E.,Ph.D.,
+Academic Director, Head - AI&DS, EGSPEC
+Institute Club Convener
+Mrs.M.Kavitha, M.E.,(Ph.D.).,
+Assistant Professor, Department of ECE, EGSPEC
+Clubs Link
+Students Clubs
+Be part of our journey to empower aspiring engineers, scientists, and managers towards success!
+04356 251114
+E.G.S Pillay Engineering College
+Old Nagore Road, Thethi Village
+Nagapattinam - 611002
+Follow Us:
+On Campus
+28.4°C
+Cloudy
+Facebook
+LinkedIn
+Twitter
+Instagram
+YouTube
+Copyright © 2006 - 2026 All
+Rights Reserved by
+EGS Pillay Group of Institutions
+Developed By
+Raghavan Jeeva
+|
+Status Page
+Sitemap
+Privacy Policy
+Terms & Conditions
+Contact Web Admin
+Website last updated on:
+2026-10-12 04:03:06 PM

@@ -1,0 +1,14 @@
+URL: https://admissions.egspgroup.in/polytechnic
+EXTRACTOR: requests+bs4
+
+Diploma Admissions 2026-27
+Get industry-ready with practical, skill-based Diploma programs at EGS Pillay Polytechnic College.
+Practical Skills for a Bright Future
+Hands-on technical training
+Modern workshops and laboratory facilities
+Direct Lateral Entry options to B.E. programs
+Strong placement support for diploma holders
+Affiliated to DOTE, Tamil Nadu
+Start your technical career early. Our polytechnic college focuses on providing real-world skills that make you immediately employable in the engineering and technology sectors.
+Admissions Open 2026 - 2027
+Start your journey with EGS Pillay Group today.

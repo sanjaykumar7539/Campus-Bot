@@ -1,0 +1,83 @@
+URL: https://egspec.org/placements/statistics
+EXTRACTOR: requests+bs4
+
+Placement
+Statistics
+Placement Statistics
+Department
+2019-20
+2020-21
+2021-22
+2022-23
+2023-24
+BME
+-
+46
+16
+CSBS
+47
+Civil
+91
+111
+72
+77
+36
+CSE
+99
+105
+89
+84
+ECE
+78
+98
+85
+114
+EEE
+60
+49
+61
+IT
+55
+50
+57
+41
+39
+MECH
+121
+129
+113
+MBA
+54
+67
+63
+MCA
+27
+45
+42
+Be part of our journey to empower aspiring engineers, scientists, and managers towards success!
+04356 251114
+E.G.S Pillay Engineering College
+Old Nagore Road, Thethi Village
+Nagapattinam - 611002
+Follow Us:
+On Campus
+28.4°C
+Cloudy
+Facebook
+LinkedIn
+Twitter
+Instagram
+YouTube
+Copyright © 2006 - 2026 All
+Rights Reserved by
+EGS Pillay Group of Institutions
+Developed By
+Raghavan Jeeva
+|
+Status Page
+Sitemap
+Privacy Policy
+Terms & Conditions
+Contact Web Admin
+Website last updated on:
+2026-10-12 04:03:06 PM

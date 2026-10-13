@@ -1,0 +1,86 @@
+URL: https://egspec.org/academics/departments/undergraduate/artificial-intelligence-and-data-science/research-publications
+EXTRACTOR: requests+bs4
+
+Academics
+Departments
+Artificial Intelligence and Data Science
+Research & Publications
+S.No
+Title of the Publication
+Journal/Publisher Name
+Authors
+1
+An Efficient On Demand Access Protocol In MANETS Using Network Simulator -2
+International Conference on Computing for sustainable global development (INDIACom)
+Dr. S. Palani Murugan
+2
+Smart Commodities Public Distribution System Using IoT
+Sistema inteligente de distribution publica de productos basicos mediante IoT
+3
+A GPS – Based Face Attendance Register System using Android Applications stored in the Cloud
+IEEE Xplore
+4
+P2CA-GAM-ID: Coupling of probabilistic principal components analysis with generalised additive model to predict the 𝑘−barriers for intrusion detection
+Elsevier, SCI
+Impact Factor:8
+Dr. J. Amutha
+5
+Reliability of Clustering Algorithm in Wireless sensor Networks using Supervised Machine Learning Classification Approaches
+AIP Conference Proceedings
+6
+Transformative Influence of AI-Powered Conversational Interfaces on Data Science: Exploring New Frontiers
+International Conference on Computing Communication and Sustainable Energy System
+7
+Leveraging IoT and AI for Smart City Environments: Exploring Potential Applications and Challenges
+8
+Machine Learning – Based skin disease detection and classification: An Automated approach
+Mrs. S. Akilandeswari
+9
+Book Publication: Python for Data Science
+Lielani Katie Publisher
+Department Quick Links
+About
+Department Highlights
+Hod's Desk
+Faculty Details
+Curriculum
+Industry Collaboration
+Infrastructure
+Placements
+Student Achievements
+Faculty Development Programme (FDP)
+Program Outcomes
+Programme Educational Objectives
+Programme Specific Outcomes
+Department Contact
+Phone:
+7708549612
+Mail:
+[email protected]
+Be part of our journey to empower aspiring engineers, scientists, and managers towards success!
+04356 251114
+E.G.S Pillay Engineering College
+Old Nagore Road, Thethi Village
+Nagapattinam - 611002
+Follow Us:
+On Campus
+28.4°C
+Cloudy
+Facebook
+LinkedIn
+Twitter
+Instagram
+YouTube
+Copyright © 2006 - 2026 All
+Rights Reserved by
+EGS Pillay Group of Institutions
+Developed By
+Raghavan Jeeva
+|
+Status Page
+Sitemap
+Privacy Policy
+Terms & Conditions
+Contact Web Admin
+Website last updated on:
+2026-10-12 04:03:06 PM

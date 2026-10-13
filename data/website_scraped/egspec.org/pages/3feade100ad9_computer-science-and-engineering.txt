@@ -1,0 +1,85 @@
+URL: https://egspec.org/resources/projects/computer-science-and-engineering
+EXTRACTOR: requests+bs4
+
+Research
+Project
+Department of Computer Science and Engineering
+Consultancy
+List of Consultancy Projects Undertaken
+#
+Project Title
+Company
+Duration
+Budget (Rs)
+1
+Medical Lab Data Management System
+Selvaa's Diagnostics and Healthcare Private Limited, Nagapattinam
+1 year
+80000
+2
+Travel Booking system
+Sundaraman Travels, Nagapattinam
+1.3 years
+83000
+3
+Employee Training Tracking System
+RIPE Consultancy Services, Chennai
+108000
+4
+Vision based Activity Monitoring for Surveillances Applications
+VI Technology, Chennai
+8 months
+85000
+5
+Payroll Processing System
+St.Joseph Nursery & Primary School, Vaikaalvettu, Nagapattinam
+50000
+Period
+Textile shop Billing System
+Rich Trends Men’s Wear, Poraiyar
+Attendance Monitoring System
+92000
+Inventory Management system for Super market
+Sri Krishna Supermarket, Nagapattinam
+70600
+Hospital Management System
+Dr.Murugesan Private Hospital, Sikkal
+Mobile shop management System
+JVR Mobile Sales and Services, Kutthalam
+75000
+6
+Fertilizer stock management System
+Amithran Traders,Orathanadu
+1.1 years
+115000
+Rresearch & Development
+Shoe Store Billing System
+Ayya Shoe and Furniture Mart, Thiruthuraipoondi
+95000
+Be part of our journey to empower aspiring engineers, scientists, and managers towards success!
+04356 251114
+E.G.S Pillay Engineering College
+Old Nagore Road, Thethi Village
+Nagapattinam - 611002
+Follow Us:
+On Campus
+28.4°C
+Cloudy
+Facebook
+LinkedIn
+Twitter
+Instagram
+YouTube
+Copyright © 2006 - 2026 All
+Rights Reserved by
+EGS Pillay Group of Institutions
+Developed By
+Raghavan Jeeva
+|
+Status Page
+Sitemap
+Privacy Policy
+Terms & Conditions
+Contact Web Admin
+Website last updated on:
+2026-10-12 04:03:06 PM

@@ -1,0 +1,66 @@
+URL: https://egspec.org/admissions/course-intake
+EXTRACTOR: requests+bs4
+
+Admissions
+Course & In-Take
+Courses & In-Take
+S.No
+Engineering and Technology (4 Years)
+In-Take
+1
+B.E – Mechanical Engineering
+120
+2
+B.E – Electronics and Communication Engineering
+3
+B.E – Electrical & Electronics Engineering
+60
+4
+B.E – Computer Science & Engineering
+180
+5
+B.Tech – Information Technology
+6
+B.E – Civil Engineering
+7
+B.E – Bio-Medical Engineering
+8
+B.Tech – Computer Science & Business Systems
+9
+B.Tech – Artificial Intelligence and Data Science
+Engineering and Management
+M.E ( Computer Science and Engineering )
+18
+M.E (Communication Systems)
+M.E (Manufacturing Engineering)
+M.E (Power Electronics and Drives)
+M.E (Environmental Engineering)
+MCA – Master of Computer Applications ( 2 yrs)
+MBA – Master of Business Administration (2 Yrs)
+Be part of our journey to empower aspiring engineers, scientists, and managers towards success!
+04356 251114
+E.G.S Pillay Engineering College
+Old Nagore Road, Thethi Village
+Nagapattinam - 611002
+Follow Us:
+On Campus
+28.4°C
+Cloudy
+Facebook
+LinkedIn
+Twitter
+Instagram
+YouTube
+Copyright © 2006 - 2026 All
+Rights Reserved by
+EGS Pillay Group of Institutions
+Developed By
+Raghavan Jeeva
+|
+Status Page
+Sitemap
+Privacy Policy
+Terms & Conditions
+Contact Web Admin
+Website last updated on:
+2026-10-12 04:03:06 PM

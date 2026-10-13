@@ -1,0 +1,67 @@
+URL: https://coe.egspec.org/results/phd/apr-may-2026
+EXTRACTOR: requests+bs4
+
+Student Result
+OFFICE OF THE CONTROLLER OF EXAMINATIONS
+Student Name
+Registration Number
+Student Profile
+Register Number
+Academic Year
+Programme / Branch
+Examination Session
+Course-wise Grade Details
+S.No
+Course Code
+Course Name
+Grade
+Result
+Grade Classification
+Letter Grade
+S
+A+
+A
+B+
+B
+C+
+C
+U
+Range of Marks
+91 - 100
+81 - 90
+71 - 80
+66 - 70
+61 - 65
+56 - 60
+50 - 55
+< 50
+Grade Point
+10
+9
+8
+7
+6.5
+6
+5
+0
+Signature & Verification
+Scan the QR code or open the verification URL to validate this export.
+Document ID
+Issued At (ISO)
+Document Type
+Academic Result - Statement of Grades
+Content SHA-256
+Signature Algorithm
+ECDSA-SHA256
+Digital Signature
+Verification URL
+Address:
+Old Nagore Road, Thethi Village, Nagapattinam - 611002, Tamil Nadu, India.
+Website:
+egspec.org | coe.egspec.org |
+Contact:
++91 93630 87377
+Disclaimer: This is a computer-generated statement and does not require a signature. In case of any discrepancy, the official printed mark sheet issued by the college will be final.
+Search Another Result
+Print Result
+Download PDF

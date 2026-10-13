@@ -1,0 +1,64 @@
+URL: https://egspec.org/events/pre-symposium-alumni-one-day-national-level-seminar-aws-cloud-architecture-design-deployment-and-best-practices
+EXTRACTOR: requests+bs4
+
+Home
+Events
+PRE-SYMPOSIUM ALUMNI ONE-DAY NATIONAL LEVEL SEMINAR AWS CLOUD ARCHITECTURE: DESIGN, DEPLOYMENT AND BEST PRACTICES
+October 09, 2026
+10:00 AM
+offline Event
+AWS Cloud Architecture: Design, Deployment and Best Practices
+is a
+Pre-Symposium Alumni One-Day National Level Seminar
+organized by the
+Department of Master of Computer Applications (MCA), EGS Pillay Engineering College, Nagapattinam
+.
+The seminar is designed for
+1st-year MCA students
+and aims to provide them with a strong foundation in
+cloud computing and AWS cloud architecture
+. The session will cover key concepts related to designing and deploying cloud-based solutions, AWS architecture principles, and industry best practices for building secure, scalable, and efficient cloud applications.
+The resource person,
+Mr. Ravidhara(n), Associate Consultant at CGI Technologies, Chennai, and an alumnus of EGS Pillay Engineering College (Batch 2003–2006)
+, will share valuable industry insights and practical knowledge gained from his professional experience in the technology sector.
+Event Information
+Location
+MCA LAB
+Date
+Friday, Oct 09, 2026
+Time
+10:00 AM onwards
+Add to Calendar
+Download .ics File
+Add to Google Calendar
+Print Details
+Share Event
+#Event
+Friday, October 09, 2026
+Description
+04356 251114
+E.G.S Pillay Engineering College
+Old Nagore Road, Thethi Village
+Nagapattinam - 611002
+Follow Us:
+On Campus
+33.5°C
+Overcast
+Facebook
+LinkedIn
+Twitter
+Instagram
+YouTube
+Copyright © 2006 - 2026 All
+Rights Reserved by
+EGS Pillay Group of Institutions
+Developed By
+Raghavan Jeeva
+|
+Status Page
+Sitemap
+Privacy Policy
+Terms & Conditions
+Contact Web Admin
+Website last updated on:
+2026-10-10 09:57:36 AM

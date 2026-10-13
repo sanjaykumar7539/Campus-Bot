@@ -1,0 +1,276 @@
+URL: https://egspec.org/facilities/library
+EXTRACTOR: requests+bs4
+
+Facilities
+Library
+Central Library
+knimbus
+Our Library is a paradise for those who have a passion for reading Books and enthusiasm for widening their knowledge base in depth and extent. The library has an carpet area of 10,520 sq.ft. and reading space of 1800 sq.ft(includes no of seats is 150) of built-up Facilities. Strength of Library and Services provided in the Library include:
+21956 Titles and 55803 Volumes.
+Book Bank Books 1246 Volumes.
+76 International Journals and 113 National Journals.
+Online journals databases from IEEE, NLIST, KNIMBUS, DELNET and other journals.
+S.No
+Department
+No.of Books
+No.of Titles
+Price
+Net Price
+1
+AIDS
+164
+16
+96,552.00
+76,610.50
+2
+CSBS
+20
+11
+24,655.00
+18,598.13
+3
+MECHANICAL
+33
+9
+27,099.00
+20,569.97
+4
+IT
+32
+32,199.00
+24,854.26
+5
+ECE
+93
+71
+99,882.00
+75,072.76
+6
+CIVIL
+10
+30,488.00
+22,986.00
+7
+EEE
+42,106.00
+31,579.50
+8
+CSE
+28
+27,310.00
+20,482.50
+MATHS
+14,218.00
+10,663.50
+BIO MEDICAL
+40,435.56
+30,326.68
+ME/ECE
+16,888.00
+12,754.43
+12
+GENERAL
+50
+18,000.00
+7,200.00
+13
+MBA
+4,125.00
+3,143.75
+14
+MCA
+11,027.00
+10,843.25
+Total
+498
+174
+484,984.56
+365,685.23
+To Access OPAC Search of Books:
+Click to OPAC
+Year
+Number of New Titles Added
+Number of New Volumes Added
+2024 - 2025
+137
+423
+2023 - 2024
+216
+477
+2022 - 2023
+342
+1035
+2021 - 2022
+231
+424
+2020 - 2021
+51
+86
+2019 - 2020
+491
+1030
+2018 - 2019
+74
+782
+2017 - 2018
+249
+908
+2016 - 2017
+242
+6153
+2015 - 2016
+614
+8353
+2014 - 2015
+1419
+2216
+2013 - 2014
+245
+406
+2012 - 2013
+2058
+3479
+Library and Information Centre
+DEPARTMENT
+No of Titles
+No of Volumes
+International Journals
+National Journals
+01
+B.E, Mechanical Engg
+2782
+9069
+06
+02
+B.E, Civil Engg
+546
+4398
+03
+B.E, Electrical and Electronics Engg
+2059
+5655
+04
+B.E, Electronics and Communication Engg
+1594
+6480
+05
+B.E, Computer science and Engg
+2970
+6833
+B.Tech Information Technology
+1456
+4512
+07
+B.E, Bio – Medical Engg
+304
+627
+08
+B.Tech CSBS
+75
+195
+09
+B.Tech. AI & DS
+41
+327
+Sciences and Humanities
+2399
+4128
+-
+M.E, Manufacturing Engg
+157
+289
+M.E, Communication Systems
+178
+300
+M.E, Computer science and Engg
+288
+515
+M.E, Power Electronics & Drives
+147
+294
+15
+M.E, Environmental Engg
+135
+217
+15131
+43839
+64
+79
+Master of Business Administration
+4489
+7278
+17
+Master of Computer Applications
+2336
+4686
+6825
+11964
+Grand Total
+21956
+55803
+76
+91
+Library Administration
+Dr. B. Shanmugam
+Head
+Mrs. R. Mathurabashini
+Librarian
+Mr. G. Muruganandam
+Mrs. R. Sumathi
+Assistant Librarian
+Mrs. R. Lakshmi
+Mrs. M. Hemalatha
+Library Assistant
+Computerization for search, indexing issue/return & record
+Yes
+Bar Codings Used
+Library services on internet/intranet INDEST or other similar membership archives
+Number of Users (issue book) per day
+250
+Number of Users (reading space) per day
+200
+Timings during working day
+8.00am to 6.00pm
+Number of Library staff
+Number of Library staff with a degree in library management
+Facilities to receive Anna University Training Development and Communication Channel (AUTDCC) through EDUSAT: for special lectures by Experts.
+Lending, Reference and Reprographic facilities.
+Study halls with a capacity for 150 students/ Faculty.
+2 air-conditioned Audio and Video Halls.
+Internet browsing
+CD Library, CD ROMs, CD writing and Scanning
+NPTEL Video course materials developed by IIT’s & IISc.
+Digital Library with 68 Systems.
+Dedicated Areas for PG Students, Project Work and air-conditioned reading halls. We are member in DELNET as Institutional Membership for resource sharing: Library membership is compulsory for staff and students. All members are expected to follow the ‘Regulations’ as laid down.
+Regulations for Use of Library
+One should realize ‘the power of silence’ in the Library and make it an Abode for Academic pursuit and for dissemination of knowledge.
+Members should produce their Identity card at the Entrance/ while borrowing books/ and whenever so demanded by Security Personnel/ Faculty.
+Members should ‘sign in’ the Gate Register/ Scan Id card in the Computer kept at the Entrance.
+On no account personal books, files, lab coat / apron and articles will be allowed inside. (Such items are to be handed over to the security in charges in the personal Bag section at the Entrance).
+Be part of our journey to empower aspiring engineers, scientists, and managers towards success!
+04356 251114
+E.G.S Pillay Engineering College
+Old Nagore Road, Thethi Village
+Nagapattinam - 611002
+Follow Us:
+On Campus
+28.4°C
+Cloudy
+Facebook
+LinkedIn
+Twitter
+Instagram
+YouTube
+Copyright © 2006 - 2026 All
+Rights Reserved by
+EGS Pillay Group of Institutions
+Developed By
+Raghavan Jeeva
+|
+Status Page
+Sitemap
+Privacy Policy
+Terms & Conditions
+Contact Web Admin
+Website last updated on:
+2026-10-12 04:03:06 PM

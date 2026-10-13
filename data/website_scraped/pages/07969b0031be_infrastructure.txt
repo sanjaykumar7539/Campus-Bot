@@ -1,0 +1,57 @@
+URL: https://egspec.org/facilities/infrastructure
+EXTRACTOR: requests+bs4
+
+Facilities
+Infrastructure
+E.G.S. Pillay Engineering College has been developed and fully established with 4 Academic Blocks and 2 Workshop Blocks
+Main Block (Mech / Civil / S&H Laboratories)
+GG Block (CSE / IT / MECH)
+SJ Block (ECE / EEE /S&H / Civil)
+P.G. Block (MBA / MCA / M.E.)
+Electrical & Electronics Block (All Labs for EEE/MECH/ECE)
+Two Workshop Blocks
+The Buildings house fully furnished Laboratories, Class rooms, Drawing halls, Conference halls, Offices for HODs, Staff rooms, Seminar Halls, Department Libraries and other facilities as per ‘AICTE Norms and Standards’.
+Spacious lawns between the entrance and buildings and green trees around provide the serene and right ambience for the Campus. The College has 3 Residential Hostels, separately for Boys and for Girls.
+Facilities provided in the hostels include:
+Study Halls
+Recreation Rooms with Television
+Common Rooms
+Entertainment Hall and Indoor Games
+Magazine Section
+Health and GYM
+Areas for Sports and Indoor Games
+Computer Centers
+Fully furnished Computer Laboratories are located in 10 different Centers. These Laboratories cater to the ‘Computer Science and Engineering’ and ‘Information Technology’ needs of students and Faculty.
+There are totally 960 Terminals (i3 (8th Gen), i5 (12th Gen) ,i7 (12th Gen)) with UPS back up service:
+WINDOWS 10 / 11
+UNIX / LINUX Operating Systems
+5 - Lenovo ThinkSystem Servers
+Internet
+College has 1Gbps Internet connectivity through Reliance leased line.Entire campus is Wi-Fi enabled (including Boys & Girls) Hostel.
+Be part of our journey to empower aspiring engineers, scientists, and managers towards success!
+04356 251114
+E.G.S Pillay Engineering College
+Old Nagore Road, Thethi Village
+Nagapattinam - 611002
+Follow Us:
+On Campus
+28.4°C
+Cloudy
+Facebook
+LinkedIn
+Twitter
+Instagram
+YouTube
+Copyright © 2006 - 2026 All
+Rights Reserved by
+EGS Pillay Group of Institutions
+Developed By
+Raghavan Jeeva
+|
+Status Page
+Sitemap
+Privacy Policy
+Terms & Conditions
+Contact Web Admin
+Website last updated on:
+2026-10-12 04:03:06 PM

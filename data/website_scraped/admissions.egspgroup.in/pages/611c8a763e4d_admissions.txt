@@ -1,0 +1,31 @@
+URL: https://admissions.egspgroup.in/admissions
+EXTRACTOR: requests+bs4
+
+Admission Procedures
+Find detailed information on how to apply for our diverse range of programs.
+How to Apply
+Select an institution below to view the specific admission process for your desired program category.
+E.G.S. Pillay Engineering College
+Detailed admission procedures and contact information.
+Admissions Contact
++91 99768 88999
++91 86809 54537
+admission@egspec.org
+Undergraduate (UG)
+Postgraduate (PG)
+Ph.D.
+Edayathangudy G. S. Pillay Arts & Science College
++91 98765 43210
+admissions.asc@egspgoi.ac.in
+EGS Pillay Polytechnic College
++91 91234 56789
+admissions.poly@egspgoi.ac.in
+Diploma
+Lateral Entry (to B.E.)
+EGS Pillay College of Pharmacy
++91 99887 76655
+admissions.pharm@egspgoi.ac.in
+Diploma (D.Pharm)
+Undergraduate (B.Pharm)
+Doctorate (Pharm.D)
+Postgraduate (M.Pharm)

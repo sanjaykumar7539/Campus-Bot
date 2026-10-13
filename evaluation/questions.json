@@ -1,0 +1,17 @@
+[
+  {
+    "question": "What are the admission eligibility requirements?",
+    "expected_source": "",
+    "notes": "Fill expected_source after adding official admission documents."
+  },
+  {
+    "question": "What is the latest fee structure?",
+    "expected_source": "",
+    "notes": "Use the current approved fee document."
+  },
+  {
+    "question": "Where can I find the examination timetable?",
+    "expected_source": "",
+    "notes": "Replace with a college-specific answer/source during evaluation setup."
+  }
+]

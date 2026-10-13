@@ -1,0 +1,61 @@
+URL: https://egspec.org/academics/departments/undergraduate/cyber-security
+EXTRACTOR: requests+bs4
+
+Academics
+Departments
+Undergraduate
+Cyber Security
+About
+The Department of Cyber Security at E.G.S. Pillay Engineering College is committed to cultivating forward-thinking cyber warriors, network defense architects, and digital forensics specialists. As global technological reliance deepens, safeguarding critical digital infrastructures, cloud systems, and sensitive information from sophisticated cyber threats has become paramount. Our B.E. Cyber Security programme delivers a rigorous blend of computing fundamentals, applied cryptography, ethical hacking, cyber defense architectures, digital forensics, cloud security, and compliance. Equipped with state-of-the-art security laboratories and mentored by seasoned academicians and certified industry experts, students acquire deep technical skills and ethical foundations to excel in cybersecurity careers across top multinational corporations, defense institutions, and research laboratories.
+Vision
+To be a centre of excellence in Cyber Security education, research, and innovation by producing globally competent professionals capable of securing digital ecosystems and addressing emerging cybersecurity challenges with ethical and sustainable solutions.
+Mission
+M1:
+To impart strong theoretical foundations and practical expertise in Cyber Security through outcome-based education, hands-on laboratories, and industry-driven learning.
+M2:
+To foster experiential learning through industry collaboration, internships, certification programs, and project-based learning that prepare students to address real-world cybersecurity challenges and enhance employability.
+M3:
+To promote innovation, interdisciplinary research, entrepreneurship, professional ethics, lifelong learning, and industry collaboration for developing socially responsible cybersecurity professionals.
+Department Quick Links
+Department Highlights
+Hod's Desk
+Faculty Details
+Curriculum
+Placements
+Faculty Development Programme (FDP)
+Program Outcomes
+Programme Educational Objectives
+Programme Specific Outcomes
+Department Contact
+Head of Department
+Phone:
+04365251112
+Mail:
+[email protected]
+Be part of our journey to empower aspiring engineers, scientists, and managers towards success!
+04356 251114
+E.G.S Pillay Engineering College
+Old Nagore Road, Thethi Village
+Nagapattinam - 611002
+Follow Us:
+On Campus
+28.4°C
+Cloudy
+Facebook
+LinkedIn
+Twitter
+Instagram
+YouTube
+Copyright © 2006 - 2026 All
+Rights Reserved by
+EGS Pillay Group of Institutions
+Developed By
+Raghavan Jeeva
+|
+Status Page
+Sitemap
+Privacy Policy
+Terms & Conditions
+Contact Web Admin
+Website last updated on:
+2026-10-12 04:03:06 PM

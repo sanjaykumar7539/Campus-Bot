@@ -1,0 +1,73 @@
+URL: https://egspec.org/academics/departments/undergraduate/cyber-security/department-highlights
+EXTRACTOR: requests+bs4
+
+Academics
+Departments
+Cyber Security
+Department Highlights
+S.No
+Salient Features & Key Highlights
+1
+Advanced Cyber Defense & Digital Forensics Lab:
+High-performance workstations equipped with state-of-the-art security suites, vulnerability scanners (Kali Linux, Wireshark, Metasploit, Nessus, Autopsy, and Ghidra).
+2
+Industry Certifications Integration:
+Structured curriculum enabling students to earn prestigious certifications like CompTIA Security+, CEH (Certified Ethical Hacker), and Cisco CyberOps Associate.
+3
+Capture The Flag (CTF) & Ethical Hacking Club:
+Active student community participating in national and international cybersecurity hackathons, vulnerability research, and bug bounty initiatives.
+4
+Industry MoUs & Collaboration:
+Partnerships with top cybersecurity firms and IT solution providers for live project mentorship, internships, and industrial threat intelligence exposure.
+5
+Security Operations Center (SOC) Simulation:
+Hands-on training on SIEM tools, network anomaly detection, intrusion prevention, and live incident response workflows.
+6
+Research & Innovation in Secure Computing:
+Focus areas include AI-driven threat mitigation, blockchain security, IoT & SCADA protection, and zero-trust network architectures.
+7
+100% Placement & Internship Support:
+Dedicated career pathways into roles such as Cyber Security Analyst, Penetration Tester, Forensics Examiner, and Cloud Security Engineer.
+Department Quick Links
+About
+Hod's Desk
+Faculty Details
+Curriculum
+Placements
+Faculty Development Programme (FDP)
+Program Outcomes
+Programme Educational Objectives
+Programme Specific Outcomes
+Department Contact
+Head of Department
+Phone:
+04365251112
+Mail:
+[email protected]
+Be part of our journey to empower aspiring engineers, scientists, and managers towards success!
+04356 251114
+E.G.S Pillay Engineering College
+Old Nagore Road, Thethi Village
+Nagapattinam - 611002
+Follow Us:
+On Campus
+28.4°C
+Cloudy
+Facebook
+LinkedIn
+Twitter
+Instagram
+YouTube
+Copyright © 2006 - 2026 All
+Rights Reserved by
+EGS Pillay Group of Institutions
+Developed By
+Raghavan Jeeva
+|
+Status Page
+Sitemap
+Privacy Policy
+Terms & Conditions
+Contact Web Admin
+Website last updated on:
+2026-10-12 04:03:06 PM

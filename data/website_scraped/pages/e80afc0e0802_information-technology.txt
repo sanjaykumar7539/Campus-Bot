@@ -1,0 +1,98 @@
+URL: https://egspec.org/resources/projects/information-technology
+EXTRACTOR: requests+bs4
+
+Research
+Project
+Department of Information Technology
+R&D / Consultancy
+List of Consultancy Projects Undertaken
+#
+Investigators
+Project Title
+Company
+Period
+Duration
+Budget (Rs)
+1
+Network Computing and Cloudlet Services
+Oliver Academy of Education initiative, Vedharanyam
+2 years
+1.18
+2
+Diesel Filing and Mileage Record System
+R.S.Mani Transport, Vedharanyam
+6 Months
+0.84
+3
+Mahatma Gandhi National Rural Employment Registration
+Nagapattinam Block Development Officer
+3 Months
+0.50
+4
+National Electoral Roll Purification and Authentication Programme (NERPAP)
+Nagapattinam Assembly – Tahsildar Office
+1.00
+5
+Banking Financial Service and Insurance for Unemployed Graduates
+Tamil Nadu Skill Development and Mission Corporation
+0.45
+Budget (Lakhs)
+Mr. M. Chinnadurai, Mr. S. Manikandan
+Measuring The Performance Of Computer’s
+Annai Computer’s Velankanni
+Aug 2014 to July 2015
+0.92
+M. Chinnadurai, Mr. S. Manikandan, Mr. S. Palanimurugan
+Conference Website
+E.G.S. Pillay Engineering College
+July 2014 to Aug 2015
+1.2 years
+0.42
+Mr. K. Manikanda Kumaran
+Nov 2014 to Oct 2015
+1 year
+0.05
+Mr. S. Manikandan, Ms. P. Suganya
+Science Olympiad Foundation World Largest Olympiads
+Aptech, Mumbai
+July 2014 to July 2015
+1.1 year
+0.012
+Aadhaar Card Entry
+Nagapattinam Assembly – Thasildhar Office
+Measuring The Performance Of Computer's
+Annai Computer's Velankanni
+Mr. S. Palanimurugan, Mr. K. Manikanda Kumaran
+E-Learning
+E.G.S.P.E.C, Nagapatinam
+Aug 2013 to July 2014
+0.38
+Prof. M. Chinnadurai, Mr. S. Manikandan, Mr. S. Palanimurugan
+Sep 2013 To Aug 2014
+Be part of our journey to empower aspiring engineers, scientists, and managers towards success!
+04356 251114
+E.G.S Pillay Engineering College
+Old Nagore Road, Thethi Village
+Nagapattinam - 611002
+Follow Us:
+On Campus
+28.4°C
+Cloudy
+Facebook
+LinkedIn
+Twitter
+Instagram
+YouTube
+Copyright © 2006 - 2026 All
+Rights Reserved by
+EGS Pillay Group of Institutions
+Developed By
+Raghavan Jeeva
+|
+Status Page
+Sitemap
+Privacy Policy
+Terms & Conditions
+Contact Web Admin
+Website last updated on:
+2026-10-12 04:03:06 PM

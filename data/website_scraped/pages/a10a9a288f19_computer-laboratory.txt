@@ -1,0 +1,123 @@
+URL: https://egspec.org/facilities/laboratories/computer-laboratory
+EXTRACTOR: requests+bs4
+
+Facilities
+laboratories
+Computer Laboratory
+Computing Centre -3
+Sno.
+Name of the Laboratory
+No of students per setup
+Name of the Important equipment
+Weekly utilization status
+Name of the technical staff
+Designation
+Qualification
+1
+Open Source Lab
+33
+Dell optiplex 3080-Intel i5 Processor, 8GB DDR4 RAM, 1 TB HDD, 19” LED Monitor, USB Keyboard and Mouse, D-link 24 port switch, 120 column TVS dot matrix printer.
+1. 1702IT404 & 1902IT453 - Operating Systems Lab - 4hrs
+2. 1702IT753 & 1902IT701 - Cloud Computing Lab - 4hrs
+3. 1702IT651 & 1902IT651 Mobile Application Development – 6hrs
+Mr. P. Muthunayakam
+Technical Assistant
+DIT
+2
+Networks Lab
+1. 1702IT451 & 1902451 - Networks Lab - 4hrs
+2. 1702IT402 & 1902IT452 - Java Lab - 4hrs
+3. 1702IT403 & 1902IT504 - IoT - 4hrs Total Hours: 12hrs
+Mr.P.Muthunayakam
+3
+Data Science Lab
+1. 17CSX52 & 1902IT451 & DBMS Lab – 4hrs
+2. 1702IT603 & 1902IT651 - Data Mining – 4hrs
+3. 1702IT401 - Data Analytics - 4hrs Total Hours: 12hrs
+Mr.R.Balaji
+M.Sc
+4
+Programming Lab
+1. 1702IT301 & 1902IT351 - Data Structure and Algorithms Lab - 4hrs
+2. 1902IT352 - Python Programming Lab – 4hrs
+3. 1702IT504 & 1902IT502 - Web Programming Lab – 4hrs
+4. 1702IT551 & 1902IT551 - CASE Tools – 6hrs Total Hours: 18hrs
+Additional facilities created for improving the quality of learning experience in laboratories
+Facility Name
+Details
+Reason(s) for creating facility
+Utilization
+Areas in which students are expected to have enhanced learning
+Relevance to POs/PSOs
+1.
+Operating Systems, Compiler Design, Distributed Systems, Cloud Computing
+Created open source environment for doing networking, cloud and design based applications
+Staff and Students for Laboratory Experiments, Projects, Simulation
+Open Source Environment
+PO5, PO8, PO9, PO11, PO12 / PSO1, 2, 3
+2.
+Intranet File Sharing (192.168.21.100)
+Intranet File sharing
+Sharing materials, lab manuals, documents etc via Intranet
+Staff and Students
+Networking Case Study
+PO5, PO6, PO8 / PSO1, 2, 3
+3.
+Oracle Academy
+Java, PL/SQL
+Oracle iLearning Platforms
+Staff and Students training and certification
+Self-Learning
+PO5, PO6, PO8, PO12 / PSO1, 2, 3
+4.
+VMWare IT Academy
+Cloud Computing, Data Centre Virtualization
+VMWare Platform for developing and simulating cloud and virtualization environments
+Working Environment
+5.
+Palo Alto
+Cyber Security, Cryptography and Network security
+Learning cyber forensic courses
+6.
+Dell EMC Data Analytics
+Data warehousing and Data mining, Data Analytics
+Learning and working environment
+7.
+Amazon Web Services
+Amazon learning center
+Self-Learning and Working Environment
+8.
+Mobile App Lab
+Mobile Application Development
+Mobile App development
+App Development
+9.
+Redhat Academy
+Red hat learning platform
+Be part of our journey to empower aspiring engineers, scientists, and managers towards success!
+04356 251114
+E.G.S Pillay Engineering College
+Old Nagore Road, Thethi Village
+Nagapattinam - 611002
+Follow Us:
+On Campus
+28.4°C
+Cloudy
+Facebook
+LinkedIn
+Twitter
+Instagram
+YouTube
+Copyright © 2006 - 2026 All
+Rights Reserved by
+EGS Pillay Group of Institutions
+Developed By
+Raghavan Jeeva
+|
+Status Page
+Sitemap
+Privacy Policy
+Terms & Conditions
+Contact Web Admin
+Website last updated on:
+2026-10-12 04:03:06 PM

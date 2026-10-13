@@ -1,0 +1,89 @@
+URL: https://egspec.org/academics/departments/undergraduate/artificial-intelligence-and-machine-learning/program-outcomes
+EXTRACTOR: requests+bs4
+
+Academics
+Departments
+Artificial Intelligence & Machine Learning
+Program Outcomes
+Program Outcomes (POs)
+PO #
+Program Outcomes Description
+PO1
+Engineering Knowledge:
+Apply knowledge of mathematics, linear algebra, probability, statistics, computing fundamentals, and artificial intelligence specialization to solve complex engineering and data-driven problems.
+PO2
+Problem Analysis:
+Identify, formulate, review research literature, and analyze complex AI & ML problems reaching substantiated conclusions using first principles of mathematics, statistics, and machine learning sciences.
+PO3
+Design/Development of Solutions:
+Design intelligent solutions, predictive models, and deep learning architectures that meet specified needs with appropriate consideration for public health, societal welfare, safety, and cultural considerations.
+PO4
+Conduct Investigations of Complex Problems:
+Use research-based methods including exploratory data analysis, neural network hyperparameter tuning, model validation, and statistical synthesis to generate valid scientific insights.
+PO5
+Modern Tool Usage:
+Create, select, and apply state-of-the-art AI frameworks, GPU compute clusters, and machine learning platforms (PyTorch, TensorFlow, Scikit-Learn, OpenCV, Hugging Face) to complex engineering activities.
+PO6
+The Engineer and Society:
+Apply informed reasoning to assess societal, legal, privacy, fairness, and ethical issues relevant to deploying AI systems in healthcare, governance, finance, and automation.
+PO7
+Environment and Sustainability:
+Understand the environmental impact of compute-intensive AI architectures and demonstrate the knowledge of energy-efficient, sustainable Green AI practices.
+PO8
+Ethics:
+Apply ethical principles and commit to responsible AI development, algorithmic transparency, bias mitigation, and professional norms of engineering practice.
+PO9
+Individual and Team Work:
+Function effectively as an individual, and as a member or leader in diverse cross-functional teams in multidisciplinary data science settings.
+PO10
+Communication:
+Communicate effectively on complex AI concepts, model behaviors, and quantitative findings with both technical researchers and domain stakeholders.
+PO11
+Project Management and Finance:
+Demonstrate understanding of AI lifecycle management, MLOps deployment pipelines, and apply engineering economics to manage AI development projects.
+PO12
+Life-long Learning:
+Recognize the fast-paced evolution of artificial intelligence and possess the capability to engage in independent and lifelong learning across cutting-edge frontiers of AI research.
+Department Quick Links
+About
+Department Highlights
+Hod's Desk
+Faculty Details
+Curriculum
+Placements
+Faculty Development Programme (FDP)
+Programme Educational Objectives
+Programme Specific Outcomes
+Department Contact
+Head of Department
+Phone:
+04365251112
+Mail:
+[email protected]
+Be part of our journey to empower aspiring engineers, scientists, and managers towards success!
+04356 251114
+E.G.S Pillay Engineering College
+Old Nagore Road, Thethi Village
+Nagapattinam - 611002
+Follow Us:
+On Campus
+28.4°C
+Cloudy
+Facebook
+LinkedIn
+Twitter
+Instagram
+YouTube
+Copyright © 2006 - 2026 All
+Rights Reserved by
+EGS Pillay Group of Institutions
+Developed By
+Raghavan Jeeva
+|
+Status Page
+Sitemap
+Privacy Policy
+Terms & Conditions
+Contact Web Admin
+Website last updated on:
+2026-10-12 04:03:06 PM

@@ -1,0 +1,213 @@
+URL: https://egspec.org/facilities/laboratories/mechanical-laboratory
+EXTRACTOR: requests+bs4
+
+Facilities
+laboratories
+Mechanical Laboratory
+Engineering Practices Laboratory
+Sno.
+List of Equipments
+1
+Drilling Machine – Pillar
+2
+Blade Grinder 18”
+3
+Surface Planner 18” Circular Saw
+4
+Thickneser
+5
+Wood Turning Lathe
+6
+Mechanical Hacksaw Machine 7”
+7
+Arc Welding TransformerOil cooled – 2Nos
+8
+Arc Welding TransformerAir cooled – 2Nos
+9
+Gas Welding (Oxygen & Acetylene Cylinder)
+10
+Blower
+11
+Portable Grinder
+12
+Circular Saw
+13
+Rotary Hammer
+14
+Demolition Hammer H.D
+15
+Planner MH80XI Hitmin
+16
+Hand Drilling Machine
+17
+Jig Saw
+18
+Angle Grinder Machine
+19
+Hearth Furnace
+20
+TIG Welding Machine
+Metrology and Measurement Laboratory
+Pneumatic Comparator
+Heavy Duty Dial Gauge
+Digital Vernier Caliper
+Vernier Height Gauge
+Micrometer
+Bore Gauge With Dial
+Vernier Depth Gauge
+Slip Gauge Setup
+Gear Tooth Vernier
+Comparator With Dial Gauge
+Tool Maker’s Microscope
+Profile Projector
+Floating Carriage Micrometer
+Auto Collimator
+Optical Comparator
+Vernier Bevel Protractor
+Thermocouple With Heat Source
+Linear Variable Differential Transformer (Lvdt)
+Platinum Resistance Thermocouple
+21
+Radiation Pyrometer With Heat Source
+22
+Optical Pyrometer
+23
+Surface Roughness Tester
+24
+Telescopic Gauge
+25
+Force Measuring Setup
+26
+Torque Measuring Setup
+27
+Parallel/Counter Flow Heat Exchanger
+Thermal Engineering Laboratory – I
+Single cylinder 4-stroke diesel engine Data Acquisition System electrical loading with alternator
+Twin cylinder 4-stroke diesel engine mechanical Loading
+Multi cylinder 4-stroke petrol engine Morse test rope
+Brake mechanical loading
+Single cylinder 2-stroke petrol engine cut section Model
+Single cylinder 4-stroke diesel engine cut section Model
+Single cylinder 4-stroke diesel engine mechanical loading
+Single cylinder 4-stroke diesel engine hydraulic loading
+Single cylinder 4-stroke petrol engine electrical loading
+Redwood Viscometer
+Cleave land Open and closed cup Apparatus
+Saybolt viscometer
+Exhaust Gas Analyser - 4GAS, CO,HC,CO2,O2
+Thermal Engineering Laboratory – II
+Guarded plate apparatus
+Natural convection-vertical cylinder apparatus
+Forced convection inside tube apparatus
+Composite wall apparatus
+Thermal conductivity of insulating powder apparatus
+Lagged pipe apparatus
+Pin-fin apparatus
+Stefan-Boltzmann apparatus
+Fluidized Bed Cooling Tower
+Emissivity measurement apparatus
+Parallel/counter flow heat exchanger apparatus
+Single/two stage reciprocating air compressor
+Refrigeration test rig
+Air-conditioning test rig
+LPG Refrigeration test rig
+Refrigeration - CUT SECTION MODEL
+Steam turbine test rig
+Maxima non – IBR Boiler
+Manufacturing Technology Lab – I & II
+Pilot 4’ Lathe
+Pilot Lathe Iii
+Pilot Lathe 41/2 Feet
+Pilot 6’ Lathe
+Padmini Student Lathe
+Turret Lathe
+Capstan Lathe
+Atlas Bench Grinder
+18” Shaper
+Gear Hobbing Machine
+Smt Universal Radial Drilling M/C
+Suraj(Sm2) Universal Milling M/C
+Parrot Pmcv-150 Vertical Surface Grinder
+Sew 1” Piller Drilling M/C
+Tool And Cutter Grinder
+Lathe Tool Dynamometer
+Parrot Spindle Horizontal Grinder M/C
+Riat R32 Cylindrical Grinder
+3” Horizontal Planner Machine
+Gear Shaper Machine
+Centerless Grinder Machine
+Milling Tool Dynamometer
+Tool Makers Microscope
+Theory of Machines Laboratory
+Forced Vibration Setup
+Stroboscope
+Torsional Vibration Setup – Single
+Spring Mass and Strip Mass System
+Whirling Speed of Shaft
+Dynamic Balancing of Rotors
+Kinematic of Gear Trains (Simple & Compound)
+Turn Table Apparatus
+Cam Study Kit
+Moment of Inertia by Oscillation
+Universal Governors
+Gyroscopic Couple
+Spring Mass Vibration Setup
+Vibrating Table
+Governor Apparatus
+Transverse Vibration Setup
+Dynamic balancing – Reciprocating mass
+Two Rotor Vibration Setup
+Tachometer, Stop watches and other tools
+Mechatronics Laboratory
+Basic Pneumatic Trainer Kit
+Air Compressor
+Hydraulic simulation software – 2000 version 1
+Pneumatic simulation software – 2000 version 1
+8051 – Microcontroller kit with stepper motor
+PID Temperature Controller
+AC servo controller
+Servo controller interfacing for DC Motor
+Basic Hydraulic Trainer Kit
+Pick Place robot
+CAD/CAM Laboratory
+Computer system (Dell)
+HP Laser printer
+HPDesign jet 100 plotter
+Computer system(Dell)
+XL TURN CNC
+XL MILL CNC
+Solid works-2004
+Ansys-ver 11.0
+Edge CAM
+Master CAM
+Research & Development Lab
+PIN ON DISC
+WIRE CUT EDM
+VIDEO MICROSCOPE
+Be part of our journey to empower aspiring engineers, scientists, and managers towards success!
+04356 251114
+E.G.S Pillay Engineering College
+Old Nagore Road, Thethi Village
+Nagapattinam - 611002
+Follow Us:
+On Campus
+28.4°C
+Cloudy
+Facebook
+LinkedIn
+Twitter
+Instagram
+YouTube
+Copyright © 2006 - 2026 All
+Rights Reserved by
+EGS Pillay Group of Institutions
+Developed By
+Raghavan Jeeva
+|
+Status Page
+Sitemap
+Privacy Policy
+Terms & Conditions
+Contact Web Admin
+Website last updated on:
+2026-10-12 04:03:06 PM

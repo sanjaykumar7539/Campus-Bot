@@ -1,0 +1,84 @@
+URL: https://egspec.org/academics/departments/undergraduate/computer-science-and-engineering/program-outcomes
+EXTRACTOR: requests+bs4
+
+Academics
+Departments
+Computer Science and Engineering
+Program Outcomes
+Program Outcomes (POs)
+##
+PO1
+Apply the knowledge of mathematics, science, engineering fundamentals, and an engineering specialization to the solution of complex engineering problems.
+PO2
+Identify, formulate, research literature, and analyze complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences.
+PO3
+Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for the public health and safety, and the cultural, societal, and environmental considerations.
+PO4
+Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data, and synthesis of the information to provide valid conclusions.
+PO5
+Create, select, and apply appropriate techniques, resources, and modern engineering and IT tools including prediction and modelling to complex engineering activities with an understanding of the limitations.
+PO6
+Apply reasoning informed by the contextual knowledge to assess societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to the professional engineering practice.
+PO7
+Understand the impact of the professional engineering solutions in societal and environmental contexts, and demonstrate the knowledge of, and need for sustainable development.
+PO8
+Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice.
+PO9
+Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings.
+PO10
+Communicate effectively on complex engineering activities with the engineering community and with society at large, such as, being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions.
+PO11
+Demonstrate knowledge and understanding of the engineering and management principles and apply these to one’s own work, as a member and leader in a team, to manage projects and in multidisciplinary environments.
+PO12
+Recognize the need for, and have the preparation and ability to engage in independent and lifelong learning in the broadest context of technological change.
+Other Links
+Alumni Survey
+Graduate Exit Survey
+Employer Survey
+Student Certificate Submission
+Department Quick Links
+About
+Department Highlights
+HoD's Desk
+Faculty Details
+Curriculum
+Research & Publications
+Industry Collaboration
+Student Achievements
+Industry Supported Lab
+Placements
+Programme Educational Objectives
+Programme Specific Outcomes
+Department Contact
+Dr. K. Balasubramanian
+Phone:
+9942666526
+Mail:
+[email protected]
+Be part of our journey to empower aspiring engineers, scientists, and managers towards success!
+04356 251114
+E.G.S Pillay Engineering College
+Old Nagore Road, Thethi Village
+Nagapattinam - 611002
+Follow Us:
+On Campus
+28.4°C
+Cloudy
+Facebook
+LinkedIn
+Twitter
+Instagram
+YouTube
+Copyright © 2006 - 2026 All
+Rights Reserved by
+EGS Pillay Group of Institutions
+Developed By
+Raghavan Jeeva
+|
+Status Page
+Sitemap
+Privacy Policy
+Terms & Conditions
+Contact Web Admin
+Website last updated on:
+2026-10-12 04:03:06 PM

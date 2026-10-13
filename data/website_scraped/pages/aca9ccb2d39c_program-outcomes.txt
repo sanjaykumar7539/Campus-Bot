@@ -1,0 +1,76 @@
+URL: https://egspec.org/academics/departments/undergraduate/biomedical-engineering/program-outcomes
+EXTRACTOR: requests+bs4
+
+Academics
+Departments
+Biomedical Engineering
+Program Outcomes
+Program Outcomes (POs)
+##
+PO1
+Engineering knowledge: Apply the knowledge of mathematics, science, engineering fundamentals, and an engineering specialization to solve complex engineering problems.
+PO2
+Problem analysis: Identify, formulate, review research literature, and analyze complex engineering problems using first principles of mathematics, natural sciences, and engineering sciences to reach substantiated conclusions.
+PO3
+Design/development of solutions: Design solutions for complex engineering problems and system components or processes that meet specified needs while considering public health, safety, and cultural, societal, and environmental impacts.
+PO4
+Conduct investigations of complex problems: Utilize research-based knowledge and methodologies, including experiment design, data analysis, and information synthesis, to draw valid conclusions.
+PO5
+Modern tool usage: Create, select, and apply appropriate techniques, resources, and modern engineering and IT tools, including prediction and modeling, to complex engineering activities, with an understanding of their limitations.
+PO6
+The engineer and society: Apply contextual knowledge to assess societal, health, safety, legal, and cultural issues and responsibilities relevant to professional engineering practice.
+PO7
+Environment and sustainability: Understand the impact of professional engineering solutions in societal and environmental contexts and demonstrate knowledge of the need for sustainable development.
+PO8
+Ethics: Apply ethical principles and commit to professional ethics and responsibilities and norms of engineering practice.
+PO9
+Individual and team work: Function effectively as an individual and as a member or leader in diverse teams and multidisciplinary settings.
+PO10
+Communication: Communicate effectively on complex engineering activities with the engineering community and society at large, including writing effective reports and design documentation, making effective presentations, and giving and receiving clear instructions.
+PO11
+Project management and finance: Demonstrate knowledge and understanding of engineering and management principles and apply these to one's own work, as a member and leader in a team, to manage projects and multidisciplinary environments.
+PO12
+Life-long learning: Recognize the need for, and have the preparation and ability to engage in independent and life-long learning amidst technological changes.
+Department Quick Links
+About
+Department Highlights
+Hod's Desk
+Faculty Details
+Curriculum
+Research & Publications
+Placements
+Programme Educational Objectives
+Programme Specific Outcomes
+Department Contact
+Dr. S. Chitra
+Phone:
++917598690214
+Mail:
+[email protected]
+Be part of our journey to empower aspiring engineers, scientists, and managers towards success!
+04356 251114
+E.G.S Pillay Engineering College
+Old Nagore Road, Thethi Village
+Nagapattinam - 611002
+Follow Us:
+On Campus
+28.4°C
+Cloudy
+Facebook
+LinkedIn
+Twitter
+Instagram
+YouTube
+Copyright © 2006 - 2026 All
+Rights Reserved by
+EGS Pillay Group of Institutions
+Developed By
+Raghavan Jeeva
+|
+Status Page
+Sitemap
+Privacy Policy
+Terms & Conditions
+Contact Web Admin
+Website last updated on:
+2026-10-12 04:03:06 PM

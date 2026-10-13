@@ -1,0 +1,59 @@
+URL: https://egspec.org/academics/departments/undergraduate/artificial-intelligence-and-machine-learning/programme-specific-outcomes
+EXTRACTOR: requests+bs4
+
+Academics
+Departments
+Artificial Intelligence & Machine Learning
+Programme Specific Outcomes
+Programme Specific Outcomes (PSOs)
+PSO #
+Programme Specific Outcomes Description
+PSO1
+AI/ML Design & Algorithmic Modelling:
+Ability to design, formulate, train, and evaluate predictive machine learning models, deep neural networks, computer vision algorithms, and natural language pipelines to address real-world industrial and societal problems.
+PSO2
+Modern AI Tool Stack & MLOps Deployment:
+Proficiency in industry-standard AI platforms (PyTorch, TensorFlow, Scikit-Learn, OpenCV, Hugging Face, ROS), GPU acceleration techniques, and cloud-based MLOps workflows to deploy scalable, robust intelligent solutions.
+Department Quick Links
+About
+Department Highlights
+Hod's Desk
+Faculty Details
+Curriculum
+Placements
+Faculty Development Programme (FDP)
+Program Outcomes
+Programme Educational Objectives
+Department Contact
+Head of Department
+Phone:
+04365251112
+Mail:
+[email protected]
+Be part of our journey to empower aspiring engineers, scientists, and managers towards success!
+04356 251114
+E.G.S Pillay Engineering College
+Old Nagore Road, Thethi Village
+Nagapattinam - 611002
+Follow Us:
+On Campus
+28.4°C
+Cloudy
+Facebook
+LinkedIn
+Twitter
+Instagram
+YouTube
+Copyright © 2006 - 2026 All
+Rights Reserved by
+EGS Pillay Group of Institutions
+Developed By
+Raghavan Jeeva
+|
+Status Page
+Sitemap
+Privacy Policy
+Terms & Conditions
+Contact Web Admin
+Website last updated on:
+2026-10-12 04:03:06 PM

@@ -1,0 +1,134 @@
+URL: https://egspec.org/academics/departments/undergraduate/information-technology/infrastructure
+EXTRACTOR: requests+bs4
+
+Academics
+Departments
+Information Technology
+Infrastructure
+Computing Center - 3
+Name of the Laboratory:
+Open Source Lab
+No of students per setup:
+33
+Name of the Important equipment:
+Dell optiplex 3080-Intel i5 Processor, 8GB, DDR4RAM, 1 UTBHDD, 19” LED Monitor, USB Keyboard and Mouse, D-link 24 port switch, 120 column TVS dot matrix printer.
+Weekly utilization status:
+1702IT404 & 1902IT453 - Operating Systems Lab - 4hrs
+1702IT753 & 1902IT701 - Cloud Computing Lab - 4hrs
+1702IT651 & 1902IT651 - Mobile Application Development – 6hrs
+Name of the technical staff:
+Mr.P.Muthunayakam
+Designation:
+Technical Assistant
+Qualification:
+DIT
+Networks Lab
+1702IT451 & 1902IT451 - Networks Lab - 4hrs
+1702IT402 & 1902IT452 - Java Lab - 4hrs
+1702IT403 & 1902IT504 - IoT - 4hrs
+Total Hours: 12hrs
+Data Science Lab
+17CSX52 & 1902IT451 - DBMS Lab – 4hrs
+1702IT603 & 1902IT651 - Data Mining – 4hrs
+1702IT401 - Data Analytics - 4hrs
+Mr.R.Balaji
+M.Sc
+Programming Lab
+1702IT301 & 1902IT351 - Data Structure and Algorithms Lab - 4hrs
+1902IT352 - Python Programming Lab – 4hrs
+1702IT504 & 1902IT502 - Web Programming Lab – 4hrs
+1702IT551 & 1902IT551 - CASE Tools – 6hrs
+Total Hours: 18hrs
+Additional facilities created for improving the quality of learning experience in laboratories
+Name of the Facility:
+Intranet File Sharing
+Details:
+Intranet File sharing
+Reason(s) for creating facility:
+Sharing materials, lab manuals, documents etc via Intranet
+Utilization:
+Staff and Students
+Areas in which students are expected to have enhanced learning:
+Networking Case Study
+Relevance to POs/PSOs:
+PO5, PO6, PO8 / PSO1,2,3
+Oracle Academy
+Java, PL/SQL
+Oracle iLearning Platforms
+Staff and Students training and certification
+Self-Learning
+PO5, PO6, PO8, PO12 / PSO1,2,3
+VMWare IT Academy
+Cloud Computing, Data Centre Virtualization
+VMWare Platform for developing and simulating cloud and virtualization environments
+Staff and Students for Laboratory Experiments, Projects, Simulation
+Working Environment
+PO5, PO8, PO9, PO11, PO12 / PSO1,2,3
+Palo Alto
+Cyber Security, Cryptography and Network security
+Learning cyber forensic courses
+Dell EMC Data Analytics
+Big Data Analytics
+Online Platform for developing and simulating Big Data environments
+Amazon Web Services
+Cloud Platform for developing and deploying applications
+AWS Academy
+Staff and Students for Cloud based projects
+Self Learning
+Mobile App Lab
+Redhat Academy
+Training the students with Open Source technologies
+Other Links
+Alumni Survey
+Students Feedback
+Grievances
+Employer Survey
+Graduate Exit Survey
+Student Certificate Submission
+Department Forms
+Department Quick Links
+About
+Department Highlights
+Hod's Desk
+Faculty Details
+Curriculum
+Research & Publications
+Industry Collabration
+Placements
+Student Achievements
+Program Outcomes
+Programme Educational Objectives
+Programme Specific Outcomes
+Department Contact
+Dr. G. Arul Selvan
+Phone:
+8870641821
+Mail:
+[email protected]
+Be part of our journey to empower aspiring engineers, scientists, and managers towards success!
+04356 251114
+E.G.S Pillay Engineering College
+Old Nagore Road, Thethi Village
+Nagapattinam - 611002
+Follow Us:
+On Campus
+28.4°C
+Cloudy
+Facebook
+LinkedIn
+Twitter
+Instagram
+YouTube
+Copyright © 2006 - 2026 All
+Rights Reserved by
+EGS Pillay Group of Institutions
+Developed By
+Raghavan Jeeva
+|
+Status Page
+Sitemap
+Privacy Policy
+Terms & Conditions
+Contact Web Admin
+Website last updated on:
+2026-10-12 04:03:06 PM

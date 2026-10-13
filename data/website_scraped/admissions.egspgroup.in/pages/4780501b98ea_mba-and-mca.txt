@@ -1,0 +1,14 @@
+URL: https://admissions.egspgroup.in/mba-and-mca
+EXTRACTOR: requests+bs4
+
+MBA & MCA Admissions 2026-27
+Lead the future with professional Management and Computing degrees from EGS Pillay Engineering College.
+Professional Growth and Innovation
+Industry-aligned MBA and MCA curriculum
+Specializations in trending technologies and domains
+Expert faculty with corporate and academic experience
+Top-tier placements in IT and Management firms
+Rich exposure to seminars, workshops, and case studies
+Elevate your career with our professional PG programs. We focus on developing leaders and innovators who can thrive in the competitive global business and technology landscape.
+Admissions Open 2026 - 2027
+Start your journey with EGS Pillay Group today.

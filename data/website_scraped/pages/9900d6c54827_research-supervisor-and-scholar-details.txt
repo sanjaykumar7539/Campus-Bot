@@ -1,0 +1,88 @@
+URL: https://egspec.org/research/research-supervisor-and-scholar-details
+EXTRACTOR: requests+bs4
+
+Research
+Research Supervisor
+Research Supervisor Details
+Recognized Research Supervisor List & Scholar Details
+/ PDF File
+Name of the Faculty
+Reference Number
+Number of Scholars Produced
+Number of Scholars Pursuing
+Dr. M. CHINNADURAI
+2840126
+15
+9
+Dr. K. BALASUBRAMANIAN
+4240018
+0
+5
+Dr. S. MANIKANDAN
+4040100
+6
+Dr. K. MANIKANDA KUMARAN
+4140007
+Dr. S. RAMABALAN
+2520085
+10
+Dr. S. KRISHNA MOHAN
+2920037
+3
+Dr. V. NAVANEETHAKRISHNAN
+3320090
+4
+Dr. G. SUNDARA VADIVEL
+4320006
+1
+Dr. V. MOHAN
+2830072
+Dr. T. SURESH PADMANABHAN
+2930027
+Dr. S. SIVAMANI
+4430006
+Dr. K. KRISHNARAM
+4430017
+Dr. A. RAJARAM
+2340070
+12
+7
+Dr. M. MALATHI
+4190004
+Dr. M. IRSHAD AHAMED
+3850002
+Dr. S. SENTHILKUMAR
+4190081
+Dr. L. RAMACHANDRAN
+4340034
+Dr. R. SIVAKUMAR
+2910018
+Dr. E. EDWARD ANAND
+2670077
+Be part of our journey to empower aspiring engineers, scientists, and managers towards success!
+04356 251114
+E.G.S Pillay Engineering College
+Old Nagore Road, Thethi Village
+Nagapattinam - 611002
+Follow Us:
+On Campus
+28.4°C
+Cloudy
+Facebook
+LinkedIn
+Twitter
+Instagram
+YouTube
+Copyright © 2006 - 2026 All
+Rights Reserved by
+EGS Pillay Group of Institutions
+Developed By
+Raghavan Jeeva
+|
+Status Page
+Sitemap
+Privacy Policy
+Terms & Conditions
+Contact Web Admin
+Website last updated on:
+2026-10-12 04:03:06 PM

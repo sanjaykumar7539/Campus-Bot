@@ -1,0 +1,10 @@
+URL: https://coe.egspec.org/syllabus
+EXTRACTOR: requests+bs4
+
+Syllabus Repository
+Regulation
+Program
+Department
+Semester
+Document
+Loading Syllabus Database...

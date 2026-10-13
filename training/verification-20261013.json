@@ -1,0 +1,48 @@
+{
+  "metrics": {
+    "steps": 21,
+    "device": "cpu",
+    "dtype": "torch.float32",
+    "max_length": 256,
+    "eval_examples_limit": 0,
+    "validation_loss_before": 1.8348791712981003,
+    "validation_loss_after": 1.8161728140024038,
+    "base_model": ".venv/models/smollm2-360m-instruct",
+    "automatic_activation": false
+  },
+  "adapter_tensor_count": 256,
+  "weights_finite": true,
+  "validation_fact_overlap": [],
+  "answers": [
+    {
+      "question": "What rank band did EGS Pillay Engineering College retain in NIRF 2025?",
+      "expected": "The college history page reports that it retained a position in the 201–300 rank band in the NIRF 2025 rankings.",
+      "generated": "EGS Pillay Engineering College has retained its rank band of 10.",
+      "source_url": "https://egspec.org/about/history",
+      "exact_match": false
+    },
+    {
+      "question": "How was EGSPEC placed in NIRF 2025?",
+      "expected": "According to the college history page, EGSPEC retained a position in the 201–300 rank band in the NIRF 2025 rankings.",
+      "generated": "EGSPEC was placed in NIRF 2025 through the following steps:\n\n1. The NIRF 2025 Board of Trustees (BOT) approved the application of the EGSEC.\n\n2. The EGSEC was awarded the EGSEC Award.\n\n",
+      "source_url": "https://egspec.org/about/history",
+      "exact_match": false
+    },
+    {
+      "question": "Which levels and broad subject areas are mentioned on the admissions website?",
+      "expected": "The admissions website mentions undergraduate, postgraduate, and doctoral programs in Engineering, Management, and Science. Check the official admissions website for current course and application details.",
+      "generated": "The admissions website mentions the following levels and broad subject areas:\n\n1. Bachelor of Science (B.Sc.)",
+      "source_url": "https://admissions.egspgroup.in/",
+      "exact_match": false
+    },
+    {
+      "question": "What types of programs does the EGS Pillay admissions website advertise?",
+      "expected": "It advertises undergraduate, postgraduate, and doctoral programs in Engineering, Management, and Science. For current offerings and admission dates, consult the official admissions website.",
+      "generated": "The EGS Pillay admissions website advertises various programs, including:",
+      "source_url": "https://admissions.egspgroup.in/",
+      "exact_match": false
+    }
+  ],
+  "manual_factual_review_required": true,
+  "automatic_activation": false
+}

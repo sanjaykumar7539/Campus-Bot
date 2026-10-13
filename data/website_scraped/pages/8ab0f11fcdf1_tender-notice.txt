@@ -1,0 +1,63 @@
+URL: https://egspec.org/reserach/aicte-rps-lab/tender-notice
+EXTRACTOR: requests+bs4
+
+Research
+AICTE - RPS Lab
+Tender Notice
+AICTE - RPS Lab - Tender Notice
+Sealed/Online tenders are invited from reputed and experienced suppliers, manufacturers, or authorized distributors for the supply, installation, and commissioning of equipment, tools, and consumable items for establishing an AICTE - RPS Lab at our institution. The last date for Tender submission is
+25.08.2026
+. Tender details and specifications are available on the college Website.
+Contact :
+[email protected]
+|
+Web :
+www.egspec.org
+Equipment Details
+Sr.
+Equipment
+Make/Model
+1
+Tri-axial Accelerometers
+PCB Piezotronics 356A45
+2
+24-bit DAQ System
+NI PXIe-4499
+3
+Impact Hammer
+PCB 086C03
+4
+Electro-dynamic Shaker
+The Modal Shop K2007E01
+5
+FFT Analyzer Software
+Siemens Simcenter Test lab
+6
+Isolation Table
+Newport RS2000 Series
+Be part of our journey to empower aspiring engineers, scientists, and managers towards success!
+04356 251114
+E.G.S Pillay Engineering College
+Old Nagore Road, Thethi Village
+Nagapattinam - 611002
+Follow Us:
+On Campus
+28.4°C
+Cloudy
+Facebook
+LinkedIn
+Twitter
+Instagram
+YouTube
+Copyright © 2006 - 2026 All
+Rights Reserved by
+EGS Pillay Group of Institutions
+Developed By
+Raghavan Jeeva
+Status Page
+Sitemap
+Privacy Policy
+Terms & Conditions
+Contact Web Admin
+Website last updated on:
+2026-10-12 04:03:06 PM

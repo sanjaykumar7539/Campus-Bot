@@ -1,0 +1,97 @@
+URL: https://egspec.org/academics/technical-affairs
+EXTRACTOR: requests+bs4
+
+Academics
+Technical Affairs
+S.No
+Programme
+Industry Training Name
+1
+CSE, CSBS, BME
+CADD Technologies
+2
+Mech, EEE, ECE, Civil
+Skill Tech
+3
+AIDS, IT
+Karya Academy
+4
+CSE, IT
+Programming C
+5
+AIDS, CSBS
+Data Structures
+AI&DS
+Edunet Foundation of AI & ML
+BYTS
+Data Analytics and Visualization using Tableau
+BME
+KAV Biomedical Medical Equipment / Theeram Healthcare Biomedical Coding
+Civil
+CADD Technologies Revit Architecture
+CSE
+Fyc Technologies UI/UX Design / Orionshift Full Stack Python
+6
+CSBS
+Edunet Foundation of AI & ML / Design Phoenix UI/UX Design
+7
+ECE
+Techknots IoT, Robotics, Digital Electronics & PCB
+8
+IT
+Design Phoenix UI/UX Design / Orionshift Full Stack Java
+9
+EEE
+HITAKEY PCB Design / Emcog Embedded and IoT
+10
+Mech
+ICT Academy & Autodesk Autocad / TrioneCAD Automobile
+NexStep Builders STADD PRO & AUTO CADD
+Theeram Healthcare Biomedical Coding
+CSE, IT, CSBS, AIDS, ECE
+TERV Product and MNC
+CSE, IT, CSBS
+HCL Tech Software Testing
+CSBS, AIDS
+HCL Tech Data Scientist
+Skilltech Full Stack
+Cyber Vault AI and ML
+Entuple VLSI / Entu Tech Digital Electronics and Embedded
+Emcog Embedded and IOT / Sun Automation PLC
+Shri Sai NDT / Trione CADD Catia
+11
+Soft skill
+Maya Softskill
+12
+MBA
+Educators HR & Finance
+13
+MCA
+JM Tech Full Stack (Curriculum)
+Be part of our journey to empower aspiring engineers, scientists, and managers towards success!
+04356 251114
+E.G.S Pillay Engineering College
+Old Nagore Road, Thethi Village
+Nagapattinam - 611002
+Follow Us:
+On Campus
+28.4°C
+Cloudy
+Facebook
+LinkedIn
+Twitter
+Instagram
+YouTube
+Copyright © 2006 - 2026 All
+Rights Reserved by
+EGS Pillay Group of Institutions
+Developed By
+Raghavan Jeeva
+|
+Status Page
+Sitemap
+Privacy Policy
+Terms & Conditions
+Contact Web Admin
+Website last updated on:
+2026-10-12 04:03:06 PM

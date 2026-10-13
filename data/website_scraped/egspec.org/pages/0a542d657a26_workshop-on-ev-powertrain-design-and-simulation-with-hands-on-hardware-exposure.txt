@@ -1,0 +1,58 @@
+URL: https://egspec.org/events/workshop-on-ev-powertrain-design-and-simulation-with-hands-on-hardware-exposure
+EXTRACTOR: requests+bs4
+
+Home
+Events
+WORKSHOP ON EV POWERTRAIN DESIGN AND SIMULATION WITH HANDS-ON HARDWARE EXPOSURE
+September 24, 2026
+09:15 AM
+offline Event
+The Department of Electrical and Electronics Engineering, E.G.S. Pillay Engineering College, organizes a
+two-day workshop on “EV Powertrain Design and Simulation with Hands-on Hardware Exposure”
+exclusively for third-year EEE students. The workshop aims to provide participants with practical knowledge of
+electric vehicle (EV) powertrain architecture, design principles, simulation techniques, and hardware implementation
+.
+The sessions will introduce students to the major components and operating principles of EV powertrains, including
+electric motors, power converters, battery systems, motor control, and power management
+. Participants will also gain exposure to simulation-based design and understand how theoretical concepts are applied in real-world electric vehicle systems.
+Event Information
+Location
+EEE simulation lab
+Date
+Thursday, Sep 24, 2026
+Time
+09:15 AM onwards
+Add to Calendar
+Download .ics File
+Add to Google Calendar
+Print Details
+Share Event
+#Event
+Thursday, September 24, 2026
+Description
+04356 251114
+E.G.S Pillay Engineering College
+Old Nagore Road, Thethi Village
+Nagapattinam - 611002
+Follow Us:
+On Campus
+28.3°C
+Partly Cloudy
+Facebook
+LinkedIn
+Twitter
+Instagram
+YouTube
+Copyright © 2006 - 2026 All
+Rights Reserved by
+EGS Pillay Group of Institutions
+Developed By
+Raghavan Jeeva
+|
+Status Page
+Sitemap
+Privacy Policy
+Terms & Conditions
+Contact Web Admin
+Website last updated on:
+2026-10-12 04:03:06 PM

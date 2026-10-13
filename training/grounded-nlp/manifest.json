@@ -1,0 +1,14 @@
+{
+  "counts": {
+    "train": 49,
+    "validation": 6,
+    "test": 6
+  },
+  "task": "Evidence-grounded answers and college-scope fallback",
+  "split": "Unseen question phrasing; facts and supplied evidence may overlap",
+  "languages": [
+    "English"
+  ],
+  "source": "D:\\Campus\\training\\online-college-qa\\train.jsonl",
+  "fresh_source_verification": false
+}

@@ -1,0 +1,6 @@
+URL: https://admissions.egspgroup.in/stories/campus-tour
+EXTRACTOR: requests+bs4
+
+Close Story
+Welcome to Our Campus
+Explore the sprawling, green campus of EGS Pillay Group of Institutions, a hub of learning and innovation.

@@ -1,0 +1,71 @@
+URL: https://egspec.org/academics/departments/undergraduate/artificial-intelligence-and-machine-learning/faculty-development-programmes
+EXTRACTOR: requests+bs4
+
+Academics
+Departments
+Artificial Intelligence & Machine Learning
+Faculty Development Programmes
+Faculty Development Programmes (FDP) & Workshops
+S.No
+Programme Title
+Duration
+Resource Person
+1
+Faculty Development Programme on Deep Learning & Generative AI with PyTorch
+5 Days
+Senior AI Scientist, NVIDIA Deep Learning Institute (DLI)
+2
+Hands-on Workshop on Large Language Models (LLMs) & Retrieval-Augmented Generation (RAG)
+3 Days
+Lead AI Architect, DataNerdz.AI
+3
+National Seminar on Computer Vision & Autonomous Robot Navigation
+2 Days
+Principal Researcher, Intel AI Academic Programme
+4
+Workshop on Reinforcement Learning & Intelligent Decision Systems
+AI Research Faculty, Premier Research University
+Department Quick Links
+About
+Department Highlights
+Hod's Desk
+Faculty Details
+Curriculum
+Placements
+Faculty Development Programme (FDP)
+Program Outcomes
+Programme Educational Objectives
+Programme Specific Outcomes
+Department Contact
+Head of Department
+Phone:
+04365251112
+Mail:
+[email protected]
+Be part of our journey to empower aspiring engineers, scientists, and managers towards success!
+04356 251114
+E.G.S Pillay Engineering College
+Old Nagore Road, Thethi Village
+Nagapattinam - 611002
+Follow Us:
+On Campus
+28.4°C
+Cloudy
+Facebook
+LinkedIn
+Twitter
+Instagram
+YouTube
+Copyright © 2006 - 2026 All
+Rights Reserved by
+EGS Pillay Group of Institutions
+Developed By
+Raghavan Jeeva
+|
+Status Page
+Sitemap
+Privacy Policy
+Terms & Conditions
+Contact Web Admin
+Website last updated on:
+2026-10-12 04:03:06 PM

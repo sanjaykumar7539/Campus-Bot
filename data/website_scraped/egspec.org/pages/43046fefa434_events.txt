@@ -1,0 +1,79 @@
+URL: https://egspec.org/events
+EXTRACTOR: requests+bs4
+
+Home
+Events
+Upcoming Events
+Upcoming / Latest
+Past Events
+Important
+50
+(Newest first)
+14
+Oct
+09:30 AM
+2026
+EGSP MAIN AUDITORIUM
+WORKSHOP ON ENTREPRENEURSHIP DEVELOPMENT & BUSINESS OPPORTUNITIES
+View Details
+12
+MCA LAB
+PARTIAL DELIVERY ON NEXTGEN AI CLUB - GENERATIVE AI FOR SOFTWARE DEVELOPMENT
+11
+06:30 AM
+Virtual
+#DREAM BIG ILAX CLUB HE
+10
+Auditorium
+International Student Symposium on Humanizing Technology-2026
+09
+10:00 AM
+PRE-SYMPOSIUM ALUMNI ONE-DAY NATIONAL LEVEL SEMINAR AWS CLOUD ARCHITECTURE: DESIGN, DEPLOYMENT AND BEST PRACTICES
+05
+02:30 AM
+SJB 208
+HIGHER STUDIES PROGRAM Awareness for Higher studies and GATE Examination
+SJB311
+WORKSHOP ON FOUNDATION OF CYBER SECURITY
+04
+AWARNESS PROGRAM Small Steps, Big Wealth: The Magic of Long-Term Investment
+01
+CC1
+PARTIAL DELIVERY ON WEB BASED PROJECTS AND IT'S IMPACTS
+30
+Sep
+07:00 AM
+TECHNICAL SESSION AGENTIC AI: UNDERSTANDING THE ARCHITECTURE BEHIND MODERN SYSTEMS
+29
+GGB 304
+PARTIAL DELIVERY COURSE ON 2303ME030 FAILURE ANALYSIS OF NDT TECHNIQUES INDUSTRIAL RADIOLOGY INSPECTION AND IMAGING
+02:00 AM
+GG309
+AI TOOL ORIENTATION FACULTY ORIENTATION PROGRAM ON AICTE-PGQID
+Be part of our journey to empower aspiring engineers, scientists, and managers towards success!
+04356 251114
+E.G.S Pillay Engineering College
+Old Nagore Road, Thethi Village
+Nagapattinam - 611002
+Follow Us:
+On Campus
+28.4°C
+Cloudy
+Facebook
+LinkedIn
+Twitter
+Instagram
+YouTube
+Copyright © 2006 - 2026 All
+Rights Reserved by
+EGS Pillay Group of Institutions
+Developed By
+Raghavan Jeeva
+|
+Status Page
+Sitemap
+Privacy Policy
+Terms & Conditions
+Contact Web Admin
+Website last updated on:
+2026-10-12 04:03:06 PM

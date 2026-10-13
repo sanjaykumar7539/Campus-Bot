@@ -1,0 +1,92 @@
+URL: https://egspec.org/academics/departments/postgraduate/master-of-computer-applications/research-publications
+EXTRACTOR: requests+bs4
+
+Academics
+Departments
+Master of Computer Applications
+Research and Publications
+Research & Publications
+Patent Publication
+/ PDF File
+Journal Papers Published
+List of Consultancy Projects Undertaken
+S.No
+Name of the Project
+Staff Name
+1
+Travel Management System
+Mrs.J.Vanitha, Ms.K.LakshmiPriya
+2
+College Transport System
+Mrs.S.Visalatchy, Mr.S.Selvaganapathy
+3
+Electrical Shop Management
+Mrs.C.Mallika, Mrs.A.Hema
+4
+Vinayaka Textiles Management
+Ms.N.Ilakkiya
+5
+Information distributed in dynamic message service
+Mrs.J.Vanitha, Mrs.S.Visalatchy, Ms.K.LakshmiPriya
+6
+Intra Mailing System
+Mrs.C.Mallika, Mrs.A.Hema, Mr.S.Selvaganapathy, Ms.N.Ilakkiya
+Students Attendance Management System
+School Management System
+Ticket Reservation System
+Application for Diagnostic Centre
+Mrs.J.Vanitha, Mrs.S.Visalatchy, Mr.S.Selvaganapathy
+SMS alert for Employee Attendance
+Online Application for Social welfare Association
+Managing the marriage hall reservation and accounting system with online facility
+Secure mining of association rule in horizontally distributed database for Electricity department
+Mrs.J.Vanitha, Mrs.A.Hema, Ms.K.LakshmiPriya
+LAN-Video Stream
+Mrs.C.Mallika, Mrs.S.Visalatchy, Mr.S.Selvaganapathy
+Department Quick Links
+About
+Department Highlights
+Hod's Desk
+Faculty Details
+Curriculum
+Innovative Practices
+Industry Collaboration
+Laboratories and Facilities
+Placements
+Student Achievements
+Program Outcomes
+Programme Educational Objectives
+Programme Specific Outcomes
+Department Contact
+Dr. J. Vanitha
+Phone:
++919443728519
+Mail:
+[email protected]
+Be part of our journey to empower aspiring engineers, scientists, and managers towards success!
+04356 251114
+E.G.S Pillay Engineering College
+Old Nagore Road, Thethi Village
+Nagapattinam - 611002
+Follow Us:
+On Campus
+28.4°C
+Cloudy
+Facebook
+LinkedIn
+Twitter
+Instagram
+YouTube
+Copyright © 2006 - 2026 All
+Rights Reserved by
+EGS Pillay Group of Institutions
+Developed By
+Raghavan Jeeva
+|
+Status Page
+Sitemap
+Privacy Policy
+Terms & Conditions
+Contact Web Admin
+Website last updated on:
+2026-10-12 04:03:06 PM

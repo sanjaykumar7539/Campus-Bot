@@ -1,0 +1,72 @@
+URL: https://egspec.org/academics/departments/postgraduate/master-of-computer-applications/program-outcomes
+EXTRACTOR: requests+bs4
+
+Academics
+Departments
+Master of Computer Applications
+Program Outcomes
+Program Outcomes (POs)
+##
+PO1
+Foundation Knowledge: Apply knowledge of mathematics, programming logic and coding fundamentals for solution architecture and problem solving.
+PO2
+Problem Analysis: Identify, review, formulate and analyse problems for primarily focusing on customer requirements using critical thinking frameworks.
+PO3
+Development of Solutions: Design, develop and investigate problems with an innovative approach for solutions incorporating ESG/SDG goals.
+PO4
+Modern Tool Usage: Select, adapt and apply modern computational tools such as development of algorithms with an understanding of the limitations including human biases.
+PO5
+Individual and Teamwork: Function and communicate effectively as an individual or a team leader in diverse and multidisciplinary groups. Use methodologies such as agile.
+PO6
+Project Management and Finance: Use the principles of project management such as scheduling, work breakdown structure and be conversant with the principles of Finance for profitable project management.
+PO7
+Ethics: Commit to professional ethics in managing software projects with financial aspects. Learn to use new technologies for cyber security and insulate customers from malware.
+PO8
+Life-long learning: Change management skills and the ability to learn, keep up with contemporary technologies and ways of working.
+Department Quick Links
+About
+Department Highlights
+Hod's Desk
+Faculty Details
+Curriculum
+Research & Publications
+Innovative Practices
+Industry Collaboration
+Laboratories and Facilities
+Placements
+Student Achievements
+Programme Educational Objectives
+Programme Specific Outcomes
+Department Contact
+Dr. J. Vanitha
+Phone:
++919443728519
+Mail:
+[email protected]
+Be part of our journey to empower aspiring engineers, scientists, and managers towards success!
+04356 251114
+E.G.S Pillay Engineering College
+Old Nagore Road, Thethi Village
+Nagapattinam - 611002
+Follow Us:
+On Campus
+28.4°C
+Cloudy
+Facebook
+LinkedIn
+Twitter
+Instagram
+YouTube
+Copyright © 2006 - 2026 All
+Rights Reserved by
+EGS Pillay Group of Institutions
+Developed By
+Raghavan Jeeva
+|
+Status Page
+Sitemap
+Privacy Policy
+Terms & Conditions
+Contact Web Admin
+Website last updated on:
+2026-10-12 04:03:06 PM

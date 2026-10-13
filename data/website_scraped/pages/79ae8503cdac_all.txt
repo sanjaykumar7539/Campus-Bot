@@ -1,0 +1,45 @@
+URL: https://egspec.org/blogs/all
+EXTRACTOR: requests+bs4
+
+Home
+Blogs
+All Posts
+All Blog Posts
+All Published Articles
+Showing 2 articles
+Engineering
+Raghavan
+Jul 19, 2026
+Industry-Designed AI Engineering Deep-Skilling Program
+EGS Pillay Engineering College empowers future-ready engineers through industry-aligned AI learning and deep-skilling.
+Read More
+Awards
+Jul 09, 2026
+A Proud Milestone for E.G.S. Pillay Group of Institutions
+Honoured with the prestigious "Titans of Excellence in Education 2026" award by Galatta Media.
+04356 251114
+E.G.S Pillay Engineering College
+Old Nagore Road, Thethi Village
+Nagapattinam - 611002
+Follow Us:
+On Campus
+28.4°C
+Cloudy
+Facebook
+LinkedIn
+Twitter
+Instagram
+YouTube
+Copyright © 2006 - 2026 All
+Rights Reserved by
+EGS Pillay Group of Institutions
+Developed By
+Raghavan Jeeva
+|
+Status Page
+Sitemap
+Privacy Policy
+Terms & Conditions
+Contact Web Admin
+Website last updated on:
+2026-10-12 04:03:06 PM

@@ -1,0 +1,66 @@
+URL: https://egspec.org/academics/industry-certification-programs
+EXTRACTOR: requests+bs4
+
+Academics
+Industry Certification Programs
+Idea
+Companies offer a comprehensive portfolio of training and professional certification designed for individuals, companies, and public organizations to acquire, maintain, optimize and validate their IT skills.
+Enhanced career advancement and opportunities
+Certification is highly recognized in the industry
+Training and Certification
+S.No
+Name of the Certification
+Name of the Industry
+1
+Cloud Infrastructure and Services
+EMC Corporation
+2
+Rational Architect
+IBM Corporation
+3
+C-Programming
+Amphisoft
+4
+Web developer - PHP MySQL
+Zend/ICTACT
+5
+BlueMix
+IBM
+6
+Java Developer
+Oracle Academy
+7
+Big Data Certification
+DELL EMC Corporation
+8
+CCNA
+CISCO Academy
+The content will be updated shortly. Thank you for your patience
+...
+Be part of our journey to empower aspiring engineers, scientists, and managers towards success!
+04356 251114
+E.G.S Pillay Engineering College
+Old Nagore Road, Thethi Village
+Nagapattinam - 611002
+Follow Us:
+On Campus
+28.4°C
+Cloudy
+Facebook
+LinkedIn
+Twitter
+Instagram
+YouTube
+Copyright © 2006 - 2026 All
+Rights Reserved by
+EGS Pillay Group of Institutions
+Developed By
+Raghavan Jeeva
+|
+Status Page
+Sitemap
+Privacy Policy
+Terms & Conditions
+Contact Web Admin
+Website last updated on:
+2026-10-12 04:03:06 PM

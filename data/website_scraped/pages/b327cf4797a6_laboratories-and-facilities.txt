@@ -1,0 +1,75 @@
+URL: https://egspec.org/academics/departments/postgraduate/master-of-computer-applications/laboratories-and-facilities
+EXTRACTOR: requests+bs4
+
+Academics
+Departments
+Master of Computer Applications
+Laboratories and Facilities
+#
+System Configuration
+Available
+1
+HP Pro Tower 280 G9 PCI Desktop PC, Processor-12th Gen Intel(R) Core(TM) i5-12500 3.00 GHz, RAM 16.0 GB, System type-64-bit operating system, ×64-based processor
+66
+2
+DELL, Desktop-DG50640 Processor Intel(R) Core(TM) i5-10500 3.10 GHz, RAM 8.0GB, System type-64-bit operating system, ×64-based processor
+03
+3
+Cisco 24 Port Switch
+4
+Air Conditioner
+02
+5
+Ahuja Amplifier
+01
+6
+Speaker
+04
+HP Pro Tower 280 G9 PCI Desktop PC, Processor-12th Gen Intel(R) Core(TM) i5-12500 3.00 GHz, RAM 8.0GB, System type-64-bit operating system, ×64-based processor
+Department Quick Links
+About
+Department Highlights
+Hod's Desk
+Faculty Details
+Curriculum
+Research & Publications
+Innovative Practices
+Industry Collaboration
+Placements
+Student Achievements
+Program Outcomes
+Programme Educational Objectives
+Programme Specific Outcomes
+Department Contact
+Dr. J. Vanitha
+Phone:
++919443728519
+Mail:
+[email protected]
+Be part of our journey to empower aspiring engineers, scientists, and managers towards success!
+04356 251114
+E.G.S Pillay Engineering College
+Old Nagore Road, Thethi Village
+Nagapattinam - 611002
+Follow Us:
+On Campus
+28.4°C
+Cloudy
+Facebook
+LinkedIn
+Twitter
+Instagram
+YouTube
+Copyright © 2006 - 2026 All
+Rights Reserved by
+EGS Pillay Group of Institutions
+Developed By
+Raghavan Jeeva
+|
+Status Page
+Sitemap
+Privacy Policy
+Terms & Conditions
+Contact Web Admin
+Website last updated on:
+2026-10-12 04:03:06 PM

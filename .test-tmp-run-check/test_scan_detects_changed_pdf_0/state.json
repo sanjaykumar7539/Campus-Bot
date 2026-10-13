@@ -1,0 +1,23 @@
+{
+  "content_hashes": {
+    "f60d91091482febeb1c5c9dda84e2043e2ee45dda20ed631eed74f46ae4e6c67": "https://example.com/docs/circular.pdf"
+  },
+  "last_check": "2026-10-11T14:22:26.825300+00:00",
+  "pdfs": {
+    "https://example.com/docs/circular.pdf": {
+      "hash": "f60d91091482febeb1c5c9dda84e2043e2ee45dda20ed631eed74f46ae4e6c67",
+      "path": "D:\\Campus\\.test-tmp-run-check\\test_scan_detects_changed_pdf_0\\data\\documents\\7b656a1e444c_circular.pdf"
+    }
+  },
+  "resources": {
+    "https://example.com/docs/circular.pdf": {
+      "content_type": "application/pdf",
+      "duplicate_of": null,
+      "hash": "f60d91091482febeb1c5c9dda84e2043e2ee45dda20ed631eed74f46ae4e6c67",
+      "kind": "document",
+      "last_seen": "2026-10-11T14:22:26.825300+00:00",
+      "path": "D:\\Campus\\.test-tmp-run-check\\test_scan_detects_changed_pdf_0\\data\\documents\\7b656a1e444c_circular.pdf"
+    }
+  },
+  "version": 3
+}

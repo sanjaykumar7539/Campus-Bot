@@ -1,0 +1,55 @@
+URL: https://egspec.org/admissions/complaint-committee
+EXTRACTOR: requests+bs4
+
+Admissions
+Complaint Committee
+S.No
+Name
+Address
+Committee
+Contact Details
+1
+Dr. M. Arularasu
+Directorate of Technical Education, Chennai-600 025
+Chairman
+[email protected]
+,
+2
+Dr. P. Thamarai
+Govenment College of Technology, Coimbatore
+Member
+, 9486558500
+3
+Dr. R. Senthil
+Anna University, Chennai-600 025
+, 7598632796
+4
+Dr. A. Elayaperumal
+, 9940347766, 7299007201
+Be part of our journey to empower aspiring engineers, scientists, and managers towards success!
+04356 251114
+E.G.S Pillay Engineering College
+Old Nagore Road, Thethi Village
+Nagapattinam - 611002
+Follow Us:
+On Campus
+28.4°C
+Cloudy
+Facebook
+LinkedIn
+Twitter
+Instagram
+YouTube
+Copyright © 2006 - 2026 All
+Rights Reserved by
+EGS Pillay Group of Institutions
+Developed By
+Raghavan Jeeva
+|
+Status Page
+Sitemap
+Privacy Policy
+Terms & Conditions
+Contact Web Admin
+Website last updated on:
+2026-10-12 04:03:06 PM

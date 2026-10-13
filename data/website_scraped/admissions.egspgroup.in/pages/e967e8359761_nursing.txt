@@ -1,0 +1,14 @@
+URL: https://admissions.egspgroup.in/nursing
+EXTRACTOR: requests+bs4
+
+Nursing Admissions 2026-27
+Begin your journey in compassionate healthcare with our B.Sc. Nursing and DGNM programs.
+Excellence in Nursing Education
+Clinical training in reputed hospitals
+Modern clinical laboratories and simulation kits
+Experienced nursing faculty and mentorship
+100% placement assistance in healthcare sector
+Accredited by Indian Nursing Council (INC)
+Our nursing programs are designed to create healthcare professionals who combine clinical expertise with deep compassion. Join us to make a difference in people's lives.
+Admissions Open 2026 - 2027
+Start your journey with EGS Pillay Group today.

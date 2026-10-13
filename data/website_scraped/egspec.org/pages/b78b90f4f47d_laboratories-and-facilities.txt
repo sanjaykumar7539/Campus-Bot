@@ -1,0 +1,100 @@
+URL: https://egspec.org/academics/departments/postgraduate/master-of-business-administration/laboratories-and-facilities
+EXTRACTOR: requests+bs4
+
+Academics
+Departments
+Master's of Business Administration
+Laboratories and Facilities
+Laboratories and Facilities Photos
+/ PDF File
+Laboratory Details
+S.No
+Name of the Laboratory
+Faculty Incharge
+Laboratory Administrator
+Equipment / Specification
+1
+ELECTRONIC DEVICES LAB
+Mrs. M. Kavitha
+Mr. K. Raju
+(1) DSO (2) FLY BACK CONVERTER KIT (3) AFO (4) FUNCTION GENERATOR (5) CRO (6) BUCK BOOST CONVERTER KIT (7) DIB (8) DCB (9) RPS
+2
+DIGITAL ELECTRONICS & LIC LAB
+Ms. V. Lakshmi Praba
+Mrs. M. Jainambu Nachiyar
+(1) CRO (2) REGULATED POWER SUPPLY (3) AUTO TRANSFORMER (4) RANGE FINDER (5) VOLTAGE ALERT (6) CRO (7) REGULATED POWER SUPPLY (8) AUTO TRANSFORMER (9) RANGE FINDER (10) VOLTAGE ALERT
+3
+MICROPROCESSOR LAB
+Mrs. K. Vembarasi
+Mr. U. Abinash
+(1) 8085 MICROPROCESSOR TRAINER KIT (2) 8086 MICROPROCESSOR TRAINER KIT (3) 8051 MICROCONTROLLER TRAINER KIT-1/6 & 2/6 (4) 8051 MICROCONTROLLER TRAINER KIT-3/6 (5) 8051 MICROCONTROLLER TRAINER KIT-4/6 TO 6/6
+4
+COMMUNICATION SYSTEMS LAB
+Dr. R. S. Koteeshwari
+Ms. B. Divya
+(1) MATLAB CAMPUS WIDE LICENSE – 2023b (25 USER) (2) VECTOR NETWORK ANALYSER (3) BASIC MICROSTRIP COMPONENT TRAINER (MCT-B) (4) DIGITAL STORAGE OSCILLOSCOPE (5) ACTIVE COMPONENT SOURCE MODEL (MCT-A)-S (6) ACTIVE COMPONENT DETECTOR MODEL (MCT-A)-D (7) PASSIVE MICROSTRIP COMPONENT
+5
+DIGITAL SIGNAL PROCESSING (DSP) LAB
+Dr. M. Nuthal Srinivasan
+Mr. A. Vignesh Kumar
+(1) TMS 320C50 BASED STARTER KIT (2) TMS 320C5416 BASED DSP STARTER KIT (3) MATLAB CAMPUS WIDE LICENSE – 2023b (4) Personal Computer 60 Nos.
+6
+VLSI DESIGN LAB
+Dr. N. Prathap
+(1) XILINX SPARTAN 3E FPGA TRAINER KIT (2) SPARTAN 3E TRAINER KIT (3) 6 DIGIT 7 SEGMENT DISPLAY BOARD (4) TRAFFIC LIGHT CONTROLLER (5) PARALLEL PORT ADAPTER
+7
+OPTICAL AND MICROWAVE LAB
+Ms. V. Thilaga
+Mrs. R. Ouma
+(1) FIBER OPTIC POWER METER MODEL PTN 6585 (660NM/850NM) (2) BASIC FIBER OPTIC TRAINER PTN-850 NM (GLASS FIBER LED) (3) FIBER OPTIC DIGITAL LINK TRAINER QIS-FO-1002 PTN 2002 (4) MICROWAVE BENCH-1 (5) LINK B ADVANCED FIBER OPTIC COMMUNICATION TRAINER KIT PTN 3003-660NM VISIBLE
+8
+PROJECT LAB
+Mr. L. Anbazhagan
+(1) MATLAB CAMPUS WIDE LICENSE – 2023b (2) VECTOR NETWORK ANALYSER (3) BASIC MICROSTRIP COMPONENT TRAINER (MCT-B) (4) DIGITAL STORAGE OSCILLOSCOPE (5) ACTIVE COMPONENT SOURCE MODEL (MCT-A)-S (6) ACTIVE COMPONENT DETECTOR MODEL (MCT-A)-D (7) PASSIVE MICROSTRIP COMPONENT
+Department Quick Links
+About
+Department Highlights
+HoD's Desk
+Faculty Details
+Curriculum
+Research & Publications
+Staff Achievements
+Students Achievements
+Industry Interaction
+Placements
+Program Outcomes
+Programme Educational Objectives
+Programme Specific Outcomes
+Department Contact
+Dr. M. Malathi, M.E., Ph.D
+Phone:
++91 9443 101 712
+Mail:
+[email protected]
+Be part of our journey to empower aspiring engineers, scientists, and managers towards success!
+04356 251114
+E.G.S Pillay Engineering College
+Old Nagore Road, Thethi Village
+Nagapattinam - 611002
+Follow Us:
+On Campus
+28.4°C
+Cloudy
+Facebook
+LinkedIn
+Twitter
+Instagram
+YouTube
+Copyright © 2006 - 2026 All
+Rights Reserved by
+EGS Pillay Group of Institutions
+Developed By
+Raghavan Jeeva
+|
+Status Page
+Sitemap
+Privacy Policy
+Terms & Conditions
+Contact Web Admin
+Website last updated on:
+2026-10-12 04:03:06 PM

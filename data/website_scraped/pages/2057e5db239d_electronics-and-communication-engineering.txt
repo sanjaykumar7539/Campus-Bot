@@ -1,0 +1,66 @@
+URL: https://egspec.org/academics/departments/undergraduate/electronics-and-communication-engineering
+EXTRACTOR: requests+bs4
+
+Academics
+Departments
+Electronics And Communication Engineering
+About
+The Department of Electronics and Communication Engineering was established in 2004 with an initial intake of 30 students. This intake was increased to 60 in 2006, and further to 120 in 2013, the same year the postgraduate program in Communication Systems, with an intake of 18 students, was launched. In 2015, the department was recognized as a Research Center by Anna University, Chennai, and also received permanent affiliation.
+Today, the department is rated as one of the leading departments among various colleges under the university, boasting a NAAC A grade and Autonomous status. Our curriculum is regularly updated to meet the evolving needs of the industry and research community. The laboratories are equipped with the latest technology to keep pace with curriculum changes. In addition to regular labs, we are developing specialized labs in image processing, RF system design, and more. Our alumni are employed in prestigious industries both in India and abroad.
+Our faculty members specialize in areas such as Analog Electronics, Advanced Digital System Design, Digital Signal and Image Processing, Medical Electronics, Embedded Systems, Nanotechnology, VLSI Technology, Wired and Wireless Networking, Analog and Digital Communication, Fuzzy Control and Neural Networks, and software tools like Matlab, LabVIEW, Mentor Graphics, NS2, Keil, SPICE, Circuit Maker, and various open-source software. The department is supported by a dedicated team of qualified faculty members with rich industrial, research, and teaching experience.
+Vision
+To achieve excellence in Electronics and Communication Engineering by imparting contemporary knowledge and skills to students, serving as a valuable resource center for the industry and society.
+Mission
+1. To provide quality education and training in the field of electronics.
+2. To maintain state-of-the-art learning facilities, enhance the competence of faculty, and evolve as a center of excellence through research and development.
+3. To enable students to acquire effective communication skills, a lifelong learning attitude, teamwork capabilities, and the aspiration for higher education.
+4. To bridge the gap between industry and academia by expanding collaborations and partnerships through MOUs, projects, and consultancy services, thus fulfilling societal needs.
+Department Quick Links
+Department Highlights
+HoD's Desk
+Faculty Details
+Curriculum
+Research & Publications
+Staff Achievements
+Students Achievements
+Industry Interaction
+Lab Photos
+Placements
+Program Outcomes
+Programme Educational Objectives
+Programme Specific Outcomes
+Knowledge and Attitude Profile
+Event Reports
+Department Contact
+Dr. M. Malathi, M.E., Ph.D
+Phone:
+9443101712
+Mail:
+[email protected]
+Be part of our journey to empower aspiring engineers, scientists, and managers towards success!
+04356 251114
+E.G.S Pillay Engineering College
+Old Nagore Road, Thethi Village
+Nagapattinam - 611002
+Follow Us:
+On Campus
+28.4°C
+Cloudy
+Facebook
+LinkedIn
+Twitter
+Instagram
+YouTube
+Copyright © 2006 - 2026 All
+Rights Reserved by
+EGS Pillay Group of Institutions
+Developed By
+Raghavan Jeeva
+|
+Status Page
+Sitemap
+Privacy Policy
+Terms & Conditions
+Contact Web Admin
+Website last updated on:
+2026-10-12 04:03:06 PM

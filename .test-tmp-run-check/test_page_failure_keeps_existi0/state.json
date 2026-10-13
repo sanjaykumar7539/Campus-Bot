@@ -1,0 +1,12 @@
+{
+  "content_hashes": {},
+  "last_check": "2026-10-11T14:22:26.834297+00:00",
+  "pdfs": {
+    "https://example.com/old.pdf": {
+      "hash": "abc",
+      "path": "old.pdf"
+    }
+  },
+  "resources": {},
+  "version": 3
+}

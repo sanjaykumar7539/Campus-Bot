@@ -1,0 +1,14 @@
+URL: https://admissions.egspgroup.in/arts-science
+EXTRACTOR: requests+bs4
+
+Arts & Science Admissions 2026-27
+Explore diverse courses in Arts, Commerce, and Science at Edayathangudy G. S. Pillay Arts & Science College.
+Academic Excellence in Arts & Science
+Wide range of UG and PG programs
+Experienced and dedicated faculty members
+Modern library and digital learning resources
+Active placement cell with 90%+ record
+Focus on holistic student development
+Discover your potential in a vibrant academic environment. Our Arts & Science college provides the perfect platform for students to excel in their chosen fields and build successful careers.
+Admissions Open 2026 - 2027
+Start your journey with EGS Pillay Group today.

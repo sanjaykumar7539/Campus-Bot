@@ -1,0 +1,64 @@
+URL: https://egspec.org/academics/departments/undergraduate/artificial-intelligence-and-data-science
+EXTRACTOR: requests+bs4
+
+Academics
+Departments
+Artificial Intelligence and Data Science
+About
+The Artificial Intelligence & Data Science (AI & DS) Department was established in 2022 with an initial intake of 60 students. Currently, the department offers a B.Tech program with an intake of 120 students. The primary objective of this program is to equip students with the knowledge and skills needed to become industry-ready professionals. Graduates will be prepared for careers as data analysts and data scientists, capable of addressing significant challenges in machine learning, statistics, information discovery, and data visualization. They may find career opportunities in diverse fields such as healthcare, business, e-commerce, social networking, climatology, biotechnology, genetics, and more.
+Artificial Intelligence and Data Science encompass the core principles of data science, including the ethical acquisition, engineering, analysis, and visualization of data. This course aims to teach foundational technologies such as artificial intelligence, data mining, cloud architecture, as well as advanced topics like machine learning, robotics, generative AI, Power BI, big data analytics, and a comprehensive understanding of data science processes, including data wrangling, exploration, visualization, and hypothesis building. Through this course, students will acquire cross-disciplinary skills integrating elements from mathematics, engineering, and technology. Enrolling in the AI&DS course not only enhances career prospects and creates global job opportunities but also offers extensive research opportunities to address societal and industrial challenges.
+Vision
+The Department of Artificial Intelligence & Data Science will excel and lead in education, research and innovation; contributing to the advancement of design, development and management of data, algorithms to provide meaningfulness in the decision-making process further the emergence of quality artificial intelligence-based solutions to enhance the quality of life for humanity in a sustainable way.
+Mission
+M1: To create an outstanding learning experience through rigorous curriculum of theory and practice that develops students’ technical and professional skills to succeed in a wide range of careers.
+M2: To continually advance research through a culture of discovery, creativity, and innovation to benefit humankind.
+M3: To serve as highly capable resources to society and the profession through professional organizations, consultancy, and continuing education.
+Department Quick Links
+Department Highlights
+Hod's Desk
+Faculty Details
+Curriculum
+Research & Publications
+Industry Collaboration
+Infrastructure
+Placements
+Student Achievements
+Faculty Development Programme (FDP)
+Program Outcomes
+Programme Educational Objectives
+Programme Specific Outcomes
+Newsletters
+Event Reports
+Department Contact
+Dr. S. Palani Murugan
+Phone:
+7708549612
+Mail:
+[email protected]
+Be part of our journey to empower aspiring engineers, scientists, and managers towards success!
+04356 251114
+E.G.S Pillay Engineering College
+Old Nagore Road, Thethi Village
+Nagapattinam - 611002
+Follow Us:
+On Campus
+28.4°C
+Cloudy
+Facebook
+LinkedIn
+Twitter
+Instagram
+YouTube
+Copyright © 2006 - 2026 All
+Rights Reserved by
+EGS Pillay Group of Institutions
+Developed By
+Raghavan Jeeva
+|
+Status Page
+Sitemap
+Privacy Policy
+Terms & Conditions
+Contact Web Admin
+Website last updated on:
+2026-10-12 04:03:06 PM

@@ -1,0 +1,6 @@
+URL: https://egspec.org/up
+EXTRACTOR: requests+bs4
+
+Application up
+HTTP request received.
+Response rendered in 96ms.

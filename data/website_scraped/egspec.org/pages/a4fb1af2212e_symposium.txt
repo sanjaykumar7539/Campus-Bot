@@ -1,0 +1,24 @@
+URL: https://egspec.org/symposium
+EXTRACTOR: requests+bs4
+
+Concept note
+About the symposium
+Released at the symposium
+Brochure & publications
+Download the flyer, proceedings, magazine and newsletter.
+Events
+Select an event to see its rules, coordinators and results.
+Organising committee
+Office bearers
+Registered & attended
+Participants
+Load CSV
+#
+Participant
+College / Institution
+Location
+Event
+CSV columns:
+name, college, city, country, event
+. Registration sheets exported from Google Forms or Excel load directly.
+Prize winners
