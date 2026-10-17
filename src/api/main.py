@@ -1,10 +1,11 @@
 from pathlib import Path
+import asyncio
 
 from fastapi import FastAPI
 from fastapi.responses import FileResponse
 from fastapi.staticfiles import StaticFiles
 
-from .routes import router
+from .routes import router, rag_chain
 from .auth_routes import router as auth_router
 from .voice_routes import router as voice_router
 from .middleware import setup_middleware
@@ -23,6 +24,20 @@ app.add_exception_handler(ModelLoadError, model_exception_handler)
 app.include_router(router, prefix="/api/v1")
 app.include_router(auth_router, prefix="/api/v1")
 app.include_router(voice_router, prefix="/api/v1")
+
+
+@app.on_event("startup")
+async def warmup_chat_engine():
+    print('[CampusMind] Loading local models and knowledge index...')
+    try:
+        state = await asyncio.to_thread(rag_chain.warmup)
+        print(
+            f"[CampusMind] Ready: {state.get('documents', 0)} documents loaded; "
+            "embedding and reranker models warmed."
+        )
+    except Exception as exc:
+        # Keep the health endpoints available so setup problems remain visible.
+        print(f'[CampusMind] Startup warm-up failed: {exc}')
 
 # Prefer React production build when available; fall back to classic frontend/
 _REACT_DIST = Path(config.BASE_DIR) / "frontend-react" / "dist"

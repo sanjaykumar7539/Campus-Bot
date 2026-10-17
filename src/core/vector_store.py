@@ -1,10 +1,16 @@
 import json
+import logging
 import os
 import shutil
 from pathlib import Path
 from typing import List, Optional, Any
 from config import config
 from .embedding_engine import EmbeddingEngine
+
+# Chroma telemetry is not used by CampusMind and older telemetry packages can
+# emit noisy signature errors. Disable it before Chroma is imported.
+os.environ.setdefault('ANONYMIZED_TELEMETRY', 'False')
+logging.getLogger('chromadb.telemetry.product.posthog').setLevel(logging.CRITICAL)
 
 
 class VectorStore:
@@ -26,9 +32,15 @@ class VectorStore:
                 self._db = PGVector(embeddings=self.embedding_engine.get_embeddings(),
                     collection_name=config.PGVECTOR_COLLECTION, connection=config.PGVECTOR_URL, use_jsonb=True)
             else:
+                from chromadb.config import Settings
                 from langchain_community.vectorstores import Chroma
                 self._db = Chroma(persist_directory=self.persist_dir,
-                    embedding_function=self.embedding_engine.get_embeddings())
+                    embedding_function=self.embedding_engine.get_embeddings(),
+                    client_settings=Settings(
+                        anonymized_telemetry=False,
+                        is_persistent=True,
+                        persist_directory=self.persist_dir,
+                    ))
         return self._db
 
     def _write_manifest(self, document_count: int):
@@ -72,11 +84,17 @@ class VectorStore:
             self._write_manifest(len(documents))
             return db
 
+        from chromadb.config import Settings
         from langchain_community.vectorstores import Chroma
         Path(self.persist_dir).mkdir(parents=True, exist_ok=True)
         self._db = Chroma(
             persist_directory=self.persist_dir,
             embedding_function=self.embedding_engine.get_embeddings(),
+            client_settings=Settings(
+                anonymized_telemetry=False,
+                is_persistent=True,
+                persist_directory=self.persist_dir,
+            ),
         )
         # Chroma rejects one huge add (for example 8092 > max 5461).
         # 5000 stays under that observed limit while remaining efficient.

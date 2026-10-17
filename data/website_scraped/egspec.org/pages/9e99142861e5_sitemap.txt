@@ -122,6 +122,8 @@ https://egspec.org/log-viewer/api/files/{fileIdentifier}/download
 https://egspec.org/log-viewer/{view?}
 https://egspec.org/_ignition/health-check
 https://egspec.org/api/user
+https://egspec.org/api/coe/regulations
+https://egspec.org/api/coe/syllabus
 https://egspec.org/up
 https://egspec.org/login
 https://egspec.org/egspgoi/2026/sigaram-scholarship
@@ -169,6 +171,8 @@ https://egspec.org/meeting-minutes/governing-body
 https://egspec.org/meeting-minutes/board-of-studies-meeting
 https://egspec.org/generate-sitemap
 https://egspec.org/_next/image
+https://egspec.org/academics/overall-faculty-details
+https://egspec.org/overall-faculty-details
 https://egspec.org/academics/faculty-details
 https://egspec.org/faculty-details
 https://egspec.org/academics/departments/bachelors
@@ -448,6 +452,7 @@ https://egspec.org/deploy
 https://egspec.org/audit/logs
 https://egspec.org/files/view/{asset}
 https://egspec.org/v1/auth/account/access/dashboard
+https://egspec.org/events/light-fest-2026
 https://egspec.org/events/aksharam-2026
 https://egspec.org/events
 https://egspec.org/events/{slug}
@@ -471,8 +476,8 @@ Old Nagore Road, Thethi Village
 Nagapattinam - 611002
 Follow Us:
 On Campus
-28.4°C
-Cloudy
+32.2°C
+Partly Cloudy
 Facebook
 LinkedIn
 Twitter
@@ -489,4 +494,4 @@ Privacy Policy
 Terms & Conditions
 Contact Web Admin
 Website last updated on:
-2026-10-12 04:03:06 PM
+2026-10-15 12:45:15 PM

@@ -26,7 +26,10 @@ export function useVoice(defaultLang = 'en-IN') {
   const [lang, setLang] = useState(defaultLang);
   const [listening, setListening] = useState(false);
   const [speaking, setSpeaking] = useState(false);
-  const [autoSpeak, setAutoSpeak] = useState(true);
+  // Voice must be opt-in. Remember an explicit choice, but default to silent.
+  const [autoSpeak, setAutoSpeakState] = useState(
+    () => localStorage.getItem('egspec_auto_speak') === 'true'
+  );
   const [supported, setSupported] = useState({ stt: false, tts: false });
   const recognitionRef = useRef(null);
   const utterRef = useRef(null);
@@ -43,6 +46,17 @@ export function useVoice(defaultLang = 'en-IN') {
       window.speechSynthesis.onvoiceschanged = () => {
         window.speechSynthesis.getVoices();
       };
+    }
+  }, []);
+
+  const setAutoSpeak = useCallback((enabled) => {
+    const next = Boolean(enabled);
+    localStorage.setItem('egspec_auto_speak', String(next));
+    setAutoSpeakState(next);
+    if (!next && window.speechSynthesis) window.speechSynthesis.cancel();
+    if (!next) {
+      setSpeaking(false);
+      utterRef.current = null;
     }
   }, []);
 

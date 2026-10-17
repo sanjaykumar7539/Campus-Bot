@@ -3,16 +3,7 @@ import re
 from urllib.parse import urlparse
 from config import config
 
-COLLEGES = {
-    'engineering': ('engineering', 'egspec'),
-    'pharmacy': ('pharmacy',),
-    'nursing': ('nursing',),
-    'polytechnic': ('polytechnic',),
-    'school': ('matriculation', 'international school', 'school'),
-    'arts & science': ('arts & science', 'arts and science', 'arts-science'),
-    'education': ('college of education', 'b.ed', 'b ed'),
-    'naturopathy': ('naturopathy', 'yoga medical college'),
-}
+COLLEGES = {'engineering': ('engineering', 'egspec', 'பொறியியல்'), 'pharmacy': ('pharmacy', 'மருந்தியல்'), 'nursing': ('nursing', 'செவிலியர்'), 'polytechnic': ('polytechnic', 'பாலிடெக்னிக்'), 'school': ('matriculation', 'international school', 'school', 'பள்ளி'), 'arts & science': ('arts & science', 'arts and science', 'arts-science', 'கலை அறிவியல்'), 'education': ('college of education', 'b.ed', 'b ed'), 'naturopathy': ('naturopathy', 'yoga medical college')}
 
 
 def mentioned_colleges(text: str) -> set[str]:

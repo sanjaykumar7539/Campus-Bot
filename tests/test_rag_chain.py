@@ -157,3 +157,19 @@ def test_ranking_evidence_is_not_categorized_as_course_information():
     )
 
     assert sections == ['Rankings & Accreditations']
+
+
+def test_clean_evidence_rejects_scraped_questions_and_page_chrome():
+    text = (
+        'Are online courses available at EGS Pillay Engineering College? '
+        'EGS Pillay Engineering College offers a range of online courses. '
+        'Please visit our website or contact the Admissions Office for more information.\n'
+        'How do I apply for financial aid at EGS Pillay Engineering College\n'
+        '04356 251114 E.G.S Pillay Engineering College\n'
+        '/ B.Tech Admissions 2026-27 Secure your future with Top-Ranked Engineering programs at\n'
+        'The college has an established Department of Civil Engineering.'
+    )
+
+    assert RAGChain._clean_evidence(text) == [
+        'The college has an established Department of Civil Engineering.',
+    ]

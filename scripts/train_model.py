@@ -1,5 +1,7 @@
 """CPU/CUDA LoRA domain adaptation; base weights are never overwritten."""
 import argparse
+import hashlib
+import math
 import json
 import sys
 from contextlib import nullcontext
@@ -21,6 +23,8 @@ def main():
     parser.add_argument('--device', choices=['auto', 'cpu', 'cuda'], default='auto')
     parser.add_argument('--threads', type=int, default=4)
     parser.add_argument('--cpu-dtype', choices=['bfloat16', 'float32'], default='bfloat16')
+    parser.add_argument('--learning-rate', type=float, default=2e-5)
+    parser.add_argument('--shuffle', action='store_true')
     parser.add_argument('--answer-only', action='store_true', help='Train only assistant answer tokens for Q&A rows')
     parser.add_argument('--max-steps', type=int, default=0)
     parser.add_argument('--eval-examples', type=int, default=0)
@@ -37,6 +41,10 @@ def main():
         parser.error('--skip-steps requires --resume-from')
     if args.resume_from and not args.resume_from.is_dir():
         parser.error(f'Resume checkpoint does not exist: {args.resume_from}')
+    if not math.isfinite(args.learning_rate) or args.learning_rate <= 0:
+        parser.error('learning-rate must be positive and finite')
+    if args.shuffle and args.skip_steps:
+        parser.error('Shuffled runs cannot resume using skip-steps')
     torch.set_num_threads(args.threads)
     # Keep CPU training in the base model's compact BF16 format; loading this
     # 7+ GiB checkpoint as FP32 would require more RAM than the model itself.
@@ -68,11 +76,14 @@ def main():
             lora_alpha=16, lora_dropout=0.05, target_modules=target_modules))
     model.gradient_checkpointing_enable()
     model.enable_input_require_grads()
-    optimizer = torch.optim.AdamW([p for p in model.parameters() if p.requires_grad], lr=2e-5)
+    optimizer = torch.optim.AdamW([p for p in model.parameters() if p.requires_grad], lr=args.learning_rate)
     scaler = torch.cuda.amp.GradScaler(enabled=device == 'cuda')
 
     def batches(name):
-        for index, line in enumerate((args.data / f'{name}.jsonl').read_text(encoding='utf-8').splitlines()):
+        lines = (args.data / f'{name}.jsonl').read_text(encoding='utf-8').splitlines()
+        if name == 'train' and args.shuffle:
+            lines = [lines[index] for index in torch.randperm(len(lines)).tolist()]
+        for index, line in enumerate(lines):
             if name == 'validation' and args.eval_examples and index >= args.eval_examples:
                 break
             row = json.loads(line)
@@ -150,6 +161,10 @@ def main():
     tokenizer.save_pretrained(args.output)
     metrics = {'steps': steps, 'device': device, 'dtype': str(dtype), 'max_length': args.max_length,
                'answer_only_loss': args.answer_only,
+               'learning_rate': args.learning_rate, 'shuffle': args.shuffle, 'epochs': args.epochs,
+               'starting_adapter': str(args.resume_from) if args.resume_from else None,
+               'dataset_sha256': {name: hashlib.sha256((args.data / f'{name}.jsonl').read_bytes()).hexdigest()
+                                  for name in ['train', 'validation']},
                'eval_examples_limit': args.eval_examples, 'validation_loss_before': before, 'validation_loss_after': after,
                'base_model': args.model, 'automatic_activation': False}
     (args.output / 'training_metrics.json').write_text(json.dumps(metrics, indent=2))

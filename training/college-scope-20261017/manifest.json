@@ -1,0 +1,16 @@
+{
+  "counts": {
+    "train": 88,
+    "validation": 6,
+    "test": 8
+  },
+  "languages": [
+    "English",
+    "Tanglish"
+  ],
+  "fresh_source_verification": false,
+  "facts": "Existing stored reference records, not newly verified current facts",
+  "task": "Answer from matching college evidence; reject evidence from another college",
+  "scope": "Unseen question phrasing; fact identities and evidence can overlap",
+  "college_mismatch_training_examples": 42
+}

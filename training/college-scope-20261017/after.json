@@ -1,0 +1,120 @@
+{
+  "metrics": {
+    "steps": 88,
+    "device": "cpu",
+    "dtype": "torch.float32",
+    "max_length": 384,
+    "answer_only_loss": true,
+    "learning_rate": 0.0002,
+    "shuffle": true,
+    "epochs": 1,
+    "starting_adapter": ".venv\\models\\smollm2-grounded-nlp-20261013",
+    "dataset_sha256": {
+      "train": "57dccbb895de8cffe0f9b03c516976f32c02afa35535ddb4b2772ab8efd36a7b",
+      "validation": "a972d02d930255f0f2ee5b674d4d2b32f76d1800e152b20fd42e99eb1189f78d"
+    },
+    "eval_examples_limit": 0,
+    "validation_loss_before": 0.07011266023936596,
+    "validation_loss_after": 0.007833035597154363,
+    "base_model": ".venv/models/smollm2-360m-instruct",
+    "automatic_activation": false
+  },
+  "adapter_tensor_count": 256,
+  "weights_finite": true,
+  "evaluation_split": "test",
+  "evidence_grounded_task": true,
+  "validation_fact_overlap": [
+    "autonomous",
+    "college_name",
+    "established",
+    "program_counts",
+    "scope_nursing",
+    "scope_pharmacy",
+    "scope_polytechnic",
+    "scope_school"
+  ],
+  "answers": [
+    {
+      "question": "State the opening year shown in the engineering evidence.",
+      "expected": "The college was established in 1995.",
+      "generated": "Verified information for the requested college is unavailable.",
+      "source_url": "https://egspec.org/about/history",
+      "exact_match": false,
+      "factual_correct": false,
+      "review_reason": "Unnecessary fallback despite matching college evidence"
+    },
+    {
+      "question": "Give both engineering programme totals from this record.",
+      "expected": "The college reports 11 UG programs and 9 PG programs on its official history page.",
+      "generated": "Verified information for the requested college is unavailable.",
+      "source_url": "https://egspec.org/about/history",
+      "exact_match": false,
+      "factual_correct": false,
+      "review_reason": "Unnecessary fallback despite matching college evidence"
+    },
+    {
+      "question": "EGSPEC oda full name sollunga.",
+      "expected": "EGSPEC refers to E. G. S. Pillay Engineering College.",
+      "generated": "EGSPEC refers to E. G. S. Pillay Engineering College.",
+      "source_url": "https://egspec.org/about/history",
+      "exact_match": true,
+      "factual_correct": true,
+      "review_reason": "Correct against supplied reference and college ownership"
+    },
+    {
+      "question": "engineering autonomy vandha varusham sollunga.",
+      "expected": "Autonomous status began in 2017, with approval from the UGC and Anna University, Chennai, according to the college history page.",
+      "generated": "Verified information for the requested college is unavailable.",
+      "source_url": "https://egspec.org/about/history",
+      "exact_match": false,
+      "factual_correct": false,
+      "review_reason": "Unnecessary fallback despite matching college evidence"
+    },
+    {
+      "question": "Can this engineering record establish when pharmacy opened?",
+      "expected": "Verified information for the requested college is unavailable.",
+      "generated": "Verified information for the requested college is unavailable.",
+      "source_url": "",
+      "exact_match": true,
+      "factual_correct": true,
+      "review_reason": "Correct against supplied reference and college ownership"
+    },
+    {
+      "question": "Nursing founding year enna, indha record padi?",
+      "expected": "Verified information for the requested college is unavailable.",
+      "generated": "Verified information for the requested college is unavailable.",
+      "source_url": "",
+      "exact_match": true,
+      "factual_correct": true,
+      "review_reason": "Correct against supplied reference and college ownership"
+    },
+    {
+      "question": "Which founding year is verified for the polytechnic here?",
+      "expected": "Verified information for the requested college is unavailable.",
+      "generated": "Verified information for the requested college is unavailable.",
+      "source_url": "",
+      "exact_match": true,
+      "factual_correct": true,
+      "review_reason": "Correct against supplied reference and college ownership"
+    },
+    {
+      "question": "Does this evidence verify when the school was founded?",
+      "expected": "Verified information for the requested college is unavailable.",
+      "generated": "Verified information for the requested college is unavailable.",
+      "source_url": "",
+      "exact_match": true,
+      "factual_correct": true,
+      "review_reason": "Correct against supplied reference and college ownership"
+    }
+  ],
+  "exact_match_accuracy": 0.625,
+  "answer_accuracy": 0.625,
+  "accuracy_definition": "correct answers divided by evaluated answers, from 0 to 1; factual review required",
+  "manual_factual_review_required": false,
+  "automatic_activation": false,
+  "matching_evidence_accuracy": 0.25,
+  "college_scope_accuracy": 1.0,
+  "review_method": "Assistant review against reference text and college ownership",
+  "deployment_approved": false,
+  "test_sha256": "3a7a35b1f5baa24b50e4ddb02579339c3d627dab57f2d43646b8ee2df2ba2d76"
+}

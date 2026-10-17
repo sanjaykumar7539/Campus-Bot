@@ -19,6 +19,9 @@ class Config:
         'EMBEDDING_MODEL',
         'sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2',
     )
+    # Runtime inference must use the models downloaded during setup. This avoids
+    # Hugging Face network checks/retries delaying the first student question.
+    MODEL_LOCAL_FILES_ONLY = _bool('MODEL_LOCAL_FILES_ONLY', True)
     CHUNK_SIZE = int(os.getenv('CHUNK_SIZE', 500))
     CHUNK_OVERLAP = int(os.getenv('CHUNK_OVERLAP', 50))
     TOP_K = int(os.getenv('TOP_K_RETRIEVAL', 3))

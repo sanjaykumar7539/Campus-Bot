@@ -23,6 +23,14 @@ class Retriever:
         )
         self.kg = KnowledgeGraph(getattr(config, 'KAG_GRAPH_PATH', 'data/knowledge_graph.json'))
 
+    def warmup(self) -> dict:
+        document_count = self.hybrid.warmup()
+        # Exercise both embedding and reranking paths while the server starts.
+        docs, scores = self.retrieve('EGS Pillay Engineering College', k=4)
+        if config.ENABLE_RERANKER and docs:
+            self.reranker.rerank('EGS Pillay Engineering College', docs, scores, 4)
+        return {'documents': document_count, 'models_ready': True}
+
     def retrieve(self, query: str, k: int = None) -> Tuple[List[Any], List[float]]:
         if config.ENABLE_HYBRID_SEARCH:
             return self.hybrid.retrieve(query, k)

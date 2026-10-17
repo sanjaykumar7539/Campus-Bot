@@ -44,8 +44,11 @@ async def chat_stream(payload: ChatRequest, http_request: Request):
             api_response = await asyncio.to_thread(lambda: asyncio.run(chat(payload, http_request, Response())))
             body = api_response.model_dump() if hasattr(api_response, 'model_dump') else api_response.dict()
             words = body['answer'].split(' ')
-            for index in range(0, len(words), 4):
-                yield event('token', {'text': ' '.join(words[index:index + 4]) + (' ' if index + 4 < len(words) else '')})
+            # Fewer, larger events reduce browser renders and make completed
+            # answers appear noticeably faster on slower phones.
+            chunk_size = 12
+            for index in range(0, len(words), chunk_size):
+                yield event('token', {'text': ' '.join(words[index:index + chunk_size]) + (' ' if index + chunk_size < len(words) else '')})
                 await asyncio.sleep(0)
             for visual in body.get('visuals', []):
                 yield event('visual', visual)

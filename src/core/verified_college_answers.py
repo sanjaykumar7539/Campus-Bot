@@ -91,6 +91,18 @@ _PHRASING_VARIANTS = {
         'what programs are available for admission', 'admission subjects and degree levels',
         'admission la enna courses irukku', 'சேர்க்கைக்கு என்ன படிப்புகள் உள்ளன',
     ),
+    'departments': (
+        'departments', 'list all departments', 'what departments are available',
+        'all ug and pg departments', 'college departments list',
+    ),
+    'examinations': (
+        'examinations', 'exam updates', 'exam timetable and results',
+        'latest examination information',
+    ),
+    'latest_updates': (
+        'latest updates', 'what are the latest egspec updates', 'latest college news',
+        'recent egspec news and announcements',
+    ),
 }
 
 _GREETINGS = {

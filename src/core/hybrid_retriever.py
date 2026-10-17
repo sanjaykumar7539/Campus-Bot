@@ -13,6 +13,14 @@ class HybridRetriever:
         self.vector_weight = config.VECTOR_WEIGHT
         self.keyword_weight = config.KEYWORD_WEIGHT
         self.candidate_k = config.HYBRID_CANDIDATE_K
+        self._lexical_docs = None
+
+    def warmup(self) -> int:
+        """Load the persisted corpus once instead of on the first user query."""
+        self.vector_store._get_db()
+        if self._lexical_docs is None:
+            self._lexical_docs = self.vector_store.all_documents()
+        return len(self._lexical_docs)
 
     @staticmethod
     def _tokens(text: str) -> List[str]:
@@ -57,7 +65,9 @@ class HybridRetriever:
 
         # Lexical pass can rescue exact codes/names missed by dense search.
         try:
-            lexical_docs = self.vector_store.all_documents()
+            if self._lexical_docs is None:
+                self._lexical_docs = self.vector_store.all_documents()
+            lexical_docs = self._lexical_docs
             if metadata_filter:
                 lexical_docs = [d for d in lexical_docs if all(str(d.metadata.get(a)) == str(b) for a, b in metadata_filter.items())]
             lexical_scores = self._keyword_scores(query, lexical_docs)

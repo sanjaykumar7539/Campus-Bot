@@ -5,6 +5,9 @@ class FallbackHandler:
         self.fallback_message = config.FALLBACK_MESSAGE
 
     def handle(self, query: str, reason: str = "") -> str:
+        if reason == 'Clarification needed':
+            from src.core.question_understanding import CLARIFICATION
+            return CLARIFICATION
         from src.core.college_scope import requested_colleges
         scope = requested_colleges(query)
         if len(scope) == 1 and scope != {'engineering'}:

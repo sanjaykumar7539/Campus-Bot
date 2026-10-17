@@ -9,6 +9,8 @@ from .guardrails import Guardrails
 from .question_phrase_memory import get_question_phrase_memory
 from .verified_college_answers import lookup_verified_answer
 from .college_scope import COLLEGES, filter_college_evidence, requested_colleges
+from .college_topics import TOPICS, topics_for, expand_question
+from .question_understanding import normalize_question, needs_clarification, CLARIFICATION
 
 
 _SECTION_RULES = (
@@ -39,10 +41,33 @@ _NOISE = re.compile(
     re.I,
 )
 _DYNAMIC_WEATHER = re.compile(
-    r'\b(weather|overcast|sunny|cloudy|temperature)\b|[-+]?\d+(?:\.\d+)?\s*°\s*c',
+    r'\b(weather|overcast|sunny|cloudy|temperature|patchy rain)\b|'
+    r'[-+]?\d+(?:\.\d+)?\s*°\s*c',
     re.I,
 )
 _METADATA_LINE = re.compile(r'^\s*(?:URL:|EXTRACTOR:|\[Institute:|\[Document|\[KAG Fact)', re.I)
+_QUESTION_FRAGMENT = re.compile(
+    r'^\s*(?:what|when|where|which|who|why|how|are|is|do|does|did|can|could|'
+    r'would|should|may)\b', re.I,
+)
+_INCOMPLETE_ENDING = re.compile(
+    r'\b(?:a|an|and|at|by|for|from|in|of|on|or|the|to|with)\s*$', re.I,
+)
+_BOILERPLATE = re.compile(
+    r'\b(?:please (?:visit|refer to)|for more information|contact (?:the )?'
+    r'admissions office|empower your future|secure your (?:future|spot)|'
+    r'admissions? open|explore programs|follow us|on campus|for inquiries|'
+    r'contact information|frequently asked questions|status page|sitemap|'
+    r'privacy policy|terms & conditions|contact web admin|website last updated)\b', re.I,
+)
+_BARE_INSTITUTION = re.compile(
+    r'^(?:(?:E\.?G\.?S\.?|Edayathangudy G S)\s+)?Pillay\s+'
+    r'(?:(?:Engineering\s+)?College|Group of Institutions)\.?$', re.I,
+)
+_VAGUE_CLAIM = re.compile(
+    r'\b(?:vary(?:ies)?(?: by program)?|offers? a range of online courses|'
+    r'application processes?[^.]*vary)\b', re.I,
+)
 _QUERY_STOP_WORDS = {
     'a', 'an', 'and', 'are', 'at', 'can', 'could', 'did', 'do', 'does', 'for',
     'from', 'how', 'i', 'in', 'is', 'it', 'me', 'of', 'on', 'or', 'please',
@@ -74,6 +99,10 @@ class RAGChain:
             self._retriever = Retriever()
         return self._retriever
 
+    def warmup(self) -> dict:
+        """Eagerly load retrieval models and the local corpus at app startup."""
+        return self._get_retriever().warmup()
+
     @staticmethod
     def _retrieval_queries(query: str) -> list[str]:
         query_lower = query.casefold()
@@ -86,7 +115,15 @@ class RAGChain:
             None,
         )
         if selected:
-            queries.append(_INSTITUTION_QUERIES.get(selected, query))
+            topics = topics_for(query)
+            if topics:
+                terms = ' '.join(TOPICS[name][0] for name in TOPICS if name in topics)
+                # invoke() normally expanded these terms already. Keep this
+                # method useful for direct callers without duplicating search.
+                if terms.casefold() not in query_lower:
+                    queries.append(f'{selected} college {terms}')
+            else:
+                queries.append(_INSTITUTION_QUERIES.get(selected, query))
         if not selected and re.search(r'\b(all|list|each|group|institution|institutions|colleges|overview)\b', query_lower):
             queries.append(_GROUP_DIRECTORY_QUERY)
         return list(dict.fromkeys(queries))
@@ -126,13 +163,6 @@ class RAGChain:
     def _clean_evidence(text: str) -> list[str]:
         text = re.sub(r'\[Institute:[^\]]*\]', '', text)
         text = re.sub(r'https?://\S+', '', text)
-        text = re.sub(
-            r'\s+(?=(?:EGS|E\.G\.S\.|Edayathangudy)\s+Pillay|'
-            r'Pillay\s+(?:Arts|Polytechnic|College|Matriculation|Engineering))',
-            '\n',
-            text,
-            flags=re.I,
-        )
         fragments = re.split(r'(?<=[.!?])\s+|\r?\n+', text)
         cleaned = []
         seen = set()
@@ -145,6 +175,15 @@ class RAGChain:
                 or _NOISE.search(line)
                 or _DYNAMIC_WEATHER.search(line)
                 or line.endswith('?')
+                or _QUESTION_FRAGMENT.match(line)
+                or _BOILERPLATE.search(line)
+                or _BARE_INSTITUTION.match(line)
+                or _VAGUE_CLAIM.search(line)
+                or re.fullmatch(r'(?:FAQ`s|E\.?G\.?S\.?|\+?[\d\s().-]{8,})', line, re.I)
+                or bool(re.fullmatch(r'\d{4}-\d{2}-\d{2}\s+\d{1,2}:\d{2}:\d{2}\s+[AP]M', line, re.I))
+                or _INCOMPLETE_ENDING.search(line)
+                or line.startswith('/')
+                or bool(re.match(r'^\+?[\d\s().-]{8,}\s+[A-Za-z]', line))
                 or re.search(r'\bdoing business as\s*$', line, re.I)
             ):
                 continue
@@ -223,7 +262,10 @@ class RAGChain:
         if _SECTION_RULES[2][1].search(line):
             return ['Rankings & Accreditations']
         sections = [title for title, pattern in _SECTION_RULES if pattern.search(line)]
-        return sections or ['Overview']
+        for name in topics_for(line):
+            if name not in {'Admissions', 'Fees', 'Courses'}:
+                sections.append(name)
+        return list(dict.fromkeys(sections)) or ['Overview']
 
     def _format_structured_answer(self, query: str, evidence: list[dict]) -> str:
         sections: dict[str, list[str]] = {
@@ -233,6 +275,8 @@ class RAGChain:
             'Rankings & Accreditations': [],
             'Admissions & Fees': [],
         }
+        sections.update({name: [] for name in TOPICS if name not in {'Admissions', 'Fees', 'Courses'}})
+        requested_topics = topics_for(query) - {'Admissions', 'Fees', 'Courses'}
         query_lower = query.casefold()
         specific_subject_aliases = next(
             (
@@ -248,6 +292,7 @@ class RAGChain:
         for item in evidence:
             text = str(item.get('text', ''))
             source_context = f"{item.get('source', '')} {item.get('source_url', '')}".casefold()
+            item_topics = topics_for(f'{text} {source_context}')
             source_subject_matches = (
                 any(alias in source_context for alias in specific_subject_aliases)
                 if specific_subject_aliases
@@ -255,7 +300,9 @@ class RAGChain:
             )
             for line in self._clean_evidence(text):
                 for section in self._sections_for(line):
-                    if section == 'Overview' and (group_overview or specific_subject_aliases):
+                    if requested_topics and not ((topics_for(line) | item_topics) & requested_topics):
+                        continue
+                    if section == 'Overview' and group_overview:
                         continue
                     if (
                         group_overview
@@ -345,7 +392,7 @@ class RAGChain:
         return '\n\n'.join(output)
 
     def _answer_from_retrieval(self, query: str, retrieval_k: int | None = None) -> Dict:
-        bundle = self._retrieve_bundle(query, retrieval_k or 12)
+        bundle = self._retrieve_bundle(query, retrieval_k or 8)
         evidence = [
             item for item in bundle.get('evidence', [])
             if self._trusted_url(str(item.get('source_url', '')))
@@ -404,6 +451,13 @@ class RAGChain:
         }
 
     def invoke(self, query: str, context_fact_id: str | None = None) -> Dict:
+        query = normalize_question(query)
+        if needs_clarification(query):
+            if context_fact_id:
+                query = 'what about that?'
+            else:
+                return {'answer': CLARIFICATION, 'sources': [], 'confidence': 0.0,
+                        'is_grounded': False, 'reason': 'Clarification needed'}
         verified = (lookup_verified_answer(query, context_fact_id=context_fact_id)
                     if requested_colleges(query) == {'engineering'} else None)
         if verified is not None:
@@ -423,4 +477,7 @@ class RAGChain:
                 'fact_id': fact_id,
             }
 
-        return self.workflow.invoke(query=query, retry_retrieval_k=20)
+        if needs_clarification(query):
+            return {'answer': CLARIFICATION, 'sources': [], 'confidence': 0.0,
+                    'is_grounded': False, 'reason': 'Clarification needed'}
+        return self.workflow.invoke(query=expand_question(query), retry_retrieval_k=12)

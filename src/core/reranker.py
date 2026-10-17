@@ -13,7 +13,11 @@ class CrossEncoderReranker:
     def _model(self):
         if config.RERANKER_MODEL not in self._models:
             from sentence_transformers import CrossEncoder
-            self._models[config.RERANKER_MODEL] = CrossEncoder(config.RERANKER_MODEL, max_length=512)
+            self._models[config.RERANKER_MODEL] = CrossEncoder(
+                config.RERANKER_MODEL,
+                max_length=512,
+                local_files_only=config.MODEL_LOCAL_FILES_ONLY,
+            )
         return self._models[config.RERANKER_MODEL]
 
     @staticmethod

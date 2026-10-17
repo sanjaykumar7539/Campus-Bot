@@ -1,4 +1,13 @@
+import warnings
+
 from config import config
+
+warnings.filterwarnings(
+    'ignore',
+    message=r'`resume_download` is deprecated.*',
+    category=FutureWarning,
+    module=r'huggingface_hub\.file_download',
+)
 
 
 class EmbeddingEngine:
@@ -21,7 +30,10 @@ class EmbeddingEngine:
             from langchain_community.embeddings import HuggingFaceEmbeddings
             self.embeddings = HuggingFaceEmbeddings(
                 model_name=config.EMBEDDING_MODEL,
-                model_kwargs={'device': 'cpu'},
+                model_kwargs={
+                    'device': 'cpu',
+                    'local_files_only': config.MODEL_LOCAL_FILES_ONLY,
+                },
                 encode_kwargs={'normalize_embeddings': True},
             )
         return self.embeddings
