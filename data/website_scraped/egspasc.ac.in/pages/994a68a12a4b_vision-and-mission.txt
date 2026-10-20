@@ -1,0 +1,37 @@
+URL: https://egspasc.ac.in/about/vision-and-mission
+EXTRACTOR: requests+bs4
+
+Home
+About
+Vision and Mission
+Vision & Mission of Edayathangudy G.S. Pillay Arts and Science College
+At
+Edayathangudy G.S. Pillay Arts and Science College (EGSPASC)
+,
+our vision and mission reflect our dedication to academic excellence, holistic growth,
+and social responsibility. These guiding principles empower us to create an environment
+where students are prepared to excel in higher education, careers, and life.
+Vision
+To evolve as a
+globally recognized centre of academic excellence
+fostering innovation, values, and leadership, while shaping responsible citizens
+who can contribute meaningfully to society and the nation.
+Mission
+Deliver
+quality education
+that nurtures intellectual curiosity, critical thinking, and creativity.
+Establish
+state-of-the-art learning resources and research facilities
+to support innovation and excellence in academics.
+Recruit and develop a team of
+competent faculty and staff
+who are committed to continuous learning and professional growth.
+Collaborate with industries and research organizations to promote
+R&D, consultancy, and skill development
+.
+Create
+centres of excellence in emerging disciplines
+to address global and local challenges through research and innovation.
+Offer
+lifelong learning, vocational training, and community-focused programs
+that empower society and enhance employability.

@@ -13,12 +13,7 @@ function sessionId() {
 export function useChat() {
   const [messages, setMessages] = useState([]);
   const [streaming, setStreaming] = useState(false);
-  const [quickReplies, setQuickReplies] = useState([
-    'Latest updates',
-    'Admissions',
-    'Examinations',
-    'Departments',
-  ]);
+  const [quickReplies, setQuickReplies] = useState([]);
   const abortRef = useRef(null);
 
   const send = useCallback(async (text) => {
@@ -42,7 +37,7 @@ export function useChat() {
           session_id: sessionId(),
           message: q,
           user_id: null,
-          language: 'en',
+          language: 'auto',
         }),
       });
 
@@ -131,8 +126,10 @@ export function useChat() {
   }, [streaming]);
 
   const reset = useCallback(() => {
+    // A fresh chat must not inherit the previous server-side topic.
+    localStorage.removeItem('egspec_session');
     setMessages([]);
-    setQuickReplies(['Latest updates', 'Admissions', 'Examinations', 'Departments']);
+    setQuickReplies([]);
   }, []);
 
   return { messages, streaming, quickReplies, send, reset };

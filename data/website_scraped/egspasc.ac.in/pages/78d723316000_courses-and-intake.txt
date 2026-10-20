@@ -1,0 +1,133 @@
+URL: https://egspasc.ac.in/admission/courses-and-intake
+EXTRACTOR: requests+bs4
+
+Home
+Admission
+Courses & Intake
+Courses & In-Take
+S.No
+Name of the Programme
+Year of Affiliation
+Sanctioned Strength
+1
+B.Com
+Permanent Affiliation 2011
+50
+B.Com., (Addl.Section – I)
+Permanent Affiliation 2020
+60
+B.Com., (Addl.Section – II)
+2015
+B.Com., (Addl.Section – III)
+B.Com., (Addl.Section – IV)
+2016
+TOTAL
+290
+2
+B.Com.,(Computer Applications)
+2017
+B.Com.,(Computer Applications) (Addl.Section – I)
+2018
+B.Com.,(Computer Applications) (Addl.Section – II)
+2019
+B.Com.,(Computer Applications) (Addl.Section – III)
+2020
+240
+3
+B.Com.,(Business Process Service)
+2021
+4
+B.B.A.
+Permanent Affiliation 2016
+B.B.A., (Addl.Section – I)
+Permanent Affiliation 2021
+B.B.A., (Addl.Section – II)
+180
+5
+B.A. Defense and Strategic Studies
+6
+B.Sc. Computer Science
+B.Sc.C.S., (Addl.Section – I)
+B.Sc.C.S., (Addl.Section – II)
+7
+B.Sc. Computer Science Cognitive Systems
+8
+B.C.A.
+B.C.A., (Addl.Section – I)
+B.C.A., (Addl.Section – II)
+2011
+B.C.A., (Addl.Section – III)
+B.C.A., (Addl.Section – IV)
+300
+9
+B.Sc. Information Technology
+Permanent Affiliation 2017
+10
+B.Sc. Biochemistry
+40
+B.Sc. Biochemistry (Addl.Section – I)
+80
+11
+B.Sc. Biotechnology
+B.Sc. Biotech (Addl. Section – I)
+B.Sc. Biotech (Addl. Section – II)
+B.Sc. Biotech (Addl. Section – III)
+160
+12
+B.Sc. Physics
+B.Sc. Physics (Addl. Section – I)
+13
+B.Sc. Mathematics
+B.Sc. Maths., (Addl .Section – I)
+B.Sc. Maths., (Addl. Section – II)
+170
+14
+B.A (Tamil)
+15
+B.A. English
+B.A., English (Addl. Section – I)
+120
+16
+B.Sc. Chemistry
+Permanent Affiliation 2018
+B.Sc. Chemistry (Addl. Section – I)
+B.Sc. Chemistry (Addl. Section – II)
+17
+B.Sc. Nutrition & Dietetics
+18
+B.Sc. Visual Communication
+19
+B.Sc. Fashion Technology and Costume Designing
+20
+B.Sc. Hospital Administration
+M.Sc. Chemistry
+25
+M.Sc. Computer Science
+30
+M.Sc., C.S., (Addl. Section – I)
+2013
+35
+65
+M.Sc. Information Technology
+M.Sc. Biochemistry
+M.Sc. Biotechnology
+M.Sc. Food Science and Nutrition
+M.Sc. Physics
+M.Sc. Mathematics
+M.Sc., Mathematics (Addl. Section –I)
+M.Com.
+Permanent Affiliation 2014
+M.Com., (Addl. Section – I)
+2012
+M.A. English
+MBA (Master of Business Administration)
+MBA., (Addl. Section – I)
+Mode of Study
+Ph.D. Commerce
+FT / PT
+Ph.D. Management
+Ph.D. Biochemistry
+Ph.D. Computer Science
+Ph.D. Biotechnology
+Ph.D. English
+Ph.D. Physics

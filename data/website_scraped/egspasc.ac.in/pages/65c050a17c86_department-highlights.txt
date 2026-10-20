@@ -1,0 +1,31 @@
+URL: https://egspasc.ac.in/public/academics/departments/microbiology/department-highlights
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Microbiology
+Department Highlights
+Microbiology Department Highlights
+Students are exposed to real world applicability of microorganisms through regular industrial visits and educational trips to institutions.
+The department organized national, level seminar on ‘microvision’ work shop, industrial visit, out rich programme, guest lecturer etc.
+The Department maintains a vibrant atmosphere by regularly organizing events like Science Fest, Youth Flair, Fresher’s welcome, Farewell and Teachers day celebrations etc.
+Our students have been featured in various Biotechnological, Food and Pharmaceutical companies like Tata Beverages, Ranbaxy, Panacea Biotech, Nestle, Dr Lal PathLabs, Verka, Multi-speciality hospitals and various research and educational institutes.
+Quick Links
+About
+Hod`s Desk
+Faculty Details
+Curriculum & Syllabus
+Research & Publications
+Student Achievements
+Program Outcomes
+Program Educational Objectives
+Program Specific Outcomes
+Department Contact
+Microbiology HOD
+Head of Department
+·
+Phone
+Not available
+Mail
+microbiology@egspasc.ac.in

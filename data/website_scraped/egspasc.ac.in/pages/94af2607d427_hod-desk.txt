@@ -1,0 +1,30 @@
+URL: https://egspasc.ac.in/public/academics/departments/commerce/hod-desk
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Commerce
+HoD`s Desk
+Mrs. R. Vinodhani, M.Com., M.Phil.
+Head & Assistant Professor
+Department of Commerce
+It gives me great pleasure to welcome you to the Department of Computer Science and Engineering. Our department is committed to delivering high-quality education, fostering innovative research, and preparing students to meet the challenges of an ever-evolving technological world.
+We emphasize experiential and student-centric learning approaches such as Project-Based Learning (PBL), flipped classroom methodologies, and Design Thinking and Innovation (DTI) practices, enabling students to apply theoretical knowledge to real-world problems while nurturing creativity, critical thinking, and entrepreneurial skills.
+Quick Links
+About
+Department Highlights
+Hod`s Desk
+Faculty Details
+Research & Publications
+Academic Events
+Curriculum & Syllabus
+Student Achievements
+Placements
+Program Outcomes (POs)
+Department Contact
+·
+Phone
+Not available
+Mail
+hodcommerce@egspasc.org

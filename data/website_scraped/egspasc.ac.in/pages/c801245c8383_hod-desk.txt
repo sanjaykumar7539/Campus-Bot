@@ -1,0 +1,26 @@
+URL: https://egspasc.ac.in/public/academics/departments/english/hod-desk
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+English
+HOD’s Desk
+Mr. P. Balamurugan, M.A., M.Phil., B.Ed.
+Head of Department & Assistant Professor
+Department of English
+Welcome to the Department of English. Our mission is to foster a deep understanding of literature and language, equipping students with the critical thinking and communication skills necessary for success in a globalized world.
+Quick Links
+Department Highlights
+Faculty Details
+Student Achievements
+Placements
+Curriculum & Syllabus
+Program Outcomes (POs)
+Department Contact
+·
+Arts & Science
+Phone
+Not available
+Mail
+english@egspasc.ac.in

@@ -32,3 +32,52 @@ def test_duplicate_page_content_is_saved_once(tmp_path):
     monitor._store('https://example.com/a', b'URL: a\n'+body, 'page', 'text/plain', body)
     monitor._store('https://example.com/b', b'URL: b\n'+body, 'page', 'text/plain', body)
     assert len(list((tmp_path/'data'/'pages').glob('*.txt'))) == 1
+
+
+def test_expiring_signed_downloads_are_not_crawled(tmp_path, monkeypatch):
+    monitor = WebsiteMonitor('https://example.com/', str(tmp_path/'data'), str(tmp_path/'state.json'))
+    monkeypatch.setattr(monitor, '_sitemap_urls', lambda: set())
+    root = Response('https://example.com/', b'<main>Official college information</main><a href="/files/view/doc?expires=123&signature=abc">Expired PDF</a>')
+    monkeypatch.setattr(monitor, '_fetch_response', lambda url, stream=False: root if url == monitor.base_url else (_ for _ in ()).throw(AssertionError(url)))
+    result = monitor.scan()
+    assert result['visited_count'] == 1
+    assert result['skipped_volatile_count'] == 1
+    assert result['failed_count'] == 0
+
+
+def test_malformed_sitemap_display_names_are_counted_separately(tmp_path, monkeypatch):
+    monitor = WebsiteMonitor('https://example.com/', str(tmp_path/'data'), str(tmp_path/'state.json'))
+    monkeypatch.setattr(monitor, '_sitemap_urls', lambda: {'https://example.com/academics/departments/artificial intelligence'})
+    root = Response('https://example.com/', b'<main>Official college information</main>')
+    monkeypatch.setattr(monitor, '_fetch_response', lambda url, stream=False: root if url == monitor.base_url else (_ for _ in ()).throw(AssertionError(url)))
+    result = monitor.scan()
+    assert result['visited_count'] == 1
+    assert result['skipped_malformed_count'] == 1
+    assert result['failed_count'] == 0
+
+
+def test_known_broken_admissions_link_is_not_fetched(tmp_path, monkeypatch):
+    monitor = WebsiteMonitor('https://admissions.egspgroup.in/', str(tmp_path/'data'), str(tmp_path/'state.json'))
+    monkeypatch.setattr(monitor, '_sitemap_urls', lambda: {'https://admissions.egspgroup.in/engineering'})
+    root = Response(monitor.base_url, b'<main>Official admissions information</main>')
+    monkeypatch.setattr(monitor, '_fetch_response', lambda url, stream=False: root if url == monitor.base_url else (_ for _ in ()).throw(AssertionError(url)))
+    result = monitor.scan()
+    assert result['visited_count'] == 1
+    assert result['skipped_known_broken_count'] == 1
+    assert result['failed_count'] == 0
+
+
+def test_egspec_legacy_index_alias_is_canonicalized():
+    canonical = WebsiteMonitor._canonical_url('https://egspec.org/academics/departments/undergraduate/mechanical-engineering/index.html')
+    assert canonical == 'https://egspec.org/academics/departments/undergraduate/mechanical-engineering'
+
+
+def test_egspec_log_viewer_template_is_not_fetched(tmp_path, monkeypatch):
+    monitor = WebsiteMonitor('https://egspec.org/', str(tmp_path/'data'), str(tmp_path/'state.json'))
+    monkeypatch.setattr(monitor, '_sitemap_urls', lambda: {'https://egspec.org/log-viewer/{view?}='})
+    root = Response(monitor.base_url, b'<main>Official college information</main>')
+    monkeypatch.setattr(monitor, '_fetch_response', lambda url, stream=False: root if url == monitor.base_url else (_ for _ in ()).throw(AssertionError(url)))
+    result = monitor.scan()
+    assert result['visited_count'] == 1
+    assert result['skipped_malformed_count'] == 1
+    assert result['failed_count'] == 0

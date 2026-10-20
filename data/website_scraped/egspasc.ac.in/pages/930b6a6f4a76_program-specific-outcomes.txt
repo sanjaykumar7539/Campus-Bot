@@ -1,0 +1,47 @@
+URL: https://egspasc.ac.in/academics/departments/business-administration/program-specific-outcomes
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Business Administration (BBA & MBA)
+Programme Specific Outcomes (PSOs)
+##
+Programme Specific Outcomes
+PSO1
+Functional Knowledge:
+Demonstrate understanding of Marketing, Finance, HR, and Operations to contribute across business domains.
+PSO2
+Problem-Solving & Decision-Making:
+Analyze business problems, design solutions, and make informed decisions (with advanced capability at MBA level).
+PSO3
+Communication & Professionalism:
+Present ideas effectively; lead and manage teams with strong interpersonal skills.
+PSO4
+Leadership & Teamwork:
+Exhibit strategic thinking, effective management practices, and collaborative leadership.
+PSO5
+Entrepreneurship:
+Apply entrepreneurial mindset and tools to start and grow ventures.
+PSO6
+Global Perspective:
+Understand international business practices and operate in global contexts.
+Quick Links
+About
+Department Highlights
+HoD's Desk
+Faculty Details
+Research & Publications
+Curriculum & Syllabus
+Student Achievements
+Program Outcomes
+Program Educational Objectives
+Program Specific Outcomes
+Department Contact
+Dr. S. Karpagam
+Director / MBA
+·
+Phone
+Not available
+Mail
+drskarpagam2016@gmail.com

@@ -1,0 +1,40 @@
+URL: https://egspasc.ac.in/academics/departments/commerce-business-process-service/program-outcomes
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Commerce – BPS & Professional Accounting
+Program Outcomes (POs)
+Programme Outcomes (POs)
+##
+Programme Outcomes
+PO1
+Demonstrate contextual knowledge to assess commerce and business.
+PO2
+Analyze problems and bring appropriate solutions in business processes and life situations.
+PO3
+Gain competence and skills to meet BPS industry requirements and cope with modern business environments.
+PO4
+Understand the industry environment and internal structures/processes of multinational businesses.
+PO5
+Transform into community leaders with social responsibility.
+Quick Links
+About
+Department Highlights
+HoD's Desk
+Faculty Details
+Student Achievements
+Curriculum & Syllabus
+Placements
+Research & Publications
+Program Educational Objectives (PEOs)
+Programme Specific Outcomes (PSOs)
+Department Contact
+Ms. R. Bhuvaneswari, M.Com., M.Phil.
+Assistant Professor & Head
+·
+Phone
+Not available
+Mail
+hodbps@egspasc.org

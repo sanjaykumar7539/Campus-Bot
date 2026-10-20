@@ -1,0 +1,38 @@
+URL: https://egspasc.ac.in/public/academics/departments/commerce/department-highlights
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Commerce
+Department Highlights
+Highlights
+Experienced faculty with strong academic and industry exposure.
+Personalized mentorship and student support for academics and careers.
+Career services: resume workshops, mock interviews, placement assistance.
+Broad curriculum covering Accounting, Finance, Marketing, Management & Entrepreneurship.
+Active industry engagement, guest lectures, MoUs & internships.
+Student clubs (YRC, NSS, EXONARA, Rotaract, MIND) for holistic development.
+Regular co-/extra-curricular activities to build leadership and soft skills.
+Support for CA, ICMAI, ICSI and other professional courses.
+Strong placement pipeline across banking, finance, corporate & government sectors.
+ICT-enabled classrooms and continuous curriculum updates.
+Quick Links
+About
+Hod`s Desk
+Faculty Details
+Research & Publications
+Academic Events
+Curriculum & Syllabus
+Student Achievements
+Placements
+Program Outcomes (POs)
+Department Contact
+Mrs. R. Vinodhani, M.Com., M.Phil.
+Head & Assistant Professor
+·
+Department of Commerce
+Phone
+Not available
+Mail
+hodcommerce@egspasc.ac.org

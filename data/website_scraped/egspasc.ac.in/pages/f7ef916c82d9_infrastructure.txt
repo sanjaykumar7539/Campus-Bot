@@ -1,0 +1,35 @@
+URL: https://egspasc.ac.in/facilities/infrastructure
+EXTRACTOR: requests+bs4
+
+Home
+Facilities
+Infrastructure
+E.G.S. Pillay Arts and Science College provides a modern academic environment with well-planned infrastructure and advanced facilities.
+Main Academic Block (Houses Arts, Science, and Commerce Departments)
+Laboratory Block (Physics, Chemistry, Computer Science, and Biotechnology Labs)
+Library Block with Digital Library and Reading Halls
+Administrative Block (Principal’s Office, Administrative Office, and Meeting Halls)
+Auditorium and Seminar Hall for Academic and Cultural Events
+Cafeteria and Food Court
+The college buildings are designed with spacious classrooms, well-equipped laboratories, conference halls, staff rooms, and department offices — all meeting the standards prescribed by Bharathidasan University and the Tamil Nadu Government.
+The campus is surrounded by lush greenery providing a peaceful and inspiring atmosphere for learning. The College also provides separate, well-maintained hostels for boys and girls with essential amenities, including:
+Study and Reading Halls
+Recreation Rooms with Television
+Indoor Games and Fitness Facilities
+Wi-Fi Connectivity in Common Areas
+Dining Halls with Hygienic Food
+Medical and Counseling Support
+24x7 Security and Power Backup
+Computer Facilities
+Computer Laboratories equipped with over 200 modern systems with high-speed Internet access.
+Systems with latest configurations (i3/i5/i7 processors) and UPS backup.
+Operating Systems: Windows 10/11 and Linux.
+Centralized Server Room with data management facilities.
+Smart Classrooms with ICT-enabled teaching aids.
+Internet and Wi-Fi
+The entire campus is Wi-Fi enabled with a high-speed 1 Gbps internet connection.
+Students and faculty have seamless access to online learning platforms, digital resources, and research databases from classrooms, library, and hostels.
+Library
+Spacious central library with more than 30,000 volumes and 100+ journals.
+Digital Library with access to e-books, e-journals, and research databases.
+Reading halls and reference sections for students and staff.

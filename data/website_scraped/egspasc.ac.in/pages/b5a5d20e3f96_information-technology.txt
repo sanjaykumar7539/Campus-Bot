@@ -1,0 +1,39 @@
+URL: https://egspasc.ac.in/academics/departments/information-technology
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Information Technology (IT)
+Department of Information Technology
+Introduction
+The Department of Information Technology at E.G.S. Pillay Arts and Science College (Autonomous) is committed to providing quality education and fostering innovation in the field of IT. Our department aims to equip students with practical skills and theoretical knowledge to excel in the rapidly evolving technology landscape.
+Objectives
+To impart comprehensive knowledge and practical skills in Information Technology to prepare students for industry demands.
+To foster research, innovation, and critical thinking among students and faculty.
+To promote industry-academia collaborations for real-world exposure and skill development.
+To nurture ethical and responsible IT professionals committed to societal development.
+Scope of Information Technology
+The Department of Information Technology offers immense scope for students to pursue careers in diverse fields such as software development, cyber security, data analytics, and artificial intelligence. With the rapid growth of technology across industries, graduates are in high demand for roles in IT consulting, system administration, and innovative tech solutions. The department also provides a strong foundation for higher studies, research, and entrepreneurship, enabling students to contribute meaningfully to societal progress through technological advancements.
+Eligibility
+A pass in the Higher Secondary Examination (10+2) or an equivalent examination from a recognized board with Mathematics, Physics, and Chemistry as core subjects.
+Quick Links
+About
+Department Highlights
+Hod`s Desk
+Faculty Details
+Curriculum & Syllabus
+Research & Publications
+Student Achievements
+Program Outcomes
+Program Educational Objectives
+Program Specific Outcomes
+Department Contact
+Mrs.P.HELAN CHANDRA
+Assistant Professor & Head
+·
+Information Technology
+Phone
+Not available
+Mail
+hodit@egspasc.org

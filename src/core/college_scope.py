@@ -3,7 +3,7 @@ import re
 from urllib.parse import urlparse
 from config import config
 
-COLLEGES = {'engineering': ('engineering', 'egspec', 'பொறியியல்'), 'pharmacy': ('pharmacy', 'மருந்தியல்'), 'nursing': ('nursing', 'செவிலியர்'), 'polytechnic': ('polytechnic', 'பாலிடெக்னிக்'), 'school': ('matriculation', 'international school', 'school', 'பள்ளி'), 'arts & science': ('arts & science', 'arts and science', 'arts-science', 'கலை அறிவியல்'), 'education': ('college of education', 'b.ed', 'b ed'), 'naturopathy': ('naturopathy', 'yoga medical college')}
+COLLEGES = {'engineering': ('engineering', 'egspec', 'பொறியியல்'), 'pharmacy': ('pharmacy', 'm.pharm', 'm pharm', 'b.pharm', 'b pharm', 'd.pharm', 'd pharm', 'pharm.d', 'pharm d', 'மருந்தியல்'), 'nursing': ('nursing', 'செவிலியர்'), 'polytechnic': ('polytechnic', 'பாலிடெக்னிக்'), 'school': ('matriculation', 'international school', 'school', 'பள்ளி'), 'arts & science': ('arts & science', 'arts and science', 'arts science', 'arts-science', 'arts college', 'கலை அறிவியல்'), 'education': ('college of education', 'education college', 'b.ed', 'b ed'), 'naturopathy': ('naturopathy', 'yoga medical college', 'bnys')}
 
 
 def mentioned_colleges(text: str) -> set[str]:
@@ -15,6 +15,8 @@ def mentioned_colleges(text: str) -> set[str]:
 
 
 def requested_colleges(query: str) -> set[str]:
+    if re.search(r'\b(?:all|list|which)\s+(?:the\s+)?(?:colleges|institutions)\b.*\b(?:egs|pillay|group)\b|\b(?:egs|pillay)\b.*\b(?:all|list)\s+(?:the\s+)?(?:colleges|institutions)\b', query, re.I):
+        return set(COLLEGES)
     explicit = mentioned_colleges(query)
     if explicit:
         return explicit

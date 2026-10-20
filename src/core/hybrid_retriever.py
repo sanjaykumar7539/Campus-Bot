@@ -14,6 +14,7 @@ class HybridRetriever:
         self.keyword_weight = config.KEYWORD_WEIGHT
         self.candidate_k = config.HYBRID_CANDIDATE_K
         self._lexical_docs = None
+        self._lexical_stats = None
 
     def warmup(self) -> int:
         """Load the persisted corpus once instead of on the first user query."""
@@ -30,17 +31,24 @@ class HybridRetriever:
         query_terms = self._tokens(query)
         if not query_terms or not docs:
             return {i: 0.0 for i in range(len(docs))}
-        tokenized = [self._tokens(d.page_content) for d in docs]
-        avgdl = sum(len(t) for t in tokenized) / max(len(tokenized), 1)
+        # Corpus statistics are query-independent. Retain the list reference
+        # so Python object-id reuse cannot return another corpus's statistics.
+        cached = self._lexical_stats
+        if cached is None or cached[0] is not docs:
+            tokenized = [self._tokens(d.page_content) for d in docs]
+            counts_and_lengths = [(Counter(tokens), max(len(tokens), 1)) for tokens in tokenized]
+            avgdl = sum(len(tokens) for tokens in tokenized) / max(len(docs), 1)
+            doc_freq = Counter()
+            for counts, _ in counts_and_lengths:
+                doc_freq.update(counts.keys())
+            cached = (docs, counts_and_lengths, avgdl, doc_freq)
+            self._lexical_stats = cached
+        _, counts_and_lengths, avgdl, doc_freq = cached
         n = len(docs)
-        doc_freq = Counter()
-        for tokens in tokenized:
-            for term in set(tokens):
-                doc_freq[term] += 1
         raw = {}
         k1, b = 1.5, 0.75
-        for i, tokens in enumerate(tokenized):
-            counts, dl, score = Counter(tokens), max(len(tokens), 1), 0.0
+        for i, (counts, dl) in enumerate(counts_and_lengths):
+            score = 0.0
             for term in query_terms:
                 tf = counts.get(term, 0)
                 if not tf:

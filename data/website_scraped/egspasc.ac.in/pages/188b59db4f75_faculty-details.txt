@@ -1,0 +1,57 @@
+URL: https://egspasc.ac.in/public/academics/departments/mathematics/faculty-details
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Mathematics
+Faculty Details
+Faculty Members
+S.No
+Name
+Designation
+Qualification
+Profile
+1
+Dr. R. Mekala
+Head of the Department (HOD), Assistant Professor
+M.Sc., M.Phil., Ph.D
+Download PDF
+2
+Mrs. V. Mahalakshmi
+Assistant Professor
+M.Sc., M.Phil.
+3
+Mrs. V. Anitha
+4
+Mrs. G. Bhuvana
+5
+Mrs. R. Shanmugapriya
+M.Sc.
+6
+Mr. S. Rakesh
+7
+Mrs. S. P.nivetha
+8
+Mrs. S. Muthu Selvi
+9
+Mrs. T. Agasthiya
+Quick Links
+About
+Department Highlights
+Hod`s Desk
+Students Achievements
+Research & Publications
+Program Outcomes (POs)
+Program Educational Objectives (PEOs)
+Programme Specific Outcomes (PSOs)
+Curriculum & Syllabus
+Placements
+Department Contact
+Dr. R. Mekala, M.Sc., M.Phil., Ph.D.
+Head of Department
+·
+Phone
+Not available
+Mail
+hodmaths@egspasc.org

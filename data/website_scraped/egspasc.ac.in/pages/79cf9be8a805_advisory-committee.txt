@@ -1,0 +1,32 @@
+URL: https://egspasc.ac.in/public/research-and-development/advisory-committee
+EXTRACTOR: requests+bs4
+
+Home
+Research
+Research Advisory Committee
+Committee Members
+The Research Advisory Committee monitors and advises on the research activities of the college.
+S.No
+Name of the Member
+Designation
+Department
+Role
+Data to be updated
+Quick Links
+Research & Development
+List of Guides
+Research Facilities
+Publications
+Patents
+Research Scholars
+Research Ethics Committee
+Ph.D Awardees
+Department Contact
+The Research Coordinator
+Contact Research Cell
+·
+R&D Cell
+Phone
+Not available
+Mail
+research@egspasc.org

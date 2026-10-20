@@ -1,0 +1,22 @@
+URL: https://egspasc.ac.in/about/message-from-the-founder-and-chairman
+EXTRACTOR: requests+bs4
+
+Home
+About
+Message from the Founder and Chairman
+Dr. Chev. G.S. Pillay
+(Founder)
+Smt. S. Jothimani G.S. Pillay
+(Chairman)
+At
+EGSPASC
+, we believe education is more than just academics—it is about nurturing future leaders who can thrive in an evolving global environment.
+Students today face increasing challenges and opportunities in a rapidly advancing world.
+Our mission is to empower them with a strong academic foundation, advanced technical skills, and the confidence to succeed in both their professional and personal lives.
+As
+Founder and Chairman
+, our vision is to cultivate an institution that not only imparts knowledge but also instills values of integrity, innovation, and social responsibility.
+We are committed to creating an environment where students are inspired to dream big, think critically, and contribute meaningfully to society.
+Shaping the Future, Together
+Our collective efforts at EGSPEC are dedicated to producing graduates who are not only technically proficient but also compassionate leaders.
+By combining academic excellence with holistic development, we strive to prepare students for a brighter future—where they can make a positive impact on both local and global communities.

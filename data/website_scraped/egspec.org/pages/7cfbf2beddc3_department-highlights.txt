@@ -1,8 +1,7 @@
 URL: https://egspec.org/academics/departments/undergraduate/civil-engineering/department-highlights
-EXTRACTOR: requests+bs4
+EXTRACTOR: crawl4ai
 
-We're Building Something Great!
-Thank you for your patience. The
-Department Highlights
-page is under construction. Please check back soon for updates.
-Return to Homepage
+![Under Construction Image](https://egspec.org/assets/images/54687-ai.webp)
+# We're Building Something Great!
+Thank you for your patience. The **Department Highlights** page is under construction. Please check back soon for updates.
+[Return to Homepage](https://egspec.org)

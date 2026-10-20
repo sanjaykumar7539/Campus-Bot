@@ -1,0 +1,8 @@
+{
+  "train": 135,
+  "validation": 22,
+  "positive_examples": 127,
+  "negative_scope_examples": 8,
+  "private_data": false,
+  "task": "Grounded institution Q&A with cross-institution rejection"
+}

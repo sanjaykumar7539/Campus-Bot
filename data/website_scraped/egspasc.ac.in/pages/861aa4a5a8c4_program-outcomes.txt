@@ -1,0 +1,52 @@
+URL: https://egspasc.ac.in/academics/departments/physics/program-outcomes
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Physics
+Program Outcomes (POs)
+Program Outcomes describe what students are expected to know or be able to do by graduation.
+Achieving these outcomes prepares graduates to meet the Programme Educational Objectives.
+##
+Program Outcome
+PO1
+Science knowledge: Apply fundamental knowledge of physical sciences to solve complex scientific problems.
+PO2
+Problem analysis: Identify, formulate, review literature, and analyze complex scientific problems to reach substantiated conclusions.
+PO3
+Design/development of solutions: Design scientific processes and solutions considering public health, safety, cultural, societal, and environmental needs.
+PO4
+Modern tool usage: Select and apply appropriate techniques and modern scientific/IT tools, including modelling, with understanding of limitations.
+PO5
+The scientist and society: Assess societal, health, safety, legal, and cultural issues relevant to professional scientific practice.
+PO6
+Environment and sustainability: Understand the impact of scientific solutions on society and environment; recognize the need for sustainable development.
+PO7
+Ethics: Apply ethical principles and commit to professional ethics and responsibilities in scientific practice.
+PO8
+Individual and teamwork: Function effectively as an individual, as a member, or leader in diverse and multidisciplinary teams.
+PO9
+Communication: Communicate effectively on complex scientific activities, including reports, documentation, presentations, and clear instructions.
+PO10
+Computing skills: Use computers, software, and programming skills effectively in scientific problem solving.
+Quick Links
+About
+Department Highlights
+HoD`s Desk
+Faculty Details
+Curriculum & Syllabus
+Research & Publications
+Placements
+Student Achievements
+Program Outcomes
+Program Educational Objectives
+Program Specific Outcomes
+Department Contact
+Mr. V. Senthil Murugan, M.Sc., M.Phil., (Ph.D.)
+Head of Department
+·
+Phone
+Not available
+Mail
+hodphysics@egspasc.org

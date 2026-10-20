@@ -2,10 +2,10 @@
   "content_hashes": {
     "16fe28964828e73fdf1ed1d021d0b1f8a42207890087570c6745da2233bb63c2": "https://coe.egspec.org/results/phd/apr-may-2026",
     "7422bdc9b62ac242ee72940576664cf175f31118024c139b70dcbe86f5573f8f": "https://coe.egspec.org/syllabus",
-    "962f35ff3b13be73fd9900e4b017b098418a03583190a3ff0d68291e88bccd5a": "https://coe.egspec.org/regulations",
-    "bd78dd2984657fc305781b5cb00152296862c2af633b18f9a91a945777b1acc9": "https://coe.egspec.org/"
+    "bd78dd2984657fc305781b5cb00152296862c2af633b18f9a91a945777b1acc9": "https://coe.egspec.org/",
+    "e07af75e41541b633df0ce9e8ea0ecd4faacc8a381f4d0ac00730b441ab8c0c1": "https://coe.egspec.org/regulations"
   },
-  "last_check": "2026-10-12T13:12:17.326895+00:00",
+  "last_check": "2026-10-19T03:53:55.884370+00:00",
   "pdfs": {},
   "resources": {
     "https://coe.egspec.org/": {
@@ -13,64 +13,64 @@
       "duplicate_of": null,
       "hash": "bd78dd2984657fc305781b5cb00152296862c2af633b18f9a91a945777b1acc9",
       "kind": "page",
-      "last_seen": "2026-10-12T13:12:01.218327+00:00",
-      "path": "D:\\Campus\\data\\website_scraped\\coe.egspec.org\\pages\\452dedfca2fd_home.txt"
+      "last_seen": "2026-10-19T03:53:41.841716+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\coe.egspec.org\\pages\\452dedfca2fd_home.txt"
     },
     "https://coe.egspec.org/index": {
       "content_type": "text/plain",
       "duplicate_of": "https://coe.egspec.org/",
       "hash": "bd78dd2984657fc305781b5cb00152296862c2af633b18f9a91a945777b1acc9",
       "kind": "page",
-      "last_seen": "2026-10-12T13:12:12.915346+00:00",
-      "path": "D:\\Campus\\data\\website_scraped\\coe.egspec.org\\pages\\452dedfca2fd_home.txt"
+      "last_seen": "2026-10-19T03:53:51.677865+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\coe.egspec.org\\pages\\452dedfca2fd_home.txt"
     },
     "https://coe.egspec.org/regulations": {
       "content_type": "text/plain",
       "duplicate_of": null,
-      "hash": "962f35ff3b13be73fd9900e4b017b098418a03583190a3ff0d68291e88bccd5a",
+      "hash": "e07af75e41541b633df0ce9e8ea0ecd4faacc8a381f4d0ac00730b441ab8c0c1",
       "kind": "page",
-      "last_seen": "2026-10-12T13:12:11.281901+00:00",
-      "path": "D:\\Campus\\data\\website_scraped\\coe.egspec.org\\pages\\df672c5d58be_regulations.txt"
+      "last_seen": "2026-10-19T03:53:51.057027+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\coe.egspec.org\\pages\\df672c5d58be_regulations.txt"
     },
     "https://coe.egspec.org/results/phd/apr-may-2026": {
       "content_type": "text/plain",
       "duplicate_of": null,
       "hash": "16fe28964828e73fdf1ed1d021d0b1f8a42207890087570c6745da2233bb63c2",
       "kind": "page",
-      "last_seen": "2026-10-12T13:12:04.432572+00:00",
-      "path": "D:\\Campus\\data\\website_scraped\\coe.egspec.org\\pages\\25483b30a33a_apr-may-2026.txt"
+      "last_seen": "2026-10-19T03:53:50.298416+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\coe.egspec.org\\pages\\25483b30a33a_apr-may-2026.txt"
     },
     "https://coe.egspec.org/results/phd/index": {
       "content_type": "text/plain",
       "duplicate_of": "https://coe.egspec.org/results/phd/apr-may-2026",
       "hash": "16fe28964828e73fdf1ed1d021d0b1f8a42207890087570c6745da2233bb63c2",
       "kind": "page",
-      "last_seen": "2026-10-12T13:12:16.675336+00:00",
-      "path": "D:\\Campus\\data\\website_scraped\\coe.egspec.org\\pages\\25483b30a33a_apr-may-2026.txt"
+      "last_seen": "2026-10-19T03:53:52.583656+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\coe.egspec.org\\pages\\25483b30a33a_apr-may-2026.txt"
     },
     "https://coe.egspec.org/results/phd/regulations": {
       "content_type": "text/plain",
       "duplicate_of": "https://coe.egspec.org/results/phd/apr-may-2026",
       "hash": "16fe28964828e73fdf1ed1d021d0b1f8a42207890087570c6745da2233bb63c2",
       "kind": "page",
-      "last_seen": "2026-10-12T13:12:14.659337+00:00",
-      "path": "D:\\Campus\\data\\website_scraped\\coe.egspec.org\\pages\\25483b30a33a_apr-may-2026.txt"
+      "last_seen": "2026-10-19T03:53:54.143996+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\coe.egspec.org\\pages\\25483b30a33a_apr-may-2026.txt"
     },
     "https://coe.egspec.org/results/phd/syllabus": {
       "content_type": "text/plain",
       "duplicate_of": "https://coe.egspec.org/results/phd/apr-may-2026",
       "hash": "16fe28964828e73fdf1ed1d021d0b1f8a42207890087570c6745da2233bb63c2",
       "kind": "page",
-      "last_seen": "2026-10-12T13:12:17.306895+00:00",
-      "path": "D:\\Campus\\data\\website_scraped\\coe.egspec.org\\pages\\25483b30a33a_apr-may-2026.txt"
+      "last_seen": "2026-10-19T03:53:55.859370+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\coe.egspec.org\\pages\\25483b30a33a_apr-may-2026.txt"
     },
     "https://coe.egspec.org/syllabus": {
       "content_type": "text/plain",
       "duplicate_of": null,
       "hash": "7422bdc9b62ac242ee72940576664cf175f31118024c139b70dcbe86f5573f8f",
       "kind": "page",
-      "last_seen": "2026-10-12T13:12:06.469629+00:00",
-      "path": "D:\\Campus\\data\\website_scraped\\coe.egspec.org\\pages\\68835481b788_syllabus.txt"
+      "last_seen": "2026-10-19T03:53:48.452063+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\coe.egspec.org\\pages\\68835481b788_syllabus.txt"
     }
   },
   "version": 3

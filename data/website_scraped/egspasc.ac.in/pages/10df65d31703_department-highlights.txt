@@ -1,0 +1,56 @@
+URL: https://egspasc.ac.in/academics/departments/computer-science/department-highlights
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Computer Science
+Department Highlights
+Highlights of the Department
+Highly qualified & research-oriented faculty; industry-oriented learning.
+Smart classrooms; excellent infrastructure & computing facilities.
+Excellent placement records; strong mentoring process; consistent university ranks.
+Job Oriented Add-on Courses: Web Designing, Artificial Intelligence, Cyber Security.
+Workshops, Seminars, Conferences, Industrial Visits.
+Regular FDPs and technical training aligned with current technology.
+Department Class Room & Lab Highlights
+ERP BASED ATTENDANCE
+ICT BASED CLASS ROOM
+E-LIBRARY
+ICT BASED LAB WITH AUDIO FACILITIES
+WI-FI ENABLED LAB
+A/C FACILITIES LAB
+INTEL CORE I7 PROCESSOR
+CCTV
+PRINTERS AND SCANNERS
+FILTERED INTERNET FOR SAFE BROWSING
+POWER BACKUP (UPS)
+HIGH PERFORMANCE HARDWARE AND CONNECTIVITY
+Placements
+Strong institute–industry interaction; professional career counseling; dedicated placement cell.
+Pre-placement training; collaborations with industry giants; alumni networking support.
+High placement success rate. Recruiters include: Capgemini, CTS, HP, IBM, Infosys, Wipro, Tech Mahindra, TCS, Hexaware, etc.
+Scope of the Course
+Industry-ready skills with core human values; strong foundation and hands-on software development.
+Diverse careers: Software Developer, System Analyst, DBA, Web Designer, Data Scientist, Cybersecurity Specialist.
+Pathways to higher studies, certifications, and research in AI, IoT, Cloud Computing, and beyond.
+Enhanced teamwork, problem-solving, and adaptability for interdisciplinary roles.
+Quick Links
+About
+HoD`s Desk
+Faculty Details
+Research & Publications
+Student Achievements
+Curriculum & Syllabus
+Program Outcomes
+Program Educational Objectives
+Program Specific Outcomes
+Department Contact
+G. Renukadevi
+Head of the Department
+·
+PG & Research – Computer Science
+Phone
+Not available
+Mail
+hodcs@egspasc.org

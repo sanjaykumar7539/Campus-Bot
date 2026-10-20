@@ -1,0 +1,39 @@
+URL: https://egspasc.ac.in/academics/departments/visual-communication/program-specific-outcomes
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Visual Communication
+Programme Specific Outcomes (PSOs)
+B.Sc. Visual Communication — PSOs
+##
+Programme Specific Outcome
+PSO1
+Demonstrate proficiency in digital imaging, photography, and video production techniques.
+PSO2
+Design effective visual communication materials for print, web, and broadcast media.
+PSO3
+Apply storytelling and narrative techniques across various multimedia platforms.
+PSO4
+Develop entrepreneurial skills for freelance and studio-based creative ventures.
+Quick Links
+About
+Department Highlights
+Department Activities
+HoD's Desk
+Faculty Details
+Research & Publications
+Curriculum & Syllabus
+Student Achievements
+Program Outcomes
+Program Educational Objectives
+Program Specific Outcomes
+Department Contact
+HOD - VisCom
+Head of the Department
+·
+Phone
+Not available
+Mail
+hodviscom@egspasc.ac.in

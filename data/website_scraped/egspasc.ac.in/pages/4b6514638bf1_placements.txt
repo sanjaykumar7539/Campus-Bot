@@ -1,0 +1,49 @@
+URL: https://egspasc.ac.in/public/academics/departments/english/placements
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+English
+Placements
+Department Placements
+Placement Record
+S.NO
+ACADEMIC YEAR
+TOTAL STRENGTH
+PLACED STUDENTS
+1
+2020-2021
+96
+18
+2
+2021-2022
+64
+12
+3
+2022-2023
+45
+15
+4
+2023-2024
+31
+11
+5
+2024-2025
+29
+7
+Quick Links
+Department Highlights
+HOD’s Desk
+Faculty Details
+Student Achievements
+Curriculum & Syllabus
+Program Outcomes (POs)
+Department Contact
+Department of English
+·
+Arts & Science
+Phone
+Not available
+Mail
+english@egspasc.ac.in

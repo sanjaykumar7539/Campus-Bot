@@ -1,0 +1,35 @@
+URL: https://egspasc.ac.in/academics/departments/commerce/research-and-publications
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Commerce
+Research & Publications
+Research & Publications - Department of Commerce
+S.No
+Title
+Author(s)
+Year
+Publication
+No research publications available at this time.
+Note: The list is updated periodically as new research papers and publications appear.
+Quick Links
+About
+Department Highlights
+Hod`s Desk
+Faculty Details
+Academic Events
+Curriculum & Syllabus
+Student Achievements
+Placements
+Program Outcomes (POs)
+Department Contact
+Mrs. R. Vinodhani, M.Com., M.Phil.
+Head & Assistant Professor
+·
+Department of Commerce
+Phone
+Not available
+Mail
+hodcommerce@egspasc.org

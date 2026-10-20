@@ -1,0 +1,99 @@
+{
+  "metrics": {
+    "steps": 64,
+    "device": "cpu",
+    "dtype": "torch.float32",
+    "max_length": 512,
+    "answer_only_loss": true,
+    "learning_rate": 1e-05,
+    "shuffle": false,
+    "epochs": 1,
+    "starting_adapter": ".venv\\models\\smollm2-egs-multiangle-production-20261017",
+    "dataset_sha256": {
+      "train": "9a5a7dd2bcda5352ef50a05b7518017bcfc6a0b08a63ec11dc3f5150c68bd05a",
+      "validation": "92828d4d398197d4d8cf83ddf941155755fd9e9fb3c9b003f304738055c6e120"
+    },
+    "eval_examples_limit": 20,
+    "validation_loss_before": 0.03069832940819416,
+    "validation_loss_after": 0.024795546181840777,
+    "base_model": ".venv\\models\\smollm2-360m-instruct",
+    "automatic_activation": false
+  },
+  "adapter_tensor_count": 256,
+  "weights_finite": true,
+  "evaluation_split": "test",
+  "evidence_grounded_task": true,
+  "validation_fact_overlap": [
+    "arts_science_admission_contact",
+    "education_overview",
+    "infrastructure",
+    "naturopathy_overview",
+    "nursing_admission_contact",
+    "pharmacy_admission_contact",
+    "polytechnic_admission",
+    "school_overview"
+  ],
+  "answers": [
+    {
+      "question": "Is the latest official school overview information available for EGS Pillay International School?",
+      "expected": "The official EGS Pillay Group website identifies EGS Pillay International School as a CBSE-curriculum school. The currently available official pages do not publish a verified class range, fee structure, or grade-wise admission eligibility. Confirm current details through central admissions at +91 99768 88999 or admission@egspec.org.",
+      "generated": "The official EGS Pillay Group website identifies EGS Pillay International School as a CBSE-curriculum school. The currently available official pages do not publish a verified class range, fee structure, or grade-wise admission eligibility. Confirm current details through central admissions at +91 99768 88999 or admission@egspec.org.",
+      "source_url": "https://egspgroup.in/",
+      "exact_match": true
+    },
+    {
+      "question": "Is the latest official education overview information availble for EGS Pillay collage of Education?",
+      "expected": "EGS Pillay College of Education offers B.Ed with an annual intake of 100. Its official site says it has functioned since 2014 with Tamil Nadu Government and NCTE permission and is affiliated to Tamil Nadu Teachers Education University (college code 11316).\n\nContact:\n- Phone: 04365 252113\n- Email: principal.egspcoe@gmail.com\n- Address: Old Nagore Road, Thethi Village, Nagapattinam 611002\n\nCurrent subject combinations, eligibility, fees and admission dates should be confirmed from the college for the applicable admission year.",
+      "generated": "EGS Pillay College of Education offers B.Ed with an annual intake of 100. Its official site says it has functioned since 2014 with Tamil Nadu Government and NCTE permission and is affiliated to Tamil Nadu Teachers Education University (college code 11316).\n\nContact:\n- Phone: 04365 252113\n- Email: principal.egspcoe@gmail.",
+      "source_url": "https://www.egspcoe.org/indexc621.html?data=YXVt",
+      "exact_match": false
+    },
+    {
+      "question": "Does EGS Pillay enginering collage have hostel, bus, library and labs?",
+      "expected": "The official infrastructure page lists a Main Block for Mechanical, Civil, and Science & Humanities laboratories; separate CSE/IT, EEE/Mechanical/ECE, and PG blocks; and two workshop blocks. It reports furnished laboratories, classrooms, drawing and conference halls, seminar halls, department libraries, three residential hostels, ten computer-laboratory centres, 1 Gbps internet connectivity, and campus-wide Wi-Fi including the hostels.",
+      "generated": "The official infrastructure page lists a Main Block for Mechanical, Civil, and Science & Humanities laboratories; separate CSE/IT, EEE/Mechanical/ECE, and PG blocks; and two workshop blocks. It reports furnished laboratories, classrooms, drawing and conference halls, seminar halls, department libraries, three residential hostels, ten computer-laboratory centres, 1 Gbps internet connectivity, and campus-wide Wi-Fi including the hostels.",
+      "source_url": "https://egspec.org/facilities/infrastructure",
+      "exact_match": true
+    },
+    {
+      "question": "How do I contact Arts and Science admissions?",
+      "expected": "Arts and Science admissions contact:\n- Phone: +91 98765 43210\n- Email: admissions.asc@egspgoi.ac.in\n\nThe central admissions page lists UG, PG and Ph.D. admission categories. Ask the office for the current application dates, eligibility, fees and seat availability.",
+      "generated": "- Phone: +91 98765 43210\n- Email: admissions.asc@egspgoi.ac.in",
+      "source_url": "https://admissions.egspgroup.in/admissions",
+      "exact_match": false
+    },
+    {
+      "question": "How do I contact Pharmacy admissions?",
+      "expected": "Pharmacy admissions contact:\n- Phone: +91 99887 76655\n- Email: admissions.pharm@egspgoi.ac.in\n\nThe central admissions page lists D.Pharm, B.Pharm, Pharm.D and M.Pharm admission categories. Ask the office for current eligibility, counselling, fees, certificates and seat availability.",
+      "generated": "- Phone: +91 99887 76655\n- Email: admissions.pharm@egspgoi.ac.in",
+      "source_url": "https://admissions.egspgroup.in/admissions",
+      "exact_match": false
+    },
+    {
+      "question": "Is the latest official polytechnic admission information available for EGS Pillay Polytechnic College?",
+      "expected": "EGS Pillay Polytechnic's official admission page states:\n- Regular diploma: pass 10th/SSLC with at least 35%; normal duration 3 years and maximum completion period 6 years.\n- Lateral entry: eligible 10+2 candidates with the listed academic/vocational subjects, or 10th plus a two-year ITI; normal duration 2 years and maximum completion period 5 years.\n- Original documents listed for admission: SSLC mark sheet, HSC mark sheet for lateral entry, Transfer Certificate, recent Community Certificate, sports certificate when claiming sports quota, and three passport-size photographs.\n- Reservations follow Tamil Nadu Government rules.\n- Admission contact: 04365 252112.\n\nApplicants should confirm the current-year branch availability and eligibility before applying.",
+      "generated": "Verified information for the requested college is unavailable.",
+      "source_url": "https://www.egsppc.ac.in/admission",
+      "exact_match": false
+    },
+    {
+      "question": "Please compare my options using the official nursing admission contact information for EGS Pillay College and School of Nursing.",
+      "expected": "Nursing admissions contact:\n- Phone: +91 99768 88999 or +91 86809 54537\n- Email: admission@egspec.org\n- Campus: Old Nagore Main Road, Thethi Village, Nagore, Nagapattinam, Tamil Nadu 611002\n\nAsk the office to confirm current B.Sc Nursing or DGNM eligibility, age rules, certificates, fees and seat availability.",
+      "generated": "Phone: +91 99768 88999 or +91 86809 54537\nEmail: admission@egspec.org\nCampus: Old Nagore Main Road, Thethi Village, Nagore, Nagapattinam, Tamil Nadu 611002",
+      "source_url": "https://admissions.egspgroup.in/nursing",
+      "exact_match": false
+    },
+    {
+      "question": "Which courses can I join at EGS Pillay Naturopathy and Yoga Medical College?",
+      "expected": "The official EGS Pillay Group directory lists EGS Pillay Naturopathy and Yoga Medical College and identifies Bachelor of Naturopathy and Yogic Sciences as its study area. Its separate official domain was unreachable during the latest sync, so duration, intake, eligibility, approval, fees, and facilities are not stated as verified here. Confirm current details through central admissions at +91 99768 88999 or admission@egspec.org.",
+      "generated": "The official EGS Pillay Naturopathy and Yoga Medical College and Yoga Medical College and identifies Bachelor of Naturopathy and Yogic Sciences as its study area. Its separate official domain was unreachable during the latest sync, so duration, intake, eligibility, approval, fees, and facilities are not stated as verified here. Confirm current details through central admissions at +91 99768 88999 or admission@egspec.org.",
+      "source_url": "https://admissions.egspgroup.in/",
+      "exact_match": false
+    }
+  ],
+  "exact_match_accuracy": 0.25,
+  "answer_accuracy": null,
+  "accuracy_definition": "correct answers divided by evaluated answers, from 0 to 1; factual review required",
+  "manual_factual_review_required": true,
+  "automatic_activation": false
+}

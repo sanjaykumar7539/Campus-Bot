@@ -21,3 +21,7 @@ __pycache__/
 .venv/
 vector_db/
 __pycache__/
+
+debug.log
+*.tmp
+.test-tmp-*

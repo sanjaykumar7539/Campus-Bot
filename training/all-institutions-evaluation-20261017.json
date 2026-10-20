@@ -1,0 +1,62 @@
+{
+  "metrics": {
+    "steps": 40,
+    "device": "cpu",
+    "dtype": "torch.float32",
+    "max_length": 512,
+    "answer_only_loss": true,
+    "learning_rate": 0.0001,
+    "shuffle": true,
+    "epochs": 2,
+    "starting_adapter": ".venv\\models\\smollm2-egs-all-institutions-20261017",
+    "dataset_sha256": {
+      "train": "8bb3cf8a63c934d4647b2c5bd6d7927f63e19c77052bf7e1df39c2cd7085695c",
+      "validation": "94251273416393ffce0648d2793486260a780b9ac7d7124577440568c76202a1"
+    },
+    "eval_examples_limit": 4,
+    "validation_loss_before": 2.439421980956505,
+    "validation_loss_after": 2.2729503072541335,
+    "base_model": ".venv\\models\\smollm2-360m-instruct",
+    "automatic_activation": false
+  },
+  "adapter_tensor_count": 256,
+  "weights_finite": true,
+  "evaluation_split": "validation",
+  "evidence_grounded_task": false,
+  "validation_fact_overlap": [],
+  "answers": [
+    {
+      "question": "What rank band did EGS Pillay Engineering College retain in NIRF 2025?",
+      "expected": "The college history page reports that it retained a position in the 201–300 rank band in the NIRF 2025 rankings.",
+      "generated": "The band that EGS Pillay Engineering College retained in NIRF 2025 is Band 10.",
+      "source_url": "https://egspec.org/about/history",
+      "exact_match": false
+    },
+    {
+      "question": "How was EGSPEC placed in NIRF 2025?",
+      "expected": "According to the college history page, EGSPEC retained a position in the 201–300 rank band in the NIRF 2025 rankings.",
+      "generated": "EGSPEC was placed in NIRF 2025 as a part of the NIRF 2025 project.",
+      "source_url": "https://egspec.org/about/history",
+      "exact_match": false
+    },
+    {
+      "question": "Which levels and broad subject areas are mentioned on the admissions website?",
+      "expected": "The admissions website mentions undergraduate, postgraduate, and doctoral programs in Engineering, Management, and Science. Check the official admissions website for current course and application details.",
+      "generated": "The admissions website of the University of Cambridge mentions the following levels and broad subject areas:\n\n1. Bachelor of Science (BSc)\n2. Bachelor of Arts (BSc)\n3. Bachelor of Arts (BSc)\n4. Bachelor of Science (BSc)\n5. Bachelor of Science (BSc)\n6. Bachelor of Science (BSc)\n7. Bachelor of Science (BSc)\n8. Bachelor of Science (BSc",
+      "source_url": "https://admissions.egspgroup.in/",
+      "exact_match": false
+    },
+    {
+      "question": "What types of programs does the EGS Pillay admissions website advertise?",
+      "expected": "It advertises undergraduate, postgraduate, and doctoral programs in Engineering, Management, and Science. For current offerings and admission dates, consult the official admissions website.",
+      "generated": "The EGS Pillay admissions website advertises various types of programs, including:\n\n1. Bachelor's degree programs: These programs are designed for students who are interested in pursuing higher education.\n\n2. Master's degree programs: These programs are designed for students who are interested in pursuing advanced knowledge and skills.\n\n3. Professional degree programs: These programs are designed for students who are interested in pursuing careers in a specific field.\n\n4. Research degree programs: These programs are",
+      "source_url": "https://admissions.egspgroup.in/",
+      "exact_match": false
+    }
+  ],
+  "exact_match_accuracy": 0.0,
+  "answer_accuracy": null,
+  "accuracy_definition": "correct answers divided by evaluated answers, from 0 to 1; factual review required",
+  "manual_factual_review_required": true,
+  "automatic_activation": false
+}

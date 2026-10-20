@@ -1,0 +1,13 @@
+URL: https://egspasc.ac.in/admission/admission-procedure/postgraduate
+EXTRACTOR: requests+bs4
+
+Home
+Admission
+Admission Procedure
+Postgraduate
+Admission Procedure - Postgraduate
+PG Programmes
+Regulations for the Post Graduate Programmes
+/ PDF File
+(For the candidates admitted from the Academic year 2026-2027 onwards)
+Note: The decision of the Management will be final in all matters relating to Admission, Discipline & Training and will be binding on all the parties concerned.

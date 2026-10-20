@@ -1,0 +1,42 @@
+URL: https://egspasc.ac.in/academics/departments/mathematics/program-specific-outcomes
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Mathematics
+Programme Specific Outcomes (PSOs)
+B.Sc. Mathematics – PSOs
+##
+Programme Specific Outcomes
+PSO1
+Contribute effectively in Mathematical Statistics, Differential & Integral Calculus.
+PSO2
+Demonstrate competence in Vector Calculus, Transform Techniques, and Analysis.
+PSO3
+Build strong foundations in Real Analysis, Complex Analysis, and Linear Algebra.
+M.Sc. Mathematics – PSOs
+Understand and apply concepts in Algebra, Analysis, Optimization, Differential Equations, Computational Techniques, Engineering, Finance, and Actuarial Science.
+Handle advanced techniques; design algorithms to solve a variety of real-life problems.
+Adapt to changing scientific environments for sustainable development using mathematical tools.
+PSO4
+Develop research skills via seminars and dissertation work.
+Quick Links
+About
+Department Highlights
+Hod`s Desk
+Faculty Details
+Students Achievements
+Research & Publications
+Program Outcomes (POs)
+Program Educational Objectives (PEOs)
+Curriculum & Syllabus
+Placements
+Department Contact
+Dr. R. Mekala, M.Sc., M.Phil., Ph.D.
+Head of Department
+·
+Phone
+Not available
+Mail
+hodmaths@egspasc.org

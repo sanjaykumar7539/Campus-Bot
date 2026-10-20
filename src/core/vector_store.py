@@ -136,7 +136,13 @@ class VectorStore:
         kwargs = {'k': k}
         if metadata_filter:
             kwargs['filter'] = metadata_filter
-        results = db.similarity_search_with_relevance_scores(query, **kwargs)
+        # Chroma emits the entire retrieved document payload in this warning
+        # when its distance conversion falls outside 0..1. Those scores are
+        # filtered below; avoid flooding server logs with scraped page text.
+        import warnings
+        with warnings.catch_warnings():
+            warnings.filterwarnings('ignore', message='Relevance scores must be between 0 and 1.*', category=UserWarning)
+            results = db.similarity_search_with_relevance_scores(query, **kwargs)
         return [(doc, float(score)) for doc, score in results if float(score) >= threshold]
 
     def all_documents(self, limit: int = 5000):

@@ -1,0 +1,34 @@
+URL: https://egspasc.ac.in/academics/departments/visual-communication/research-and-publications
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Visual Communication
+Research & Publications
+S.No
+Title
+Author(s)
+Year
+Publication
+No research publications available at this time.
+Note: The list is updated periodically as new research papers and publications appear.
+Quick Links
+About
+Department Highlights
+Department Activities
+HoD's Desk
+Faculty Details
+Curriculum & Syllabus
+Student Achievements
+Program Outcomes
+Program Educational Objectives
+Program Specific Outcomes
+Department Contact
+HOD - VisCom
+Head of the Department
+·
+Phone
+Not available
+Mail
+hodviscom@egspasc.ac.in

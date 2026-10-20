@@ -1,0 +1,52 @@
+URL: https://egspasc.ac.in/public/academics/departments/computer-applications/hod-desk
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Computer Applications (BCA)
+HoD`s Desk
+Mr. T. Manivannan, MCA., M.Phil., SET., (Ph.D.)
+Head of Department & Assistant Professor
+Department of Computer Applications
+Welcome to the Department of Computer Applications. As the Head of the
+Department, it gives me immense pleasure to introduce our programmes
+designed to equip students with the skills and knowledge required to thrive
+in today’s digital world. The Bachelor of Computer Applications (BCA)
+grooms students to become proficient software developers and IT professionals,
+covering programming languages, database management, web development, and more.
+We emphasize experiential learning through projects, internships, and
+industry collaborations. Our state-of-the-art labs enable students to apply
+theoretical concepts to real-world scenarios. We foster an environment of
+innovation, creativity, and critical thinking that prepares learners to be
+leaders in the ever-evolving field of technology.
+The department inculcates strong technical values to help students advance
+in their careers and face competitive real-world challenges. Our faculty
+delivers high-quality learning experiences using modern computing resources,
+supporting Outcome Based Education (OBE).
+We prepare data-driven professionals with skills in building intelligent
+systems, analytics, and visualization. The department maintains excellent,
+regularly upgraded lab facilities, and organizes interactive lectures,
+Faculty Development Programmes, webinars, and seminars with experts from
+academia and industry for holistic development.
+We look forward to welcoming you to our vibrant academic community.
+Quick Links
+About
+Department Highlights
+Hod`s Desk
+Faculty Details
+Curriculum & Syllabus
+Research & Publications
+Placements
+Student Achievements
+Program Outcomes
+Program Educational Objectives
+Program Specific Outcomes
+Department Contact
+Head of Department
+·
+Computer Applications
+Phone
+Not available
+Mail
+hodbca@egspasc.org

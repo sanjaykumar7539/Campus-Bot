@@ -1,0 +1,21 @@
+URL: https://egspasc.ac.in/about/history
+EXTRACTOR: requests+bs4
+
+Home
+About
+History
+Edayathangudy G.S. Pillay Arts and Science College (EGSPASC)
+was established in 1996
+in Thethi Village, Nagapattinam, Tamil Nadu, under the stewardship of the G.S. Pillay & Sons Charitable
+and Educational Trust. Guided by the motto,
+“To make every man a success and no man a failure,”
+the college has steadily evolved into a leading autonomous institution affiliated with Bharathidasan University
+and accredited with an A Grade by NAAC.
+Founded in 1996 by the G.S. Pillay & Sons Charitable and Educational Trust to bring quality education
+to rural Nagapattinam.
+Adopted the empowering motto: “To make every man a success and no man a failure.”
+Achieved affiliated status with Bharathidasan University and later attained autonomous accreditation.
+Earned NAAC 'A' Grade accreditation in recognition of sustained academic quality.
+Gradually expanded academic offerings to include multiple UG, PG, M.Phil., and Ph.D. programs across arts, science,
+commerce, and management disciplines.
+Transitioned from a modest rural college to a dynamic, student-centric institution fostering research, innovation, and outreach.

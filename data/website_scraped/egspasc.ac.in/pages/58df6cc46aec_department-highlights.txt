@@ -1,0 +1,36 @@
+URL: https://egspasc.ac.in/academics/departments/data-science/department-highlights
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Science
+Data Science
+Department Highlights
+B.Sc. Data Science Highlights
+B.Sc Data Science is a fascinating 3-year full-time course that combines elements of Computer Science, Business Analytics, and Artificial Intelligence. This field is all about utilizing Statistics, Machine Learning, Big Data Analytics, and related tools to gain insights from real-world data.
+Program Highlights
+Interdisciplinary Approach (CS, Stats, Business)
+Data Analytics & Visualization Focus
+Machine Learning & AI Integration
+Big Data Technologies
+Real-world Problem Solving
+Quick Links
+About
+Hod`s Desk
+Faculty Details
+Research & Publications
+Student Achievements
+Program Outcomes
+Program Educational Objectives
+Program Specific Outcomes
+Placements
+Curriculum & Syllabus
+Department Contact
+The Head of Department
+Head of Department
+·
+Phone
+Not available
+Mail
+hodds@egspasc.org

@@ -1,0 +1,24 @@
+URL: https://www.egsppharma.org/index.php?data=facilities
+EXTRACTOR: requests+bs4
+
+×
+Online Application for admission
+Register yourself before login
+Student Login
+Register for Login
+Admin
+Laboratories
+Institution has a fully equipped 18 laboratories with all instruments, Appartus, Glasswares, Chemicals & constructed as per guidelines issued by the approving and affiliating body
+Hospital MoU
+Institution have MoU with Government Head Quarters Hospital, Nagapattinam
+Institution have exculsive Pharmacy Practice Department in Government Head Quaters Hospital, Nagapattinam with Deparmtnent Library and Computers alongwith internet facilities
+institution have bought the Drug Information Database for the Pharm.D students, which gives more information about the medicine.
+Library
+Instituion have well maintained library with more than 10000 books, 100 national and international journals,500 e-Books, 5 computers (Latest Configuration) with wifi facilities, audiovisual aids and CD's with 100 seatin capacity.
+Institution has a very big Own Book Reading Hall with 150 seating capacity
+Hostel
+Constructed in a calm and healthy location, the separate hostel for boys and girls provides complete residential facilities to the students. The facilities include a common room, computer room with WiFi Campus facility, reading room along with indoor and outdoor recreational activities.
+A separate mess is functioning inside the hostel providing quality and nutritious food – both Vegetarian and Non-Vegetarian.
+Sports
+Sports is an essential and integral part of every human being Not only do the students excel in studies, their sporting achievements are also worthy. In, Cricket, Basketball, Badminton, Hockey, Tennis, Volleyball and other Sports. If sports & games are properly instituted in every organization, there will not be much physical suffering in this world keeping in mind; we encourage every student to take part in sports. We give special attention and training to students who want to build their career in any sports field.
+All Rights Reserved. © 2020 EGS Pillay College of Pharmacy

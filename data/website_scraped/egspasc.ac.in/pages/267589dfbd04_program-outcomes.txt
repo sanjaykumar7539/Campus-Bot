@@ -1,0 +1,53 @@
+URL: https://egspasc.ac.in/public/academics/departments/biotechnology/program-outcomes
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Biotechnology
+Program Outcomes (POs)
+##
+Program Outcomes
+PO1
+Grasp of basic and advanced knowledge in various domains of biotechnology.
+PO2
+Ability to integrate technologies through an interdisciplinary learning habit.
+PO3
+Demonstrate independent thinking ability.
+PO4
+Ability to communicate effectively.
+PO5
+Equipped with laboratory skills in biotechnology.
+PO6
+Awareness of the impact of biosolutions in a global, economic, environmental, and societal context.
+PO7
+Understanding of professional and ethical responsibility.
+PO8
+Ability to design and conduct experiments, as well as to analyze and interpret scientific data.
+PO9
+Awareness of contemporary issues that can be mitigated or supported through life science knowledge and biotechnology skills.
+PO10
+Recognition of the need for, and the ability to engage in, lifelong learning.
+PO11
+Ability to work in teams to solve broad societal and national issues.
+PO12
+Ability to inculcate an attitude of inquiry towards developing innovative ability and enhancing entrepreneurship skills.
+Quick Links
+About
+Department Highlights
+Hod`s Desk
+Faculty Details
+Curriculum & Syllabus
+Research & Publications
+Placements
+Student Achievements
+Program Educational Objectives
+Program Specific Outcomes
+Department Contact
+Dr. R. Kadhar Nivas, M.Sc., M.Phil., Ph.D
+Head of Department
+·
+Phone
+Not available
+Mail
+hodbtegspasc@gmail.com

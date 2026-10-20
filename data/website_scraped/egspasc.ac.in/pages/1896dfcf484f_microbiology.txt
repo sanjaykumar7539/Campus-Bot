@@ -1,0 +1,66 @@
+URL: https://egspasc.ac.in/public/academics/departments/microbiology
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Microbiology
+Department of Microbiology
+About the Department
+E.G.S Arts & Science College is offered the Microbiology department with a focus on providing career oriented education, including a B.Sc in microbiology that prepares students for advanced studies.
+Scope of Microbiology
+The scope in this field is immense due to the involvement of microbiology in many fields like .There is vast scope in the field of microbiology due to the advancement in the field of science and technology. The study of microbiology contributes greatly to the understanding of life through enhancements and intervention of microorganisms. There is an increase in demand for microbiologists globally.
+Genetics:
+Mainly involves engineered microbes to make hormones, vaccine, antibiotics and many other useful products for human being.
+Agriculture:
+The influence of microbes on agriculture; the prevention of the diseases that mainly damage the useful crops.
+Food science:
+It involves the prevention of spoilage of food and food borne diseases and the uses of microbes to produce cheese, yoghurt, pickles and beer.
+Immunology:
+The study of immune system which protect the body from pathogens
+Medicine:
+deals with the identification of plans and measures to cure diseases of human and animals which are infectious to them.
+Industry:
+it involves use of microbes to produce antibiotics, steroids, alcohol, vitamins and amino acids etc.
+Agricultural microbiology:
+try to combat plant diseases that attack important food crops, work on methods to increase soil fertility and crop yields etc. Currently there is a great interest in using bacterial or viral insect pathogens as substitute for chemical pesticides.
+Microbial ecology:
+biogeochemical cycles – bioremediation to reduce pollutioneffects
+Food and dairy microbiology:
+try to prevent microbial spoilage of food and transmission of food borne diseases such as botulism and salmonellosis. Use microorganisms to make foods such as cheese, yogurt, pickles and beers.
+Industrial microbiology:
+used to make products such as antibiotics, vaccines, steroids, alcohols and other solvents, vitamins, amino acids and enzymes.
+Microbial physiology and Biochemistry:
+study the synthesis of antibiotics and toxins, microbial energy production, microbial nitrogen fixation, effects of chemical and physical agents on microbial growth and survival etc.
+Microbial genetics and Molecular biology:
+nature of genetic information and how it regulated the development and function of cells and organisms. Development of new microbial strains those are more efficient in synthesizing useful products.
+Genetic engineering:
+arisen from work of microbial genetics and molecular biology. Engineered microorganisms are used to make hormones, antibiotics, vaccines and other products. New genes can be inserted into plants and animals etc.
+Overview
+The Department of Microbiology at E.G.S Arts & Science College provides a comprehensive understanding of microorganisms and their roles in various sectors. Our curriculum is designed to equip students with theoretical knowledge and practical skills required for a successful career in microbiology.
+Programs Offered
+Program
+Duration
+Eligibility
+B.Sc., Microbiology
+3 Years
+A Pass in 10+2 with Biology / Botany / Zoology as one of the subjects.
+Quick Links
+About
+Department Highlights
+Hod`s Desk
+Faculty Details
+Curriculum & Syllabus
+Research & Publications
+Student Achievements
+Program Outcomes
+Program Educational Objectives
+Program Specific Outcomes
+Department Contact
+Microbiology HOD
+Head of Department
+·
+Phone
+Not available
+Mail
+microbiology@egspasc.ac.in

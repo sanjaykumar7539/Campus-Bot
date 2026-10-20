@@ -11,6 +11,8 @@ from .verified_college_answers import lookup_verified_answer
 from .college_scope import COLLEGES, filter_college_evidence, requested_colleges
 from .college_topics import TOPICS, topics_for, expand_question
 from .question_understanding import normalize_question, needs_clarification, CLARIFICATION
+from .campus_operational_answers import operational_answer
+from .conversation_context import contextualize_question, contextual_follow_up_answer
 
 
 _SECTION_RULES = (
@@ -58,7 +60,13 @@ _BOILERPLATE = re.compile(
     r'admissions office|empower your future|secure your (?:future|spot)|'
     r'admissions? open|explore programs|follow us|on campus|for inquiries|'
     r'contact information|frequently asked questions|status page|sitemap|'
-    r'privacy policy|terms & conditions|contact web admin|website last updated)\b', re.I,
+    r'privacy policy|terms & conditions|contact web admin|website last updated|'
+    r'limitations? of liability|punitive damages|lost profits?|lost revenue|'
+    r'loss of data|damages arising from your use of the services|'
+    r'privacy law|personal data|sensitive data|business contact details|'
+    r'professional or employment-related information|related tags|'
+    r'computer-generated statement|right to opt out|right to limit use|'
+    r'build your engineering future|programs ug.*pg.*ph\.?d)\b', re.I,
 )
 _BARE_INSTITUTION = re.compile(
     r'^(?:(?:E\.?G\.?S\.?|Edayathangudy G S)\s+)?Pillay\s+'
@@ -396,6 +404,8 @@ class RAGChain:
         evidence = [
             item for item in bundle.get('evidence', [])
             if self._trusted_url(str(item.get('source_url', '')))
+            and not re.search(r'/(?:privacy|terms|cookie|disclaimer)(?:[-/?.]|$)',
+                              str(item.get('source_url', '')), re.I)
         ]
         evidence = filter_college_evidence(query, evidence, self._clean_evidence)
         trusted_urls = {
@@ -452,14 +462,33 @@ class RAGChain:
 
     def invoke(self, query: str, context_fact_id: str | None = None) -> Dict:
         query = normalize_question(query)
+        from .student_advisor import student_advice
+        advice = student_advice(query, context_fact_id)
+        if advice is not None:
+            return advice
+        follow_up = contextual_follow_up_answer(query, context_fact_id)
+        if follow_up is not None:
+            source_url = follow_up['source_url']
+            return {
+                'answer': follow_up['answer'],
+                'sources': [{'document': source_url, 'page': 'verified college Q&A',
+                             'relevance_score': 1.0}] if source_url else [],
+                'confidence': 1.0 if source_url else 0.0,
+                'is_grounded': True,
+                'reason': 'Scoped answer from the previous verified institute topic',
+                'fact_id': follow_up['fact_id'],
+            }
+        query = contextualize_question(query, context_fact_id)
         if needs_clarification(query):
-            if context_fact_id:
+            if context_fact_id and query.casefold() in {
+                'adhu', 'athu', 'what about that', 'what about that?',
+                'what about it', 'what about it?', 'tell me more',
+            }:
                 query = 'what about that?'
             else:
                 return {'answer': CLARIFICATION, 'sources': [], 'confidence': 0.0,
                         'is_grounded': False, 'reason': 'Clarification needed'}
-        verified = (lookup_verified_answer(query, context_fact_id=context_fact_id)
-                    if requested_colleges(query) == {'engineering'} else None)
+        verified = lookup_verified_answer(query, context_fact_id=context_fact_id)
         if verified is not None:
             fact_id = str(verified.get('fact_id', ''))
             if fact_id and verified.get('learnable'):
@@ -475,6 +504,17 @@ class RAGChain:
                 'is_grounded': True,
                 'reason': 'Matched a verified institute answer',
                 'fact_id': fact_id,
+            }
+
+        operational = operational_answer(query)
+        if operational is not None:
+            return {
+                'answer': operational['answer'],
+                'sources': [],
+                'confidence': 1.0,
+                'is_grounded': True,
+                'reason': 'Safe operational guidance; live detail not present in indexed records',
+                'fact_id': operational['fact_id'],
             }
 
         if needs_clarification(query):

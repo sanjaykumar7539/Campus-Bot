@@ -1,0 +1,51 @@
+URL: https://egspasc.ac.in/public/academics/departments/computer-applications/faculty-details
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Computer Applications (BCA)
+Faculty Details
+Faculty Members
+S.No
+Name
+Designation
+Qualification
+Profile
+1
+Mr. T. Manivannan
+Head of the Department (HOD), Assistant Professor
+MCA, M.Phil.
+Download PDF
+2
+Mr. R. Muruganandam
+Assistant Professor
+3
+Mrs. S. Rajeshwari
+B.Sc., MCA, M.Phil.
+4
+Mrs. P. Aarthi
+B.Sc., MCA
+5
+Ms. G. Sujitha Bavadharani
+M.Sc.
+Quick Links
+About
+Department Highlights
+Hod`s Desk
+Curriculum & Syllabus
+Research & Publications
+Placements
+Student Achievements
+Program Outcomes
+Program Educational Objectives
+Program Specific Outcomes
+Department Contact
+Mr. T. Manivannan, M.C.A., M.Phil., SET, (Ph.D.)
+Head of Department
+·
+Computer Applications
+Phone
+Not available
+Mail
+hodbca@egspasc.org

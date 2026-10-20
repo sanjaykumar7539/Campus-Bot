@@ -1,7 +1,9 @@
 from __future__ import annotations
 
+import json
 import re
 import threading
+from datetime import datetime, timezone
 from pathlib import Path
 from urllib.parse import urlparse
 
@@ -16,9 +18,10 @@ class OfficialSourcesMonitor:
     COE and admissions data can be synchronized independently without collisions.
     """
 
-    def __init__(self, sources=None):
+    def __init__(self, sources=None, report_path=None):
         self.sources = sources or config.OFFICIAL_SOURCE_ROOTS
         self._stop_event = threading.Event()
+        self.report_path = Path(report_path or Path(config.DATA_DIR) / 'website_scraped' / 'source_sync_verification.json')
 
     @staticmethod
     def _source_key(url: str) -> str:
@@ -56,8 +59,13 @@ class OfficialSourcesMonitor:
                     f"[CampusMind] {key}: visited={result.get('visited_count', 0)}, "
                     f"changed_pages={len(result.get('changed_pages', []))}, "
                     f"new_docs={len(result.get('new_documents', []))}, "
-                    f"failed={result.get('failed_count', 0)}"
+                    f"failed={result.get('failed_count', 0)}, "
+                    f"skipped_expiring={result.get('skipped_volatile_count', 0)}, "
+                    f"skipped_malformed={result.get('skipped_malformed_count', 0)}, "
+                    f"skipped_known_broken={result.get('skipped_known_broken_count', 0)}"
                 )
+                for failure in result.get('failures', [])[:3]:
+                    print(f"[CampusMind] failed URL: {failure['url']} — {failure['error'][:180]}")
             except Exception as exc:
                 results[key] = {'error': str(exc)}
                 print(f'[CampusMind] Source sync failed safely for {source}: {exc}')
@@ -70,10 +78,39 @@ class OfficialSourcesMonitor:
                 print('\n[CampusMind] Rebuilding combined knowledge index...')
                 reingested = manager.rebuild()
 
+        verification = {
+            'checked_at_utc': datetime.now(timezone.utc).isoformat(),
+            'sources': {
+                key: {
+                    'source_url': next((url for url in self.sources if self._source_key(url) == key), ''),
+                    'visited_count': item.get('visited_count', 0),
+                    'reachable_pages': item.get('reachable_pages', 0),
+                    'failed_count': item.get('failed_count', 0),
+                    'skipped_volatile_count': item.get('skipped_volatile_count', 0),
+                    'skipped_malformed_count': item.get('skipped_malformed_count', 0),
+                    'skipped_known_broken_count': item.get('skipped_known_broken_count', 0),
+                    'crawl_limit_reached': item.get('crawl_limit_reached', False),
+                    'failure_examples': item.get('failures', [])[:25],
+                    'error': item.get('error', ''),
+                    'complete_without_fetch_failures': (
+                        not item.get('error') and item.get('failed_count', 0) == 0
+                        and item.get('reachable_pages', 0) > 0
+                        and not item.get('crawl_limit_reached', False)
+                    ),
+                }
+                for key, item in results.items()
+            },
+        }
+        self.report_path.parent.mkdir(parents=True, exist_ok=True)
+        temporary = self.report_path.with_suffix('.tmp')
+        temporary.write_text(json.dumps(verification, ensure_ascii=False, indent=2), encoding='utf-8')
+        temporary.replace(self.report_path)
+
         return {
             'sources': results,
             'changed': changed_any,
             'reingested': reingested,
+            'verification_report': str(self.report_path),
         }
 
     def run_forever(self, interval_seconds=None, initial_scan=True):

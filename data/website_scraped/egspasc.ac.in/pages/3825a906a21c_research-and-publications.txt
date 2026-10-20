@@ -1,0 +1,35 @@
+URL: https://egspasc.ac.in/academics/departments/data-science/research-and-publications
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Science
+Data Science
+Research & Publications
+S.No
+Title
+Author(s)
+Year
+Publication
+No research publications available at this time.
+Note: The list is updated periodically as new research papers and publications appear.
+Quick Links
+About
+Department Highlights
+Hod`s Desk
+Faculty Details
+Student Achievements
+Program Outcomes
+Program Educational Objectives
+Program Specific Outcomes
+Placements
+Curriculum & Syllabus
+Department Contact
+The Head of Department
+Head of Department
+·
+Phone
+Not available
+Mail
+hodds@egspasc.org

@@ -1,0 +1,30 @@
+URL: https://www.egsppharma.org/index.php?data=aboutus
+EXTRACTOR: requests+bs4
+
+×
+Online Application for admission
+Register yourself before login
+Student Login
+Register for Login
+Admin
+G.S.Pillay & Sons Charitable and Educational Trust established in the year 1981 by Chevalier Shri G.S.Pillay, runs several Educational Institutions in the field of Pharmacy, Engineering, Management, and Arts & Science in Nagapattinam. E.G.S. Pillay college of Pharmacy was established in the year 2000, by the well known Philanthropist Chevalier Shri G.S. Pillay in Nagapattinam.
+Mission
+M
+E.G.S.Pillay College of Pharmacy is committed to offer high quality education, training and research in the field of Pharmacy
+Vision
+To educate the students to develop their hidden skills, enhance their leadership qualities and enabling them to get connected to the global opportunities
+.
+Chev.Dr.G.S.Pillay - Founder
+Smt.S.Jothimani Ammal - Chairman
+Chev. S.Parameswaran. M.Com., FCCA (London), - Secretary
+Prof.Dr.D.Babu Ananth, M.Pharm., Ph.D Principal
++91 - 99422 40006
+babuananth11@gmail.com
+Prof.Dr.M.Murugan, M.Pharm., Ph.D.,
+Director
++91 - 99422 50006
+ammurugan@yahoo.com
+Prof.Dr.K.Shahul Hameed Maraicar, M.Pharm., Ph.D., Director
++91 - 98424 32093
+kemisha2002@yahoo.co.in
+All Rights Reserved. © 2020 EGS Pillay College of Pharmacy

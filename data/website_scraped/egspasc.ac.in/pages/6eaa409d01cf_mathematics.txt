@@ -1,0 +1,41 @@
+URL: https://egspasc.ac.in/public/academics/departments/mathematics
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Mathematics
+Department of Mathematics
+About the Department
+The Department is one among the department serving the academic needs of the Institution since 2006. The PG Programme was established in the year 2009. It offers B.Sc., M.Sc., and research program. The department is taken care of functions efficiently by Head of the Department
+Dr. R.Mekala supported by eight faculty members.
+We are committed to strengthening foundational and advanced mathematical skills, encouraging
+research attitude, and enabling students to apply mathematics to real-world problems across
+science, technology, and industry.
+Vision
+To provide students with individualized help in their studies and develop a program whereby
+students may obtain tutoring as needed to successfully complete their mathematics courses.
+Mission
+Offer academic challenges with appropriate support to help students succeed.
+Make students employable by involving them in various competitive examinations.
+Motivate students to present papers in national and international seminars and conferences.
+Quick Links
+About
+Department Highlights
+Hod`s Desk
+Faculty Details
+Students Achievements
+Research & Publications
+Program Outcomes (POs)
+Program Educational Objectives (PEOs)
+Programme Specific Outcomes (PSOs)
+Curriculum & Syllabus
+Placements
+Department Contact
+Dr. R. Mekala, M.Sc., M.Phil., Ph.D.
+Head of Department
+·
+Phone
+Not available
+Mail
+hodmaths@egspasc.org

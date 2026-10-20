@@ -1,0 +1,38 @@
+URL: https://egspasc.ac.in/academics/departments/chemistry/program-outcomes
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Chemistry
+Program Outcomes (POs)
+On successful completion of the programme, graduates are expected to achieve the following:
+##
+Program Outcomes
+1
+Produces industry-ready graduates with strong laboratory skills, modern instrumentation expertise and problem-solving abilities.
+2
+Cultivates research-oriented scholars through active projects, publications and hands-on exposure to advanced chemical sciences.
+3
+Promotes environmental and green chemistry awareness, preparing students for sustainable scientific practices.
+4
+Encourages innovation and entrepreneurship, guiding students to convert scientific ideas into real-world applications.
+Quick Links
+About
+Department Highlights
+HoD's Desk
+Faculty Details
+Research & Publications
+Curriculum & Syllabus
+Student Achievements
+Program Educational Objectives
+Program Specific Outcomes
+Department Contact
+Mrs. S. Malathi
+Head of the Department
+·
+Department of Chemistry
+Phone
+Not available
+Mail
+chemistry@egspasc.ac.in

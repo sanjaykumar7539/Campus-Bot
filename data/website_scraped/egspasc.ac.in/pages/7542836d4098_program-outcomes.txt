@@ -1,0 +1,41 @@
+URL: https://egspasc.ac.in/academics/departments/visual-communication/program-outcomes
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Visual Communication
+Program Outcomes (POs)
+B.Sc. Visual Communication — Program Outcomes
+##
+Outcome
+PO1
+Apply principles of visual communication to solve complex design problems.
+PO2
+Create professional-grade media content using modern digital tools.
+PO3
+Analyze media messages critically and ethically across various platforms.
+PO4
+Work effectively in collaborative media production environments.
+PO5
+Communicate ideas clearly through diverse visual and multimedia formats.
+Quick Links
+About
+Department Highlights
+Department Activities
+HoD's Desk
+Faculty Details
+Research & Publications
+Curriculum & Syllabus
+Student Achievements
+Program Outcomes
+Program Educational Objectives
+Program Specific Outcomes
+Department Contact
+HOD - VisCom
+Head of the Department
+·
+Phone
+Not available
+Mail
+hodviscom@egspasc.ac.in

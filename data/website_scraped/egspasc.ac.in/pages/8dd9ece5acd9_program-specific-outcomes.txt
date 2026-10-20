@@ -1,0 +1,39 @@
+URL: https://egspasc.ac.in/public/academics/departments/commerce-business-process-service/program-specific-outcomes
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Commerce – BPS & Professional Accounting
+Programme Specific Outcomes (PSOs)
+##
+Programme Specific Outcomes
+PSO1
+Develop professional skills to analyze concepts and apply technology in banking and other businesses.
+PSO2
+Cope with recent trends in commerce and business processes with emphasis on employability skills.
+PSO3
+Take responsibility, work constructively, and lead within the community with teamwork and cooperation.
+PSO4
+Communicate effectively in both verbal and written forms.
+PSO5
+Develop broad business skills and knowledge to meet current and future expectations of business, industry, and the economy at national and global levels.
+Quick Links
+About
+Department Highlights
+HoD's Desk
+Faculty Details
+Student Achievements
+Curriculum & Syllabus
+Placements
+Research & Publications
+Program Outcomes (POs)
+Program Educational Objectives (PEOs)
+Department Contact
+Ms. R. Bhuvaneswari, M.Com., M.Phil.
+Assistant Professor & Head
+·
+Phone
+Not available
+Mail
+hodbps@egspasc.org

@@ -1,0 +1,55 @@
+URL: https://egspasc.ac.in/academics/departments/computer-science-with-cognitive-system/department-highlights
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Computer Science with Cognitive System
+Department Highlights
+Highlights – Computer Science with Cognitive System
+Interdisciplinary Curriculum:
+Core CS + AI, cognitive science, machine learning, neuroscience, HCI.
+Focus on AI & Cognitive Tech:
+NLP, Deep Learning, Cognitive Robotics, Decision-Making Systems.
+Industry-Aligned Education:
+Collaborations with TCS; internships, live projects, employability skills.
+Research-Driven:
+Brain–computer interfaces, emotional AI, explainable AI, adaptive learning; student publications encouraged.
+Excellent Placements:
+Consistent placements in top IT firms and startups in AI, data science, and intelligent systems.
+Modern Lab Facilities:
+Cognitive Computing Lab; Python, Java, PHP, and cloud-based tools.
+Experienced Faculty:
+Expertise spanning AI, cognitive psychology, data science, and cloud computing.
+Value-Added Certifications:
+Certifications in AI/ML, data analytics, design thinking on latest platforms.
+Innovation Culture:
+Hackathons, innovation challenges, and national/international competitions.
+Global Exposure:
+Joint research and webinars with universities and domain experts.
+Key Highlights – CS with Cognitive System
+Strong Programming Foundation
+Artificial Intelligence & Cognitive Learning
+Data & Cloud Technologies
+IT Infrastructure & Network Technologies
+Digital Transformation & Business IT
+Emerging Technologies
+Practical & Project Focused Learning
+Quick Links
+About
+HoD`s Desk
+Faculty Details
+Industry Collaboration (TCS)
+Curriculum & Syllabus
+Student Achievements
+Program Outcomes
+Program Educational Objectives
+Program Specific Outcomes
+Department Contact
+Mr. I. Manoj, M.C.A., M.Phil., B.Ed.
+Head of Department
+·
+Phone
+Not available
+Mail
+hodcscs@egspasc.org

@@ -1,0 +1,26 @@
+URL: https://egspasc.ac.in/facilities/indoor-stadium
+EXTRACTOR: requests+bs4
+
+Home
+Facilities
+Indoor Stadium
+E.G.S. Pillay Arts and Science College Indoor Stadium
+The Indoor Stadium at
+Edayathangudy G.S. Pillay Arts and Science College
+stands as one of the most prominent facilities on campus, designed to promote physical fitness, teamwork, and a balanced student lifestyle.
+It provides state-of-the-art amenities to host a variety of indoor games, tournaments, and training sessions throughout the academic year.
+Facilities Available
+Spacious, multi-purpose indoor court with synthetic flooring
+Facilities for Badminton, Table Tennis, Volleyball, and Basketball practice
+Separate areas for Yoga, Aerobics, and Fitness activities
+Dedicated seating area for spectators and participants
+Modern lighting and ventilation for all-weather sports activities
+Changing rooms and locker facilities for students and staff
+Regular inter-college tournaments and training sessions
+Purpose & Vision
+The indoor stadium serves as a hub for sports excellence and holistic development.
+It encourages students to actively participate in physical activities alongside academics, nurturing both discipline and team spirit.
+The facility also supports coaching camps and fitness programs organized by the Department of Physical Education.
+Accessibility
+The stadium is accessible to all students and faculty members during college hours.
+It remains one of the most vibrant areas on campus, frequently hosting sports meets, cultural events, and student recreation sessions.

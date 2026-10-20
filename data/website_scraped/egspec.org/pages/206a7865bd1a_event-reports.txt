@@ -4,12 +4,19 @@ EXTRACTOR: requests+bs4
 Academics
 Event Reports
 Browse department-wise event reports and activities.
-46 Reports Found
+55 Reports Found
+Oct 10, 2026
+Dr. Shankar Duraikannan
+Symposium(SYNOFURA’26)
+Biomedical Engineering
+View Report
+Oct 02, 2026
+Ms. V. Valarmathi
+Introduction To Medical Coding
 Sep 28, 2026
 Mr.M.MADHU
 Professional Society Event-IWS WEBINAR ON Effect of Post-Deposition Heat Treatment on the Mechanical and Fatigue Crack Growth Behaviour of Hot-Wire TIG Wire Arc Additively Manufactured Ni Alloy 740H"
 Mechanical Engineering
-View Report
 Sep 21, 2026
 Dr.S.THIYAGARAJAN
 CAREER GUIDANCE PROGRAM ON GATE 2027 AWARNESS STRATEGY
@@ -25,24 +32,16 @@ NATIONAL WORKSHOP ON BEYOND CONVENTIONAL CONCRETE: EMERGING SUSTAINABLE MATERIAL
 Civil Engineering
 K. Kirthika M. Tech, MBA (Bio...
 BioSignal Nexus Bridging Physiological Concepts & Real-Device Practice
-Biomedical Engineering
+Mr.M.Barath
+PYTHON PROGRAMMING
+Computer Science and Engineering
+Mrs. K. Kirthika M.Tech, MBA
+Bio signal nexus-bridging physiological concepts &amp;real devices practice
 Mr.D.SUNDAR
 ONE-DAY WEBINAR ON EMERGING TRENDS IN INDUSTRIAL ROBOTICS AND AUTOMATION
-Sep 03, 2026
-Mr. Anand Pitchaikani,
-INAUGRATION OF DESIGN THINKING & INNOVATION CELL
-Sep 02, 2026
-Dr. Ezhil Ratnakumari
-WORKSHOP PROGRAM on “Balancing Body & Mind"
-Sep 01, 2026
-Hands-on Workshop on Complete Anatomy: 3D Digital Human Anatomy and Visualization for Biomedical Engineers
-Aug 27, 2026
-DR.G.KUMARAVELAN
-ONE DAY FACULTY DEVELOPMENT PROGRAM ON NEP 2020: ORIENTATION AND SENSITIZATION
-MCA (Master of Computer Applications)
-Aug 23, 2026
-M.SUDHAHAR
-ALUMNI WEBINAR ON VARIOUS OPPORTUNITIES IN CIVIL ENGINEERING SECTOR
+Sep 05, 2026
+Mrs.G.Nithiyabharathi
+Code Carnival: Decode the Digital World
 Department Event
 ×
 Loading...
@@ -56,8 +55,8 @@ Old Nagore Road, Thethi Village
 Nagapattinam - 611002
 Follow Us:
 On Campus
-28.4°C
-Cloudy
+26.7°C
+Light rain shower
 Facebook
 LinkedIn
 Twitter
@@ -75,4 +74,4 @@ Privacy Policy
 Terms & Conditions
 Contact Web Admin
 Website last updated on:
-2026-10-12 04:03:06 PM
+2026-10-15 12:45:15 PM

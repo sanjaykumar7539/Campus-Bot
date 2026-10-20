@@ -2,7 +2,15 @@ URL: https://coe.egspec.org/regulations
 EXTRACTOR: requests+bs4
 
 Regulation Directory
-Undergraduate (UG)
-Postgraduate (PG)
-UG Regulations (B.E. / B.Tech)
-PG Regulations (M.E. / M.B.A. / M.C.A.)
+UG
+PG
+Regulation
+UG Degrees
+Which Regulation is Mine?
+Your regulation corresponds to your year of admission. For instance, students enrolled in 2017 follow
+Regulation 2017 (R2017)
+.
+Academic Year 2017
+Showing curriculum handbooks and regulations for your selected degree.
+No course regulations found
+Please check another regulation or contact the Office of the Controller of Examinations.

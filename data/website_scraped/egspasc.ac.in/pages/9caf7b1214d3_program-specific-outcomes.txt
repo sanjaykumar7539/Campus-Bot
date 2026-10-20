@@ -1,0 +1,45 @@
+URL: https://egspasc.ac.in/academics/departments/computer-applications/program-specific-outcomes
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Computer Applications
+Programme Specific Outcomes (PSOs)
+##
+PSO1
+Apply computing and mathematical fundamentals to identify, analyze, and model real-world problems,
+and architect effective software solutions.
+(Aligned to PEO1–PEO3)
+PSO2
+Design, develop, deploy, and maintain applications (web / mobile / data-centric) using modern
+languages, frameworks, databases, cloud and DevOps practices for Government and Private sectors.
+(Aligned to PEO1–PEO3, PEO6)
+PSO3
+Demonstrate professional competence—effective communication, collaboration, leadership, and an
+entrepreneurial mindset—while pursuing higher studies or career advancement through continuous learning.
+(Aligned to PEO4–PEO6, PEO9)
+PSO4
+Practice ethical, legal, security, and societal responsibilities; build inclusive, user-centric solutions
+that contribute positively to community and sustainability goals.
+(Aligned to PEO7–PEO8)
+Quick Links
+About
+Department Highlights
+Hod`s Desk
+Faculty Details
+Curriculum & Syllabus
+Research & Publications
+Placements
+Student Achievements
+Program Outcomes
+Program Educational Objectives
+Program Specific Outcomes
+Department Contact
+Mr. T. Manivannan, MCA., M.Phil., SET., (Ph.D.)
+Head of Department
+·
+Phone
+Not available
+Mail
+hodbca@egspasc.org

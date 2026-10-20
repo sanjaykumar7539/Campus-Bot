@@ -1,0 +1,32 @@
+URL: https://egspasc.ac.in/events
+EXTRACTOR: requests+bs4
+
+Home
+Events
+College Events & Highlights
+Campus Events & Happenings
+Stay updated with academic symposiums, workshops, cultural fests, and alumni meets.
+Back to Home
+Workshop / Seminar
+Oct 12, 2026
+Commodity Derivatives:Market Dynamics,trading Strategies and Risk Management
+The one-day seminar on “Commodity Derivatives: Market Dynamics, Trading Strategies and Ris...
+MBA BLOCK
+Details
+Oct 06, 2026
+Capital Market Awareness and Commodity derivative Market
+The seminar on Capital Market Awareness and Commodity Derivative Market provided final-yea...
+Class Room No: D22
+Professional pattern making Techniques
+A workshop on Professional Pattern Making Techniques was conducted to provide students wit...
+B Block- 204
+College Event
+Oct 05, 2026
+Health Awareness Outreach Program
+Health Awareness Outreach Programme on Diabetes, Tick Fever and Mosquito-Borne Diseases co...
+Balasubramaniyan Tem...
+Cultural Event
+Sep 30, 2026
+Dress Code Awareness Programme-Flash Mob
+The Department of Fashion Technology and Costume Designing organized a Flash Mob to create...
+A-Block

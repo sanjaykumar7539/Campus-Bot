@@ -1,0 +1,126 @@
+URL: https://egspasc.ac.in/facilities/library
+EXTRACTOR: requests+bs4
+
+Home
+Facilities
+Library
+College Library
+About the Library
+Established in 1996 and located in the main building with a spacious area of 1000 Sq.m.
+Houses books, competitive examination materials, journals, magazines, newspapers, CDs, back volumes, theses, and question banks for various Arts and Science disciplines.
+Can accommodate around 70 members at a time.
+Books arranged using the Dewey Decimal Classification System with local variation.
+Digital section with 10 computers for accessing CDs and online resources.
+Free internet browsing available for students and staff.
+Library Rules
+Open from 9:00 am to 4:00 pm on all working days.
+Students/Staff must scan ID cards in the E-Gate Register and sign the gate entry register while entering and leaving.
+Maintain strict silence in the library and reading rooms.
+Personal books or belongings must be kept at the property counter.
+Books issued per person:
+UG Courses: 2 books for 15 days
+PG Courses: 2 books for 15 days
+M.Phil/Ph.D.: 2 books for 15 days
+Teaching Staff: 4 books for 30 days
+Administrative Staff: 4 books for 30 days
+Reference books, newspapers, journals, dissertations/theses are for library use only.
+No marking, underlining, or tearing of books allowed.
+Sign book issue and return registers when borrowing or returning books.
+Mobile phones are strictly prohibited inside the library.
+If a book is lost or damaged beyond repair, the borrower must replace it with a new copy or pay double the cost.
+If the due date falls on a holiday, the next working day is considered the due date.
+Library Administration
+Mrs. A. Kayalvizhi – Head & Librarian
+Mrs. S. Vasuki – Assistant Librarian
+Mrs. T. Sujitha – Assistant Librarian
+Library Collections
+S.No
+Department
+No. of Books
+No. of Titles
+1
+Artificial Intelligence & Machine Learning
+29
+18
+2
+Biochemistry
+1254
+885
+3
+Biotechnology
+920
+724
+4
+Chemistry
+590
+469
+5
+Commerce
+2373
+963
+6
+Computer Science
+3541
+2020
+7
+Data Science
+50
+34
+8
+English
+1374
+1088
+9
+Fashion Technology
+24
+10
+General
+362
+272
+11
+Maths
+1276
+709
+12
+MBA
+1227
+888
+13
+Microbiology
+35
+31
+14
+Physics
+1912
+1020
+15
+Professional Accounting
+56
+28
+16
+Tamil
+1302
+1189
+17
+Visual Communication
+159
+132
+N & D
+380
+299
+19
+Defence
+Total
+16875
+10816
+Digital & Online Resources
+Book Bank: 525 books
+Total Journals: 60 (18 International, 42 National)
+Free online access to e-journals and e-books via:
+DELNET
+e-PG Pathshala
+National Digital Library
+Shodhganga
+TNPSC resources
+CSIR resources
+Project Madurai (Tamil eBooks)

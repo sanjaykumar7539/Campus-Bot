@@ -1,0 +1,28 @@
+{
+  "review_date": "2026-10-20",
+  "raw_report": "results.json",
+  "automatic_checks": {"total": 34, "passed": 24, "failed": 10},
+  "manual_requirement_review": {"total": 34, "passed": 25, "failed": 9},
+  "adjudications": [
+    {
+      "case": "negative-feedback",
+      "automatic_passed": false,
+      "reviewed_passed": true,
+      "reason": "The answer explicitly says the official records do not publish an audited aggregate rating or representative review summary and warns against generalizing individual testimonials. This satisfies the uncertainty and balanced-review requirement. The original regex only recognized 'verified' or 'independent'.",
+      "action": "Broadened the audit's vocabulary for future runs. Preserved the original raw results."
+    }
+  ],
+  "rate_limit": {"passed": true, "first_status": 200, "second_status": 429},
+  "regression_tests": {"passed": 55, "failed": 0},
+  "latency": {
+    "successful_http_responses": 32,
+    "responses_within_3000ms": 26,
+    "median_ms": 50.555,
+    "slowest_ms": 73192.7,
+    "scope": "In-process TestClient with lazy local retrieval; startup lifespan was not executed. Not browser or deployed-service latency."
+  },
+  "production_ready_for_open_ended_student_advice": false,
+  "independent_factual_accuracy_measured": false,
+  "model_adapter_evaluated": false,
+  "production_code_changed": false
+}

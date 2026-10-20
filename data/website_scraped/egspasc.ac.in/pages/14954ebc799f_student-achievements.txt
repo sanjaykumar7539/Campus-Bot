@@ -1,0 +1,87 @@
+URL: https://egspasc.ac.in/academics/departments/information-technology/student-achievements
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Information Technology (IT)
+Student Achievements
+Students Achievements
+S.No
+Event Name
+Name of the Institution
+Name of the Student
+YEAR
+Prize Won
+1.
+Paper Presentation
+Sengamala Thayar Educational Trust Women’s College
+Julaiha Jafrin H
+II B.Sc. IT
+II - Prize
+2.
+Reshma B
+3.
+Singing
+Srimathi B
+III - Prize
+4.
+Adzap
+Annai College of Art’s and Science
+Gowtham Raja V
+III B.Sc. IT
+5.
+Jasoor N
+6.
+Muthamizhan S
+7.
+Sivanesh D
+8.
+Mohamed Marsuk A
+9.
+Break The Stress
+Hariharan S
+II M.Sc. IT
+10.
+The Paper Talk
+Rabiammal Ahamed Maideen College for Women
+Anushia P
+I - Prize
+11.
+Mekala
+12.
+Mime
+II – Prize
+13.
+Muthamizhan.S
+14.
+Ahamed Anas.S
+I B.Sc. IT
+15.
+Gowtham.P
+16.
+Naveenkumar.R
+17.
+Mohammedrajin.M
+18.
+19.
+Malaiyarasi S
+Quick Links
+About
+Department Highlights
+Hod`s Desk
+Faculty Details
+Curriculum & Syllabus
+Research & Publications
+Program Outcomes
+Program Educational Objectives
+Program Specific Outcomes
+Department Contact
+Mrs.P.HELAN CHANDRA
+Assistant Professor & Head
+·
+Information Technology
+Phone
+Not available
+Mail
+hodit@egspasc.org

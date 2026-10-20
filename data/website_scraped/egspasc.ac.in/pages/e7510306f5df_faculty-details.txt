@@ -1,0 +1,48 @@
+URL: https://egspasc.ac.in/public/academics/departments/visual-communication/faculty-details
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Arts
+Visual Communication
+Faculty Details
+Faculty Members
+S.No
+Name
+Designation
+Qualification
+Profile
+1
+Mr. M. Veeramani
+Head of the Department (HOD), Assistant Professor
+M.Sc., M.Phil.
+Download PDF
+2
+Mrs. R. Pradeeba
+Assistant Professor
+M.Sc.
+3
+Mrs. P. Rohini
+4
+Ms. A. Ashwini
+Quick Links
+About
+Department Highlights
+Hod`s Desk
+Research & Publications
+Student Achievements
+Program Outcomes
+Program Educational Objectives
+Program Specific Outcomes
+Department Activities
+Placements
+Curriculum & Syllabus
+Department Contact
+Mrs. S. Sudharani
+Head of Department
+·
+Phone
+Not available
+Mail
+hodviscom@egspasc.org

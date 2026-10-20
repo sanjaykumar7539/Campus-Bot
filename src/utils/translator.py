@@ -15,6 +15,8 @@ THANGLISH_HINTS = {
     'sollu', 'solla', 'pannu', 'panna', 'enga', 'eppo', 'yaaru', 'yaru', 'intha',
     'indha', 'adhu', 'athu', 'namma', 'enaku', 'enakku', 'epdi', 'irukku', 'kedaikum',
     'college la', 'fees la', 'exam eppo', 'admission epadi', 'department la',
+    'naalaiku', 'students-ku', 'block-la', 'vaangarathu', 'aagirukkuma',
+    'tholanjiduchu', 'poga num', 'kitta', 'evlo naal',
 }
 
 

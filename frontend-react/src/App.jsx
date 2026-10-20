@@ -1,12 +1,10 @@
 import { useState, useCallback, useRef, useEffect } from 'react';
 import Header from './components/Header';
-import Landing from './components/Landing';
 import Chat from './components/Chat';
 import { useChat } from './hooks/useChat';
 import { useVoice } from './hooks/useVoice';
 
 export default function App() {
-  const [view, setView] = useState('home');
   const [input, setInput] = useState('');
   const [voiceHint, setVoiceHint] = useState('');
   const lastSpokenRef = useRef('');
@@ -48,7 +46,6 @@ export default function App() {
       stopSpeaking();
       setInput('');
       setVoiceHint('');
-      setView('chat');
       send(q);
     },
     [input, send, stopSpeaking]
@@ -61,7 +58,6 @@ export default function App() {
     setInput('');
     setVoiceHint('');
     lastSpokenRef.current = '';
-    setView('home');
   };
 
   const onVoice = () => {
@@ -96,19 +92,9 @@ export default function App() {
         setAutoSpeak={setAutoSpeak}
         speaking={speaking}
         supported={supported}
+        onAsk={ask}
       />
-      {view === 'home' ? (
-        <Landing
-          onAsk={ask}
-          input={input}
-          setInput={setInput}
-          onSubmit={() => ask()}
-          listening={listening}
-          onVoice={onVoice}
-          voiceHint={voiceHint}
-        />
-      ) : (
-        <Chat
+      <Chat
           messages={messages}
           streaming={streaming}
           quickReplies={quickReplies}
@@ -122,7 +108,6 @@ export default function App() {
           speaking={speaking}
           voiceHint={voiceHint}
         />
-      )}
     </div>
   );
 }

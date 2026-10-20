@@ -1,0 +1,42 @@
+URL: https://egspasc.ac.in/academics/departments/physics/program-specific-outcomes
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Physics
+Programme Specific Outcomes (PSOs)
+##
+Programme Specific Outcomes
+PSO1
+Understand basic mechanics and properties of matter.
+PSO2
+Illustrate principles of electricity, magnetism, thermodynamics, optics, and spectroscopy.
+PSO3
+Identify, formulate, and analyze complex problems using the basic principles of mathematics, physics, and statistics.
+PSO4
+Design, construct, and analyze basic electronic and digital circuits.
+PSO5
+Understand fundamentals of programming and apply them to numerical problems.
+PSO6
+Develop effective communication skills.
+Quick Links
+About
+Department Highlights
+HoD`s Desk
+Faculty Details
+Curriculum & Syllabus
+Research & Publications
+Placements
+Student Achievements
+Program Outcomes
+Program Educational Objectives
+Program Specific Outcomes
+Department Contact
+Mr. V. Senthil Murugan, M.Sc., M.Phil., (Ph.D.)
+Head of Department
+·
+Phone
+Not available
+Mail
+hodphysics@egspasc.org

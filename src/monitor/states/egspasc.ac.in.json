@@ -1,0 +1,2221 @@
+{
+  "content_hashes": {
+    "02516a56f8652e00545aca82defa0c79a205ff48b5108327732543129362f4a2": "https://egspasc.ac.in/academics/departments/computer-applications/research-and-publications",
+    "0439e501f171e6d8687b2f18cd227f5b726b0abd545ce808c55c16f7d0a7a63b": "https://egspasc.ac.in/academics/departments/visual-communication/department-highlights",
+    "0488a92c8e7ec9bb6b5b528834c1245c72edceadd6e32702642a65a8ff86966b": "https://egspasc.ac.in/academics/departments/physics",
+    "04918312c1d3222b0a136ce08043b2b0946f7ee274bcee772a0386fd2b95d38f": "https://egspasc.ac.in/academics/departments/commerce/research-and-publications",
+    "04d50fdd83aa9c7f0a49bb84e7a8a44d050b6b344768f8e266c48a52ac0fbd1b": "https://egspasc.ac.in/events/capital-market-awareness-and-commodity-derivative-market",
+    "06b5ce001edd960d022bafbe8b0a989fa5278207aefda9fa6b9d4b8086bc8f1e": "https://egspasc.ac.in/academics/departments/data-science/curriculum-syllabus",
+    "07217fa574f2f6b787a910275dc33d403ebc339db96dc4934cb3040e949aea64": "https://egspasc.ac.in/gallery/egspasc",
+    "075fe6f8e60284a9a99776c23b952fd493863f3cb2c4f66359fa83e66b55f567": "https://egspasc.ac.in/academics/departments/fashion-technology-and-costume-designing/program-outcomes",
+    "08ee4c3e113a700beb608db9311556fdb555d6b08fc8203898a2e02ba89f19c4": "https://egspasc.ac.in/research-and-development",
+    "08f8738532f166bba60985571eb4a07fee7de436a7b0dc6bb64c344ec972153a": "https://egspasc.ac.in/academics/departments/mathematics/faculty-details",
+    "0954eb649c5f5fb09548b33f87c5d2e8b789fdb345bebef3cc2a86a27822ca38": "https://egspasc.ac.in/academics/departments/computer-science-with-cognitive-system/student-achievements",
+    "09914c37f024aa852283afb74a75dd6b37bfb480442eabc1435b177cbfb59b9f": "https://egspasc.ac.in/research-and-development/phd-awardees",
+    "09bc5016b154fb724a58f15dd313aba71f7b40a8f623954a328361da33a3b00d": "https://egspasc.ac.in/academics/departments/commerce-business-process-service",
+    "0b07b6510c121248863105298d1e5eb367a0b3ecd76d74ae5e816c7a801571ae": "https://egspasc.ac.in/academics/departments/computer-science/faculty-details",
+    "0c35ae034788019b50e7d4adf1dead79b1b423f529cadafbe7fc5d9724bfc8e0": "https://egspasc.ac.in/academics/departments/tamil/career-opportunities",
+    "0d9a7264203739a1bbdf3d5cef90d29ee907a287e47fc1d558f895d37453ffb3": "https://egspasc.ac.in/academics/departments/computer-science-with-cognitive-system/program-specific-outcomes",
+    "0e0f06c3b2e7e0bf77cbeb50c158c00b70204a27b37ad0095f70bb755afcb3a0": "https://egspasc.ac.in/academics/departments/artificial-intelligence-and-machine-learning/curriculum-syllabus",
+    "0e1b9b4d367d11ff83e4fcafa25480bb014067d6f69eab9b0cfc600d17fcf614": "https://egspasc.ac.in/academics/departments/information-technology/student-achievements",
+    "113c476df52ca1687e461dbce691422b1c9fba7ff715567b18f03d16f415be08": "https://egspasc.ac.in/academics/departments/computer-applications/student-achievements",
+    "1293f79c19ecd71f8b424c80b0b20340a992184ff545b96f2feb3b732f881945": "https://egspasc.ac.in/academics/departments/visual-communication/student-achievements",
+    "12ce28bca84fa69eeea12be6304c86fecc341c0f79bcb8579f4148287f768930": "https://egspasc.ac.in/academics/departments/chemistry/department-highlights",
+    "1364667f2db120b1314eef846599823ab60fd6b9daa3e25a4033bf48fb6340d6": "https://egspasc.ac.in/academics/departments/information-technology/faculty-details",
+    "13d817512a873cf824e0444a65e128e40e44b5612fca3ab8e1a0ae01d0fb445e": "https://egspasc.ac.in/academics/departments/physics/student-achievements",
+    "17acb2bddaacd4d639c556f7604d10180575e762eecae264062e66058ee392bd": "https://egspasc.ac.in/academics/departments/commerce-computer-application/research-and-publications",
+    "18747bc660469d659b1d8ebeafa569b0cdbb729ef0d51b75753342f2d3436b97": "https://egspasc.ac.in/academics/departments/biochemistry/program-educational-objectives",
+    "1978907e1a74c8539dac5b2cce6eed2484c91dc2b71e657d6ebd27422a5e026b": "https://egspasc.ac.in/academics/departments/fashion-technology-and-costume-designing/program-specific-outcomes",
+    "19e6110ef8b6ccba08c986d58e38055a3dd4153989fcde17a1f7391d7afbc2db": "https://egspasc.ac.in/academics/departments/commerce-computer-application/student-achievements",
+    "1d44eec30c97c29719a55cdd3c3121907762867fb132ae90a18feede48511b96": "https://egspasc.ac.in/academics/departments/biochemistry/faculty-details",
+    "1f38c3610cd4d5229c98da1741544fa9c103afc3b04b1eb40edbecaf4cb3d4e8": "https://egspasc.ac.in/academics/departments/computer-science-with-cognitive-system/department-highlights",
+    "1f396ac010ebe4681dc80855fa12a5055021ba7e65549708bf211a6fd14f5713": "https://egspasc.ac.in/academics/departments/mathematics/hod-desk",
+    "208aa4b759423a91f4968794e76194c64db93b933759b8f8c9a6b0a26731cd83": "https://egspasc.ac.in/academics/departments/biotechnology/curriculum-syllabus",
+    "20da7179a48601f341dc5607f1dd088476d63a0a31bdbc4ea216b2411ae943b9": "https://egspasc.ac.in/about/message-from-the-founder-and-chairman",
+    "20ecfd1358dc9aa85a5eb965583783a84f6ca10b1ecf485dbcd1b1e6c90fe5cb": "https://egspasc.ac.in/academics/departments/computer-science-with-cognitive-system",
+    "212e024fe5863436026cc208996e588dd5a32286c34d956ad46c2014800ef3a0": "https://egspasc.ac.in/academics/departments/visual-communication/program-outcomes",
+    "23302c0a08142d46ef390bcdc1435adafbbb7e3b8d349e8771d09f571d456e91": "https://egspasc.ac.in/academics/departments/commerce/academic-events",
+    "24a72d218d76c337b1d3491a0cb14ba7e29f0bf38b8c4242f9474c216b4dc961": "https://egspasc.ac.in/academics/departments/tamil/faculty-details",
+    "27499b7749708110dc8d6cf667a086d6df098889c8d18cd5929fcaa7df0e6861": "https://egspasc.ac.in/academics/departments/commerce-computer-application/curriculum-syllabus",
+    "27d5d85613ca8fe895cf0ed20e041bcbf2f4a3dea83789c016ff531c97fccc4d": "https://egspasc.ac.in/academics/departments/information-technology/research-and-publications",
+    "28fcf2707c6145003fa5c2a96830da20afeac91424cf2c12c306a72b93fe336c": "https://egspasc.ac.in/academics/departments/computer-science/program-educational-objectives",
+    "297f3cae0decbfefe9aff8560618ab56ac4be53f5142f4e9b2a98321db057cfe": "https://egspasc.ac.in/academics/departments/computer-science-with-cognitive-system/program-educational-objectives",
+    "2b658537d47103f51cd84ab9ddb1740d32c4b2dadb16e3ce8eeb131b02303860": "https://egspasc.ac.in/events/health-awareness-outreach-program",
+    "2c873fa876ae79ee606d1d49179418ff02f8e2b87888510b1f8da68332384a04": "https://egspasc.ac.in/academics/departments/microbiology/hod-desk",
+    "2d1a6e7d9289c23ba386596cab780d81e469a1444cb8d341cb9d4fa31ffcfff3": "https://egspasc.ac.in/academics/departments/physics/hod-desk",
+    "2f3786d226ecb2f433a8ce3e5f470a971f110e9791a572f45d20e04635f6a61e": "https://egspasc.ac.in/academics/departments/computer-science-with-cognitive-system/curriculum-syllabus",
+    "3054d64b478c18e56b51b498789d4c635f130069ff1ed63f52d2ebad13a83cac": "https://egspasc.ac.in/academics/departments/nutrition-and-dietetics/research-and-publications",
+    "31f9352f24bccfc30a79f0b52c3affeb21e2ff5c45d15aa02f20ee738f4e4288": "https://egspasc.ac.in/academics/departments/chemistry/program-specific-outcomes",
+    "3233fa3447e94371ce397d82de5c461a5036225643732cbac93bcea87d84c509": "https://egspasc.ac.in/academics/departments/artificial-intelligence-and-machine-learning/faculty-details",
+    "32a7c9839772a91d3309f346d417285d5dc7f7e4dc5fea552e509ae2c4703630": "https://egspasc.ac.in/academics/departments/biotechnology/program-outcomes",
+    "3373bd243b8a7a7cf803ca29287a6ab573d64f2418a25bde5b4451e734754e0a": "https://egspasc.ac.in/academics/departments/english",
+    "35dcb97c7deb3cb05cba4ccc1fc879f42893bfa8bcc1e6084277b30673ccb535": "https://egspasc.ac.in/academics/departments/tamil/curriculum-syllabus",
+    "36f78dc7db09b101f1eb2f65e0940301d2f8adb3b478d3bb5620aa30c6878d9f": "https://egspasc.ac.in/academics/departments/mathematics/department-highlights",
+    "378dca53c1fdaaad63ac58f3e65c5085a910e13a369429bab80f9c7d4678feb9": "https://egspasc.ac.in/academics/departments/data-science/program-specific-outcomes",
+    "37b4234a6ef64ab71308aad793856ccd17272fabe3c7bbaf611792a19003ce80": "https://egspasc.ac.in/academics/departments/mathematics/program-educational-objectives",
+    "3a62870413eb779768eb4dcce291ffc3b69059b0ddd5059d6ca31c0532e0b00c": "https://egspasc.ac.in/academics/departments/commerce/department-highlights",
+    "3bec703bd043ba2a9e5eab80688c4973185a696f1664609e04f36d9e158ee327": "https://egspasc.ac.in/about/our-focus",
+    "3cc97dd6c864f4750724489514cf17c63724778c9becb19797bacdf61073d34e": "https://egspasc.ac.in/academics/departments/visual-communication/department-activities",
+    "3df8c9fb7b6c42f6a981964b5584ee6ca290032718f17c0c34802ae4733d349e": "https://egspasc.ac.in/academics/departments/english/placements",
+    "3e94d18b1a4383a7d903450971501a32394feb755ee0007100666e92244558d0": "https://egspasc.ac.in/academics/departments/commerce-business-process-service/program-specific-outcomes",
+    "4097c0c87cc155a99a74b6a93543e87eb7fefef55dcc6f4e08bbd92fdda4ef15": "https://egspasc.ac.in/events/professional-pattern-making-techniques",
+    "41170e419c845a55c699f3b1c4b1ba6fe6b510e3d2aae81b4476c992bcd5bf8c": "https://egspasc.ac.in/admission/why-study-here",
+    "41bf7b989877b1c630e7e42e36a644ea68bd7d48439517c791da4fd4d39bac12": "https://egspasc.ac.in/research-and-development/ethics-committee",
+    "4383142e6b0740b87dd697e126be873f9b1436ae3edf1da10d2041173dee6965": "https://egspasc.ac.in/academics/departments/artificial-intelligence-and-machine-learning/program-outcomes",
+    "46effceb560a942e79364004654dcac77f0e7a0e9b8eeb0b88938781c3bd1273": "https://egspasc.ac.in/academics/departments/biotechnology/program-specific-outcomes",
+    "473f494f7015362da16c74f1e4f69666763a2445ad3a9a9f135415f51f6ab9a8": "https://egspasc.ac.in/academics/departments/computer-applications/program-specific-outcomes",
+    "4795f34e053678f0e2adf2f2eaf154ce761c7b8beb45a6652579562405b00d8a": "https://egspasc.ac.in/academics/departments/biochemistry/student-achievements",
+    "48d51079f67f5f3f08eb12c85a27d90ac068ed7f4bf66021289d39de1c9b2aab": "https://egspasc.ac.in/academics/departments/mathematics/program-outcomes",
+    "49807f4f93db9482483fde30c59e021360f45c612b5a7d1bd25b4cfb5bf67a55": "https://egspasc.ac.in/academics/departments/tamil",
+    "49fbacdf819cd7e2ca9ebf37ddb477b11ea70d2e496e20d6d5a3acf0235db25f": "https://egspasc.ac.in/academics/departments/mathematics/curriculum-syllabus",
+    "4b97d7589667beb99d4dced0d4d345b80721bb112dbf61842eabd825795bbbd3": "https://egspasc.ac.in/facilities/transport",
+    "4ba52fede094d41bd66fc70af20ad0a447c0734d465aa67831841c805bff44d8": "https://egspasc.ac.in/academics/departments/nutrition-and-dietetics/faculty-details",
+    "4ddb4bf9b473e386e36bc373271997344e9bdc3f8be3868c65f7ad701b37379f": "https://egspasc.ac.in/gallery",
+    "4e6dc5cbb7a65374d84f03082ab54cabfe5ae53ce2b8fe048b61753a297abbe4": "https://egspasc.ac.in/academics/departments/computer-applications/program-educational-objectives",
+    "4ea37ff88b79d61cec16cf392a8d127624832f16f8eed96dfc45ccbbd8e0c1ef": "https://egspasc.ac.in/academics/departments/artificial-intelligence-and-machine-learning/department-highlights",
+    "4fb2081f698f1e19753f5d4d4babf3fb66af32f493a180ccde80a0d9c19685ab": "https://egspasc.ac.in/academics/departments/business-administration/faculty-details",
+    "51c768b3c13e1e2b288610c4db5a13d173d11a57f445d177d3aea49ae740dd99": "https://egspasc.ac.in/academics/departments/business-administration/program-educational-objectives",
+    "520c2bbd75ec7fad8110ed17ebe732876133ad01c128763aeea8bda925baecda": "https://egspasc.ac.in/iqac/directors-profile",
+    "54b609b86ada8c4b7faae5cbbc919467c54cc85bdacde287aa3687f23eaacd02": "https://egspasc.ac.in/academics/departments/physics/faculty-details",
+    "54f701373e6e0d026610854e8f6b7d1b123ec0caff8a4c20e43752394c838d37": "https://egspasc.ac.in/academics/departments/chemistry/program-educational-objectives",
+    "5622ec0f78b2db7fb808429f4cacb26e62ed0e8cbd28f451f3ab78f8802b1674": "https://egspasc.ac.in/about/vision-and-mission",
+    "562b813021bd3f1c42a531e0a7cee627daeb40c08905d6f8b83d669b1fe2f864": "https://egspasc.ac.in/academics/departments/commerce/student-achievements",
+    "57af9e41a40880f3b3e177aa6873944922fef639e2d84f2c5d2494bc2a4e2817": "https://egspasc.ac.in/academics/departments/microbiology/department-highlights",
+    "583166a83cd9879a79dbea092209dc85d5529a848f5ee8c3e66213d67e26fb09": "https://egspasc.ac.in/academics/departments/data-science/faculty-details",
+    "5a99d018408320ec647170a31bbf8b59270d9288be970b0c88e2cf81c39d85e7": "https://egspasc.ac.in/academics/departments/information-technology/hod-desk",
+    "5adfe114638a8f3ad1a356395ef4fc8d15aaf1f2fb769ede1fbb28c0cc4b02bf": "https://egspasc.ac.in/academics/departments/microbiology/program-specific-outcomes",
+    "5d2d30e26774af504d8cd33d8fcbd78ec8af2e5259bbcb7787881ed41fdbe67b": "https://egspasc.ac.in/academics/departments/business-administration/student-achievements",
+    "5e4f75c74a226a68395a4d6394b76698953f752697fff9fad8d8155a0a6a4e1a": "https://egspasc.ac.in/academics/departments/computer-applications/department-highlights",
+    "60cd3b02722eb52f8193c361e5913e4b48170b99031e8da3979bfa8b88f7c021": "https://egspasc.ac.in/academics/departments/biochemistry/program-outcomes",
+    "6163d3d475a708592d02bcb8cf8f9bbe46f338c320af64d5523e07fd3de4b554": "https://egspasc.ac.in/about/message-from-the-principal",
+    "6219f040beff417818a6027abf65e07c98f095e4597f2054eee90960ac60b3c0": "https://egspasc.ac.in/academics/departments/visual-communication/curriculum-syllabus",
+    "63b545c278cba3f25b164c6287d22af56229b37c2f87f9f91a03c9f55835293e": "https://egspasc.ac.in/academics/departments/commerce-computer-application/hod-desk",
+    "641faede90d01fe8cd532437be747f86ea1d897819f1b3ddf0e0df5a8b718916": "https://egspasc.ac.in/academics/departments/biotechnology/student-achievements",
+    "64c94b9bdaa5a0e3993c79a83bc2d8a4b72caad0ed4a58bfbf4d816a6579d3dc": "https://egspasc.ac.in/academics/departments/artificial-intelligence-and-machine-learning/research-and-publications",
+    "65c50c09a19c0ab8bb56129679e62bef4077ac46a704c0cc916c2b65d653116a": "https://egspasc.ac.in/academics/departments/nutrition-and-dietetics/curriculum-syllabus",
+    "66aaee9205a4b1203c2bf0905e3bb78ce58304c63fe6ed06bb9d779c67b77939": "https://egspasc.ac.in/academics/departments/visual-communication/hod-desk",
+    "685ea791a46ab00724ba9c1cd19a130b33163f0dbc4897864a70f796a51b3d86": "https://egspasc.ac.in/academics/departments/nutrition-and-dietetics",
+    "68cddc7eb00638218ccd98a4713ccdd70014c449b7f6e72498d6d62e9d42a656": "https://egspasc.ac.in/academics/departments/data-science/program-outcomes",
+    "6988b417bf4b8af56f7f867dc246d69e75e77420ddb563a6ff9ed0c1dc4e8f28": "https://egspasc.ac.in/academics/departments/computer-applications/program-outcomes",
+    "6b12ea63ce69fee9c47884d70270937d61e927958bfa7c0ae6f744849c4ba027": "https://egspasc.ac.in/academics/departments/biotechnology/department-highlights",
+    "6bd17e02b583f373c36171d278e8ff7ee036b5b0644d0bbef5161a362bf9f6d8": "https://egspasc.ac.in/academics/departments/commerce",
+    "6bdf31148ae2b357c6ff4b92a7599692460e70f8d45d31c773dddd4be0064676": "https://egspasc.ac.in/academics/departments/artificial-intelligence-and-machine-learning",
+    "6be3c7954c337531b6bce2bfe039fee52af6eb021779dc63a30d9ed37128a5ad": "https://egspasc.ac.in/academics/departments/biochemistry/program-specific-outcomes",
+    "6c33448fbf66e1fbbf8d67062648a750d7ec15acabf99a76007e6142ffc0d865": "https://egspasc.ac.in/academics/departments/commerce-business-process-service/curriculum-syllabus",
+    "6eb1704a78b17aa149a306835bc0f72ca02e91ae37070bcbca05e7e31b617410": "https://egspasc.ac.in/academics/departments/mathematics/program-specific-outcomes",
+    "6eec6b027e233f8cdc7ec6d32ca2c7bcaf7d9026365ebc72314c05d4f12445e5": "https://egspasc.ac.in/academics/departments/english/department-highlights",
+    "6f54cee8e882b2e06e34acc1ec1a51db3eb8430851dd5c62fa7343061c564e42": "https://egspasc.ac.in/academics/departments/fashion-technology-and-costume-designing/program-educational-objectives",
+    "70b30d1d8976a9012e29582c38ae09f45c49aa41fc1f66f08e678f7c4fae6c5b": "https://egspasc.ac.in/academics/departments/english/curriculum-syllabus",
+    "73868edaa6ce6f2940bcf0fa91bdcca383098788f43cdc95b222c46bd8f94e98": "https://egspasc.ac.in/academics/departments/commerce-computer-application/program-outcomes",
+    "751774975a7c4bec3ff793fc4d790f53778f7875fdc19941175d49f096d7f6b5": "https://egspasc.ac.in/academics/departments/computer-science/research-and-publications",
+    "75c1c424cc92fde70f410d93548494d00ab087231511eaac9cb5c72ccf4da6da": "https://egspasc.ac.in/academics/departments/visual-communication/faculty-details",
+    "75e1bf877a313a49ff6047f7b335bc0a72058f2383b5fbb5d09d105f23b0967c": "https://egspasc.ac.in/academics/departments/commerce/curriculum-syllabus",
+    "7667dca30bcf95bb43f8500d7ace70a24bc186f33cfeaf4e2f80e9d9f93da4f2": "https://egspasc.ac.in/academics/departments/business-administration/program-outcomes",
+    "77da228fea1f047d96176bbffea75af8b59c3e17f953444d2e032e6b30f65999": "https://egspasc.ac.in/academics/departments/computer-science-with-cognitive-system/faculty-details",
+    "780e65fb04ec3671f51d40c8037ca9fd64185d5afe05aac0d3d5d87d2efc7cf2": "https://egspasc.ac.in/academics/departments/chemistry/student-achievements",
+    "7a1e71d4a44098b36408bd696e6ba5db6a1939fa276dd01a8ca651b7513d939d": "https://egspasc.ac.in/academics/departments/physics/program-specific-outcomes",
+    "7ab5257c64c62a288ec87ad9f5a16b306698adf148ca05e73718277e5d828809": "https://egspasc.ac.in/academics/departments/information-technology/program-educational-objectives",
+    "7c41f56bffccaae42d2c4ca9ad70950f1d8facb02c06aa8d954c12aed3ed5b61": "https://egspasc.ac.in/events/commodity-derivativesmarket-dynamicstrading-strategies-and-risk-management",
+    "7e387ee81e2c629aac8cf8372d6cd7e20fc9eb956f969bf8bcf7c0b347fadd5a": "https://egspasc.ac.in/academics/departments/data-science/research-and-publications",
+    "8256a9ef2a26a99728ac809c33b4031d66bccbbbf1fe87f603222a0fe14e2bb2": "https://egspasc.ac.in/academics/departments/visual-communication/research-and-publications",
+    "83f6fc70515e55b4e99ae8d8fc8b4f3dfb458b80efba6fd571cd7bbbeed75bcf": "https://egspasc.ac.in/academics/departments/commerce-business-process-service/hod-desk",
+    "84e17567c03c7a8b243829c1354a6e9623f9ca600ee9cf54be76c592f32f679f": "https://egspasc.ac.in/research-and-development/facilities",
+    "85e80c91a7ea7523532c0f34839ce6ac681aa33273ccca9c16ab8de9bd11b607": "https://egspasc.ac.in/clubs/committee-head-and-members",
+    "8635e794c2b40c178dd91d20172bffa78c0ff68ed58ea81a0229922d09911c4a": "https://egspasc.ac.in/academics/departments/microbiology/student-achievements",
+    "8702b744aa58c3e0d4f4245b5081ed908409c1a814efdc33cfb280344fddadd5": "https://egspasc.ac.in/academics/departments/computer-science/program-outcomes",
+    "88d33d25a7baceeec55b2872b133040cf982f59a46eddc9ab133068155624e4d": "https://egspasc.ac.in/academics/departments/english/faculty-details",
+    "88ed9825ccf20d09d99bb6168eb7efa782bf1d2b9c2185e208f768ce7361ecf1": "https://egspasc.ac.in/academics/departments/chemistry/curriculum-syllabus",
+    "89ee8b53ba31cc103a81ac99cdb337830684c9d1577cbfc4d2f0e56aa8f041fb": "https://egspasc.ac.in/academics/departments/nutrition-and-dietetics/department-highlights",
+    "8a82b565380c81391b48ce752fe54f6cb41538399083da0825c9dab9d107cbcf": "https://egspasc.ac.in/academics/departments/biochemistry/research-and-publications",
+    "8e599e74dc549a7608b78976b2f37b8ac4d6178cd990d12cf26c8af3c17a1ddc": "https://egspasc.ac.in/academics/departments/business-administration/research-and-publications",
+    "90d35ff414b30c61c3fcc094b3bfb27e67880e838f073e73b494a3c01f34e4ea": "https://egspasc.ac.in/facilities/hostel",
+    "947a4869b784c2129db4c547877cf7fb05d3fae8a2cfba8effd9c7453471ade8": "https://egspasc.ac.in/academics/departments/computer-applications/hod-desk",
+    "94de9dcc6a67e7a16348484f5553da2af3f162baf92d7e6c4c567e36ef7dcce9": "https://egspasc.ac.in/academics/departments/commerce-computer-application/department-highlights",
+    "95863588eadb7e68a19bcbb49f152cbb9909c5fa54419465ca9fce9f054eee35": "https://egspasc.ac.in/research-and-development/patents",
+    "95a7bcfe8a82afebf94462c4cc910cd604604912a86ff97299941aeb1d4bb883": "https://egspasc.ac.in/academics/departments/fashion-technology-and-costume-designing/research-and-publications",
+    "968cdaeef2b897bf2940de9d2fd48dc7b2a3a7364e92b7c592ae4f3df4f538c0": "https://egspasc.ac.in/academics/departments/computer-applications/faculty-details",
+    "968dfb684305e61209276c8f50cda3036efd5c82baa0b126aaf0584e34f34fff": "https://egspasc.ac.in/academics/departments/data-science/program-educational-objectives",
+    "977a28f305dfb0b1c4a3f4a0e18127478550c43b642ce9edd60618b4c6e62dc0": "https://egspasc.ac.in/academics/departments/biotechnology/program-educational-objectives",
+    "99905518f4a7d124e9a6817b29902fa0da36463a3c3422693bb62433dfaaaa9d": "https://egspasc.ac.in/facilities/infrastructure",
+    "9a00ca66192d80f12a5b12c0da23db18faedb0b7ef2ccdec237cf399e6fbb426": "https://egspasc.ac.in/academics/departments/commerce-business-process-service/research-and-publications",
+    "9af07d8a386237c24220b12a377ff872ae74716dc6cd3c271184fc096736248a": "https://egspasc.ac.in/academics/departments/computer-science-with-cognitive-system/hod-desk",
+    "9b9464286f22204fadfcf1448e000be6d5effc93b50586a6870fe814dc382e49": "https://egspasc.ac.in/academics/departments/visual-communication",
+    "9ba9e4833acb1b19aacfb598293c4a3a25e0eb62e784bc10fa98ba81f45d9d2e": "https://egspasc.ac.in/academics/departments/physics/research-and-publications",
+    "9bb88823b00a34fd1647d195178409c918fc3bc248d15d87531ad059e4ccf9b8": "https://egspasc.ac.in/admission/admission-procedure/phd",
+    "9bea97a9aa3ba9a0c10932548d7eb27dd5b013cc290ab034919042dca02ff07c": "https://egspasc.ac.in/about/administrative-organization",
+    "9c03e781a50c0080366dbb8e5f063ed092e319366b0a30796667d33e4eceeacf": "https://egspasc.ac.in/",
+    "9d968fa4d6e451034e0ce157ccd20d0f18727341e9e91c633f0543a91d4fbd2d": "https://egspasc.ac.in/academics/departments/microbiology/faculty-details",
+    "9ea66733dc8305438521cc5297ca5592a12e1f8aee6da0d45b77416fd3c97fe0": "https://egspasc.ac.in/academics/departments/computer-science/student-achievements",
+    "a27be6bdb3c7acdd8a0de166af60f486e22b970833545b21d3725697483707b2": "https://egspasc.ac.in/academics/departments/artificial-intelligence-and-machine-learning/hod-desk",
+    "a3e403c262d0650f705229d430ab8e3cb657eae4a6912c495b2a21a95096177a": "https://egspasc.ac.in/assets/v1/019a1620-5055-7131-ae43-e0b250c97692?expires=1792385694&signature=bbf37712e382b3931a287395ee647dbb0faa3e7f349313e77ac9f2b1a3fb8f11",
+    "a4583c449bce28524e60ab9ab9fc1c7f89b6c2faa6b1e69d5d60412a7265c237": "https://egspasc.ac.in/academics/departments/nutrition-and-dietetics/department-activities",
+    "a58802200f8ee228d6c3d91af9be9d225f99b84b52377833fee57f4d688000de": "https://egspasc.ac.in/academics/departments/tamil/hod-desk",
+    "a654e0d393547a08b4886ee8e366d35d3e4bcc4ee3704e3f5c990d01c5f81ec1": "https://egspasc.ac.in/academics/departments/computer-science-with-cognitive-system/program-outcomes",
+    "a6e97af848ff4655103a38fd6693edff5f9da0350bd3cbfbeaace1d65a0c2d02": "https://egspasc.ac.in/academics/departments/data-science",
+    "a7f2fca8aff28b95359bbf4467ab6d481e0dc978e50de6f0c1c92fae2a115c83": "https://egspasc.ac.in/academics/departments/artificial-intelligence-and-machine-learning/program-specific-outcomes",
+    "a800c64f58337e45b59127106c683a9d22a4eb921000a098cc715342c3d92593": "https://egspasc.ac.in/academics/departments/commerce-business-process-service/student-achievements",
+    "a8e5d9f812501d5dc7161d74bed6533dbabb70a2f2a5a55e090dba5823b3fedb": "https://egspasc.ac.in/academics/departments/fashion-technology-and-costume-designing/student-achievements",
+    "a9233737278c86960138dfb89cb9a86ec359effb8ea44a32d24c72ebbfecce03": "https://egspasc.ac.in/research-and-development/publications",
+    "a9dd7788ab5b97602dc21b3c05cf8ab3652ca60265548f7b2f38823604582d36": "https://egspasc.ac.in/academics/departments/biotechnology/faculty-details",
+    "aa61156f7eef607e2e2dc2c172accce3696332c049a87c0fecd6180c12fdf4ee": "https://egspasc.ac.in/academics/departments/information-technology/program-outcomes",
+    "acaf1e1d317a4e755ac559cae9c381c3c5b4dec64fba2636768404e4844600bd": "https://egspasc.ac.in/admission/courses-and-intake",
+    "ad56f8497860b22f55801a709035e57b88a4a34b5e7b1243a7b140c1107c5473": "https://egspasc.ac.in/academics/departments/fashion-technology-and-costume-designing/hod-desk",
+    "ad630a6f050e8948cdcefa7529172b1be78231acab3b12e406b3ec08b0c13fab": "https://egspasc.ac.in/academics/departments/biotechnology",
+    "ae54e96bc2d06ad22ee76934d057efbbe562801eaa26703fb100af0d813faa66": "https://egspasc.ac.in/academics/departments/commerce-business-process-service/program-educational-objectives",
+    "aebdcda6e6495a04e67df8e0d1f5bed89bd2f4236865b8978e00eca6abe7bbd4": "https://egspasc.ac.in/facilities/indoor-stadium",
+    "af09612a6bd9ab9687b53a2f2f0d48b9a1b1c639d9be22bb09427a533a01b22b": "https://egspasc.ac.in/academics/departments/microbiology",
+    "b1483d21759e4a00900422d9d3ab5605823f29afa1466afde8f18a6a176e02b9": "https://egspasc.ac.in/academics/departments/tamil/student-achievements",
+    "b20ae5b270a00d6c5b8bd90e430dc5450abdeaf8154d41da99dfe2edbc67a242": "https://egspasc.ac.in/academics/departments/business-administration/program-specific-outcomes",
+    "b4aabfbcf2ff910500b76078ec866940ccd4ff5fecd1e60282ff7b3f3271d6f2": "https://egspasc.ac.in/clubs",
+    "b5e82340128384b716f8f2f56b285456f52c02a9a03cf3a456317faa10e9fa42": "https://egspasc.ac.in/academics/departments/english/hod-desk",
+    "b944769ef2e45d7db07927b69034304a30af159522a2513a639785c8accafef7": "https://egspasc.ac.in/academics/departments/fashion-technology-and-costume-designing",
+    "bb51f915bfdfc87c4ba315e7c230b0fa7867cb2698484a8532dee0a8a1c87b10": "https://egspasc.ac.in/clubs/list-of-clubs",
+    "bb8305d9f38afa0eb6e809bf1a14caccdfa97c942d490cbd4cab9cb3331ffc2d": "https://egspasc.ac.in/academics/departments/fashion-technology-and-costume-designing/curriculum-syllabus",
+    "bbfaf3776aa73b1b278f2e23e0a01c6287004f2f61c387213a7dcf3b074d6460": "https://egspasc.ac.in/academics/departments/microbiology/curriculum-syllabus",
+    "bc98fd5b2798154c06e78527fb141e911e0043d56891c6c5822fe83ecafc1c53": "https://egspasc.ac.in/academics/departments/english/program-outcomes",
+    "bd1655441deb4234c586ee58c079f62ce1f3db03f49cea74f83c6e193ff656c4": "https://egspasc.ac.in/academics/departments/information-technology/department-highlights",
+    "bf33702200a0e9f140e52dc108a675f4b437928c1ad2ba16db44c95749604a45": "https://egspasc.ac.in/academics/departments/physics/program-educational-objectives",
+    "bf562bb85af6f5dfc518b46b9313483bfb73ff501a7c263d7fd127a70a766aa7": "https://egspasc.ac.in/research-and-development/scholars",
+    "c11a46db62cc410e9e023847bff9c0b6d12ec65973f2deb43f7e56a7bb145a57": "https://egspasc.ac.in/academics/departments/business-administration/curriculum-syllabus",
+    "c1d62051bcf36bd5fd02944168656c6a9b70d0e0ed4622ebdc197ca3a22df8fb": "https://egspasc.ac.in/academics/departments/tamil/department-highlights",
+    "c206b4a34515887e3a3df9fc182a1687835c628aeada2258ea7ef92dbe6b3725": "https://egspasc.ac.in/academics/departments/commerce/program-outcomes",
+    "c23317ceb0c1fac00e454bcaf53f0278a726e95afbbb4de1f9199c8d76cc8fb8": "https://egspasc.ac.in/academics/departments/microbiology/research-and-publications",
+    "c34907cffa01fb765cf073c0a7ecd4e2b2102a456d6a35ba51a9d85487e41fe0": "https://egspasc.ac.in/academics/departments/business-administration/department-highlights",
+    "c3bb141ba199d0795e209c80c0b76b24b2a4a57e5a13cb7b5c53ca6a31d63dd5": "https://egspasc.ac.in/academics/departments/nutrition-and-dietetics/program-outcomes",
+    "c4740099f04ea5781e188d2acbd8f66ad5b3a1a6008323b6fd7fb82ed1c48adc": "https://egspasc.ac.in/academics/departments/data-science/student-achievements",
+    "c53d0d834403b3e5e312a97f69021879ce83f504e02081e87ae1803cdd68f285": "https://egspasc.ac.in/academics/departments/commerce-business-process-service/faculty-details",
+    "c5a5ba4ed725b1ec4f7b13322d446fd845f28968c80fc6dfd3b4f615fb86403d": "https://egspasc.ac.in/academics/departments/artificial-intelligence-and-machine-learning/student-achievements",
+    "c6a807d35bf0a9f5f640168fc428bef2fc2d1978ad8f97975b0d9f913138e976": "https://egspasc.ac.in/academics/departments/computer-science/department-highlights",
+    "c93f3cf97eee51d49ed48d5d884a804ee9550ee103ee9df6643ad476d7afcfe7": "https://egspasc.ac.in/academics/departments/computer-applications/curriculum-syllabus",
+    "c9d04afe4384dac26791029432227f50998199989948aefb5fdb0be3e371ece9": "https://egspasc.ac.in/academics/departments/nutrition-and-dietetics/program-specific-outcomes",
+    "cab09413edd8d9609d1fdecbf76c236bfb613c2138be04a68278018fb2a644ee": "https://egspasc.ac.in/academics/departments/physics/program-outcomes",
+    "cd8cecc3e219be261242ce4d0a7fa0f29e81ec45843037ef4800f5c0f08b1544": "https://egspasc.ac.in/academics/departments/information-technology",
+    "ce31533c15f4d7386cae7dd5e8c39a8a311efd4338fbfb35c1a557a15d9f5e28": "https://egspasc.ac.in/academics/departments/commerce/hod-desk",
+    "ce33d64c1278d8761cbbb9b641e3f4fb6878b04a024202e1e6a8453a6a474cab": "https://egspasc.ac.in/academics/departments/commerce/faculty-details",
+    "cf791473c5a5f5d1752d1e911b732b3285c618648f0568133dd40b66e4b7c462": "https://egspasc.ac.in/academics/departments/physics/curriculum-syllabus",
+    "cf8cf62b068fa928d6599122312a5762a920c1bb6283258fe30d035e2795bd0d": "https://egspasc.ac.in/academics/departments/commerce-computer-application/program-educational-objectives",
+    "cf99d7bb12b1d5b26f5841340a899cc8a062425e1e183abe051382b69f9a6821": "https://egspasc.ac.in/academics/departments/microbiology/program-educational-objectives",
+    "d19587d68232800f6686b2441b0cb5820a480c8045084a699522255de6711767": "https://egspasc.ac.in/academics/departments/biochemistry/department-highlights",
+    "d3395b4c6d36b7c75e482120a84bc883b21466d4749ca8b24274c97b1efbe640": "https://egspasc.ac.in/academics/departments/chemistry/program-outcomes",
+    "d4c58c0032ce4ed24a02a87cb82b9b67475deb9d1aa337f4591a90cbd0223637": "https://egspasc.ac.in/academics/departments/microbiology/program-outcomes",
+    "d4e85110daa58cde2dfeee8d5a58b9966e27c9117e05b1898aa2877cc8eb5900": "https://egspasc.ac.in/academics/departments/tamil/program-outcomes",
+    "d4f89305bfcf062bdb3abc16cf1656dda7d80f57b23d36185da3ded1cca81d07": "https://egspasc.ac.in/academics/departments/commerce-computer-application",
+    "d66946d89e3c1e851462655aa7dfe22b4764ff92ca28e155e50699aafb3031d1": "https://egspasc.ac.in/academics/departments/physics/department-highlights",
+    "d6aa59d3164a4a55acc6efc9889dcd10c862d499bac3368261dd08863ce56ed3": "https://egspasc.ac.in/academics/departments/business-administration",
+    "d878a4f952973d7d8ab28aaf4b980f46ef5a78e4ddd41d5951dddaef4c853309": "https://egspasc.ac.in/academics/departments/fashion-technology-and-costume-designing/faculty-details",
+    "d88e199979ef2063a57ea217656a99d96cfc584488f9d338a2a9ff98be49a8ac": "https://egspasc.ac.in/academics/departments/physics/placements",
+    "d8f0fd68cb6cdc7b019e0c7e54057488b5afc0f9a86e7bb6bc26fe8f24a52305": "https://egspasc.ac.in/academics/departments/computer-science/curriculum-syllabus",
+    "dae01e8db39810e4e9865ca3362f653fc52a3d9db56322c4baa09d5a103860fe": "https://egspasc.ac.in/research-and-development/advisory-committee",
+    "daf6e2dfed9e65853b595551aea2284bd2f4a56997f82ee7ecbbcbaa7676a95a": "https://egspasc.ac.in/academics/departments/nutrition-and-dietetics/student-achievements",
+    "dde04e2e222a3c926f175fae982c280e5cfdcb495944fd4429c2f63c2126123f": "https://egspasc.ac.in/assets/v1/01999f7a-da14-70e5-9044-7d54ca96adb7?expires=1792385695&signature=eff49dc0575472c4f0c479713712d0f81e5dbe264c43b9feceda4c444262cb67",
+    "deeecba932e57b6aed0cd8450a824038f71936352f8dd814fd63ea4da7acda6c": "https://egspasc.ac.in/about/message-from-the-secretary",
+    "def8e8f0bb983e3449eb2dc7afb6da485c977a456078f19c6bb3547b90e64750": "https://egspasc.ac.in/academics/departments/computer-science-with-cognitive-system/industry-collaboration",
+    "e0b83a1f86e6d610210c2ce9e15c9e4a6e6c788a31402519476c9464292e3e77": "https://egspasc.ac.in/events",
+    "e15df23e84d93bd3428d18a3babc28c4b866aedef291eb5cdfa8deda14664f79": "https://egspasc.ac.in/events/dress-code-awareness-programme-flash-mob",
+    "e1abecb889a4d19a84571686b876bae3255d0a43e2be3d510987941577492417": "https://egspasc.ac.in/academics/departments/information-technology/program-specific-outcomes",
+    "e2976370c3b11ebe4c7d4d3bc09efe65494816f9d3220b2c5e31ee40a89038b1": "https://egspasc.ac.in/academics/departments/information-technology/curriculum-syllabus",
+    "e29849d0e6f6923f48b00df140797ea82902f8abae7b6cf98f396a8adb985532": "https://egspasc.ac.in/academics/departments/artificial-intelligence-and-machine-learning/program-educational-objectives",
+    "e6f9b621aa7b2815a157d7c8642b30df6191e3962834a2d155070e96fee0fbf7": "https://egspasc.ac.in/academics/departments/data-science/department-highlights",
+    "e78d89b7d3d4815a840b99ff4de3c45c547addb417690e7c21061161a7df5208": "https://egspasc.ac.in/academics/departments/biochemistry",
+    "e8388ffea7336bd4d5dfdd66319c302bbe78acdd6ab84677e93e6aabbdae3427": "https://egspasc.ac.in/academics/departments/visual-communication/program-educational-objectives",
+    "e8cdfba9318d8abbc1bbe7147ab1fe20d7e51c70b6dae782a570982bf5de1b8b": "https://egspasc.ac.in/about/history",
+    "e9a30cf76cf2bd7ab0890e1936c00049c6debf252cc7b1ebe36412fdc53d8201": "https://egspasc.ac.in/academics/departments/english/student-achievements",
+    "ea3fa40c30255abd7d2c604f4d670f73f8ef24a0aa3850dcdd649622a3cce675": "https://egspasc.ac.in/academics/departments/mathematics",
+    "ea5d073b981ea936468868c727fbef372258a46af24855975ee69462c35e8409": "https://egspasc.ac.in/admission/admission-procedure/undergraduate",
+    "ebc8dc8b95a9cb2be802a99223518dec80cdfde693ff5376ecaa698343fe6388": "https://egspasc.ac.in/academics/departments/biotechnology/research-and-publications",
+    "ecc278d4376187c79478b2ec77b6deaa72f3a7d4a95f2b45c578a634b7056c31": "https://egspasc.ac.in/academics/departments/computer-applications",
+    "ecfe383837cd0dfafdfd868cfe370467ebba7b0f700c26d6664c6562c6596fdf": "https://egspasc.ac.in/academics/departments/nutrition-and-dietetics/program-educational-objectives",
+    "ed73188322ba078f1ace2896ac88778fca23e29f15be179d22ee4fb37dfc5189": "https://egspasc.ac.in/academics/departments/computer-science/program-specific-outcomes",
+    "eda66e55b43971dad1609216a08902d6088f6184cf445b30ee9adc4d50642116": "https://egspasc.ac.in/academics/departments/visual-communication/program-specific-outcomes",
+    "edcbcfcb9779c52f5a41661cae66b893718a16ce4b58f31c85b4f0d74a41fdd9": "https://egspasc.ac.in/academics/departments/data-science/hod-desk",
+    "ee127bfb3de27d17b974d76f5d9d29376ee690db8ab80a0459e35846f0be954b": "https://egspasc.ac.in/academics/departments/mathematics/research-and-publications",
+    "ee3710f220483da27379356a7199e0545217bdc13f9e117fea3d050bd7dd45f1": "https://egspasc.ac.in/academics/departments/chemistry",
+    "ee8ae8bc635ca595a4228686bdd09430be6a365f699c00d8feeadb50f711a26c": "https://egspasc.ac.in/academics/departments/mathematics/student-achievements",
+    "ef50756b32b6bf17cf59a3b1b00824242e6f2726100ab6dc629f4f5537a8088d": "https://egspasc.ac.in/academics/departments/biochemistry/curriculum-syllabus",
+    "efd7c7ec7f83ecaafae9ce5c9497b70c6c08616f81cff79e1cad872a53672099": "https://egspasc.ac.in/academics/departments/chemistry/faculty-details",
+    "f1f5c41a4cd80c2f83f6c1632861caadf4bf2804167d3bfa51cb688310e875db": "https://egspasc.ac.in/academics/departments/chemistry/research-and-publications",
+    "f4ce92ac835fe69b34f7c8750c0b6cdc39e3316fc6d9c5ae516aad2c7550fb88": "https://egspasc.ac.in/academics/departments/commerce-computer-application/faculty-details",
+    "f7681345f8bed6f573304b67488c24756fc046d7e8aae3478cb028ddac68b86d": "https://egspasc.ac.in/academics/departments/computer-science",
+    "f7aa6dd0446138de3bea18f1bb335a9e1c83ae39ff1688678207de784a7a3267": "https://egspasc.ac.in/facilities/library",
+    "fab62f154ddfcf31a70f3b209cf3a422c0edb6d593c4a279cde378bf62a2b4c5": "https://egspasc.ac.in/academics/departments/computer-science/hod-desk",
+    "fb5b245a789ed9a1f2d9be98d63ef18a93144f65c3f19e11351544b631d7d2a7": "https://egspasc.ac.in/academics/departments/commerce-computer-application/program-specific-outcomes",
+    "fcbe83531fc13cd4097222c1245170040c364716064e3ff0983078f0b7f4b63e": "https://egspasc.ac.in/admission/admission-procedure/postgraduate",
+    "fdb43202282d310352e3a691cebed41be7d829a5640d827870c25406630b6d88": "https://egspasc.ac.in/academics/departments/commerce-business-process-service/program-outcomes",
+    "fe30608c7c453a476311b44dab170100faa6f5bdaceac5a04c632f1194cf315b": "https://egspasc.ac.in/academics/departments/commerce-business-process-service/department-highlights",
+    "ff2c21ae71d369a67c3bf2dcdd5c9c401db01e9180b306c59a201c5868bafec7": "https://egspasc.ac.in/research-and-development/guides",
+    "ff8234b12c53f4ee2a0ad35d70c09df058459caf5fb24f56d9ee6f20add3910e": "https://egspasc.ac.in/academics/departments/biotechnology/hod-desk"
+  },
+  "last_check": "2026-10-19T04:01:56.813040+00:00",
+  "pdfs": {},
+  "resources": {
+    "https://egspasc.ac.in/": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "9c03e781a50c0080366dbb8e5f063ed092e319366b0a30796667d33e4eceeacf",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:54:54.030276+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\2e27452985af_home.txt"
+    },
+    "https://egspasc.ac.in/about/administrative-organization": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "9bea97a9aa3ba9a0c10932548d7eb27dd5b013cc290ab034919042dca02ff07c",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:55:25.569378+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\b7573aca4a6e_administrative-organization.txt"
+    },
+    "https://egspasc.ac.in/about/history": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "e8cdfba9318d8abbc1bbe7147ab1fe20d7e51c70b6dae782a570982bf5de1b8b",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:55:28.970569+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\f174f10fa9bb_history.txt"
+    },
+    "https://egspasc.ac.in/about/message-from-the-founder-and-chairman": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "20da7179a48601f341dc5607f1dd088476d63a0a31bdbc4ea216b2411ae943b9",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:55:34.657952+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\4699b690f281_message-from-the-founder-and-chairman.txt"
+    },
+    "https://egspasc.ac.in/about/message-from-the-principal": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "6163d3d475a708592d02bcb8cf8f9bbe46f338c320af64d5523e07fd3de4b554",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:55:29.653110+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\1f247381e81b_message-from-the-principal.txt"
+    },
+    "https://egspasc.ac.in/about/message-from-the-secretary": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "deeecba932e57b6aed0cd8450a824038f71936352f8dd814fd63ea4da7acda6c",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:55:57.878285+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\f6d6850171be_message-from-the-secretary.txt"
+    },
+    "https://egspasc.ac.in/about/our-focus": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "3bec703bd043ba2a9e5eab80688c4973185a696f1664609e04f36d9e158ee327",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:55:43.230370+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\f8dd154439e1_our-focus.txt"
+    },
+    "https://egspasc.ac.in/about/vision-and-mission": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "5622ec0f78b2db7fb808429f4cacb26e62ed0e8cbd28f451f3ab78f8802b1674",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:55:06.527802+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\994a68a12a4b_vision-and-mission.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/artificial-intelligence-and-machine-learning": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "6bdf31148ae2b357c6ff4b92a7599692460e70f8d45d31c773dddd4be0064676",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:55:07.333291+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\3117d7bd7b65_artificial-intelligence-and-machine-learning.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/artificial-intelligence-and-machine-learning/curriculum-syllabus": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "0e0f06c3b2e7e0bf77cbeb50c158c00b70204a27b37ad0095f70bb755afcb3a0",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:57:16.279156+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\4a0a6a0cd1f4_curriculum-syllabus.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/artificial-intelligence-and-machine-learning/department-highlights": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "4ea37ff88b79d61cec16cf392a8d127624832f16f8eed96dfc45ccbbd8e0c1ef",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:57:12.363072+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\626c5d83a0dc_department-highlights.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/artificial-intelligence-and-machine-learning/faculty-details": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "3233fa3447e94371ce397d82de5c461a5036225643732cbac93bcea87d84c509",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:57:14.681142+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\ba4147789fd9_faculty-details.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/artificial-intelligence-and-machine-learning/hod-desk": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "a27be6bdb3c7acdd8a0de166af60f486e22b970833545b21d3725697483707b2",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:57:13.101808+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\606bac79557e_hod-desk.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/artificial-intelligence-and-machine-learning/program-educational-objectives": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "e29849d0e6f6923f48b00df140797ea82902f8abae7b6cf98f396a8adb985532",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:57:13.880013+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\ca1378e3fcff_program-educational-objectives.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/artificial-intelligence-and-machine-learning/program-outcomes": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "4383142e6b0740b87dd697e126be873f9b1436ae3edf1da10d2041173dee6965",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:57:11.265646+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\6ebc4c9aed41_program-outcomes.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/artificial-intelligence-and-machine-learning/program-specific-outcomes": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "a7f2fca8aff28b95359bbf4467ab6d481e0dc978e50de6f0c1c92fae2a115c83",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:57:17.710934+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\5219b74e95f6_program-specific-outcomes.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/artificial-intelligence-and-machine-learning/research-and-publications": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "64c94b9bdaa5a0e3993c79a83bc2d8a4b72caad0ed4a58bfbf4d816a6579d3dc",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:57:17.143389+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\bd2a466f838a_research-and-publications.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/artificial-intelligence-and-machine-learning/student-achievements": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "c5a5ba4ed725b1ec4f7b13322d446fd845f28968c80fc6dfd3b4f615fb86403d",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:57:18.467641+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\65eabb493486_student-achievements.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/biochemistry": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "e78d89b7d3d4815a840b99ff4de3c45c547addb417690e7c21061161a7df5208",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:55:27.494064+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\98f6be5f47aa_biochemistry.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/biochemistry/curriculum-syllabus": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "ef50756b32b6bf17cf59a3b1b00824242e6f2726100ab6dc629f4f5537a8088d",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:58:37.181731+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\bd5f571929c5_curriculum-syllabus.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/biochemistry/department-highlights": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "d19587d68232800f6686b2441b0cb5820a480c8045084a699522255de6711767",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:59:16.197793+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\e21dde0c1b73_department-highlights.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/biochemistry/faculty-details": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "1d44eec30c97c29719a55cdd3c3121907762867fb132ae90a18feede48511b96",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:58:36.461178+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\2c40034556da_faculty-details.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/biochemistry/program-educational-objectives": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "18747bc660469d659b1d8ebeafa569b0cdbb729ef0d51b75753342f2d3436b97",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:58:37.965316+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\3f9c3ef79f7b_program-educational-objectives.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/biochemistry/program-outcomes": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "60cd3b02722eb52f8193c361e5913e4b48170b99031e8da3979bfa8b88f7c021",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:58:38.614418+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\b523f0bc79b1_program-outcomes.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/biochemistry/program-specific-outcomes": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "6be3c7954c337531b6bce2bfe039fee52af6eb021779dc63a30d9ed37128a5ad",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:58:39.314865+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\a8bc161caf62_program-specific-outcomes.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/biochemistry/research-and-publications": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "8a82b565380c81391b48ce752fe54f6cb41538399083da0825c9dab9d107cbcf",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:59:13.875580+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\8f46509ebc02_research-and-publications.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/biochemistry/student-achievements": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "4795f34e053678f0e2adf2f2eaf154ce761c7b8beb45a6652579562405b00d8a",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:59:16.916397+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\775786491790_student-achievements.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/biotechnology": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "ad630a6f050e8948cdcefa7529172b1be78231acab3b12e406b3ec08b0c13fab",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:55:30.393678+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\f74f85e53d53_biotechnology.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/biotechnology/curriculum-syllabus": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "208aa4b759423a91f4968794e76194c64db93b933759b8f8c9a6b0a26731cd83",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:59:20.677018+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\06b2bf6207bd_curriculum-syllabus.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/biotechnology/department-highlights": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "6b12ea63ce69fee9c47884d70270937d61e927958bfa7c0ae6f744849c4ba027",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:59:21.525644+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\112cef9c8ce4_department-highlights.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/biotechnology/faculty-details": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "a9dd7788ab5b97602dc21b3c05cf8ab3652ca60265548f7b2f38823604582d36",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:59:19.027957+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\08a1b8bd9b87_faculty-details.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/biotechnology/hod-desk": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "ff8234b12c53f4ee2a0ad35d70c09df058459caf5fb24f56d9ee6f20add3910e",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:59:25.205395+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\120e20489dbc_hod-desk.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/biotechnology/program-educational-objectives": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "977a28f305dfb0b1c4a3f4a0e18127478550c43b642ce9edd60618b4c6e62dc0",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:59:18.336444+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\c16c0106a5d6_program-educational-objectives.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/biotechnology/program-outcomes": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "32a7c9839772a91d3309f346d417285d5dc7f7e4dc5fea552e509ae2c4703630",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:59:23.397315+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\99b8b30c37dd_program-outcomes.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/biotechnology/program-specific-outcomes": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "46effceb560a942e79364004654dcac77f0e7a0e9b8eeb0b88938781c3bd1273",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:59:24.389830+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\3239b0c62d22_program-specific-outcomes.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/biotechnology/research-and-publications": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "ebc8dc8b95a9cb2be802a99223518dec80cdfde693ff5376ecaa698343fe6388",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:59:19.753513+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\86ea95e15fb2_research-and-publications.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/biotechnology/student-achievements": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "641faede90d01fe8cd532437be747f86ea1d897819f1b3ddf0e0df5a8b718916",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:59:17.734954+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\5dde0ce4b8fd_student-achievements.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/business-administration": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "d6aa59d3164a4a55acc6efc9889dcd10c862d499bac3368261dd08863ce56ed3",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:55:23.287703+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\3a043f319830_business-administration.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/business-administration/curriculum-syllabus": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "c11a46db62cc410e9e023847bff9c0b6d12ec65973f2deb43f7e56a7bb145a57",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:58:10.399761+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\c8dfe86d6fde_curriculum-syllabus.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/business-administration/department-highlights": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "c34907cffa01fb765cf073c0a7ecd4e2b2102a456d6a35ba51a9d85487e41fe0",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:58:12.193888+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\d24c0de7ea0f_department-highlights.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/business-administration/faculty-details": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "4fb2081f698f1e19753f5d4d4babf3fb66af32f493a180ccde80a0d9c19685ab",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:58:11.341323+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\69d209b03d82_faculty-details.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/business-administration/program-educational-objectives": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "51c768b3c13e1e2b288610c4db5a13d173d11a57f445d177d3aea49ae740dd99",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:58:13.552965+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\e4f595080255_program-educational-objectives.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/business-administration/program-outcomes": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "7667dca30bcf95bb43f8500d7ace70a24bc186f33cfeaf4e2f80e9d9f93da4f2",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:57:39.994453+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\7065521019b6_program-outcomes.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/business-administration/program-specific-outcomes": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "b20ae5b270a00d6c5b8bd90e430dc5450abdeaf8154d41da99dfe2edbc67a242",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:57:39.439843+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\930b6a6f4a76_program-specific-outcomes.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/business-administration/research-and-publications": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "8e599e74dc549a7608b78976b2f37b8ac4d6178cd990d12cf26c8af3c17a1ddc",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:57:40.591163+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\5299cabf4e50_research-and-publications.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/business-administration/student-achievements": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "5d2d30e26774af504d8cd33d8fcbd78ec8af2e5259bbcb7787881ed41fdbe67b",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:58:12.989398+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\55843fcc2faf_student-achievements.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/chemistry": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "ee3710f220483da27379356a7199e0545217bdc13f9e117fea3d050bd7dd45f1",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:55:03.620746+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\f26635d76477_chemistry.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/chemistry/curriculum-syllabus": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "88ed9825ccf20d09d99bb6168eb7efa782bf1d2b9c2185e208f768ce7361ecf1",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:57:04.866018+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\66e5055337be_curriculum-syllabus.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/chemistry/department-highlights": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "12ce28bca84fa69eeea12be6304c86fecc341c0f79bcb8579f4148287f768930",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:57:04.054050+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\4bdc4eb1765b_department-highlights.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/chemistry/faculty-details": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "efd7c7ec7f83ecaafae9ce5c9497b70c6c08616f81cff79e1cad872a53672099",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:57:02.333245+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\353eb70d7be7_faculty-details.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/chemistry/program-educational-objectives": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "54f701373e6e0d026610854e8f6b7d1b123ec0caff8a4c20e43752394c838d37",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:57:06.934753+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\e3f7bd6a81a4_program-educational-objectives.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/chemistry/program-outcomes": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "d3395b4c6d36b7c75e482120a84bc883b21466d4749ca8b24274c97b1efbe640",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:57:08.433959+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\cd201c3c98c4_program-outcomes.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/chemistry/program-specific-outcomes": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "31f9352f24bccfc30a79f0b52c3affeb21e2ff5c45d15aa02f20ee738f4e4288",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:57:07.649738+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\f62528de4aba_program-specific-outcomes.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/chemistry/research-and-publications": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "f1f5c41a4cd80c2f83f6c1632861caadf4bf2804167d3bfa51cb688310e875db",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:57:09.217718+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\18745f0a187f_research-and-publications.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/chemistry/student-achievements": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "780e65fb04ec3671f51d40c8037ca9fd64185d5afe05aac0d3d5d87d2efc7cf2",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:57:03.304752+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\2ccf7712f394_student-achievements.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/commerce": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "6bd17e02b583f373c36171d278e8ff7ee036b5b0644d0bbef5161a362bf9f6d8",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:55:43.686889+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\64fe8cff60da_commerce.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/commerce-business-process-service": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "09bc5016b154fb724a58f15dd313aba71f7b40a8f623954a328361da33a3b00d",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:55:36.658285+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\2816f7bed4b7_commerce-business-process-service.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/commerce-business-process-service/curriculum-syllabus": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "6c33448fbf66e1fbbf8d67062648a750d7ec15acabf99a76007e6142ffc0d865",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:59:49.436664+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\5c333584a735_curriculum-syllabus.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/commerce-business-process-service/department-highlights": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "fe30608c7c453a476311b44dab170100faa6f5bdaceac5a04c632f1194cf315b",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:59:47.266697+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\376d7b52147c_department-highlights.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/commerce-business-process-service/faculty-details": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "c53d0d834403b3e5e312a97f69021879ce83f504e02081e87ae1803cdd68f285",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:59:45.241130+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\360b09943a66_faculty-details.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/commerce-business-process-service/hod-desk": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "83f6fc70515e55b4e99ae8d8fc8b4f3dfb458b80efba6fd571cd7bbbeed75bcf",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:59:47.979264+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\2bc0b0d7807a_hod-desk.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/commerce-business-process-service/program-educational-objectives": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "ae54e96bc2d06ad22ee76934d057efbbe562801eaa26703fb100af0d813faa66",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:59:48.548770+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\fea581acbce6_program-educational-objectives.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/commerce-business-process-service/program-outcomes": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "fdb43202282d310352e3a691cebed41be7d829a5640d827870c25406630b6d88",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:59:42.963552+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\c7b9fa67a4b6_program-outcomes.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/commerce-business-process-service/program-specific-outcomes": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "3e94d18b1a4383a7d903450971501a32394feb755ee0007100666e92244558d0",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:59:44.405560+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\a53a626b7640_program-specific-outcomes.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/commerce-business-process-service/research-and-publications": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "9a00ca66192d80f12a5b12c0da23db18faedb0b7ef2ccdec237cf399e6fbb426",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:59:43.609051+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\1790f5651cd6_research-and-publications.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/commerce-business-process-service/student-achievements": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "a800c64f58337e45b59127106c683a9d22a4eb921000a098cc715342c3d92593",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:59:42.228021+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\42adb619c9d4_student-achievements.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/commerce-computer-application": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "d4f89305bfcf062bdb3abc16cf1656dda7d80f57b23d36185da3ded1cca81d07",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:55:42.860836+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\808e17fff075_commerce-computer-application.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/commerce-computer-application/curriculum-syllabus": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "27499b7749708110dc8d6cf667a086d6df098889c8d18cd5929fcaa7df0e6861",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:00:08.419971+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\78ae68538169_curriculum-syllabus.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/commerce-computer-application/department-highlights": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "94de9dcc6a67e7a16348484f5553da2af3f162baf92d7e6c4c567e36ef7dcce9",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:00:11.105710+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\87849f3c8dc0_department-highlights.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/commerce-computer-application/faculty-details": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "f4ce92ac835fe69b34f7c8750c0b6cdc39e3316fc6d9c5ae516aad2c7550fb88",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:00:05.606260+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\464f0390ed21_faculty-details.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/commerce-computer-application/hod-desk": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "63b545c278cba3f25b164c6287d22af56229b37c2f87f9f91a03c9f55835293e",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:00:13.000782+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\01b9563f13c3_hod-desk.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/commerce-computer-application/program-educational-objectives": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "cf8cf62b068fa928d6599122312a5762a920c1bb6283258fe30d035e2795bd0d",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:00:09.256481+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\ffe400fcc9e4_program-educational-objectives.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/commerce-computer-application/program-outcomes": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "73868edaa6ce6f2940bcf0fa91bdcca383098788f43cdc95b222c46bd8f94e98",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:00:06.317985+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\9026c9286287_program-outcomes.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/commerce-computer-application/program-specific-outcomes": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "fb5b245a789ed9a1f2d9be98d63ef18a93144f65c3f19e11351544b631d7d2a7",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:00:12.131274+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\e1f4be9af3b2_program-specific-outcomes.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/commerce-computer-application/research-and-publications": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "17acb2bddaacd4d639c556f7604d10180575e762eecae264062e66058ee392bd",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:00:07.815458+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\53ab351939e9_research-and-publications.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/commerce-computer-application/student-achievements": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "19e6110ef8b6ccba08c986d58e38055a3dd4153989fcde17a1f7391d7afbc2db",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:00:10.185200+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\12288285f1a7_student-achievements.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/commerce/academic-events": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "23302c0a08142d46ef390bcdc1435adafbbb7e3b8d349e8771d09f571d456e91",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:00:17.724997+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\2c297a1b3e8d_academic-events.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/commerce/curriculum-syllabus": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "75e1bf877a313a49ff6047f7b335bc0a72058f2383b5fbb5d09d105f23b0967c",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:00:21.446810+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\e88d782836a9_curriculum-syllabus.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/commerce/department-highlights": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "3a62870413eb779768eb4dcce291ffc3b69059b0ddd5059d6ca31c0532e0b00c",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:00:16.971940+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\3d637545e026_department-highlights.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/commerce/faculty-details": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "ce33d64c1278d8761cbbb9b641e3f4fb6878b04a024202e1e6a8453a6a474cab",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:00:18.427557+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\fc17a2dfa74c_faculty-details.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/commerce/hod-desk": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "ce31533c15f4d7386cae7dd5e8c39a8a311efd4338fbfb35c1a557a15d9f5e28",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:00:13.693294+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\546cca71c7bb_hod-desk.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/commerce/program-outcomes": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "c206b4a34515887e3a3df9fc182a1687835c628aeada2258ea7ef92dbe6b3725",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:00:19.590121+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\55fce0df2034_program-outcomes.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/commerce/research-and-publications": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "04918312c1d3222b0a136ce08043b2b0946f7ee274bcee772a0386fd2b95d38f",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:00:15.782418+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\3531581237b3_research-and-publications.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/commerce/student-achievements": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "562b813021bd3f1c42a531e0a7cee627daeb40c08905d6f8b83d669b1fe2f864",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:00:20.395249+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\af55e043ff1b_student-achievements.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/computer-applications": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "ecc278d4376187c79478b2ec77b6deaa72f3a7d4a95f2b45c578a634b7056c31",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:55:53.143652+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\ac0b34999652_computer-applications.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/computer-applications/curriculum-syllabus": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "c93f3cf97eee51d49ed48d5d884a804ee9550ee103ee9df6643ad476d7afcfe7",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:00:28.314010+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\da01a18bd6f1_curriculum-syllabus.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/computer-applications/department-highlights": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "5e4f75c74a226a68395a4d6394b76698953f752697fff9fad8d8155a0a6a4e1a",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:00:27.484340+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\106d429f5006_department-highlights.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/computer-applications/faculty-details": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "968cdaeef2b897bf2940de9d2fd48dc7b2a3a7364e92b7c592ae4f3df4f538c0",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:00:25.185405+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\4dad92eaddae_faculty-details.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/computer-applications/hod-desk": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "947a4869b784c2129db4c547877cf7fb05d3fae8a2cfba8effd9c7453471ade8",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:00:22.263379+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\c7976d0be04a_hod-desk.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/computer-applications/program-educational-objectives": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "4e6dc5cbb7a65374d84f03082ab54cabfe5ae53ce2b8fe048b61753a297abbe4",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:00:25.853219+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\7f15c8b9e820_program-educational-objectives.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/computer-applications/program-outcomes": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "6988b417bf4b8af56f7f867dc246d69e75e77420ddb563a6ff9ed0c1dc4e8f28",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:00:29.634964+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\a7c570e56757_program-outcomes.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/computer-applications/program-specific-outcomes": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "473f494f7015362da16c74f1e4f69666763a2445ad3a9a9f135415f51f6ab9a8",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:00:29.042454+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\9caf7b1214d3_program-specific-outcomes.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/computer-applications/research-and-publications": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "02516a56f8652e00545aca82defa0c79a205ff48b5108327732543129362f4a2",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:00:26.615901+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\cefefe2498e6_research-and-publications.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/computer-applications/student-achievements": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "113c476df52ca1687e461dbce691422b1c9fba7ff715567b18f03d16f415be08",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:00:24.251881+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\ed1582c68307_student-achievements.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/computer-science": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "f7681345f8bed6f573304b67488c24756fc046d7e8aae3478cb028ddac68b86d",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:55:20.716049+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\05ae2006376e_computer-science.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/computer-science-with-cognitive-system": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "20ecfd1358dc9aa85a5eb965583783a84f6ca10b1ecf485dbcd1b1e6c90fe5cb",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:55:37.290618+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\c68bb7c15fa2_computer-science-with-cognitive-system.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/computer-science-with-cognitive-system/curriculum-syllabus": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "2f3786d226ecb2f433a8ce3e5f470a971f110e9791a572f45d20e04635f6a61e",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:59:51.365673+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\6f310665c467_curriculum-syllabus.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/computer-science-with-cognitive-system/department-highlights": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "1f38c3610cd4d5229c98da1741544fa9c103afc3b04b1eb40edbecaf4cb3d4e8",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:59:55.357798+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\6efc0e0f089a_department-highlights.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/computer-science-with-cognitive-system/faculty-details": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "77da228fea1f047d96176bbffea75af8b59c3e17f953444d2e032e6b30f65999",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:59:54.599285+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\131114c3b055_faculty-details.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/computer-science-with-cognitive-system/hod-desk": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "9af07d8a386237c24220b12a377ff872ae74716dc6cd3c271184fc096736248a",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:59:53.007745+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\b65742b85f13_hod-desk.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/computer-science-with-cognitive-system/industry-collaboration": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "def8e8f0bb983e3449eb2dc7afb6da485c977a456078f19c6bb3547b90e64750",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:59:56.924178+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\774a5bb028b4_industry-collaboration.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/computer-science-with-cognitive-system/program-educational-objectives": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "297f3cae0decbfefe9aff8560618ab56ac4be53f5142f4e9b2a98321db057cfe",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:59:57.602974+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\c43336fcc26e_program-educational-objectives.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/computer-science-with-cognitive-system/program-outcomes": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "a654e0d393547a08b4886ee8e366d35d3e4bcc4ee3704e3f5c990d01c5f81ec1",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:59:50.437165+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\88c756c50be6_program-outcomes.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/computer-science-with-cognitive-system/program-specific-outcomes": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "0d9a7264203739a1bbdf3d5cef90d29ee907a287e47fc1d558f895d37453ffb3",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:59:52.207182+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\1c48b55df6c1_program-specific-outcomes.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/computer-science-with-cognitive-system/student-achievements": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "0954eb649c5f5fb09548b33f87c5d2e8b789fdb345bebef3cc2a86a27822ca38",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:59:56.138357+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\d2d4925a82b6_student-achievements.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/computer-science/curriculum-syllabus": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "d8f0fd68cb6cdc7b019e0c7e54057488b5afc0f9a86e7bb6bc26fe8f24a52305",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:57:35.598192+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\49e8ab4d8c8a_curriculum-syllabus.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/computer-science/department-highlights": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "c6a807d35bf0a9f5f640168fc428bef2fc2d1978ad8f97975b0d9f913138e976",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:57:38.702911+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\10df65d31703_department-highlights.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/computer-science/faculty-details": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "0b07b6510c121248863105298d1e5eb367a0b3ecd76d74ae5e816c7a801571ae",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:57:34.757631+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\e29e2d44fa19_faculty-details.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/computer-science/hod-desk": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "fab62f154ddfcf31a70f3b209cf3a422c0edb6d593c4a279cde378bf62a2b4c5",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:57:32.705611+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\328ec61d2e0f_hod-desk.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/computer-science/program-educational-objectives": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "28fcf2707c6145003fa5c2a96830da20afeac91424cf2c12c306a72b93fe336c",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:57:36.261773+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\11954b379efd_program-educational-objectives.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/computer-science/program-outcomes": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "8702b744aa58c3e0d4f4245b5081ed908409c1a814efdc33cfb280344fddadd5",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:57:37.473775+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\bc0922117b0b_program-outcomes.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/computer-science/program-specific-outcomes": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "ed73188322ba078f1ace2896ac88778fca23e29f15be179d22ee4fb37dfc5189",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:57:33.567236+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\c015045542d2_program-specific-outcomes.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/computer-science/research-and-publications": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "751774975a7c4bec3ff793fc4d790f53778f7875fdc19941175d49f096d7f6b5",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:57:34.210977+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\f164bd64dcc9_research-and-publications.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/computer-science/student-achievements": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "9ea66733dc8305438521cc5297ca5592a12e1f8aee6da0d45b77416fd3c97fe0",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:57:36.903261+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\a69345b7dbcf_student-achievements.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/data-science": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "a6e97af848ff4655103a38fd6693edff5f9da0350bd3cbfbeaace1d65a0c2d02",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:55:00.853072+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\a670fcef4eef_data-science.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/data-science/curriculum-syllabus": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "06b5ce001edd960d022bafbe8b0a989fa5278207aefda9fa6b9d4b8086bc8f1e",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:56:11.977846+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\17bbf7835981_curriculum-syllabus.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/data-science/department-highlights": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "e6f9b621aa7b2815a157d7c8642b30df6191e3962834a2d155070e96fee0fbf7",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:56:25.346512+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\58df6cc46aec_department-highlights.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/data-science/faculty-details": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "583166a83cd9879a79dbea092209dc85d5529a848f5ee8c3e66213d67e26fb09",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:56:24.595020+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\cf4cb6f0f204_faculty-details.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/data-science/hod-desk": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "edcbcfcb9779c52f5a41661cae66b893718a16ce4b58f31c85b4f0d74a41fdd9",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:56:23.088384+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\a9081a9329f4_hod-desk.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/data-science/program-educational-objectives": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "968dfb684305e61209276c8f50cda3036efd5c82baa0b126aaf0584e34f34fff",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:56:11.003300+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\3ea3f18ef3d7_program-educational-objectives.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/data-science/program-outcomes": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "68cddc7eb00638218ccd98a4713ccdd70014c449b7f6e72498d6d62e9d42a656",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:56:12.977587+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\40997d4dfc69_program-outcomes.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/data-science/program-specific-outcomes": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "378dca53c1fdaaad63ac58f3e65c5085a910e13a369429bab80f9c7d4678feb9",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:56:14.890208+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\fd244b218d03_program-specific-outcomes.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/data-science/research-and-publications": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "7e387ee81e2c629aac8cf8372d6cd7e20fc9eb956f969bf8bcf7c0b347fadd5a",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:56:23.707927+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\3825a906a21c_research-and-publications.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/data-science/student-achievements": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "c4740099f04ea5781e188d2acbd8f66ad5b3a1a6008323b6fd7fb82ed1c48adc",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:56:26.069030+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\2042e6836c88_student-achievements.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/english": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "3373bd243b8a7a7cf803ca29287a6ab573d64f2418a25bde5b4451e734754e0a",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:55:10.408097+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\87addf5b41c5_english.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/english/curriculum-syllabus": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "70b30d1d8976a9012e29582c38ae09f45c49aa41fc1f66f08e678f7c4fae6c5b",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:57:25.404659+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\1cb979425192_curriculum-syllabus.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/english/department-highlights": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "6eec6b027e233f8cdc7ec6d32ca2c7bcaf7d9026365ebc72314c05d4f12445e5",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:57:20.148206+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\721dfdb8e907_department-highlights.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/english/faculty-details": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "88d33d25a7baceeec55b2872b133040cf982f59a46eddc9ab133068155624e4d",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:57:20.858869+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\81273dd923e9_faculty-details.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/english/hod-desk": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "b5e82340128384b716f8f2f56b285456f52c02a9a03cf3a456317faa10e9fa42",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:57:19.370507+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\50a8e3b57f5d_hod-desk.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/english/placements": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "3df8c9fb7b6c42f6a981964b5584ee6ca290032718f17c0c34802ae4733d349e",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:57:23.578017+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\7a4c050619ba_placements.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/english/program-outcomes": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "bc98fd5b2798154c06e78527fb141e911e0043d56891c6c5822fe83ecafc1c53",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:57:21.749572+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\a43a5a459e44_program-outcomes.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/english/student-achievements": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "e9a30cf76cf2bd7ab0890e1936c00049c6debf252cc7b1ebe36412fdc53d8201",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:57:22.874261+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\3240d24a0b26_student-achievements.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/fashion-technology-and-costume-designing": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "b944769ef2e45d7db07927b69034304a30af159522a2513a639785c8accafef7",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:55:23.984257+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\132591327043_fashion-technology-and-costume-designing.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/fashion-technology-and-costume-designing/curriculum-syllabus": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "bb8305d9f38afa0eb6e809bf1a14caccdfa97c942d490cbd4cab9cb3331ffc2d",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:58:27.095419+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\184b898203f7_curriculum-syllabus.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/fashion-technology-and-costume-designing/faculty-details": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "d878a4f952973d7d8ab28aaf4b980f46ef5a78e4ddd41d5951dddaef4c853309",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:58:25.684911+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\f088f7cfb723_faculty-details.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/fashion-technology-and-costume-designing/hod-desk": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "ad56f8497860b22f55801a709035e57b88a4a34b5e7b1243a7b140c1107c5473",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:58:25.058351+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\bf18cc245d4d_hod-desk.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/fashion-technology-and-costume-designing/program-educational-objectives": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "6f54cee8e882b2e06e34acc1ec1a51db3eb8430851dd5c62fa7343061c564e42",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:58:24.229227+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\0ff6f72f7e9d_program-educational-objectives.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/fashion-technology-and-costume-designing/program-outcomes": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "075fe6f8e60284a9a99776c23b952fd493863f3cb2c4f66359fa83e66b55f567",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:58:23.517667+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\ed1bdb929bd9_program-outcomes.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/fashion-technology-and-costume-designing/program-specific-outcomes": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "1978907e1a74c8539dac5b2cce6eed2484c91dc2b71e657d6ebd27422a5e026b",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:58:16.141057+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\46afa4fe0b57_program-specific-outcomes.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/fashion-technology-and-costume-designing/research-and-publications": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "95a7bcfe8a82afebf94462c4cc910cd604604912a86ff97299941aeb1d4bb883",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:58:15.430535+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\62ad9d3b8e6d_research-and-publications.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/fashion-technology-and-costume-designing/student-achievements": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "a8e5d9f812501d5dc7161d74bed6533dbabb70a2f2a5a55e090dba5823b3fedb",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:58:16.743614+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\6be057545a8d_student-achievements.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/information-technology": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "cd8cecc3e219be261242ce4d0a7fa0f29e81ec45843037ef4800f5c0f08b1544",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:55:00.134564+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\b5a5d20e3f96_information-technology.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/information-technology/curriculum-syllabus": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "e2976370c3b11ebe4c7d4d3bc09efe65494816f9d3220b2c5e31ee40a89038b1",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:56:06.579910+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\32411675409e_curriculum-syllabus.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/information-technology/department-highlights": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "bd1655441deb4234c586ee58c079f62ce1f3db03f49cea74f83c6e193ff656c4",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:56:02.247229+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\b797ec7f0e2e_department-highlights.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/information-technology/faculty-details": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "1364667f2db120b1314eef846599823ab60fd6b9daa3e25a4033bf48fb6340d6",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:56:05.603349+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\b09866c134be_faculty-details.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/information-technology/hod-desk": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "5a99d018408320ec647170a31bbf8b59270d9288be970b0c88e2cf81c39d85e7",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:56:02.867791+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\28e761080523_hod-desk.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/information-technology/program-educational-objectives": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "7ab5257c64c62a288ec87ad9f5a16b306698adf148ca05e73718277e5d828809",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:56:10.246781+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\d00b22f45fe7_program-educational-objectives.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/information-technology/program-outcomes": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "aa61156f7eef607e2e2dc2c172accce3696332c049a87c0fecd6180c12fdf4ee",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:56:07.436476+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\0a782822bd71_program-outcomes.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/information-technology/program-specific-outcomes": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "e1abecb889a4d19a84571686b876bae3255d0a43e2be3d510987941577492417",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:56:09.493221+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\fdd3907ad1e7_program-specific-outcomes.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/information-technology/research-and-publications": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "27d5d85613ca8fe895cf0ed20e041bcbf2f4a3dea83789c016ff531c97fccc4d",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:56:03.612279+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\5fb9bd3be39b_research-and-publications.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/information-technology/student-achievements": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "0e1b9b4d367d11ff83e4fcafa25480bb014067d6f69eab9b0cfc600d17fcf614",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:56:08.553132+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\14954ebc799f_student-achievements.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/mathematics": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "ea3fa40c30255abd7d2c604f4d670f73f8ef24a0aa3850dcdd649622a3cce675",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:55:54.689945+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\839e8fb2fb66_mathematics.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/mathematics/curriculum-syllabus": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "49fbacdf819cd7e2ca9ebf37ddb477b11ea70d2e496e20d6d5a3acf0235db25f",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:00:32.340991+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\1aa0c77b7094_curriculum-syllabus.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/mathematics/department-highlights": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "36f78dc7db09b101f1eb2f65e0940301d2f8adb3b478d3bb5620aa30c6878d9f",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:00:37.119155+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\f959ef54549f_department-highlights.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/mathematics/faculty-details": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "08f8738532f166bba60985571eb4a07fee7de436a7b0dc6bb64c344ec972153a",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:00:34.256021+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\d2b44e50e65d_faculty-details.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/mathematics/hod-desk": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "1f396ac010ebe4681dc80855fa12a5055021ba7e65549708bf211a6fd14f5713",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:00:31.561488+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\ad2c1448c63c_hod-desk.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/mathematics/program-educational-objectives": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "37b4234a6ef64ab71308aad793856ccd17272fabe3c7bbaf611792a19003ce80",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:00:35.760139+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\3b4616af292d_program-educational-objectives.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/mathematics/program-outcomes": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "48d51079f67f5f3f08eb12c85a27d90ac068ed7f4bf66021289d39de1c9b2aab",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:00:35.035576+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\08f5565f9ac1_program-outcomes.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/mathematics/program-specific-outcomes": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "6eb1704a78b17aa149a306835bc0f72ca02e91ae37070bcbca05e7e31b617410",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:00:33.335502+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\c043353e3ab6_program-specific-outcomes.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/mathematics/research-and-publications": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "ee127bfb3de27d17b974d76f5d9d29376ee690db8ab80a0459e35846f0be954b",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:00:38.689714+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\4489b9e24137_research-and-publications.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/mathematics/student-achievements": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "ee8ae8bc635ca595a4228686bdd09430be6a365f699c00d8feeadb50f711a26c",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:00:36.433657+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\8103c1d8698f_student-achievements.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/microbiology": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "af09612a6bd9ab9687b53a2f2f0d48b9a1b1c639d9be22bb09427a533a01b22b",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:55:12.486319+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\936e40be3439_microbiology.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/microbiology/curriculum-syllabus": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "bbfaf3776aa73b1b278f2e23e0a01c6287004f2f61c387213a7dcf3b074d6460",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:57:27.951733+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\7261fd0fef58_curriculum-syllabus.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/microbiology/department-highlights": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "57af9e41a40880f3b3e177aa6873944922fef639e2d84f2c5d2494bc2a4e2817",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:57:26.803677+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\292a6f52ec63_department-highlights.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/microbiology/faculty-details": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "9d968fa4d6e451034e0ce157ccd20d0f18727341e9e91c633f0543a91d4fbd2d",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:57:29.153861+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\26964c0b6af0_faculty-details.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/microbiology/hod-desk": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "2c873fa876ae79ee606d1d49179418ff02f8e2b87888510b1f8da68332384a04",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:57:27.281169+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\3c317d0b9591_hod-desk.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/microbiology/program-educational-objectives": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "cf99d7bb12b1d5b26f5841340a899cc8a062425e1e183abe051382b69f9a6821",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:57:29.769400+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\f126158d4611_program-educational-objectives.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/microbiology/program-outcomes": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "d4c58c0032ce4ed24a02a87cb82b9b67475deb9d1aa337f4591a90cbd0223637",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:57:26.122178+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\18494917d62b_program-outcomes.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/microbiology/program-specific-outcomes": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "5adfe114638a8f3ad1a356395ef4fc8d15aaf1f2fb769ede1fbb28c0cc4b02bf",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:57:30.377894+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\5ba6d4c6c14d_program-specific-outcomes.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/microbiology/research-and-publications": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "c23317ceb0c1fac00e454bcaf53f0278a726e95afbbb4de1f9199c8d76cc8fb8",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:57:28.498301+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\c06242188553_research-and-publications.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/microbiology/student-achievements": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "8635e794c2b40c178dd91d20172bffa78c0ff68ed58ea81a0229922d09911c4a",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:57:31.957538+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\40c4887d30b0_student-achievements.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/nutrition-and-dietetics": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "685ea791a46ab00724ba9c1cd19a130b33163f0dbc4897864a70f796a51b3d86",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:55:58.470797+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\0ae51427b0ac_nutrition-and-dietetics.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/nutrition-and-dietetics/curriculum-syllabus": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "65c50c09a19c0ab8bb56129679e62bef4077ac46a704c0cc916c2b65d653116a",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:00:41.286877+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\7d46ab6af9b8_curriculum-syllabus.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/nutrition-and-dietetics/department-activities": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "a4583c449bce28524e60ab9ab9fc1c7f89b6c2faa6b1e69d5d60412a7265c237",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:01:16.451369+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\ef371e9d6f75_department-activities.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/nutrition-and-dietetics/department-highlights": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "89ee8b53ba31cc103a81ac99cdb337830684c9d1577cbfc4d2f0e56aa8f041fb",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:01:17.872881+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\0d482729cdb9_department-highlights.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/nutrition-and-dietetics/faculty-details": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "4ba52fede094d41bd66fc70af20ad0a447c0734d465aa67831841c805bff44d8",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:01:14.747242+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\b69560b37675_faculty-details.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/nutrition-and-dietetics/program-educational-objectives": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "ecfe383837cd0dfafdfd868cfe370467ebba7b0f700c26d6664c6562c6596fdf",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:01:18.612436+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\dbe082f07474_program-educational-objectives.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/nutrition-and-dietetics/program-outcomes": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "c3bb141ba199d0795e209c80c0b76b24b2a4a57e5a13cb7b5c53ca6a31d63dd5",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:01:13.860723+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\18c061790fdc_program-outcomes.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/nutrition-and-dietetics/program-specific-outcomes": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "c9d04afe4384dac26791029432227f50998199989948aefb5fdb0be3e371ece9",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:00:39.362234+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\81bef990847f_program-specific-outcomes.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/nutrition-and-dietetics/research-and-publications": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "3054d64b478c18e56b51b498789d4c635f130069ff1ed63f52d2ebad13a83cac",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:01:15.782804+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\378368fbe88c_research-and-publications.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/nutrition-and-dietetics/student-achievements": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "daf6e2dfed9e65853b595551aea2284bd2f4a56997f82ee7ecbbcbaa7676a95a",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:00:40.213424+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\2f8a5731c5bf_student-achievements.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/physics": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "0488a92c8e7ec9bb6b5b528834c1245c72edceadd6e32702642a65a8ff86966b",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:55:26.885500+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\fdfa69270e2e_physics.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/physics/curriculum-syllabus": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "cf791473c5a5f5d1752d1e911b732b3285c618648f0568133dd40b66e4b7c462",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:58:30.033629+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\6d0e1726217a_curriculum-syllabus.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/physics/department-highlights": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "d66946d89e3c1e851462655aa7dfe22b4764ff92ca28e155e50699aafb3031d1",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:58:31.435705+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\24ff0e843589_department-highlights.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/physics/faculty-details": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "54b609b86ada8c4b7faae5cbbc919467c54cc85bdacde287aa3687f23eaacd02",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:58:32.984835+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\d01df47cf8c4_faculty-details.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/physics/hod-desk": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "2d1a6e7d9289c23ba386596cab780d81e469a1444cb8d341cb9d4fa31ffcfff3",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:58:29.183071+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\f21ea66a3fd4_hod-desk.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/physics/placements": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "d88e199979ef2063a57ea217656a99d96cfc584488f9d338a2a9ff98be49a8ac",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:58:34.563326+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\39d8bafdcc70_placements.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/physics/program-educational-objectives": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "bf33702200a0e9f140e52dc108a675f4b437928c1ad2ba16db44c95749604a45",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:58:27.736933+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\c33b5e41875e_program-educational-objectives.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/physics/program-outcomes": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "cab09413edd8d9609d1fdecbf76c236bfb613c2138be04a68278018fb2a644ee",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:58:30.755173+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\861aa4a5a8c4_program-outcomes.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/physics/program-specific-outcomes": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "7a1e71d4a44098b36408bd696e6ba5db6a1939fa276dd01a8ca651b7513d939d",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:58:28.423494+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\b300b1281063_program-specific-outcomes.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/physics/research-and-publications": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "9ba9e4833acb1b19aacfb598293c4a3a25e0eb62e784bc10fa98ba81f45d9d2e",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:58:32.215273+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\2a6839f591ee_research-and-publications.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/physics/student-achievements": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "13d817512a873cf824e0444a65e128e40e44b5612fca3ab8e1a0ae01d0fb445e",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:58:35.607844+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\7b30465a28d7_student-achievements.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/tamil": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "49807f4f93db9482483fde30c59e021360f45c612b5a7d1bd25b4cfb5bf67a55",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:55:31.835788+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\9041dba7dd8e_tamil.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/tamil/career-opportunities": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "0c35ae034788019b50e7d4adf1dead79b1b423f529cadafbe7fc5d9724bfc8e0",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:59:29.794304+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\d0bc348beefd_career-opportunities.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/tamil/curriculum-syllabus": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "35dcb97c7deb3cb05cba4ccc1fc879f42893bfa8bcc1e6084277b30673ccb535",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:59:31.450548+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\6e3f42c3fd67_curriculum-syllabus.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/tamil/department-highlights": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "c1d62051bcf36bd5fd02944168656c6a9b70d0e0ed4622ebdc197ca3a22df8fb",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:59:26.405522+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\c2ec68be5aec_department-highlights.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/tamil/faculty-details": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "24a72d218d76c337b1d3491a0cb14ba7e29f0bf38b8c4242f9474c216b4dc961",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:59:28.889601+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\0d809b47bd64_faculty-details.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/tamil/hod-desk": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "a58802200f8ee228d6c3d91af9be9d225f99b84b52377833fee57f4d688000de",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:59:27.292178+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\9aa6fb191139_hod-desk.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/tamil/program-outcomes": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "d4e85110daa58cde2dfeee8d5a58b9966e27c9117e05b1898aa2877cc8eb5900",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:59:28.143848+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\9bcaee40ebfd_program-outcomes.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/tamil/student-achievements": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "b1483d21759e4a00900422d9d3ab5605823f29afa1466afde8f18a6a176e02b9",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:59:32.231285+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\89795a2ca30b_student-achievements.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/visual-communication": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "9b9464286f22204fadfcf1448e000be6d5effc93b50586a6870fe814dc382e49",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:55:32.704340+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\45be930dd53c_visual-communication.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/visual-communication/curriculum-syllabus": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "6219f040beff417818a6027abf65e07c98f095e4597f2054eee90960ac60b3c0",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:59:41.350443+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\f74b605af84e_curriculum-syllabus.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/visual-communication/department-activities": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "3cc97dd6c864f4750724489514cf17c63724778c9becb19797bacdf61073d34e",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:59:38.635843+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\f3fb3ea333e5_department-activities.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/visual-communication/department-highlights": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "0439e501f171e6d8687b2f18cd227f5b726b0abd545ce808c55c16f7d0a7a63b",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:59:36.586278+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\d699a24806ab_department-highlights.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/visual-communication/faculty-details": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "75c1c424cc92fde70f410d93548494d00ab087231511eaac9cb5c72ccf4da6da",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:59:39.281358+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\d023e5295041_faculty-details.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/visual-communication/hod-desk": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "66aaee9205a4b1203c2bf0905e3bb78ce58304c63fe6ed06bb9d779c67b77939",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:59:34.199399+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\63b200278e80_hod-desk.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/visual-communication/program-educational-objectives": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "e8388ffea7336bd4d5dfdd66319c302bbe78acdd6ab84677e93e6aabbdae3427",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:59:40.275877+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\eb964481282d_program-educational-objectives.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/visual-communication/program-outcomes": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "212e024fe5863436026cc208996e588dd5a32286c34d956ad46c2014800ef3a0",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:59:33.546648+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\7542836d4098_program-outcomes.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/visual-communication/program-specific-outcomes": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "eda66e55b43971dad1609216a08902d6088f6184cf445b30ee9adc4d50642116",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:59:32.916118+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\798b5d49ab07_program-specific-outcomes.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/visual-communication/research-and-publications": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "8256a9ef2a26a99728ac809c33b4031d66bccbbbf1fe87f603222a0fe14e2bb2",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:59:35.845795+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\3ccff0eda300_research-and-publications.txt"
+    },
+    "https://egspasc.ac.in/academics/departments/visual-communication/student-achievements": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "1293f79c19ecd71f8b424c80b0b20340a992184ff545b96f2feb3b732f881945",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:59:34.894080+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\d06e0d2b9baa_student-achievements.txt"
+    },
+    "https://egspasc.ac.in/admission/admission-procedure/phd": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "9bb88823b00a34fd1647d195178409c918fc3bc248d15d87531ad059e4ccf9b8",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:55:31.192237+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\0d0cc8e795d5_phd.txt"
+    },
+    "https://egspasc.ac.in/admission/admission-procedure/postgraduate": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "fcbe83531fc13cd4097222c1245170040c364716064e3ff0983078f0b7f4b63e",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:54:54.759835+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\694b437b1fda_postgraduate.txt"
+    },
+    "https://egspasc.ac.in/admission/admission-procedure/undergraduate": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "ea5d073b981ea936468868c727fbef372258a46af24855975ee69462c35e8409",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:55:04.529823+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\ab9e618cf0c8_undergraduate.txt"
+    },
+    "https://egspasc.ac.in/admission/courses-and-intake": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "acaf1e1d317a4e755ac559cae9c381c3c5b4dec64fba2636768404e4844600bd",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:55:19.865535+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\78d723316000_courses-and-intake.txt"
+    },
+    "https://egspasc.ac.in/admission/why-study-here": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "41170e419c845a55c699f3b1c4b1ba6fe6b510e3d2aae81b4476c992bcd5bf8c",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:54:55.361376+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\39bdfd615a96_why-study-here.txt"
+    },
+    "https://egspasc.ac.in/assets/v1/01999f7a-da14-70e5-9044-7d54ca96adb7?expires=1792385695&signature=eff49dc0575472c4f0c479713712d0f81e5dbe264c43b9feceda4c444262cb67": {
+      "content_type": "application/pdf",
+      "duplicate_of": null,
+      "hash": "dde04e2e222a3c926f175fae982c280e5cfdcb495944fd4429c2f63c2126123f",
+      "kind": "document",
+      "last_seen": "2026-10-19T03:56:01.758936+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\documents\\00b7ecc16ed7_01999f7a-da14-70e5-9044-7d54ca96adb7.pdf"
+    },
+    "https://egspasc.ac.in/assets/v1/01999f7a-da14-70e5-9044-7d54ca96adb7?expires=1792385705&signature=c67af0cf3f1ddef3be9d264cdaeb3fe718c36abef0fd4a006c35d14fd5d43b41": {
+      "content_type": "application/pdf",
+      "duplicate_of": "https://egspasc.ac.in/assets/v1/01999f7a-da14-70e5-9044-7d54ca96adb7?expires=1792385695&signature=eff49dc0575472c4f0c479713712d0f81e5dbe264c43b9feceda4c444262cb67",
+      "hash": "dde04e2e222a3c926f175fae982c280e5cfdcb495944fd4429c2f63c2126123f",
+      "kind": "document",
+      "last_seen": "2026-10-19T03:57:09.967458+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\documents\\00b7ecc16ed7_01999f7a-da14-70e5-9044-7d54ca96adb7.pdf"
+    },
+    "https://egspasc.ac.in/assets/v1/01999f7a-da14-70e5-9044-7d54ca96adb7?expires=1792385732&signature=f367d9960ca4b325d0417b0989e5b0e6d269c5eda19c198f5efd21e9af77c4f5": {
+      "content_type": "application/pdf",
+      "duplicate_of": "https://egspasc.ac.in/assets/v1/01999f7a-da14-70e5-9044-7d54ca96adb7?expires=1792385695&signature=eff49dc0575472c4f0c479713712d0f81e5dbe264c43b9feceda4c444262cb67",
+      "hash": "dde04e2e222a3c926f175fae982c280e5cfdcb495944fd4429c2f63c2126123f",
+      "kind": "document",
+      "last_seen": "2026-10-19T03:59:25.996964+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\documents\\00b7ecc16ed7_01999f7a-da14-70e5-9044-7d54ca96adb7.pdf"
+    },
+    "https://egspasc.ac.in/assets/v1/019a1620-5055-7131-ae43-e0b250c97692?expires=1792385694&signature=bbf37712e382b3931a287395ee647dbb0faa3e7f349313e77ac9f2b1a3fb8f11": {
+      "content_type": "application/pdf",
+      "duplicate_of": null,
+      "hash": "a3e403c262d0650f705229d430ab8e3cb657eae4a6912c495b2a21a95096177a",
+      "kind": "document",
+      "last_seen": "2026-10-19T03:55:45.837517+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\documents\\79a67c870a6a_019a1620-5055-7131-ae43-e0b250c97692.pdf"
+    },
+    "https://egspasc.ac.in/clubs": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "b4aabfbcf2ff910500b76078ec866940ccd4ff5fecd1e60282ff7b3f3271d6f2",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:56:01.025395+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\e34ebbe654d1_clubs.txt"
+    },
+    "https://egspasc.ac.in/clubs/committee-head-and-members": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "85e80c91a7ea7523532c0f34839ce6ac681aa33273ccca9c16ab8de9bd11b607",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:54:59.409839+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\150976a179f3_committee-head-and-members.txt"
+    },
+    "https://egspasc.ac.in/clubs/list-of-clubs": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "bb51f915bfdfc87c4ba315e7c230b0fa7867cb2698484a8532dee0a8a1c87b10",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:55:53.854341+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\a7c1b9e2d1c4_list-of-clubs.txt"
+    },
+    "https://egspasc.ac.in/events": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "e0b83a1f86e6d610210c2ce9e15c9e4a6e6c788a31402519476c9464292e3e77",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:55:04.087311+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\24f8007d2ba4_events.txt"
+    },
+    "https://egspasc.ac.in/events/capital-market-awareness-and-commodity-derivative-market": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "04d50fdd83aa9c7f0a49bb84e7a8a44d050b6b344768f8e266c48a52ac0fbd1b",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:54:55.849477+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\ff6c9c6fcf13_capital-market-awareness-and-commodity-derivative-market.txt"
+    },
+    "https://egspasc.ac.in/events/commodity-derivativesmarket-dynamicstrading-strategies-and-risk-management": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "7c41f56bffccaae42d2c4ca9ad70950f1d8facb02c06aa8d954c12aed3ed5b61",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:55:22.376125+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\9269991a64e5_commodity-derivativesmarket-dynamicstrading-strategies-and-risk-management.txt"
+    },
+    "https://egspasc.ac.in/events/dress-code-awareness-programme-flash-mob": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "e15df23e84d93bd3428d18a3babc28c4b866aedef291eb5cdfa8deda14664f79",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:55:05.751270+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\6699fd2e88e9_dress-code-awareness-programme-flash-mob.txt"
+    },
+    "https://egspasc.ac.in/events/health-awareness-outreach-program": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "2b658537d47103f51cd84ab9ddb1740d32c4b2dadb16e3ce8eeb131b02303860",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:55:12.993553+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\d3505aaf2ca6_health-awareness-outreach-program.txt"
+    },
+    "https://egspasc.ac.in/events/professional-pattern-making-techniques": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "4097c0c87cc155a99a74b6a93543e87eb7fefef55dcc6f4e08bbd92fdda4ef15",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:55:21.718567+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\421662bcae29_professional-pattern-making-techniques.txt"
+    },
+    "https://egspasc.ac.in/facilities/hostel": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "90d35ff414b30c61c3fcc094b3bfb27e67880e838f073e73b494a3c01f34e4ea",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:55:01.594626+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\fba676821089_hostel.txt"
+    },
+    "https://egspasc.ac.in/facilities/indoor-stadium": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "aebdcda6e6495a04e67df8e0d1f5bed89bd2f4236865b8978e00eca6abe7bbd4",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:55:24.691820+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\da658edb92b3_indoor-stadium.txt"
+    },
+    "https://egspasc.ac.in/facilities/infrastructure": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "99905518f4a7d124e9a6817b29902fa0da36463a3c3422693bb62433dfaaaa9d",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:55:34.043393+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\f7ef916c82d9_infrastructure.txt"
+    },
+    "https://egspasc.ac.in/facilities/library": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "f7aa6dd0446138de3bea18f1bb335a9e1c83ae39ff1688678207de784a7a3267",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:55:07.937455+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\adc18e8d01df_library.txt"
+    },
+    "https://egspasc.ac.in/facilities/transport": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "4b97d7589667beb99d4dced0d4d345b80721bb112dbf61842eabd825795bbbd3",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:55:09.527584+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\9711f2547c93_transport.txt"
+    },
+    "https://egspasc.ac.in/gallery": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "4ddb4bf9b473e386e36bc373271997344e9bdc3f8be3868c65f7ad701b37379f",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:55:42.360311+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\5d3b81730285_gallery.txt"
+    },
+    "https://egspasc.ac.in/gallery/egspasc": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "07217fa574f2f6b787a910275dc33d403ebc339db96dc4934cb3040e949aea64",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:00:04.674558+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\ec7bfd2ee498_egspasc.txt"
+    },
+    "https://egspasc.ac.in/iqac/directors-profile": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "520c2bbd75ec7fad8110ed17ebe732876133ad01c128763aeea8bda925baecda",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:55:12.026227+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\a1e484a24223_directors-profile.txt"
+    },
+    "https://egspasc.ac.in/research-and-development": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "08ee4c3e113a700beb608db9311556fdb555d6b08fc8203898a2e02ba89f19c4",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:57:10.466123+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\60a52fc47421_research-and-development.txt"
+    },
+    "https://egspasc.ac.in/research-and-development/advisory-committee": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "dae01e8db39810e4e9865ca3362f653fc52a3d9db56322c4baa09d5a103860fe",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:55:33.455831+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\ae13c93c2109_advisory-committee.txt"
+    },
+    "https://egspasc.ac.in/research-and-development/ethics-committee": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "41bf7b989877b1c630e7e42e36a644ea68bd7d48439517c791da4fd4d39bac12",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:55:26.361939+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\55ca8c3927a6_ethics-committee.txt"
+    },
+    "https://egspasc.ac.in/research-and-development/facilities": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "84e17567c03c7a8b243829c1354a6e9623f9ca600ee9cf54be76c592f32f679f",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:55:55.477598+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\5e16d8c077c1_facilities.txt"
+    },
+    "https://egspasc.ac.in/research-and-development/guides": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "ff2c21ae71d369a67c3bf2dcdd5c9c401db01e9180b306c59a201c5868bafec7",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:55:59.993819+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\531ea168b8d1_guides.txt"
+    },
+    "https://egspasc.ac.in/research-and-development/patents": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "95863588eadb7e68a19bcbb49f152cbb9909c5fa54419465ca9fce9f054eee35",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:55:05.116548+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\92fcaa4309a9_patents.txt"
+    },
+    "https://egspasc.ac.in/research-and-development/phd-awardees": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "09914c37f024aa852283afb74a75dd6b37bfb480442eabc1435b177cbfb59b9f",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:55:59.303311+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\8cef61943678_phd-awardees.txt"
+    },
+    "https://egspasc.ac.in/research-and-development/publications": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "a9233737278c86960138dfb89cb9a86ec359effb8ea44a32d24c72ebbfecce03",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:55:57.215775+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\0f8c0edfb3a7_publications.txt"
+    },
+    "https://egspasc.ac.in/research-and-development/scholars": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "bf562bb85af6f5dfc518b46b9313483bfb73ff501a7c263d7fd127a70a766aa7",
+      "kind": "page",
+      "last_seen": "2026-10-19T03:55:11.164666+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egspasc.ac.in\\pages\\faa7e101b6af_scholars.txt"
+    }
+  },
+  "version": 3
+}

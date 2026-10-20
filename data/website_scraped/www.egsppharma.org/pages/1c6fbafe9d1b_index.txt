@@ -1,0 +1,14 @@
+URL: https://www.egsppharma.org/index.php?data=Approval
+EXTRACTOR: requests+bs4
+
+×
+Online Application for admission
+Register yourself before login
+Student Login
+Register for Login
+Admin
+Approved by the Government of Tamilnadu
+Approved by the PCI (Pharmacy Council of India, New Delhi)
+Approved by the AICTE (All India Council of Technical Education, New Delhi)
+Affiliated by The Tamilnadu Dr.M.G.R.Medical University, Chennai - 600 032.
+All Rights Reserved. © 2020 EGS Pillay College of Pharmacy

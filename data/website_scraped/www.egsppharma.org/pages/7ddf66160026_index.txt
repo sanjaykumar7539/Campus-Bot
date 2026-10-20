@@ -1,0 +1,29 @@
+URL: https://www.egsppharma.org/index.php?data=opportunity
+EXTRACTOR: requests+bs4
+
+×
+Online Application for admission
+Register yourself before login
+Student Login
+Register for Login
+Admin
+Achieved 100% job placement in last 20 years
+Placement Offered in variuos sector
+Hospital Pharmacy
+Production Pharmaceutical Companies
+> Quality Control
+> Quality Assurance
+> Clinical Trails
+> Clinical Research
+> Pharmacovigilance
+> Pharmaceutical Marketing
+> Hospital Pharmacist
+> Community Pharmacist
+> Clinical Pharmacist
+> Faculty in Pharmacy Colleges
+> Government Job Opportunities
+> Drug Inspector
+> Drug Analysts
+> Pharmacist
+> Faculty in Government Colleges
+All Rights Reserved. © 2020 EGS Pillay College of Pharmacy

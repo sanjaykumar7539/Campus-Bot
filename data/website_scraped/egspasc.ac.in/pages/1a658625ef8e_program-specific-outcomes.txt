@@ -1,0 +1,39 @@
+URL: https://egspasc.ac.in/public/academics/departments/computer-science/program-specific-outcomes
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Computer Science
+Programme Specific Outcomes (PSOs)
+Programme Specific Outcomes
+##
+Programme Specific Outcome
+PSO1
+Apply Computer Science knowledge to identify, analyse problems and provide effective computing solutions.
+PSO2
+Develop skills to excel across government and private sectors in CS and its enabled services.
+PSO3
+Employ modern languages, tools, and applications for career success; create platforms for entrepreneurship.
+PSO4
+Instill ethical responsibility and professional values; contribute effectively to society.
+Quick Links
+About
+Department Highlights
+HoD`s Desk
+Faculty Details
+Research & Publications
+Student Achievements
+Curriculum & Syllabus
+Program Outcomes
+Program Educational Objectives
+Program Specific Outcomes
+Department Contact
+G. Renukadevi
+Head of the Department
+·
+PG & Research – Computer Science
+Phone
+Not available
+Mail
+hodcs@egspasc.org

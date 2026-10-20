@@ -1,0 +1,43 @@
+URL: https://egspasc.ac.in/academics/departments/computer-applications/program-outcomes
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Computer Applications
+Program Outcomes (POs)
+##
+Program Outcomes
+PO1
+Apply mathematics and computing fundamental and domain concepts to find out the solution of defined problems and requirements. (Computational Knowledge)
+PO2
+Use fundamental principle of Mathematics and Computing to identify, formulate research literature for solving complex problems, reaching appropriate solutions. (Problem Analysis)
+PO3
+Understand to design, analyze and develop solutions and evaluate system components or processes to meet specific need for local, regional and global public health, societal, cultural, and environmental systems. (Design/Development of Solutions)
+PO4
+Use expertise research-based knowledge and methods including skills for analysis and development of information to reach valid conclusions. (Conduct Investigations of Complex Computing Problems)
+PO5
+Exhibiting ethics for regulations, responsibilities and norms in professional computing practices. (Professional Ethics)
+PO6
+Enlighten knowledge to enhance understanding and building research, strategies in independent learning for continual development as computer applications professional. (Life-long Learning)
+PO7
+Gain confidence for self and continuous learning to improve knowledge and competence as a member or leader of a team. (Individual and Teamwork)
+Quick Links
+About
+Department Highlights
+Hod`s Desk
+Faculty Details
+Curriculum & Syllabus
+Research & Publications
+Placements
+Student Achievements
+Program Educational Objectives
+Program Specific Outcomes
+Department Contact
+Mr. T. Manivannan, MCA., M.Phil., SET., (Ph.D.)
+Head of Department
+·
+Phone
+Not available
+Mail
+hodbca@egspasc.org

@@ -1,0 +1,39 @@
+URL: https://egspasc.ac.in/public/academics/departments/microbiology/program-outcomes
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Microbiology
+Program Outcomes
+Program Outcomes (POs)
+##
+Outcome
+PO1
+Demonstrate a comprehensive understanding of microorganisms and their roles in various biological processes.
+PO2
+Apply laboratory techniques to isolate, identify, and characterize microorganisms.
+PO3
+Evaluate the impact of microorganisms on human health, environment, and industry.
+PO4
+Communicate scientific information effectively and ethically.
+PO5
+Engage in lifelong learning and stay updated with advancements in microbiology.
+Quick Links
+About
+Department Highlights
+Hod`s Desk
+Faculty Details
+Curriculum & Syllabus
+Research & Publications
+Student Achievements
+Program Educational Objectives
+Program Specific Outcomes
+Department Contact
+Microbiology HOD
+Head of Department
+·
+Phone
+Not available
+Mail
+microbiology@egspasc.ac.in

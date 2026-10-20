@@ -1,0 +1,56 @@
+URL: https://egspasc.ac.in/public/academics/departments/data-science/program-outcomes
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Science
+Data Science
+Program Outcomes
+Program Outcomes (POs)
+No.
+PO1
+Data Analysis
+: Apply knowledge of mathematics, science, and computing to analyze data and define requirements for computational processes.
+PO2
+Problem Solving
+: Design and implement data-driven solutions for complex real-world problems.
+PO3
+Tools & Techniques
+: Utilize modern statistical tools and software to interpret large datasets effectively.
+PO4
+Ethics & Society
+: Understand the ethical implications of data privacy and security in the professional context.
+PO5
+Communication
+: Communicate technical findings and insights effectively to diverse audiences.
+Career Opportunities
+Role
+Description
+Data Analyst
+Interpret data to provide business insights.
+Data Scientist
+Build predictive models and algorithms.
+Business Analyst
+Bridge the gap between IT and business using data.
+Big Data Engineer
+Manage and process large-scale data infrastructure.
+Quick Links
+About
+Department Highlights
+Hod`s Desk
+Faculty Details
+Research & Publications
+Student Achievements
+Program Educational Objectives
+Program Specific Outcomes
+Placements
+Curriculum & Syllabus
+Department Contact
+The Head of Department
+Head of Department
+·
+Phone
+Not available
+Mail
+hodds@egspasc.org

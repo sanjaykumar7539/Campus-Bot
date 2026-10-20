@@ -22,6 +22,9 @@ https://egspec.org/v1/portal/u/access/coe-downloads
 https://egspec.org/v1/portal/u/access/coe-regulations
 https://egspec.org/v1/portal/u/access/coe-result-links
 https://egspec.org/v1/portal/u/access/coe-syllabi
+https://egspec.org/v1/portal/u/access/curricula
+https://egspec.org/v1/portal/u/access/curricula/create
+https://egspec.org/v1/portal/u/access/curricula/{record}/edit
 https://egspec.org/v1/portal/u/access/departments
 https://egspec.org/v1/portal/u/access/departments/create
 https://egspec.org/v1/portal/u/access/departments/{record}/edit
@@ -476,8 +479,8 @@ Old Nagore Road, Thethi Village
 Nagapattinam - 611002
 Follow Us:
 On Campus
-32.2°C
-Partly Cloudy
+28.5°C
+Overcast
 Facebook
 LinkedIn
 Twitter

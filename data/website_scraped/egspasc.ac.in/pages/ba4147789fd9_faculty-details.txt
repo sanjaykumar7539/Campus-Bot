@@ -1,0 +1,51 @@
+URL: https://egspasc.ac.in/academics/departments/artificial-intelligence-and-machine-learning/faculty-details
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Science
+Artificial Intelligence & Machine Learning
+Faculty Details
+Faculty Members
+S.No
+Name
+Designation
+Qualification
+Profile
+1
+Mr. I. Manoj
+Head of the Department (HOD), Assistant Professor
+B.Sc., MCA, M.Phil.
+Download PDF
+2
+Mrs. P. Kaleeswari @ Sindhuja
+Assistant Professor
+MCA
+3
+Ms. B. Subasri
+B.Sc., MCA
+4
+Ms. H. Jasila Kani
+M.Sc.
+5
+Mrs. K. Yoga Priya
+Quick Links
+About
+Department Highlights
+Hod`s Desk
+Research & Publications
+Student Achievements
+Program Outcomes
+Program Educational Objectives
+Program Specific Outcomes
+Placements
+Curriculum & Syllabus
+Department Contact
+Mr.I.MANOJ
+Head of Department
+·
+Phone
+Not available
+Mail
+hodaiml@egspasc.org

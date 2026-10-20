@@ -25,7 +25,15 @@ def main():
     parser.add_argument('--data', type=Path, default=Path('training/online-college-qa'))
     parser.add_argument('--output', type=Path, default=Path('training/verification-20261013.json'))
     parser.add_argument('--split', choices=['validation', 'test'], default='validation')
+    parser.add_argument('--limit', type=int, default=0,
+                        help='Evaluate at most this many held-out rows (0 evaluates all)')
+    parser.add_argument('--one-per-college', action='store_true',
+                        help='Select one held-out row for each institution')
+    parser.add_argument('--max-new-tokens', type=int, default=256,
+                        help='Generation cap; keep long point-wise answers from being cut off')
     args = parser.parse_args()
+    if args.max_new_tokens < 1:
+        parser.error('--max-new-tokens must be positive')
     import torch
     from transformers import AutoModelForCausalLM, AutoTokenizer
     from peft import PeftModel
@@ -43,6 +51,15 @@ def main():
                 raise RuntimeError('Invalid adapter weights')
     train = [json.loads(line) for line in (args.data / 'train.jsonl').read_text(encoding='utf-8').splitlines()]
     validation = [json.loads(line) for line in (args.data / f'{args.split}.jsonl').read_text(encoding='utf-8').splitlines()]
+    if args.one_per_college:
+        selected = {}
+        for row in validation:
+            selected.setdefault(row.get('college', 'engineering'), row)
+        validation = list(selected.values())
+    if args.limit:
+        if args.limit < 1:
+            parser.error('--limit must be positive')
+        validation = validation[:args.limit]
     overlap = {row['fact_id'] for row in train} & {row['fact_id'] for row in validation}
     grounded = all('context' in row for row in train + validation)
     if overlap and not grounded:
@@ -62,7 +79,7 @@ def main():
             tokenize=False, add_generation_prompt=True)
         inputs = tokenizer(prompt, return_tensors='pt')
         with torch.inference_mode():
-            result = model.generate(**inputs, max_new_tokens=96, do_sample=False,
+            result = model.generate(**inputs, max_new_tokens=args.max_new_tokens, do_sample=False,
                 pad_token_id=tokenizer.eos_token_id)
         answer = tokenizer.decode(result[0][inputs['input_ids'].shape[1]:], skip_special_tokens=True)
         record = {'question': row['question'], 'expected': row['answer'], 'generated': answer,

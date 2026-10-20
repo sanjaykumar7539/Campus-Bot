@@ -1,0 +1,40 @@
+URL: https://egspasc.ac.in/academics/departments/physics/hod-desk
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Physics
+HoD`s Desk
+Mr. V. Senthil Murugan, M.Sc., M.Phil., (Ph.D.)
+Head of Department & Assistant Professor
+Department of Physics
+It is a pleasure to head the Department of Physics at E. G. S. Pillay Arts & Science
+College (Autonomous). The department offers B.Sc., M.Sc., and Ph.D. programmes and is
+supported by a team of highly experienced and motivated faculty members. Our students are
+well-prepared for global competition through hands-on exposure to current technologies.
+Students consistently secure top positions and are placed in leading companies such as
+Bright Star, Wipro, Accenture, TCS, Zealous Services, HCL, Tech Mahindra, IDBI, and HGS.
+We facilitate Personality Development, Communication classes, and preparation for
+competitive exams. Co-curricular and extra-curricular activities thrive at institute level
+with active participation in intra/inter-college events.
+Faculty and students also take initiatives for social causes through various clubs. Turning
+a student into a good citizen is the prime aim of the Department of Physics.
+Quick Links
+About
+Department Highlights
+Faculty Details
+Curriculum & Syllabus
+Research & Publications
+Placements
+Student Achievements
+Program Outcomes
+Program Educational Objectives
+Program Specific Outcomes
+Department Contact
+Head of Department
+·
+Phone
+Not available
+Mail
+hodphysics@egspasc.org

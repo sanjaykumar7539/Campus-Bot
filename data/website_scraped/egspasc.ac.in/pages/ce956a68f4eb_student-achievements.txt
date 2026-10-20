@@ -1,0 +1,28 @@
+URL: https://egspasc.ac.in/public/academics/departments/computer-science-with-cognitive-system/student-achievements
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Computer Science with Cognitive System
+Student Achievements
+Students Achievements
+/ Student Achievements Link Source
+Quick Links
+About
+Department Highlights
+HoD`s Desk
+Faculty Details
+Industry Collaboration (TCS)
+Curriculum & Syllabus
+Program Outcomes
+Program Educational Objectives
+Program Specific Outcomes
+Department Contact
+Mr. I. Manoj, M.C.A., M.Phil., B.Ed.
+Head of Department
+·
+Phone
+Not available
+Mail
+hodcscs@egspasc.org

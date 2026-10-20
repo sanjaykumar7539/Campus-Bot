@@ -1,0 +1,29 @@
+URL: https://egspasc.ac.in/academics/departments/biotechnology/student-achievements
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Biotechnology
+Student Achievements
+Student Achievements (Open)
+/ Source Link
+Quick Links
+About
+Department Highlights
+Hod`s Desk
+Faculty Details
+Curriculum & Syllabus
+Research & Publications
+Placements
+Program Outcomes
+Program Educational Objectives
+Program Specific Outcomes
+Department Contact
+Dr. R. Kadhar Nivas, M.Sc., M.Phil., Ph.D
+Head of Department
+·
+Phone
+Not available
+Mail
+hodbtegspasc@gmail.com

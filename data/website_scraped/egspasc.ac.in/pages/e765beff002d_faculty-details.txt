@@ -1,0 +1,60 @@
+URL: https://egspasc.ac.in/public/academics/departments/commerce/faculty-details
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Commerce
+Faculty Details
+Faculty Members
+S.No
+Name
+Designation
+Qualification
+Profile
+1
+Mrs. R. Vinodhani
+Head of the Department (HOD), Assistant Professor
+M.Com., M.Phil.
+Download PDF
+2
+Mrs. Y. Merline Helan
+Assistant Professor
+3
+Ms. I. Abinaya
+M.Com.
+4
+Mrs. V. Jegatheswari
+B.A, MBA, M.Phil.
+5
+Mrs. M. Nazrath Begam
+6
+Mrs. D. Vijayalakshmi
+7
+Ms. K. Saranya
+8
+Mr. V. Kesavan
+M.Com., MBA, M.Phil.
+9
+Mr. V. B.prabakaran
+10
+Ms. K. Mythili
+Quick Links
+About
+Department Highlights
+Hod`s Desk
+Research & Publications
+Academic Events
+Curriculum & Syllabus
+Student Achievements
+Placements
+Program Outcomes (POs)
+Department Contact
+Mrs. R. Vinodhani, M.Com., M.Phil.
+Head & Assistant Professor
+·
+Department of Commerce
+Phone
+Not available
+Mail
+hodcommerce@egspasc.org

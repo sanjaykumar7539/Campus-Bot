@@ -1,0 +1,17 @@
+URL: https://egspasc.ac.in/public/about/our-focus
+EXTRACTOR: requests+bs4
+
+Home
+About
+Our Focus
+At
+Edayathangudy G.S. Pillay Arts and Science College (EGSPASC)
+, our focus is on
+providing holistic education that blends academic excellence with ethical values and
+real-world skills. We are committed to empowering students through innovative teaching,
+research, and community engagement while nurturing leadership, creativity, and social
+responsibility.
+By fostering an inclusive learning environment and integrating technology with traditional
+learning, we ensure our graduates are well-equipped to thrive in their chosen careers and
+contribute meaningfully to society. Our focus remains on shaping confident, competent, and
+compassionate individuals who can excel both locally and globally.

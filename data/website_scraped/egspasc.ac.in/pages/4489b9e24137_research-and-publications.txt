@@ -1,0 +1,34 @@
+URL: https://egspasc.ac.in/academics/departments/mathematics/research-and-publications
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Mathematics
+Research & Publications
+S.No
+Title
+Author(s)
+Year
+Publication
+No research publications available at this time.
+Note: The list is updated periodically as new research papers and publications appear.
+Quick Links
+About
+Department Highlights
+Hod`s Desk
+Faculty Details
+Students Achievements
+Program Outcomes (POs)
+Program Educational Objectives (PEOs)
+Programme Specific Outcomes (PSOs)
+Curriculum & Syllabus
+Placements
+Department Contact
+Dr. R. Mekala, M.Sc., M.Phil., Ph.D.
+Head of Department
+·
+Phone
+Not available
+Mail
+hodmaths@egspasc.org

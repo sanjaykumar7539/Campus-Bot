@@ -1,0 +1,13 @@
+URL: https://egspasc.ac.in/public/admission/admission-procedure/phd
+EXTRACTOR: requests+bs4
+
+Home
+Admission
+Admission Procedure
+Ph.D
+Admission Procedure - Ph.D
+Ph.D Programmes
+Regulations for the Ph.D Programmes
+/ PDF File
+(For the candidates admitted from the Academic year 2026 - 2027 onwards)
+Note: The decision of the Management will be final in all matters relating to Admission, Discipline & Training and will be binding on all the parties concerned.

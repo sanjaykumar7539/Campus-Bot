@@ -38,6 +38,17 @@ def test_group_directory_is_only_requested_explicitly():
     assert len(RAGChain._retrieval_queries('all engineering college details')) == 2
 
 
+@pytest.mark.parametrize('query,expected', [
+    ('M Pharm branches', 'pharmacy'),
+    ('B.Pharm eligibility', 'pharmacy'),
+    ('Education college subject combinations', 'education'),
+    ('BNYS duration', 'naturopathy'),
+    ('Arts science departments', 'arts & science'),
+])
+def test_program_names_and_common_word_orders_preserve_college_scope(query, expected):
+    assert requested_colleges(query) == {expected}
+
+
 def test_foreign_college_cannot_reuse_engineering_verified_fact():
     assert lookup_verified_answer('When was the pharmacy college founded?', context_fact_id='established') is None
     assert lookup_verified_answer('Tell me nursing college NIRF rank') is None

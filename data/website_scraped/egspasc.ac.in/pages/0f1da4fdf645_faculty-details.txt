@@ -1,0 +1,45 @@
+URL: https://egspasc.ac.in/public/academics/departments/fashion-technology-and-costume-designing/faculty-details
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Fashion Technology & Costume Designing
+Faculty Details
+Faculty Members
+S.No
+Name
+Designation
+Qualification
+1
+Ms. M. Makthalin Meritta
+Head of the Department (HOD), Assistant Professor
+M.Sc.
+2
+Mrs. R. Keerthika
+Assistant Professor
+B.Sc., MBA
+3
+Mr. M. Udhayasankar
+4
+Ms. G. Narmatha
+B.Sc.
+Quick Links
+About
+Department Highlights
+Hod`s Desk
+Research & Publications
+Student Achievements
+Program Outcomes
+Program Educational Objectives
+Program Specific Outcomes
+Placements
+Curriculum & Syllabus
+Department Contact
+Ms. P. Devadharshini, M.Sc. Textile & Apparel Designing
+Assistant Professor & Head
+·
+Phone
+Not available
+Mail
+hodftcd@egspasc.org

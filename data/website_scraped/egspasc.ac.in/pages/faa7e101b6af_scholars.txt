@@ -1,0 +1,33 @@
+URL: https://egspasc.ac.in/research-and-development/scholars
+EXTRACTOR: requests+bs4
+
+Home
+Research
+Research Scholars
+Current Research Scholars
+S.No
+Name of the Scholar
+Register Number
+Department
+Supervisor
+Year of Registration
+Status (Full Time / Part Time)
+Data to be updated
+Quick Links
+Research & Development
+List of Guides
+Research Facilities
+Publications
+Patents
+Research Advisory Committee
+Research Ethics Committee
+Ph.D Awardees
+Department Contact
+The Research Coordinator
+Contact Research Cell
+·
+R&D Cell
+Phone
+Not available
+Mail
+research@egspasc.org

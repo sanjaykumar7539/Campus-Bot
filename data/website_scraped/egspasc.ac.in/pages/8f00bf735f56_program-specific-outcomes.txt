@@ -1,0 +1,60 @@
+URL: https://egspasc.ac.in/public/academics/departments/nutrition-and-dietetics/program-specific-outcomes
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Nutrition & Dietetics
+Programme Specific Outcomes (PSOs)
+B.Sc. Nutrition & Dietetics — PSOs
+##
+Programme Specific Outcome
+PSO1
+Demonstrate in-depth knowledge of human nutrition, food science, and dietetics to promote health and prevent disease.
+PSO2
+Design and implement therapeutic diets across clinical and community contexts.
+PSO3
+Use anthropometry, dietary surveys, biochemical and clinical assessments to evaluate nutrition status.
+PSO4
+Design balanced diets based on RDA/ICMR guidelines; apply food composition and processing knowledge.
+PSO5
+Plan/supervise food service operations (quality assurance, cost, menu, kitchen management, safety).
+PSO6
+Identify public-health nutrition problems and design interventions for vulnerable groups.
+PSO7
+Develop entrepreneurial skills for diet clinics, wellness centers, and product development units.
+PSO8
+Apply processing, preservation, and bakery techniques to extend product shelf life.
+M.Sc. Food Science & Nutrition — PSOs
+Advanced knowledge in food chemistry, microbiology, processing, and human nutrition; molecular nutrition and nutrigenomics.
+Conduct detailed assessments using biochemical, clinical, anthropometric, and dietary methods.
+Integrate clinical, community, and food science principles for therapeutic and public health goals.
+Tailor diets across age groups, physiological and pathological conditions.
+Plan and implement interventions for communicable and non-communicable diseases.
+Understand processing, preservation, and packaging; evaluate impacts on nutrients, shelf life, and safety.
+Establish and manage food industries, consultancies, clinics, and product units.
+Design and conduct ethical research using advanced lab and statistical tools.
+PSO9
+Formulate and evaluate functional foods and nutraceuticals for targeted outcomes.
+PSO10
+Demonstrate leadership and entrepreneurship for nutrition-related enterprises.
+Quick Links
+About
+Department Highlights
+Department Activities
+HoD's Desk
+Faculty Details
+Research & Publications
+Curriculum & Syllabus
+Student Achievements
+Program Outcomes
+Program Educational Objectives
+Program Specific Outcomes
+Department Contact
+S. Devi
+Head of the Department
+·
+Phone
+Not available
+Mail
+hodndfsn.egspasc.org@gmail.com

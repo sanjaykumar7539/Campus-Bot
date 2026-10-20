@@ -1,0 +1,34 @@
+URL: https://egspasc.ac.in/public/academics/departments/data-science/hod-desk
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Science
+Data Science
+HoD`s Desk
+Dr. M. Jayakanthan, M.Sc., M.Phil., Ph.D.
+Head of Department & Associate Professor
+Department of Data Science
+Welcome to the Department of Data Science. B.Sc Data Science is a fascinating full-time course that combines elements of Computer Science, Business Analytics, and Artificial Intelligence. This field is all about utilizing Statistics, Machine Learning, Big Data Analytics, and related tools to gain insights from real-world data.
+Our goal is to equip students with practical skills in areas like data mining, machine learning, big data analytics, and data visualization, preparing them for data-driven careers in a rapidly evolving technological landscape.
+Quick Links
+About
+Department Highlights
+Hod`s Desk
+Faculty Details
+Research & Publications
+Student Achievements
+Program Outcomes
+Program Educational Objectives
+Program Specific Outcomes
+Placements
+Curriculum & Syllabus
+Department Contact
+The Head of Department
+Head of Department
+·
+Phone
+Not available
+Mail
+hodds@egspasc.org

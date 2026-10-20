@@ -1,0 +1,46 @@
+URL: https://egspasc.ac.in/public/academics/departments/chemistry/faculty-details
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Chemistry
+Faculty Details
+Faculty Members
+S.No
+Name
+Designation
+Qualification
+1
+Mrs. S. Malathi
+Head of the Department (HOD), Assistant Professor
+M.Sc., M.Phil.
+2
+Mrs. P. Shanmugapriya
+Assistant Professor
+3
+Dr. M. Priyadharshan
+M.Sc., Ph.D
+4
+Dr. A. Nepolraj
+5
+Ms. E. Karpagam
+M.Sc.
+Quick Links
+About
+Department Highlights
+HoD's Desk
+Research & Publications
+Curriculum & Syllabus
+Student Achievements
+Program Outcomes
+Program Educational Objectives
+Program Specific Outcomes
+Department Contact
+Head of the Department
+·
+Department of Chemistry
+Phone
+Not available
+Mail
+chemistry@egspasc.ac.in

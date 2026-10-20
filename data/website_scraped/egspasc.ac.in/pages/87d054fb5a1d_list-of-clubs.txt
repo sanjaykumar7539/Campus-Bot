@@ -1,0 +1,115 @@
+URL: https://egspasc.ac.in/public/clubs/list-of-clubs
+EXTRACTOR: requests+bs4
+
+Home
+Services
+Clubs
+List of Clubs
+List of Clubs and Cells
+E.G.S. Pillay Arts and Science College (Autonomous) maintains a comprehensive spectrum of student clubs, statutory committees, and specialized cells dedicated to academic enrichment, student welfare, social outreach, environmental consciousness, and professional empowerment.
+Registered Clubs, Cells & Committees
+S.No
+Name of the Club / Cell
+Key Focus & Objectives
+1
+Phoenix Women Cell
+Empowering female students and staff through self-defense training, health awareness, gender equality seminars, and leadership workshops.
+2
+Youth Red Cross (YRC)
+Promoting humanitarian values, organizing voluntary blood donation camps, first aid training, and emergency disaster relief services.
+3
+R&D (Research & Development)
+Cultivating a research culture, supporting student project innovations, faculty research publications, patents, and academic conferences.
+4
+Alumni Association
+Building strong lifelong connections between graduates and the alma mater to provide mentorship, networking, and institutional support.
+5
+Exnora
+Promoting environmental cleanliness, civic consciousness, tree plantation campaigns, and community hygiene initiatives.
+6
+Red Ribbon Club (RRC)
+Creating health awareness, educating youth on disease prevention, voluntary blood donation, and healthy lifestyle practices.
+7
+TNSF Science Forum
+Popularizing science education, conducting hands-on scientific demonstrations, sky watching, science exhibitions, and competitive quizzes.
+8
+Fine Arts Club
+Nurturing creative talents in classical and folk dance, vocal and instrumental music, theatrical arts, painting, and cultural festivals.
+9
+Citizen Consumer Club
+Spreading awareness about consumer rights, product safety, fair trade practices, and consumer protection laws among students.
+10
+Ethics Club
+Fostering moral integrity, professional ethics, universal human values, and social harmony across the campus community.
+11
+Staff Club
+Enhancing faculty camaraderie, organizing welfare programs, professional development seminars, and recreational activities for staff.
+12
+ECO Club
+Advancing green campus initiatives, organic gardening, energy conservation, rainwater harvesting, and waste reduction programs.
+13
+EDC (Entrepreneurship Development Cell)
+Igniting entrepreneurial spirit, offering startup incubation guidance, business ideation sessions, and industry mentorship.
+14
+T&P (Training & Placement Cell)
+Conducting aptitude training, soft skills development, mock interviews, and campus recruitment drives with leading companies.
+15
+Higher Education Cell
+Guiding aspiring students towards postgraduate programs, national entrance examinations, research fellowships, and overseas education.
+16
+Rotaract Club
+Developing youth leadership, professional skills, community service projects, and international fellowship opportunities.
+17
+Centre of Mind
+Providing student counselling, mental wellness support, stress management workshops, mindfulness sessions, and personal development.
+18
+Anti Ragging Committee
+Enforcing zero-tolerance policy towards ragging, conducting awareness campaigns, and ensuring a safe, supportive campus environment.
+19
+Junior Chambers (JC)
+Fostering young leadership potential, civic responsibility, social entrepreneurship, and public speaking proficiency.
+20
+Media & Magazine Committee
+Documenting institutional milestones, publishing annual college magazines, newsletters, and managing campus media coverage.
+21
+Dress Code Monitoring Cell
+Ensuring adherence to institutional decorum, professional attire guidelines, and student discipline across departments.
+22
+Admission Cell
+Facilitating seamless student admissions, counselling prospective candidates, verifying eligibility, and processing documentation.
+23
+ICT Academy
+Bridging the industry-academia gap through specialized technical training, industry certifications, and digital skill enhancement.
+24
+Narcotics Prevention Committee
+Educating students against substance abuse, organizing anti-drug rallies, pledge ceremonies, and ensuring a drug-free campus.
+25
+Parcotics Prevention Committee
+Supporting safety enforcement, vigilance monitoring, student awareness, and preventive health orientation programs.
+26
+NSS (National Service Scheme)
+Engaging youth in community service, rural development camps, literacy promotion, health drives, and national integration activities.
+27
+Sports Club
+Promoting physical fitness, training university teams, organizing annual sports meets, and participating in national tournaments.
+28
+Food & Health Awareness Cell
+Promoting nutritional hygiene, dietary wellness, clean eating habits, cafeteria quality checks, and healthy lifestyle awareness.
+29
+Scholarship Cell
+Disseminating information on government, institutional, and private scholarships to assist deserving and economically challenged students.
+30
+Students Grievance & Redressal Cell
+Providing a transparent, prompt, and confidential mechanism for addressing and resolving academic and non-academic student concerns.
+Quick Links
+About Clubs
+Committee Head and Members
+Department Contact
+Student Affairs & Clubs Coordinator
+Contact Clubs Office
+·
+Student Affairs Cell
+Phone
+Not available
+Mail
+clubs@egspasc.org

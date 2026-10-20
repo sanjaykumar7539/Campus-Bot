@@ -1,0 +1,34 @@
+URL: https://egspasc.ac.in/academics/departments/chemistry/research-and-publications
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Chemistry
+Research & Publications
+S.No
+Title
+Author(s)
+Year
+Publication
+No research publications available at this time.
+Note: The list is updated periodically as new research papers and publications appear.
+Quick Links
+About
+Department Highlights
+HoD's Desk
+Faculty Details
+Curriculum & Syllabus
+Student Achievements
+Program Outcomes
+Program Educational Objectives
+Program Specific Outcomes
+Department Contact
+Mrs. S. Malathi
+Head of the Department
+·
+Department of Chemistry
+Phone
+Not available
+Mail
+chemistry@egspasc.ac.in

@@ -1,0 +1,76 @@
+URL: https://egspasc.ac.in/academics/departments/biotechnology/faculty-details
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Biotechnology
+Faculty Details
+Faculty Directory
+S.No
+Name
+Designation
+Qualification
+Profile
+1
+Dr. A. Mohamed Ismail
+Principal
+M.Sc., Ph.D
+Download PDF
+2
+Dr. R. Kadhar Nivas
+Head of the Department (HOD), Assistant Professor
+M.Sc., M.Phil., Ph.D
+—
+3
+Dr. K. Balasundaram
+Assistant Professor
+4
+Dr. R. Sadeesh Kumar
+5
+Mr. T. Venkatesh
+M.Sc., M.Phil.
+6
+Ms. R. Sujitha
+M.Sc.
+7
+Mrs. S. Anitha
+8
+Ms. P. Malini
+9
+Ms. R. Priyadharshini
+10
+Ms. M. Vasantha
+11
+Mrs. M. Nagalakshmi
+12
+Dr. A. Theerthu
+13
+Dr. V. Moorthy
+14
+Ms. S. Rithisha
+15
+Dr. D. Elamparithi
+16
+Dr. N. Sivakumar
+17
+Ms. S. Suvetha
+Quick Links
+About
+Department Highlights
+Hod`s Desk
+Curriculum & Syllabus
+Research & Publications
+Placements
+Student Achievements
+Program Outcomes
+Program Educational Objectives
+Program Specific Outcomes
+Department Contact
+Dr. R. Kadhar Nivas, M.Sc., M.Phil., Ph.D
+Head of Department
+·
+Phone
+Not available
+Mail
+hodbtegspasc@gmail.com

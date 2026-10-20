@@ -1,0 +1,39 @@
+URL: https://egspasc.ac.in/academics/departments/artificial-intelligence-and-machine-learning/program-specific-outcomes
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Science
+Artificial Intelligence & Machine Learning
+Program Specific Outcomes
+Program Specific Outcomes (PSOs)
+No.
+PSO1
+Intelligent Systems:
+Analyze, design, and implement intelligent systems using principles of Artificial Intelligence and Machine Learning to address complex problems.
+PSO2
+Data Analysis:
+Apply mathematical and statistical techniques to analyze datasets and derive meaningful insights for decision-making.
+PSO3
+Application Development:
+Develop robust AI-driven applications using modern tools and technologies for various domains such as healthcare, finance, and robotics.
+Quick Links
+About
+Department Highlights
+Hod`s Desk
+Faculty Details
+Research & Publications
+Student Achievements
+Program Outcomes
+Program Educational Objectives
+Placements
+Curriculum & Syllabus
+Department Contact
+Mr.I.MANOJ
+Head of Department
+·
+Phone
+Not available
+Mail
+hodaiml@egspasc.org

@@ -1,0 +1,9 @@
+URL: https://egspasc.ac.in/public/gallery
+EXTRACTOR: requests+bs4
+
+Home
+Gallery
+Our Gallery
+1 Images
+egspasc
+View Album

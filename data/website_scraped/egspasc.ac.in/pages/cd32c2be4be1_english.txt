@@ -1,0 +1,33 @@
+URL: https://egspasc.ac.in/public/academics/departments/english
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+English
+Department of English
+About the Department of English
+The Department of English fosters strong communication, critical thinking, and literary analysis skills through a comprehensive curriculum.
+It encourages creativity, cultural awareness, and academic excellence through seminars, workshops, and innovative learning methods.
+Students are trained in research, language proficiency, and soft skills needed for global careers.
+The department is committed to shaping confident graduates ready for diverse professional fields.
+Objectives of the Department
+To develop strong linguistic and literary competence.
+To promote critical and creative thinking through diverse literary texts.
+To equip students with communication and interpersonal skills for modern workplaces.
+To prepare students for competitive exams, research, and professional careers.
+Quick Links
+Department Highlights
+HOD’s Desk
+Faculty Details
+Student Achievements
+Placements
+Curriculum & Syllabus
+Program Outcomes (POs)
+Department Contact
+·
+Arts & Science
+Phone
+Not available
+Mail
+english@egspasc.ac.in

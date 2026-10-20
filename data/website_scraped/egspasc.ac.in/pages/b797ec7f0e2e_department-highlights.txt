@@ -1,0 +1,46 @@
+URL: https://egspasc.ac.in/academics/departments/information-technology/department-highlights
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Information Technology (IT)
+Department Highlights
+Highlights
+Autonomous system & Outcome-based Education aligned to industry needs.
+Consistent placement record of ~80%.
+30:1 student-faculty ratio; faculty-student mentoring & peer mentoring.
+Experienced and industry-trained faculty members.
+Regular recruiters: TCS, Wipro, Cognizant, Wahimi, DesiCrew, Ampisoft, Vinsinfo, PreludeSys, Literact Fintech, Corizo, 1Point1.
+Industry tie-up & industry-supported labs – Wahimi Softwares and Solutions Pvt. Ltd.
+Internships and industrial visits.
+High student participation in extra-/co-curricular activities.
+In-house training for placements, higher studies, competitive exams, and life-skills.
+Online and self-learning practices.
+Student Clubs; Association:
+Wizard Association
+.
+Active Alumni Association.
+ICT-enabled classrooms and laboratories.
+Support for publications, conferences, and consultancy.
+Grievance Redressal, Mentor–Mentee scheme, Women Empowerment Cell for student development.
+Quick Links
+About
+Hod`s Desk
+Faculty Details
+Curriculum & Syllabus
+Research & Publications
+Placements
+Student Achievements
+Program Outcomes
+Program Educational Objectives
+Program Specific Outcomes
+Department Contact
+Mrs.P.HELAN CHANDRA
+Assistant Professor & Head
+·
+Information Technology
+Phone
+Not available
+Mail
+hodit@egspasc.org

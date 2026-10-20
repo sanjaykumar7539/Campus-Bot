@@ -1,0 +1,59 @@
+URL: https://egspasc.ac.in/academics/departments/computer-science-with-cognitive-system/industry-collaboration
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Computer Science with Cognitive System
+Industry Collaboration (TCS)
+TCS & Department Collaboration
+The Department of Computer Science with Cognitive System collaborates with Tata Consultancy Services (TCS),
+a global leader in IT services, consulting, and business solutions. This partnership bridges academic learning
+with industry expectations, equipping students with the latest technological skills and practical knowledge.
+#
+Key Highlights
+1
+Curriculum Enhancement:
+Inputs on AI, cognitive computing, and ML for industry-aligned education.
+2
+Guest Lectures & Expert Sessions:
+Regular talks/workshops on real-world cognitive applications.
+3
+Internships & Placements:
+Hands-on exposure to live projects; PPO opportunities.
+4
+Capstone & Live Projects:
+Final-year projects on AI/cognitive use-cases sponsored/mentored by TCS.
+5
+Faculty Development:
+Training on tools, platforms, and frameworks in cognitive computing.
+6
+TCS iON Certifications:
+Access to learning modules and certifications in cognitive technologies.
+Impact on Students
+Improved industry readiness and job placements.
+Exposure to enterprise-scale Cognitive Systems.
+Collaborative research and innovation opportunities.
+Enhanced soft skills and project management abilities.
+Future Initiatives
+Joint research in human-centric AI and ethical Cognitive Systems.
+TCS Center of Excellence (CoE) for AI & Cognitive Computing on campus.
+Annual hackathons and ideathons with TCS mentors.
+Quick Links
+About
+Department Highlights
+HoD`s Desk
+Faculty Details
+Curriculum & Syllabus
+Student Achievements
+Program Outcomes
+Program Educational Objectives
+Program Specific Outcomes
+Department Contact
+Mr. I. Manoj, M.C.A., M.Phil., B.Ed.
+Head of Department
+·
+Phone
+Not available
+Mail
+hodcscs@egspasc.org

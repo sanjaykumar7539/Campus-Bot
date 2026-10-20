@@ -1,0 +1,26 @@
+{
+  "total": 660,
+  "splits": {
+    "train": 542,
+    "validation": 67,
+    "test": 51
+  },
+  "institutions": {
+    "arts & science": 49,
+    "engineering": 427,
+    "nursing": 34,
+    "polytechnic": 66,
+    "education": 18,
+    "school": 14,
+    "pharmacy": 34,
+    "naturopathy": 18
+  },
+  "language_styles": {
+    "english": 267,
+    "english-typo": 237,
+    "tanglish-typo": 78,
+    "tanglish": 78
+  },
+  "verified_fact_ids": 41,
+  "answer_policy": "Answers copied from official-source verified facts; no synthetic claims."
+}

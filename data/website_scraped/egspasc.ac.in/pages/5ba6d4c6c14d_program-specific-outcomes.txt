@@ -1,0 +1,33 @@
+URL: https://egspasc.ac.in/academics/departments/microbiology/program-specific-outcomes
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Microbiology
+Program Specific Outcomes
+Program Specific Outcomes (PSOs)
+##
+Outcome
+PSO1
+Identify and solve problems related to microbial contamination in food and pharmaceutical industries.
+PSO2
+Apply molecular biology tools for microbial genetic analysis and engineering.
+Quick Links
+About
+Department Highlights
+Hod`s Desk
+Faculty Details
+Curriculum & Syllabus
+Research & Publications
+Student Achievements
+Program Outcomes
+Program Educational Objectives
+Department Contact
+Microbiology HOD
+Head of Department
+·
+Phone
+Not available
+Mail
+microbiology@egspasc.ac.in

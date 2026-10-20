@@ -1,0 +1,40 @@
+URL: https://egspasc.ac.in/public/academics/departments/microbiology/faculty-details
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Microbiology
+Faculty Details
+Faculty Members
+S.No
+Name
+Designation
+Qualification
+1
+Dr. A. Chanthuru
+Assistant Professor
+M.Sc., M.Phil., Ph.D
+2
+Dr. C. Vinothini
+3
+Ms. P. Dhanalakshmi
+M.Sc.
+Quick Links
+About
+Department Highlights
+Hod`s Desk
+Curriculum & Syllabus
+Research & Publications
+Student Achievements
+Program Outcomes
+Program Educational Objectives
+Program Specific Outcomes
+Department Contact
+Microbiology HOD
+Head of Department
+·
+Phone
+Not available
+Mail
+microbiology@egspasc.ac.in

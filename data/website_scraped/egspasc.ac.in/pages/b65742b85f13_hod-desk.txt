@@ -1,0 +1,40 @@
+URL: https://egspasc.ac.in/academics/departments/computer-science-with-cognitive-system/hod-desk
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Computer Science with Cognitive System
+HoD`s Desk
+Mr. I. Manoj, M.C.A., M.Phil., B.Ed.
+Head & Assistant Professor
+Department of Computer Science with Cognitive System
+Welcome to the Department of Computer Science with Cognitive System. In a world increasingly
+driven by intelligent technology, our department stands at the intersection of traditional computing
+and human-centered artificial intelligence. Our mission is to empower students with the knowledge
+and skills required to design, develop, and deploy systems that not only compute but also
+understand, learn, and reason.
+The program integrates core computing disciplines with cognitive science, enabling exploration of
+machine learning, natural language processing, cognitive modeling, and intelligent systems design.
+Our passionate faculty bring cutting-edge insights from academia and industry into the classroom.
+The curriculum blends theory with practice through projects, research, and industry collaboration.
+Whether developing AI-powered tools, conducting interdisciplinary research, or innovating user-centric
+technologies, our students are prepared for a rapidly evolving digital world. We look forward to
+nurturing innovators, thinkers, and leaders who will shape the future of intelligent systems.
+Quick Links
+About
+Department Highlights
+Faculty Details
+Industry Collaboration (TCS)
+Curriculum & Syllabus
+Student Achievements
+Program Outcomes
+Program Educational Objectives
+Program Specific Outcomes
+Department Contact
+Head of Department
+·
+Phone
+Not available
+Mail
+hodcscs@egspasc.org

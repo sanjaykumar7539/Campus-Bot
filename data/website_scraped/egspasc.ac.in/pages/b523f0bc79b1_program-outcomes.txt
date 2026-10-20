@@ -1,0 +1,47 @@
+URL: https://egspasc.ac.in/academics/departments/biochemistry/program-outcomes
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Biochemistry
+Program Outcomes (POs)
+B.Sc. Biochemistry — Program Outcomes
+Biochemistry offers diverse career outcomes in sectors like pharmaceuticals, clinical research, and academia. Salaries in India vary significantly based on education, experience, industry, and location.
+Career Outcomes and Job Roles
+A biochemistry degree provides strong analytical and technical skills applicable across various industries. Common career paths include:
+Job Role
+Description
+Research Scientist
+Conducting experiments and research in private labs, government agencies, or academic institutions.
+Clinical Biochemist
+Working in hospital or private laboratories to analyze patient samples and aid in disease diagnosis and monitoring.
+Pharmacologist
+Researching and developing new drugs and studying their effects on living organisms.
+Biotechnology Specialist/Engineer
+Applying knowledge of living organisms to create new products, often in pharmaceutical or manufacturing settings.
+Forensic Scientist
+Collecting and analyzing evidence from crime scenes using biochemical techniques for legal proceedings.
+Science Writer/Consultant
+Applying scientific knowledge to advise organizations or communicate complex research findings to a broader audience.
+Professor/Educator
+Teaching biochemistry and related subjects at universities and colleges, often involving independent research.
+Quick Links
+About
+Department Highlights
+HoD's Desk
+Faculty Details
+Research & Publications
+Curriculum & Syllabus
+Student Achievements
+Program Outcomes
+Program Educational Objectives
+Program Specific Outcomes
+Department Contact
+K. Uma
+Head of the Department
+·
+Phone
+Not available
+Mail
+amirthap23@gmail.com

@@ -1,0 +1,41 @@
+URL: https://egspasc.ac.in/public/academics/departments/physics
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Physics
+Department of Physics
+About the Department
+Physics is the scientific study of matter and energy, investigating how the fundamental constituents of the universe interact and behave. It seeks to understand the physical world from the smallest subatomic particles to the entire universe, focusing on concepts like motion, forces, energy, and space-time. Physics is considered a fundamental science, as its principles are the foundation for many other scientific disciplines and technological advancements.
+Vision
+To impart Physics knowledge to rural and semi-urban students so they become
+educated individuals equipped for life, capable of contributing to the scientific
+and technological development of society.
+Mission
+To nurture enthusiasm, strong interest, and passion towards learning Physics.
+To train students in both theoretical and experimental Physics to develop
+critical thinking, logical reasoning, and application skills.
+To improve programme quality through excellence in teaching–learning techniques.
+To prepare graduates who are skilled to meet the needs and challenges of a dynamic society.
+To promote current scientific knowledge and achievements through active research involvement.
+Quick Links
+About
+Department Highlights
+HoD`s Desk
+Faculty Details
+Curriculum & Syllabus
+Research & Publications
+Placements
+Student Achievements
+Program Outcomes
+Program Educational Objectives
+Program Specific Outcomes
+Department Contact
+Mr. V. Senthil Murugan, M.Sc., M.Phil., (Ph.D.)
+Head of Department
+·
+Phone
+Not available
+Mail
+hodphysics@egspasc.org

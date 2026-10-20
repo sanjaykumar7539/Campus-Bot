@@ -1,0 +1,43 @@
+URL: https://egspasc.ac.in/public/academics/departments/chemistry/department-highlights
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Chemistry
+Department Highlights
+Highlights — Department of Chemistry
+Academic Programs:
+UG, PG, and M.Phil. in Chemistry.
+Well-Equipped Laboratories:
+Advanced facilities supporting teaching and research.
+Research Culture:
+Student projects, faculty publications, and conference presentations.
+Signature Events:
+National Science Day activities, Special Lectures, “Lavoisier Chem Fest”.
+Capacity Building:
+Workshops, seminars, hands-on trainings, industrial visits.
+Outreach & Collaboration:
+Community programs and industry linkages for socially relevant education.
+Holistic Development:
+Soft skills & life skills integrated with ethics and social responsibility.
+Talk to our advisors to tailor your pathway based on career goals (academia, industry, or research).
+Quick Links
+About
+HoD's Desk
+Faculty Details
+Research & Publications
+Curriculum & Syllabus
+Student Achievements
+Program Outcomes
+Program Educational Objectives
+Program Specific Outcomes
+Department Contact
+Mrs. S. Malathi
+Head of the Department
+·
+Department of Chemistry
+Phone
+Not available
+Mail
+chemistry@egspasc.ac.in

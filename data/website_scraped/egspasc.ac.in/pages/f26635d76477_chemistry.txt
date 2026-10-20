@@ -1,0 +1,39 @@
+URL: https://egspasc.ac.in/academics/departments/chemistry
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Chemistry
+Department of Chemistry
+About the Department
+The Department of Chemistry was established in 2012 with the introduction of the B.Sc. Chemistry (UG) programme. Due to continuous growth, excellent academic performance, and increasing student demand, the department expanded to offer the M.Sc. Chemistry (PG) programme in 2015.
+The department is committed to providing a strong foundation in chemical principles, practical laboratory skills, and research exposure. With well-equipped laboratories, experienced faculty members, and a student-centric learning environment, the department prepares students for higher studies, research careers, and various industrial opportunities.
+Vision
+Our department pledges itself to encourage, in the broadest and most liberal manner,
+the advancement of science—particularly Chemistry in all its branches—through education,
+research, and service opportunities.
+Mission
+Encourage and motivate students and faculty to utilise facilities for innovative, socially relevant outcomes.
+Strengthen academic practices in curriculum, faculty development, and competence building.
+Enhance both basic and applied research frameworks in the department.
+Increase enrolment and build partnerships with industry to achieve departmental goals.
+Quick Links
+About
+Department Highlights
+HoD's Desk
+Faculty Details
+Research & Publications
+Curriculum & Syllabus
+Student Achievements
+Program Outcomes
+Program Educational Objectives
+Program Specific Outcomes
+Department Contact
+Mrs. S. Malathi
+Head of the Department
+·
+Phone
+Not available
+Mail
+chemistry@egspasc.ac.in

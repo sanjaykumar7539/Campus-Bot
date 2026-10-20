@@ -1,0 +1,37 @@
+URL: https://egspasc.ac.in/public/academics/departments/commerce-computer-application/hod-desk
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+B.Com – Computer Applications
+HoD`s Desk
+Mrs. A. Helen Selvakumari, M.Com., M.Phil., B.Ed.
+Head & Assistant Professor
+Department of Commerce (CA)
+Welcome to the Department of B.Com – Computer Applications. Our programme integrates
+core commerce with hands-on computer application skills to prepare graduates who can
+analyse, design and digitalise business processes with responsibility and impact.
+Students gain strong conceptual knowledge in accounting, finance, law and markets,
+alongside practical exposure to programming, databases, ERP and MIS through projects,
+internships and industry collaborations.
+We strive to nurture ethical professionals, entrepreneurs and researchers who contribute
+to business, economy and society.
+Quick Links
+About
+Department Highlights
+Faculty Details
+Curriculum & Syllabus
+Student Achievements
+Research & Publications
+Program Outcomes
+Program Educational Objectives
+Program Specific Outcomes
+Department Contact
+Mrs. A. Helen Selvakumari, M. COM., M. PHIL., B ED
+Head of Department
+·
+Phone
+Not available
+Mail
+hodbcomca@egspasc.org

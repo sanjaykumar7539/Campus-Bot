@@ -1,0 +1,44 @@
+URL: https://egspasc.ac.in/academics/departments/commerce-computer-application/program-specific-outcomes
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+B.Com – Computer Applications
+Programme Specific Outcomes (PSOs)
+##
+Programme Specific Outcomes
+PSO1
+Placement:
+Work effectively in business/IT-enabled roles with respectful engagement and diverse perspectives.
+PSO2
+Entrepreneur:
+Create ventures using critical thinking, problem-solving and leadership skills.
+PSO3
+Research & Development:
+Design HR/Business systems grounded in research and legal compliance.
+PSO4
+Business Contribution:
+Become employable, ethical and innovative professionals for the dynamic business world.
+PSO5
+Societal Contribution:
+Collaborate with stakeholders for community development and mutual benefit.
+Quick Links
+About
+Department Highlights
+HoD`s Desk
+Faculty Details
+Curriculum & Syllabus
+Student Achievements
+Research & Publications
+Program Outcomes
+Program Educational Objectives
+Program Specific Outcomes
+Department Contact
+Mrs. A. Helen Selvakumari, M. COM., M. PHIL., B ED
+Head of Department
+·
+Phone
+Not available
+Mail
+hodbcomca@egspasc.org

@@ -1,0 +1,34 @@
+URL: https://egspasc.ac.in/academics/departments/physics/department-highlights
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Physics
+Department Highlights
+Highlights
+UG (B.Sc.), PG (M.Sc.), M.Phil. (2013), and Ph.D. (2020) programmes.
+Well-equipped laboratories with sophisticated instruments for core/practical courses.
+Active research in Crystal Growth, Nanomaterials, NLO, Solid-State & Optoelectronic Materials, Multiferroics, Biomaterials.
+Consistent admissions and strong student participation in research, workshops, and seminars.
+Industry and research exposure through talks, FDPs, seminars, and collaborations.
+Career readiness via PDP, communication classes, and competitive exam coaching.
+Quick Links
+About
+HoD`s Desk
+Faculty Details
+Curriculum & Syllabus
+Research & Publications
+Placements
+Student Achievements
+Program Outcomes
+Program Educational Objectives
+Program Specific Outcomes
+Department Contact
+Mr. V. Senthil Murugan, M.Sc., M.Phil., (Ph.D.)
+Head of Department
+·
+Phone
+Not available
+Mail
+hodphysics@egspasc.org

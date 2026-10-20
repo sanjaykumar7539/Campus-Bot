@@ -1,0 +1,35 @@
+URL: https://egspasc.ac.in/academics/departments/data-science
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Science
+Data Science
+Department of Data Science
+Bachelor of Science (B.Sc) in Data Science is an undergraduate program that provides a foundation in mathematics, statistics, and computer science to analyze and interpret complex data. It equips students with practical skills in areas like data mining, machine learning, big data analytics, and data visualization, preparing them for data-driven careers.
+Course Offered
+B.Sc Data Science
+This undergraduate program provides foundation knowledge in the fields and prepares students for future careers.
+Eligibility
+A pass in +2, Compulsory Mathematics with/without Computer Science.
+Quick Links
+About
+Department Highlights
+Hod`s Desk
+Faculty Details
+Research & Publications
+Student Achievements
+Program Outcomes
+Program Educational Objectives
+Program Specific Outcomes
+Placements
+Curriculum & Syllabus
+Department Contact
+The Head of Department
+Head of Department
+·
+Phone
+Not available
+Mail
+hodds@egspasc.org

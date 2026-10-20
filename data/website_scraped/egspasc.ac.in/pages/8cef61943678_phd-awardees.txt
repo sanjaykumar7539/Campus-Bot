@@ -1,0 +1,32 @@
+URL: https://egspasc.ac.in/research-and-development/phd-awardees
+EXTRACTOR: requests+bs4
+
+Home
+Research
+Ph.D Awardees
+List of Ph.D. Awardees
+The following scholars have been awarded Ph.D. from our research cell.
+S.No
+Name of the Scholar
+Department
+Supervisor Name
+Year of Award
+Data to be updated
+Quick Links
+Research & Development
+List of Guides
+Research Facilities
+Publications
+Patents
+Research Scholars
+Research Advisory Committee
+Research Ethics Committee
+Department Contact
+The Research Coordinator
+Contact Research Cell
+·
+R&D Cell
+Phone
+Not available
+Mail
+research@egspasc.org

@@ -1,0 +1,30 @@
+URL: https://egspasc.ac.in/public/research-and-development
+EXTRACTOR: requests+bs4
+
+Home
+Research
+Research & Development
+Research and Development (R&D)
+The Research and Development (R&D) of EGS Pillay Arts and Science College (Autonomous), Grade "A" by NAAC is one of the endeavors to promote the quality of education and research among the faculty members and students. The College has a Research Committee to nurture research culture by promoting research in newly emerging and challenging frontier areas of Science and arts and to create awareness and opportunities in Research & Development among the faculties and Students. It enables an amiable atmosphere for scientific development and monitors the research activities of the college. The R&D Cell aims to achieve the Vision and Mission of the college and develop a scientific temper. The publication statistics, citations and obtaining patents are priorities of the cell. It undertakes various initiatives such as promoting faculty members for writing proposals to government and agencies for projects, conducting skill development programs for students based on innovation and building inter-disciplinary research activities.
+Vision
+To be the leading research-intensive institute in the development and advancement of national and international research and technology initiatives. To be leaders in the creation of a research environment for the advancement of socially relevant research that dominates the human race stage.
+Mission
+To enable excellence in research and innovation by providing infrastructure and training that promotes creativity and entrepreneurship and fostering a diverse and inclusive work environment. To ensure the optimal and effective use of intellectual, financial and physical resources to foster an environment of research excellence.
+Quick Links
+List of Guides
+Research Facilities
+Publications
+Patents
+Research Scholars
+Research Advisory Committee
+Research Ethics Committee
+Ph.D Awardees
+Department Contact
+The Research Coordinator
+Contact Research Cell
+·
+R&D Cell
+Phone
+Not available
+Mail
+research@egspasc.org

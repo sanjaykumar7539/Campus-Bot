@@ -1,0 +1,13 @@
+URL: https://www.egsppharma.org/index.php?data=faculty
+EXTRACTOR: requests+bs4
+
+×
+Online Application for admission
+Register yourself before login
+Student Login
+Register for Login
+Admin
+Prof.Dr.D.Babu Ananth, M.Pharm., Ph.D., Principal cum Professor
+Prof.Dr.M.Murugan, M.Pharm., Ph.D., Director cum Professor
+Prof.Dr.K.Shahul Hameed Maraicar, M.Pharm., Ph.D., Director cum Professor
+All Rights Reserved. © 2020 EGS Pillay College of Pharmacy

@@ -1,0 +1,39 @@
+URL: https://egspasc.ac.in/public/academics/departments/commerce-computer-application
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+B.Com – Computer Applications
+Department of B.Com – Computer Applications
+About the Department
+Commerce - Computer Application is defined as the buying and selling of goods or services, especially on a large scale. Commerce includes all those activities, which directly or indirectly facilitate the distribution aspect of the goods or services included in trade or business. Bachelor of Commerce or B.Com with Computer Application is a graduate program in commerce with a span of three years of study. This six semester program teaches different aspects of commerce with special consideration to Computer Application. Computer applications are application software which is a set of instructions or code written in a program for executing a task or an operation in a computer. This course helps students to acquire knowledge in commerce subjects along with awareness in computer applications subjects like computer programming, information technology, Business economics, computer accounting etc.
+Vision
+To develop competent commerce graduates with contemporary computer
+application skills, ethical values and an entrepreneurial mindset to
+contribute to business and society.
+Mission
+Impart strong theoretical foundations in commerce, accountancy and management.
+Provide practical exposure to computer applications: programming, databases, ERP and MIS.
+Foster critical thinking, research aptitude, problem-solving and entrepreneurial skills.
+Build industry linkages for internships, projects and placements.
+Instill professional ethics, social responsibility and lifelong learning.
+Quick Links
+About
+Department Highlights
+HoD`s Desk
+Faculty Details
+Curriculum & Syllabus
+Student Achievements
+Research & Publications
+Program Outcomes
+Program Educational Objectives
+Program Specific Outcomes
+Department Contact
+Mrs. A. Helen Selvakumari, M. COM., M. PHIL., B ED
+Head of Department
+·
+Phone
+Not available
+Mail
+hodbcomca@egspasc.org

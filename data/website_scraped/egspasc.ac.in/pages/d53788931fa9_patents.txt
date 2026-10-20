@@ -1,0 +1,32 @@
+URL: https://egspasc.ac.in/public/research-and-development/patents
+EXTRACTOR: requests+bs4
+
+Home
+Research
+Patents
+Patents Filed & Granted
+A list of patents filed and granted to our researchers will be updated here shortly.
+S.No
+Title of the Patent
+Name of the Inventor(s)
+Status (Filed/Published/Granted)
+Year
+Data to be updated
+Quick Links
+Research & Development
+List of Guides
+Research Facilities
+Publications
+Research Scholars
+Research Advisory Committee
+Research Ethics Committee
+Ph.D Awardees
+Department Contact
+The Research Coordinator
+Contact Research Cell
+·
+R&D Cell
+Phone
+Not available
+Mail
+research@egspasc.org

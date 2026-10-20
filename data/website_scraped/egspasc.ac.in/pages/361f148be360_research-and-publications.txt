@@ -1,0 +1,33 @@
+URL: https://egspasc.ac.in/public/academics/departments/business-administration/research-and-publications
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Business Administration (BBA & MBA)
+Research & Publications
+S.No
+Title
+Author(s)
+Year
+Publication
+No research publications available at this time.
+Note: The list is updated periodically as new research papers and publications appear.
+Quick Links
+About
+Department Highlights
+HoD's Desk
+Faculty Details
+Curriculum & Syllabus
+Student Achievements
+Program Outcomes
+Program Educational Objectives
+Program Specific Outcomes
+Department Contact
+Dr. S. Karpagam
+Director / MBA
+·
+Phone
+Not available
+Mail
+drskarpagam2016@gmail.com

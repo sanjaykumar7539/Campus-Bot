@@ -1,0 +1,39 @@
+URL: https://egspasc.ac.in/academics/departments/commerce/program-outcomes
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Commerce
+Program Outcomes (POs)
+##
+Outcome
+PO1
+Demonstrate theoretical knowledge in Commerce, Management, Business, Accounting, etc.
+PO2
+Investigate problems in commercial/business sectors, analyze and arrive at viable solutions.
+PO3
+Understand PEST (Political, Economic, Social, Technological) factors and their impact on commerce and business.
+PO4
+Exhibit effective personal attributes and goal orientation through systematic execution of tasks.
+PO5
+Communicate effectively in oral and written forms to varied audiences.
+Quick Links
+About
+Department Highlights
+Hod`s Desk
+Faculty Details
+Research & Publications
+Academic Events
+Curriculum & Syllabus
+Student Achievements
+Placements
+Department Contact
+Mrs. R. Vinodhani, M.Com., M.Phil.
+Head & Assistant Professor
+·
+Department of Commerce
+Phone
+Not available
+Mail
+hodcommerce@egspasc.org

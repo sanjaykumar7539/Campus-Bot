@@ -1,0 +1,159 @@
+URL: https://egspasc.ac.in/public/about/administrative-organization
+EXTRACTOR: requests+bs4
+
+Home
+About
+Administrative Organization
+Governing Body
+S.No
+Name of the Member
+Designation
+1.
+Mrs. Jothimani G.S. Pillay
+Chairman
+DEMO
+2.
+Shri. S. Senthil Kumar, B.Sc.
+Secretary
+3.
+Shri. S. Arulprakasam
+Member – Trust
+4.
+Shri. S. Govindasamy
+5.
+Shri. S. Paramesvaran
+6.
+Shri. S. Sankarganesh
+7.
+Dr. K. Raghukandan, M.E., Ph.D.
+Member – Academic Expert
+8.
+Shri. Sekhar
+Member – Industrialist (Karaikal Port / MARG)
+9.
+Shri. S. Kumaravelu
+Member – Chartered Accountant / Auditor
+10.
+Shri. G. Vijayasundaram
+Member – Legal Advisor
+11.
+Shri. V. Balamurugan
+12.
+Shri. P. Sundaravelu
+Member – Infrastructure & Construction
+13.
+Regional Officer, AICTE
+Member – Ex-Officio (Southern Regional Office)
+14.
+State Government Nominee
+Member – Nominee of Directorate of Technical Education (DOTE)
+15.
+University Nominee
+Member – Nominee of Bharathidasan University
+16.
+Dr. S. Ramabalan, M.E., Ph.D.
+Member – Secretary / Principal
+17.
+Dr. S. Krishnamohan, M.E., Ph.D.
+Member – Faculty Representative (Professor / Mechanical)
+18.
+Prof. Dr. M. Chinnadurai, M.E., Ph.D.
+Member – Faculty Representative (Professor & Head)
+Decentralization in working and grievance redressal mechanism
+Photo
+1
+Maintenance Division (Electrical & Infrastructure)
+Mr. R. Ayyappan, M.E.
++91 94435 67903
+|
+ayyappan@egspec.org
+2
+Estate & Landscaping Maintenance Division
+Mr. V. Senthilkumar
++91 94435 67905
+senthilkumar@egspec.org
+3
+Website & Digital Applications Division
+Mr. J.S. Raghavan
++91 99425 02245
+web@egspec.org
+4
+System Administration & Campus IT Infrastructure
+Mr. M. Mayakannan
++91 89460 37215
+mayakannan@egspec.org
+5
+ERP Coordinator & Academic Management Systems
+Mr. A. Amsaram
++91 97919 97191
+amsaram@egspec.org
+6
+Campus Transport Facilities & Logistics
+Mr. K. Venkatesh
++91 94435 67907
+transport@egspec.org
+Mechanism and Composition of Grievance Redressal System
+The institution maintains a structured, responsive grievance redressal system for students, staff, and parents. Suggestion and feedback boxes are prominently placed at all college entrance gates and academic blocks.
+Students and staff members can submit grievances directly to the Grievance Redressal (GR) Cell via formal letter, oral representation, or through our institutional portal. Every request is reviewed promptly with utmost objectivity and confidentiality.
+All submitted matters receive prompt inquiry, and appropriate corrective actions are implemented and communicated to concerned parties without delay. Matters concerning female students and staff members are addressed by the Internal Compliance Committee (ICC / Anti-Sexual Harassment Cell) following statutory guidelines.
+Internal Compliance Committee
+Convener:
+Coordinator:
+Member:
+Girl Student Members:
+Frequency of Meeting:
+Prof. J. Vanitha ASP/(MCA)
+One faculty member from all Dept.
+One lady advocate
+Two Girl Student members
+Semester Once
+Anti-Ragging & Discipline Committee
+Prof. S. Krishnamohan Professor/Mech
+One Faculty from each Department
+Nagore Police Inspector, Tasildar, NGO Official, Parents, 2 Students, Non teaching staff
+Prohibition of Alcoholism Cell
+Prof. G. Ganesan (EEE)
+Parents, 2 Students, Faculty and Student Volunteers
+Library
+Service
+Availability
+Library services
+Yes
+Carpet area of library (in sqft)
+10520 sqft
+Reading space (in sqft)
+1800 sqft
+Number of seats in reading space
+150
+Number of users (issue book) per day
+250
+Number of users (reading space) per day
+200
+Timings
+During working day, weekend : 8.00 am to 6.00 pm
+Number of library staff
+06
+Number of library staff with degree in library
+05
+Bar code system availability (issue/return)
+Library services (internet/intranet)
+Library searching, indexing, news clipping
+Digital Library Services
+Internet
+Internet Services
+Yes, WiFi Campus
+Name of the Internet Provider
+Clapsy Networks - Fiber optic leased line 1:1
+Available bandwidth
+1Gbps
+Access Speed
+Very Good
+Availability of Internet in an Exclusive Lab
+Availability in most computing labs
+Availability in departments and other units
+Yes (Hostels, Labs, Workshops and etc.)
+Availability in Faculty rooms
+Faculty/students
+Yes, belongs to EGSPEC
+Security/privacy to email/internet users
+Yes, includes SOPHOS - NXG Firewall

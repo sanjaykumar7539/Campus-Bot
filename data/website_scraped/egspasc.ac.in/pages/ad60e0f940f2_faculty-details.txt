@@ -1,0 +1,45 @@
+URL: https://egspasc.ac.in/public/academics/departments/physics/faculty-details
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Physics
+Faculty Details
+Faculty Members
+S.No
+Name
+Designation
+Qualification
+Profile
+1
+Mr. V. Senthil Murugan
+Head of the Department (HOD), Assistant Professor
+M.Sc.
+Download PDF
+2
+Mr. K. Premkumar
+Assistant Professor
+M.Sc., M.Phil.
+3
+Mrs. N. Vijayashanthi
+—
+Quick Links
+About
+Department Highlights
+HoD`s Desk
+Curriculum & Syllabus
+Research & Publications
+Placements
+Student Achievements
+Program Outcomes
+Program Educational Objectives
+Program Specific Outcomes
+Department Contact
+Mr. V. Senthil Murugan, M.Sc., M.Phil., (Ph.D.)
+Head of Department
+·
+Phone
+Not available
+Mail
+hodphysics@egspasc.org

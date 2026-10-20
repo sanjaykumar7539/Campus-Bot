@@ -4,47 +4,48 @@ EXTRACTOR: requests+bs4
 Academics
 Event Reports
 Browse department-wise event reports and activities.
-46 Reports Found
+55 Reports Found
+Jul 25, 2026
+Alumni meet 2026
+MCA (Master of Computer Applications)
+View Report
+Jun 07, 2026
+Plastic- Free Awareness - At Home & Local Community
+Civil Engineering
+Jun 05, 2026
+Dr. A. ARUNRAJ
+FROM TO CORPORATE: COMMUNICATION SKILLS FOR PLACEMENT
+Computer Science and Engineering
+Jun 01, 2026
+Dr.S. Manikanda
+International Conference On Computing Communication and Sustainable Energy Systems
+May 26, 2026
+Mr. V.G. VIGNESHVARAN
+PARTIAL DELIVERY OF COUSRE BY INDUSTRY EXPERT ON 230ME403: MANUFACTURING TECHNOLOGY-2
+Mechanical Engineering
+May 10, 2026
+1st year MCA STUDENTS
+EmpowerHer! Empowering Women for a Sustainable Future
+May 01, 2026
+Dr.S.Rajasri
+Guest Lecture Webinar – 2302EC601 – Antennas and Wave Propagation
+COE - Controller of Examination
+Apr 27, 2026
+3 EXTERNAL & 3 INTERNAL
+RECENT ADVANCES IN ADVANCED FUNCTIONAL MATERIALS : FORM FUNDAMENTALS TO INDUSTRIAL APPLICATIONS
+Apr 22, 2026
+DEEPANRAJ M
+“From Sketch to Screen” Hands-on UI/UX Workshop for creative Minds
+Information Technology
 Apr 20, 2026
 MR.S. PRATHAP KUMAR
 PITCHCRAFT 360
-MCA (Master of Computer Applications)
-View Report
 Mr. Prathap Kumar
 Academic Student Summit - PitchCraft 360
 Computer Science and Business Systems Engineering
 Dr. Kathirvelu Dhandapani
 BIO-FUSION 2K26 Inspiring the Future of Healthcare Biomedical Engineering Project & Prototype Exhibition
 Biomedical Engineering
-FDP on next - generation AI: advance concepts and Real world deployment
-Computer Science and Engineering
-Apr 18, 2026
-Dr. S. RAJASRI
-Guest Lecture Webinar – 2302EC601 – Antennas and Wave Propagation
-Electronics and Communication Engineering
-Apr 10, 2026
-Mr. ARUN ARUMUGAM Technical Le...
-Workshop on "International seminar on Modern enterprise innovative oracle people soft".
-Apr 08, 2026
-Mr. DHANDAYUTHAPANI P
-SEMINAR ON COMMUNICATION SKILLS
-Mar 28, 2026
-Mr.Ashok P
-Alumni Interaction webinar on Cyber Security and Automation
-Mar 25, 2026
-Er.S. Anbuyazhini., B.E., M.Te...
-Electronics to Excellence – Mapping Your Career in ECE
-COE - Controller of Examination
-Mar 24, 2026
-Mr. Rakesh Panigrahy
-Agentic AI And its Frameworks
-Electrical and Electronics Engineering
-S.DINESH DHANABALAN
-YOUNG INNOVATORS IDEATHON
-Information Technology
-Mar 20, 2026
-Mr. Pavan Purohit
-Webinar on Multimodel AI
 Department Event
 ×
 Loading...
@@ -58,8 +59,8 @@ Old Nagore Road, Thethi Village
 Nagapattinam - 611002
 Follow Us:
 On Campus
-28.4°C
-Cloudy
+28.5°C
+Overcast
 Facebook
 LinkedIn
 Twitter
@@ -77,4 +78,4 @@ Privacy Policy
 Terms & Conditions
 Contact Web Admin
 Website last updated on:
-2026-10-12 04:03:06 PM
+2026-10-15 12:45:15 PM

@@ -1,0 +1,55 @@
+URL: https://egspasc.ac.in/academics/departments/artificial-intelligence-and-machine-learning/program-outcomes
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Science
+Artificial Intelligence & Machine Learning
+Program Outcomes
+No.
+PO1
+Engineering Knowledge:
+Apply the knowledge of mathematics, science, engineering fundamentals, and an engineering specialization to the solution of complex engineering problems.
+PO2
+Problem Analysis:
+Identify, formulate, review research literature, and analyze complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences.
+PO3
+Design/Development of Solutions:
+Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for the public health and safety, and the cultural, societal, and environmental considerations.
+PO4
+Modern Tool Usage:
+Create, select, and apply appropriate techniques, resources, and modern engineering and IT tools including prediction and modeling to complex engineering activities with an understanding of the limitations.
+PO5
+The Engineer and Society:
+Apply reasoning informed by the contextual knowledge to assess societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to the professional engineering practice.
+Career Opportunities
+Role
+Description
+AI Engineer
+Build and deploy AI models.
+Machine Learning Engineer
+Design and implement ML algorithms.
+Data Scientist
+Analyze complex data to derive insights.
+Robotics Engineer
+Design and build intelligent robots.
+Quick Links
+About
+Department Highlights
+Hod`s Desk
+Faculty Details
+Research & Publications
+Student Achievements
+Program Educational Objectives
+Program Specific Outcomes
+Placements
+Curriculum & Syllabus
+Department Contact
+Mr.I.MANOJ
+Head of Department
+·
+Phone
+Not available
+Mail
+hodaiml@egspasc.org

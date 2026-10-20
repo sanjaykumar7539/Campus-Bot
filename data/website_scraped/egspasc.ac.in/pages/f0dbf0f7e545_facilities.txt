@@ -1,0 +1,28 @@
+URL: https://egspasc.ac.in/public/research-and-development/facilities
+EXTRACTOR: requests+bs4
+
+Home
+Research
+Research Facilities
+Central Instrumentation Lab
+The college has well established Central Instrumentation Centre, which is utilized by faculty members and Ph.D. scholars of all the departments for their research work.
+The instrumentation facility is also available for other institutes and colleges.
+The research scholar can utilize the lab and instrumentation facilities for their practical work, registered under guide of another university with the referral of one of the institutional member.
+Quick Links
+Research & Development
+List of Guides
+Publications
+Patents
+Research Scholars
+Research Advisory Committee
+Research Ethics Committee
+Ph.D Awardees
+Department Contact
+The Research Coordinator
+Contact Research Cell
+·
+R&D Cell
+Phone
+Not available
+Mail
+research@egspasc.org

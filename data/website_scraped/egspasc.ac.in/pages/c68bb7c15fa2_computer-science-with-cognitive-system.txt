@@ -1,0 +1,35 @@
+URL: https://egspasc.ac.in/academics/departments/computer-science-with-cognitive-system
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Computer Science with Cognitive System
+Department of Computer Science with Cognitive System
+Introduction
+The Department of Computer Science with Cognitive System offers a comprehensive and industry-oriented curriculum that integrates core Computer Science with advanced Cognitive and Intelligent Systems. The program is designed to prepare students for the rapidly evolving technological world through strong fundamentals, hands-on practice, and exposure to modern technologies.
+Vision
+To be a renowned centre of education, research and service in computing and allied domains.
+Mission
+To offer computing education programs with the goal that the students become technically competent and develop lifelong learning skill.
+To undertake path-breaking research that creates new computing technologies and solutions for industry and society at large.
+To foster vibrant outreach programs for industry, research organizations, academia and society.
+Quick Links
+About
+Department Highlights
+HoD`s Desk
+Faculty Details
+Industry Collaboration (TCS)
+Curriculum & Syllabus
+Student Achievements
+Program Outcomes
+Program Educational Objectives
+Program Specific Outcomes
+Department Contact
+Mr. I. Manoj, M.C.A., M.Phil., B.Ed.
+Head of Department
+·
+Phone
+Not available
+Mail
+hodcscs@egspasc.org

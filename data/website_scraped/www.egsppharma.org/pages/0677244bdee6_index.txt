@@ -1,0 +1,10 @@
+URL: https://www.egsppharma.org/index.php?data=gallery
+EXTRACTOR: requests+bs4
+
+×
+Online Application for admission
+Register yourself before login
+Student Login
+Register for Login
+Admin
+All Rights Reserved. © 2020 EGS Pillay College of Pharmacy

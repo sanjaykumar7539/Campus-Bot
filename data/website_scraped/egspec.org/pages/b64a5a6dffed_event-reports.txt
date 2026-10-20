@@ -4,12 +4,39 @@ EXTRACTOR: requests+bs4
 Academics
 Event Reports
 Browse department-wise event reports and activities.
-46 Reports Found
+55 Reports Found
+Sep 03, 2026
+Mr. Anand Pitchaikani,
+INAUGRATION OF DESIGN THINKING & INNOVATION CELL
+Mechanical Engineering
+View Report
+Sep 02, 2026
+Dr. Ezhil Ratnakumari
+Workshop on &BALANCING BODY AND MIND
+Biomedical Engineering
+WORKSHOP PROGRAM on “Balancing Body & Mind"
+Sep 01, 2026
+Hands-on Workshop on Complete Anatomy: 3D Digital Human Anatomy and Visualization for Biomedical Engineers
+Mr. A. Robert Sathyaraj
+Hands-On Workshop On Complete Anatomy:3D Digital Human Anatomy And Visualization For Bio Medical Engineers
+Aug 27, 2026
+DR.G.KUMARAVELAN
+ONE DAY FACULTY DEVELOPMENT PROGRAM ON NEP 2020: ORIENTATION AND SENSITIZATION
+MCA (Master of Computer Applications)
+Aug 23, 2026
+M.SUDHAHAR
+ALUMNI WEBINAR ON VARIOUS OPPORTUNITIES IN CIVIL ENGINEERING SECTOR
+Civil Engineering
+Aug 22, 2026
+R. Rathika
+Beyond the Code: Exploring the World of Python
+Computer Science and Engineering
+Aug 15, 2026
+Mr. Karthikeyan Ramakrishnan
+Code to Cure :Launch Your Career In Healthcare Data Analytics
 Aug 14, 2026
 Dr. N N Salghuna
 GUEST LECTURE ON "GEOSPATIAL TECHNOLOGY-EMERGING TRENDS GEOAI AND INDUSTRY APPLICATION-BRIDGING ACADEΜΙΑ RESEARCH AND INDUSTRY"
-Civil Engineering
-View Report
 Aug 12, 2026
 Mrs.R.PONMANI
 COMMUNITY OUTREACH PROGRAM ON PROTECT YOURSELF FROM BANK FRAUD
@@ -17,35 +44,6 @@ Information Technology
 Aug 08, 2026
 Mrs. NANDHINI GOPAL
 WEB BASED PROJECTS AND IT'S IMPACTS
-Computer Science and Engineering
-Jul 25, 2026
-Alumni meet 2026
-MCA (Master of Computer Applications)
-Jun 07, 2026
-Plastic- Free Awareness - At Home & Local Community
-Jun 05, 2026
-Dr. A. ARUNRAJ
-FROM TO CORPORATE: COMMUNICATION SKILLS FOR PLACEMENT
-Jun 01, 2026
-Dr.S. Manikanda
-International Conference On Computing Communication and Sustainable Energy Systems
-May 26, 2026
-Mr. V.G. VIGNESHVARAN
-PARTIAL DELIVERY OF COUSRE BY INDUSTRY EXPERT ON 230ME403: MANUFACTURING TECHNOLOGY-2
-Mechanical Engineering
-May 10, 2026
-1st year MCA STUDENTS
-EmpowerHer! Empowering Women for a Sustainable Future
-May 01, 2026
-Dr.S.Rajasri
-Guest Lecture Webinar – 2302EC601 – Antennas and Wave Propagation
-COE - Controller of Examination
-Apr 27, 2026
-3 EXTERNAL & 3 INTERNAL
-RECENT ADVANCES IN ADVANCED FUNCTIONAL MATERIALS : FORM FUNDAMENTALS TO INDUSTRIAL APPLICATIONS
-Apr 22, 2026
-DEEPANRAJ M
-“From Sketch to Screen” Hands-on UI/UX Workshop for creative Minds
 Department Event
 ×
 Loading...
@@ -59,8 +57,8 @@ Old Nagore Road, Thethi Village
 Nagapattinam - 611002
 Follow Us:
 On Campus
-28.4°C
-Cloudy
+28.5°C
+Overcast
 Facebook
 LinkedIn
 Twitter
@@ -78,4 +76,4 @@ Privacy Policy
 Terms & Conditions
 Contact Web Admin
 Website last updated on:
-2026-10-12 04:03:06 PM
+2026-10-15 12:45:15 PM

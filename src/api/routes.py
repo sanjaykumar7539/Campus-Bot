@@ -9,6 +9,7 @@ from src.chatbot.fallback_handler import FallbackHandler
 from src.database.chat_logs import ChatLogger
 from src.database.feedback import FeedbackLogger
 from src.utils.translator import resolve_language
+from src.utils.answer_presentation import display_answer
 from src.utils.validators import validate_query
 from src.core.readiness import check_readiness
 from src.product.product_info import get_product_info, get_product_status
@@ -41,7 +42,7 @@ async def chat_stream(payload: ChatRequest, http_request: Request):
         yield event('status', {'stage': 'accepted'})
         yield event('status', {'stage': 'retrieving_and_generating'})
         try:
-            api_response = await asyncio.to_thread(lambda: asyncio.run(chat(payload, http_request, Response())))
+            api_response = await chat(payload, http_request, Response())
             body = api_response.model_dump() if hasattr(api_response, 'model_dump') else api_response.dict()
             words = body['answer'].split(' ')
             # Fewer, larger events reduce browser renders and make completed
@@ -88,7 +89,8 @@ async def chat(payload: ChatRequest, http_request: Request, response: Response):
     language = resolve_language(payload.message, payload.language)
     response.headers['X-CampusMind-Cache'] = 'VERIFIED_DATA'
     try:
-        result = rag_chain.invoke(
+        result = await asyncio.to_thread(
+            rag_chain.invoke,
             query=payload.message,
             context_fact_id=session_manager.get_topic(payload.session_id),
         )
@@ -96,8 +98,9 @@ async def chat(payload: ChatRequest, http_request: Request, response: Response):
         logger.exception('Verified institute answer data is unavailable')
         raise HTTPException(status_code=503, detail='Verified institute answer data is unavailable.') from exc
 
-    if not result['is_grounded']:
+    if not result['is_grounded'] and result.get('reason') != 'Specific detail not verified':
         result['answer'] = fallback_handler.handle(payload.message, result.get('reason', ''))
+    result['answer'], language = display_answer(result, language)
 
     message_id = chat_logger.log(
         session_id=payload.session_id, user_id=payload.user_id, query=payload.message,

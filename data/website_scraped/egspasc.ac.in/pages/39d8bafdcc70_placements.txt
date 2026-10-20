@@ -1,0 +1,78 @@
+URL: https://egspasc.ac.in/academics/departments/physics/placements
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Physics
+Placements
+Department Placements
+Placement Record
+ACADEMIC YEAR
+TOTAL STUDENTS
+NO OF STUDENTS PLACED
+NAME OF THE EMPLOYER
+PACKAGE
+2020-2021
+B.Sc.,PHYSICS -54
+M.Sc.,PHYSICS -28
+23
+FOCUS EDUMATICS
+1.2 LPA
+5
+QUESS CORP
+1.5 LPA
+3
+VENPA STAFFING
+1.25 LPA
+4
+JIO FEBER
+2021-2022
+B.Sc.,PHYSICS -50
+NIL
+2022-2023
+B.Sc.,PHYSICS -25
+M.Sc.,PHYSICS -23
+8
+2.10 LPA
+ALLSEC
+1.7 LPA
+13
+SALCOMP
+1.8 LPA
+12
+TAURUS BPO
+-
+2
+WAY COOL
+INSTAQ SOFT SOLUTIONS
+2 LPA
+2023-2024
+B.Sc.,PHYSICS -10
+M.Sc.,PHYSICS -24
+DESICREW
+1
+1 POINT 1 BPS
+1.44 LPA
+TCS
+3 LPA
+2024-2025
+Quick Links
+About
+Department Highlights
+HoD`s Desk
+Faculty Details
+Curriculum & Syllabus
+Research & Publications
+Student Achievements
+Program Outcomes
+Program Educational Objectives
+Program Specific Outcomes
+Department Contact
+Mr. V. Senthil Murugan, M.Sc., M.Phil., (Ph.D.)
+Head of Department
+·
+Phone
+Not available
+Mail
+hodphysics@egspasc.org

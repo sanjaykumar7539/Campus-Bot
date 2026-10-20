@@ -1,0 +1,34 @@
+URL: https://egspasc.ac.in/academics/departments/computer-applications/research-and-publications
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Computer Applications
+Research & Publications
+S.No
+Title
+Author(s)
+Year
+Publication
+No research publications available at this time.
+Note: The list is updated periodically as new research papers and publications appear.
+Quick Links
+About
+Department Highlights
+Hod`s Desk
+Faculty Details
+Curriculum & Syllabus
+Placements
+Student Achievements
+Program Outcomes
+Program Educational Objectives
+Program Specific Outcomes
+Department Contact
+Mr. T. Manivannan, M.C.A., M.Phil., SET, (Ph.D.)
+Head of Department
+·
+Phone
+Not available
+Mail
+hodbca@egspasc.org

@@ -1,0 +1,40 @@
+URL: https://egspasc.ac.in/public/academics/departments/business-administration/program-outcomes
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Business Administration (BBA & MBA)
+Program Outcomes (POs)
+On successful completion of the programme, graduates are expected to achieve the following:
+##
+Program Outcome
+PO1
+Enlightening with management theories to deal perplex business issues in the volatile economic environment
+PO2
+Fostering analytical skills by apply research methods to solve critical issues in business
+PO3
+Adopting latest technology to implement leading-edge strategies in agile global market
+PO4
+Stimulating real business scenarios to reinforce decision making capabilities through case studies
+PO5
+Drafting organization policies to serve as a roadmap in the heterogeneous market conditions
+Quick Links
+About
+Department Highlights
+HoD's Desk
+Faculty Details
+Research & Publications
+Curriculum & Syllabus
+Student Achievements
+Program Outcomes
+Program Educational Objectives
+Program Specific Outcomes
+Department Contact
+Dr. S. Karpagam
+Director / MBA
+·
+Phone
+Not available
+Mail
+drskarpagam2016@gmail.com

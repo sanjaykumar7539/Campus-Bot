@@ -1,0 +1,35 @@
+URL: https://www.egsppharma.org/index.php?data=course
+EXTRACTOR: requests+bs4
+
+×
+Online Application for admission
+Register yourself before login
+Student Login
+Register for Login
+Admin
+Courses offered
+D.Pharm ( Diploma in Pharmacy) - Duration: 2 Years with intake of 60 Seats
+B.Pharm ( Bachelor of Pharmacy) - Duration: 4 Years with intake of 100 Seats
+Pharm.D ( Doctor of Pharmacy) - Duration: 6 Years with intake of 30 Seats
+M.Pharm ( Master of Pharmacy) - Duration: 2 Years : Branches - Pharmaceutics, Pharmaceutical Analysis & Pharmacology
+D.Pharm
+Eligibility Criteria for admission:
+A Pass in H.Sc with Physics, Chemistry & Biology or Mathematics or Botany & Zoology.
+Duration: 2 Years
+B.Pharm
+Eligibility Criteria for admission for First year:
+A Pass in H.Sc with 40% marks in Physics, Chemistry & Biology or Mathematics or Botany & Zoology. 35% marks for SC/ST category.
+Eligibility Criteria for admission for Second year:
+A pass in D.Pharm course
+Duration: 4 Years for Regular
+Duration: 3 Years for Lateral Entry
+M.Pharm
+Branches: Pharmaceutics / Pharmaceutical Analysis / Pharmacology
+Eligibility Criteria for Admission:
+A Pass in B.Pharm with 55 % marks (aggregate of four years)
+Duration : 2 Years
+Pharm.D
+Eligibility Criteria for Admission :
+A Pass in H.Sc with 35% marks in Physics, Chemistry & Biology or Mathematics or Botany & Zoology.
+Duration: 6 Years
+All Rights Reserved. © 2020 EGS Pillay College of Pharmacy

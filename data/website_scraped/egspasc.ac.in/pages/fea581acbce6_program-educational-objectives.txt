@@ -1,0 +1,39 @@
+URL: https://egspasc.ac.in/academics/departments/commerce-business-process-service/program-educational-objectives
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Commerce – BPS & Professional Accounting
+Program Educational Objectives (PEOs)
+##
+Program Educational Objectives
+PEO1
+Be gainfully employed and build upon knowledge using modern tools for design and improvement of processes and technologies.
+PEO2
+Work effectively in diverse professional teams across technical and business roles.
+PEO3
+Communicate effectively in written and oral forms.
+PEO4
+Engage in lifelong learning with commitment to continuous improvement in professional and personal life.
+PEO5
+Exercise ethical understanding and social responsibility in practice.
+Quick Links
+About
+Department Highlights
+HoD's Desk
+Faculty Details
+Student Achievements
+Curriculum & Syllabus
+Placements
+Research & Publications
+Program Outcomes (POs)
+Programme Specific Outcomes (PSOs)
+Department Contact
+Ms. R. Bhuvaneswari, M.Com., M.Phil.
+Assistant Professor & Head
+·
+Phone
+Not available
+Mail
+hodbps@egspasc.org

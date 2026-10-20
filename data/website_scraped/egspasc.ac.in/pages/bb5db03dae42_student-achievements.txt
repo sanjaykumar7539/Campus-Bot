@@ -1,0 +1,28 @@
+URL: https://egspasc.ac.in/public/academics/departments/commerce/student-achievements
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Commerce
+Student Achievements
+/ Student Achievements Link Source
+Quick Links
+About
+Department Highlights
+Hod`s Desk
+Faculty Details
+Research & Publications
+Academic Events
+Curriculum & Syllabus
+Placements
+Program Outcomes (POs)
+Department Contact
+Mrs. R. Vinodhani, M.Com., M.Phil.
+Head & Assistant Professor
+·
+Department of Commerce
+Phone
+Not available
+Mail
+hodcommerce@egspasc.org

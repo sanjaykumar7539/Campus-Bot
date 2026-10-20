@@ -35,6 +35,9 @@ class ResilientNetworkClient:
         self.status = NetworkStatus(mode=config.NETWORK_MODE)
         self._lock = threading.Lock()
         self.session = requests.Session()
+        # A broken origin can redirect to itself forever (observed on the
+        # group directory). Fail promptly and keep the error visible.
+        self.session.max_redirects = 5
 
         retry = Retry(
             total=config.NETWORK_MAX_RETRIES,

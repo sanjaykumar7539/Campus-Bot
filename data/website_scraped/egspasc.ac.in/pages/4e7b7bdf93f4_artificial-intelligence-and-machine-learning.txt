@@ -1,0 +1,36 @@
+URL: https://egspasc.ac.in/public/academics/departments/artificial-intelligence-and-machine-learning
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Science
+Artificial Intelligence & Machine Learning
+Department of Artificial Intelligence & Machine Learning
+Bachelor of Science (B.Sc) in Artificial Intelligence (AI) and Machine Learning (ML) is an undergraduate degree focusing on the principles, theories, and applications of AI and ML. This interdisciplinary program combines computer science, mathematics, and cognitive science to prepare students for careers in fields like data science, AI engineering, and robotics by teaching them to build intelligent systems and analyze data.
+The curriculum includes core subjects like deep learning, natural language processing, and computer vision, along with hands-on skills and real-world projects.
+Course Offered
+B.Sc Artificial Intelligence and Machine Learning
+This undergraduate program provides foundation knowledge in the fields and prepares students for future careers.
+Eligibility
+A pass in +2, Compulsory Mathematics with/without Computer Science.
+Quick Links
+About
+Department Highlights
+Hod`s Desk
+Faculty Details
+Research & Publications
+Student Achievements
+Program Outcomes
+Program Educational Objectives
+Program Specific Outcomes
+Placements
+Curriculum & Syllabus
+Department Contact
+Mr.I.MANOJ
+Head of Department
+·
+Phone
+Not available
+Mail
+hodaiml@egspasc.org

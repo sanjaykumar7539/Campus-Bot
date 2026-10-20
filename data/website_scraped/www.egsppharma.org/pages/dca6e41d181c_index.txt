@@ -1,0 +1,16 @@
+URL: https://www.egsppharma.org/index.php?data=results
+EXTRACTOR: requests+bs4
+
+×
+Online Application for admission
+Register yourself before login
+Student Login
+Register for Login
+Admin
+B.Pharm / Pharm.D / M.Pharm
+Click the link to view your university results.
+www.tnmgrmu.ac.in/index.php/results/results-allied-health-sciences.html
+D.Pharm
+Click the link to view your DME results.
+www.dmecms.tn.gov.in/cmsdmestudents/Screens/StudentCorner/index.jsp
+All Rights Reserved. © 2020 EGS Pillay College of Pharmacy

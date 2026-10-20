@@ -11,6 +11,7 @@ from src.voice.tts_engine import StreamingTTS
 from src.api import routes as chat_routes
 from src.api.rate_limiter import SlidingWindowRateLimiter
 from src.utils.translator import resolve_language
+from src.utils.answer_presentation import display_answer
 
 router=APIRouter();vad=VoiceActivityDetector(config.VOICE_VAD_THRESHOLD,config.VOICE_MIN_RMS_ENERGY)
 stt=FasterWhisperSTT();tts=StreamingTTS();prompt_security=PromptSecurity()
@@ -32,8 +33,9 @@ def answer_question(text,language,session_id):
         query=text,
         context_fact_id=chat_routes.session_manager.get_topic(session_id),
     )
-    if not result['is_grounded']:
+    if not result['is_grounded'] and result.get('reason') != 'Specific detail not verified':
         result['answer']=chat_routes.fallback_handler.handle(text,result.get('reason',''))
+    result['answer'],resolved=display_answer(result,resolved)
     chat_routes.session_manager.add_message(session_id,'user',text)
     chat_routes.session_manager.add_message(session_id,'bot',result['answer'])
     chat_routes.session_manager.set_topic(session_id,result.get('fact_id'))

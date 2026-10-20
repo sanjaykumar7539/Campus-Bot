@@ -1,0 +1,34 @@
+URL: https://egspasc.ac.in/public/academics/departments/english/program-outcomes
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+English
+Program Outcomes (POs)
+B.A. English – Programme Outcomes (POs)
+##
+PO – Description
+PO1
+Develop strong linguistic and literary competence.
+PO2
+Promote critical and creative thinking through diverse literary texts.
+PO3
+Equip students with communication and interpersonal skills for modern workplaces.
+PO4
+Prepare students for competitive exams, research, and professional careers.
+Quick Links
+Department Highlights
+HOD’s Desk
+Faculty Details
+Student Achievements
+Placements
+Curriculum & Syllabus
+Department Contact
+Department of English
+·
+Arts & Science
+Phone
+Not available
+Mail
+english@egspasc.ac.in

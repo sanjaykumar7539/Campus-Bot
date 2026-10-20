@@ -1,0 +1,61 @@
+URL: https://egspasc.ac.in/public/academics/departments/computer-science/faculty-details
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Computer Science
+Faculty Details
+Teaching & Supporting Staff
+S.No
+Name
+Designation
+Qualification
+Profile
+1
+Mrs. G. Renuka Devi
+Head of the Department (HOD), Assistant Professor
+M.Sc., M.Phil.
+Download PDF
+2
+Mr. S. Manivannan
+Assistant Professor
+B.Sc., MCA, M.Phil.
+3
+Mrs. K. Malarvizhi
+4
+Mrs. M. Kaveri
+5
+Mrs. R. Ishwarya
+6
+Mrs. P. S.suganthi
+7
+Ms. R. Jothika
+M.Sc.
+8
+Mrs. A. Divya
+9
+Mrs. A. Sasikala
+Department Contact
+Contact Person:
+G. Renukadevi
+Phone:
+9788511341
+Email:
+hodcs@egspasc.org
+Quick Links
+About
+Department Highlights
+HoD`s Desk
+Research & Publications
+Student Achievements
+Curriculum & Syllabus
+Program Outcomes
+Program Educational Objectives
+Program Specific Outcomes
+Head of the Department
+·
+PG & Research – Computer Science
+Phone
+Not available
+Mail

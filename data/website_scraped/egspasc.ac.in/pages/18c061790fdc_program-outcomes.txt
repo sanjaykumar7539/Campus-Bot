@@ -1,0 +1,53 @@
+URL: https://egspasc.ac.in/academics/departments/nutrition-and-dietetics/program-outcomes
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Nutrition & Dietetics
+Program Outcomes (POs)
+B.Sc. Nutrition & Dietetics — Program Outcomes
+##
+Outcome
+PO1
+Critical thinking to apply nutrition & dietetics knowledge to prevent/treat diseases.
+PO2
+Design/development of solutions and innovative food products for societal benefit.
+PO3
+Problem analysis using fundamentals of clinical nutrition, physiology, food science, and biochemistry.
+PO4
+Modern tool usage to compute nutritional needs with awareness of limitations.
+PO5
+Environment & sustainability awareness in local and global contexts.
+PO6
+Function effectively as an individual and member of diverse teams.
+PO7
+Professional ethics and responsibility in nutrition and dietetics practice.
+PO8
+Self-directed and lifelong learning for continual professional development.
+M.Sc. Food Science & Nutrition — Program Outcomes
+Comprehensive and updated understanding of food science and nutrition concepts.
+Assess nutritional status and plan diets using appropriate methodologies.
+Work in food businesses/industries and apply food safety management tools.
+Apply nutrition in clinical interventions, health promotion, food service, and processing.
+Undertake systematic research in food science and nutrition.
+Quick Links
+About
+Department Highlights
+Department Activities
+HoD's Desk
+Faculty Details
+Research & Publications
+Curriculum & Syllabus
+Student Achievements
+Program Outcomes
+Program Educational Objectives
+Program Specific Outcomes
+Department Contact
+S. Devi
+Head of the Department
+·
+Phone
+Not available
+Mail
+hodndfsn.egspasc.org@gmail.com

@@ -1,0 +1,28 @@
+URL: https://egspasc.ac.in/academics/departments/mathematics/student-achievements
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Mathematics
+Student Achievements
+/ Source Link (optional)
+Quick Links
+About
+Department Highlights
+Hod`s Desk
+Faculty Details
+Curriculum & Syllabus
+Research & Publications
+Placements
+Program Outcomes (POs)
+Program Educational Objectives (PEOs)
+Programme Specific Outcomes (PSOs)
+Department Contact
+Dr. R. Mekala, M.Sc., M.Phil., Ph.D.
+Head of Department
+·
+Phone
+Not available
+Mail
+hodmaths@egspasc.org

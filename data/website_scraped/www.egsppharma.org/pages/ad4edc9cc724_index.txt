@@ -1,0 +1,23 @@
+URL: https://www.egsppharma.org/index.php?data=contacts
+EXTRACTOR: requests+bs4
+
+×
+Online Application for admission
+Register yourself before login
+Student Login
+Register for Login
+Admin
+College Address
+Nagapattinam
+Nagore Road,(Opp to Collector Office)
+Nagapattinam-611002. Tamilnadu. India
+Tel:+91-4365-251260 , Fax:+91-4365-251968
+Mobile:+91 99422 40006, +91 98424 32093
+email:egsppharma@gmail.com
+Administrative Office
+Chennai
+Shop No:2, Prince Panna Apartment,
+No:375, Lloyds Road,
+Triplicane, Chennai-600005
+Mobile:+91 9942250006
+All Rights Reserved. © 2020 EGS Pillay College of Pharmacy

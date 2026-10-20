@@ -1,0 +1,39 @@
+URL: https://egspasc.ac.in/research-and-development/guides
+EXTRACTOR: requests+bs4
+
+Home
+Research
+List of Guides
+List of Research Guides
+No
+Name of the Research Guide
+Discipline
+Affiliation
+Year of Recognition As Guide
+No. of Scholars Registered
+No. of Scholars Awarded
+Biotechnology
+Data to be updated
+Biochemistry
+Computer Science
+Commerce
+English
+Physics
+Quick Links
+Research & Development
+Research Facilities
+Publications
+Patents
+Research Scholars
+Research Advisory Committee
+Research Ethics Committee
+Ph.D Awardees
+Department Contact
+The Research Coordinator
+Contact Research Cell
+·
+R&D Cell
+Phone
+Not available
+Mail
+research@egspasc.org

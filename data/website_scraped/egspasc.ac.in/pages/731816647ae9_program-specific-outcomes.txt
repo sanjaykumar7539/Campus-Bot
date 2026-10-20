@@ -1,0 +1,51 @@
+URL: https://egspasc.ac.in/public/academics/departments/information-technology/program-specific-outcomes
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Information Technology (IT)
+Programme Specific Outcomes (PSOs)
+UG Programme Specific Outcomes (PSOs)
+##
+UG Programme Specific Outcomes
+PSO1
+Acquire knowledge in hardware & software aspects of Computer Science and programming.
+PSO2
+Understand software development methodologies; analyze, design, and develop applications for real-life problems.
+PSO3
+Collaborate and communicate effectively with peers in IT/ITES industries.
+PSO4
+Adapt to dynamic technical environments for the growth of the IT industry.
+PSO5
+Transfer learned skills to provide innovative, ethical, and socially responsible solutions.
+PG Programme Specific Outcomes (PSOs)
+PG Programme Specific Outcomes
+Post-graduates demonstrate advanced competency after successful completion of the M.Sc (IT) programme.
+Understand how technical developments are achieved and managed.
+Enhance critical thinking, code-writing, and configuring technical tools.
+Prepare for a wide variety of careers across IT industries with a research-oriented mindset.
+Develop strong analytical, critical thinking, and experimental skills.
+PSO6
+Understand how technological advances impact society and the social, legal, ethical, and cultural ramifications of computing.
+Quick Links
+About
+Department Highlights
+Hod`s Desk
+Faculty Details
+Curriculum & Syllabus
+Research & Publications
+Placements
+Student Achievements
+Program Outcomes
+Program Educational Objectives
+Program Specific Outcomes
+Department Contact
+Mrs.P.HELAN CHANDRA
+Assistant Professor & Head
+·
+Information Technology
+Phone
+Not available
+Mail
+hodit@egspasc.org

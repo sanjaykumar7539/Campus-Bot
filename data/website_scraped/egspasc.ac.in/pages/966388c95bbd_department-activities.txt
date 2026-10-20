@@ -1,0 +1,52 @@
+URL: https://egspasc.ac.in/public/academics/departments/visual-communication/department-activities
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Visual Communication
+Department Activities
+Department Events
+Sl.No
+Name of the Programme
+Theme of the Programme
+1
+WORKSHOP
+CREATIVE CLICK
+2
+SYMPOSIUM
+Photography, short film, drawing
+3
+ONEDAY WORKSHOP
+Explore mirrorless camera & Cinema Line Technology
+4
+World Photography Day
+5
+Eagle Expo
+6
+Script Writing
+7
+WORKSHOP / SYMPOSIUM
+Screen Play And Story Board
+8
+9
+CELEBRATION
+Quick Links
+About
+Department Highlights
+HoD's Desk
+Faculty Details
+Research & Publications
+Curriculum & Syllabus
+Student Achievements
+Program Outcomes
+Program Educational Objectives
+Program Specific Outcomes
+Department Contact
+HOD - VisCom
+Head of the Department
+·
+Phone
+Not available
+Mail
+hodviscom@egspasc.ac.in

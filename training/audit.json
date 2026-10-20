@@ -3,27 +3,27 @@
     "integrity": "ok",
     "row_counts": {
       "chat_sessions": 23,
-      "messages": 54,
+      "messages": 78,
       "sqlite_sequence": 1,
       "feedback": 0,
       "users": 0,
       "revoked_tokens": 0,
       "security_audit_log": 0,
-      "learned_question_phrases": 1
+      "learned_question_phrases": 4
     }
   },
   "collections": [
     {
       "name": "langchain",
-      "count": 3133
+      "count": 4602
     }
   ],
-  "excluded_chunks": 1014,
+  "excluded_chunks": 1062,
   "examples": {
-    "train": 1469,
-    "validation": 144
+    "train": 2489,
+    "validation": 245
   },
-  "public_sources": 442,
+  "public_sources": 717,
   "source_overlap": 0,
   "training_type": "continued language modeling on public source text; not validated question-answer tuning",
   "private_chat_logs_exported": false

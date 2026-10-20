@@ -1,0 +1,9 @@
+URL: https://egspasc.ac.in/public/gallery/egspasc
+EXTRACTOR: requests+bs4
+
+Home
+Gallery
+egspasc
+Explore the moments captured in this album.
+Back to Gallery
+Academic Excellence Award 2K26

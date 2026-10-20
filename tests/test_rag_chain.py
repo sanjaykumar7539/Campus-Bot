@@ -173,3 +173,15 @@ def test_clean_evidence_rejects_scraped_questions_and_page_chrome():
     assert RAGChain._clean_evidence(text) == [
         'The college has an established Department of Civil Engineering.',
     ]
+
+
+def test_clean_evidence_rejects_legal_liability_boilerplate():
+    text = (
+        'LIMITATIONS OF LIABILITY: In no event will we be liable for punitive damages, '
+        'lost profit, lost revenue, or loss of data arising from your use of the services.\n'
+        'The campus has ten computer-laboratory centres.'
+    )
+
+    assert RAGChain._clean_evidence(text) == [
+        'The campus has ten computer-laboratory centres.',
+    ]

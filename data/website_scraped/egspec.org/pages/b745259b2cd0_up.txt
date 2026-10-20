@@ -1,6 +1,5 @@
 URL: https://egspec.org/up
-EXTRACTOR: requests+bs4
+EXTRACTOR: crawl4ai
 
-Application up
-HTTP request received.
-Response rendered in 96ms.
+## Application up
+HTTP request received. Response rendered in 153ms.

@@ -1,0 +1,39 @@
+URL: https://egspasc.ac.in/public/academics/departments/visual-communication/program-educational-objectives
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Visual Communication
+Program Educational Objectives (PEOs)
+B.Sc. Visual Communication — PEOs
+##
+Educational Objective
+PEO1
+Equip students with the necessary creative and technical skills for diverse media careers.
+PEO2
+Foster a strong sense of ethical responsibility and professional integrity in media practices.
+PEO3
+Encourage lifelong learning and adaptation to emerging technologies in visual communication.
+PEO4
+Develop critical thinking and research capabilities for innovative problem-solving in design.
+Quick Links
+About
+Department Highlights
+Department Activities
+HoD's Desk
+Faculty Details
+Research & Publications
+Curriculum & Syllabus
+Student Achievements
+Program Outcomes
+Program Educational Objectives
+Program Specific Outcomes
+Department Contact
+HOD - VisCom
+Head of the Department
+·
+Phone
+Not available
+Mail
+hodviscom@egspasc.ac.in

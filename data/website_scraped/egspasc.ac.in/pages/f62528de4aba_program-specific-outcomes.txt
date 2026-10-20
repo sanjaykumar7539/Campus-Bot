@@ -1,0 +1,48 @@
+URL: https://egspasc.ac.in/academics/departments/chemistry/program-specific-outcomes
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Chemistry
+Programme Specific Outcomes (PSOs)
+##
+Programme Specific Outcomes
+PSO1
+Core Competence:
+Demonstrate strong grasp of chemical principles and perform standard laboratory experiments safely and effectively.
+PSO2
+Critical & Analytical Thinking:
+Analyse complex chemical problems, evaluate information, synthesise insights, and communicate findings clearly.
+PSO3
+Problem Solving:
+Integrate chemical theory with mathematical/technical skills to model systems, interpret data, and propose solutions.
+PSO4
+Scientific Reasoning:
+Apply the scientific method, test hypotheses, use appropriate statistics, and employ computational tools/models.
+PSO5
+Research Skills:
+Frame research questions, conduct literature reviews, design and execute studies, and disseminate outcomes responsibly.
+PSO6
+Self-Directed & Lifelong Learning:
+Set learning goals, adapt to new contexts, collaborate effectively, and pursue continuous professional development.
+Quick Links
+About
+Department Highlights
+HoD's Desk
+Faculty Details
+Research & Publications
+Curriculum & Syllabus
+Student Achievements
+Program Outcomes
+Program Educational Objectives
+Program Specific Outcomes
+Department Contact
+Mrs. S. Malathi
+Head of the Department
+·
+Department of Chemistry
+Phone
+Not available
+Mail
+chemistry@egspasc.ac.in

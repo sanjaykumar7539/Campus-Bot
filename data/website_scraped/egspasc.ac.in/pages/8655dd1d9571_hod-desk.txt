@@ -1,0 +1,38 @@
+URL: https://egspasc.ac.in/public/academics/departments/mathematics/hod-desk
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Mathematics
+HoD`s Desk
+Dr. R. Mekala, M.Sc., M.Phil., Ph.D.
+Head of Department & Assistant Professor
+Department of Mathematics
+Mathematics nurtures precise thinking and problem-solving—skills central to science,
+technology, data, and decision-making. Our department focuses on strengthening core
+theory and enabling application through projects, seminars, competitive-exam training,
+and research exposure.
+We mentor students to publish and present in conferences, work on mini-projects, and
+pursue internships or higher studies. With a student-first ethos, we cultivate
+discipline, collaboration, communication, and leadership—preparing learners for
+academia, industry, and entrepreneurship.
+Quick Links
+About
+Department Highlights
+Hod`s Desk
+Faculty Details
+Students Achievements
+Research & Publications
+Program Outcomes (POs)
+Program Educational Objectives (PEOs)
+Programme Specific Outcomes (PSOs)
+Curriculum & Syllabus
+Placements
+Department Contact
+Head of Department
+·
+Phone
+Not available
+Mail
+hodmaths@egspasc.org

@@ -1,0 +1,19 @@
+URL: https://egspasc.ac.in/public/about/message-from-the-principal
+EXTRACTOR: requests+bs4
+
+Home
+About
+Message from the Principal
+Dr. A. Mohamed Ismail M.Sc., Ph.D.,
+Principal - Edayathangudy G.S. Pillay Arts and Science College
+Principal Message
+At
+Edayathangudy G.S. Pillay Arts and Science College
+, we believe that true education goes beyond classrooms and examinations—it is about nurturing values, shaping character, and preparing students for meaningful contributions to society. Since its inception, our college has stood as a center of excellence in
+arts, science, and holistic education in Nagapattinam
+, empowering students to achieve academic distinction while developing leadership, creativity, and a spirit of service.
+In line with our motto, we strive to provide a balanced environment where knowledge meets discipline, innovation blends with tradition, and personal growth complements professional success. Every student at EGSPASC is encouraged to explore their potential, think critically, and engage with the world responsibly.
+Our dedicated faculty, modern facilities, and vibrant campus life work together to create an enriching experience that transforms young learners into confident individuals ready to face global challenges. I firmly believe that the values and skills cultivated here will guide our students to excel in their chosen paths and contribute positively to the progress of humanity.
+As Principal, I warmly welcome you to be a part of the
+EGSPASC family
+and join us in our journey of academic excellence, value-based learning, and lifelong success.

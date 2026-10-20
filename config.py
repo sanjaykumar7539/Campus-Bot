@@ -15,6 +15,8 @@ class Config:
     DATA_DIR = str(Path(os.getenv('DATA_DIR', ROOT_DIR / 'data')).resolve())
     VECTOR_DB_PATH = str(Path(os.getenv('VECTOR_DB_PATH', ROOT_DIR / 'vector_db')).resolve())
     MODEL_PATH = str(Path(os.getenv('SLM_MODEL_PATH', ROOT_DIR / 'models/phi3-mini')).resolve())
+    MODEL_ADAPTER_PATH = str(Path(os.getenv('SLM_ADAPTER_PATH', '')).resolve()) if os.getenv('SLM_ADAPTER_PATH', '').strip() else ''
+    ENABLE_MODEL_ADAPTER = _bool('ENABLE_MODEL_ADAPTER', False)
     EMBEDDING_MODEL = os.getenv(
         'EMBEDDING_MODEL',
         'sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2',
@@ -80,7 +82,8 @@ class Config:
     NETWORK_BASIC_AUTH_PASSWORD = os.getenv('NETWORK_BASIC_AUTH_PASSWORD', '').strip()
     NETWORK_ALLOWED_DOMAINS = [x.strip().lower() for x in os.getenv(
         'NETWORK_ALLOWED_DOMAINS',
-        'egspec.org,coe.egspec.org,egspgroup.in,admissions.egspgroup.in'
+        'egspec.org,coe.egspec.org,egspgroup.in,admissions.egspgroup.in,'
+        'egspasc.ac.in,egsppc.ac.in,egspcoe.org,egsppharma.org,egspmedical.org'
     ).split(',') if x.strip()]
     MAX_SESSION_MESSAGES = int(os.getenv('MAX_SESSION_MESSAGES', 20))
     CHAT_RATE_LIMIT = int(os.getenv('CHAT_RATE_LIMIT', 20))
@@ -127,7 +130,10 @@ class Config:
     # Override with OFFICIAL_SOURCE_ROOTS as a comma-separated list when needed.
     OFFICIAL_SOURCE_ROOTS = [u.strip() for u in os.getenv(
         'OFFICIAL_SOURCE_ROOTS',
-        'https://egspec.org/,https://coe.egspec.org/,https://admissions.egspgroup.in/'
+        'https://egspec.org/,https://coe.egspec.org/,https://egspgroup.in/,'
+        'https://admissions.egspgroup.in/,'
+        'https://egspasc.ac.in/,https://egsppc.ac.in/,https://www.egspcoe.org/,'
+        'https://www.egsppharma.org/,https://www.egspmedical.org/'
     ).split(',') if u.strip()]
     MONITOR_INTERVAL_SECONDS = int(os.getenv('MONITOR_INTERVAL_SECONDS', 3600))
     MONITOR_MAX_PAGES = int(os.getenv('MONITOR_MAX_PAGES', 5000))

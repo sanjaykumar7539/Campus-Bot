@@ -1,0 +1,35 @@
+URL: https://egspasc.ac.in/public/academics/departments/computer-science/hod-desk
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Science
+Computer Science
+HoD`s Desk
+Mrs. G. Renukadevi, M.Sc., M.Phil.
+Head of Department & Assistant Professor
+Department of Computer Science
+Welcome to the PG & Research Department of Computer Science at E.G.S. Pillay Arts and Science College. Computer Science is at the forefront of technological innovation, transforming industries and shaping the modern global economy. Our department is dedicated to providing quality education, rigorous technical training, and an inspiring research atmosphere for our students.
+We offer well-structured undergraduate and postgraduate programmes designed to build solid foundations in programming, algorithms, database management, software engineering, cloud computing, artificial intelligence, and cybersecurity. Through our state-of-the-art computing laboratories, expert faculty guidance, and industry-aligned curriculum, students gain hands-on experience and critical problem-solving skills.
+Beyond academic excellence, we place strong emphasis on holistic development, ethical practices, industry internships, and innovative project work. We actively encourage student participation in technical symposiums, research publications, hackathons, and certifications, empowering them to become competent IT professionals, researchers, and entrepreneurs.
+I invite you to explore our department and join us on an exciting journey towards technological excellence and career success.
+Quick Links
+About
+Department Highlights
+Faculty Details
+Research & Publications
+Student Achievements
+Curriculum & Syllabus
+Program Outcomes
+Program Educational Objectives
+Program Specific Outcomes
+Department Contact
+G. Renukadevi
+Head of the Department
+·
+PG & Research – Computer Science
+Phone
+Not available
+Mail
+hodcs@egspasc.org

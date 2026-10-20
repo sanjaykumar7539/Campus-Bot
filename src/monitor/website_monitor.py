@@ -35,6 +35,10 @@ class WebsiteMonitor:
     @staticmethod
     def _canonical_url(url):
         p=urlparse(str(url).strip()); path=re.sub(r'/+','/',p.path or '/')
+        # EGSPEC publishes both legacy /index.html links and clean department
+        # routes. The legacy aliases frequently serve only a JavaScript shell.
+        if (p.hostname or '').casefold() in {'egspec.org', 'www.egspec.org'} and path.lower().endswith('/index.html'):
+            path=path[:-len('/index.html')] or '/'
         query=urlencode(sorted((k,v) for k,v in parse_qsl(p.query,keep_blank_values=True)
                                if not k.lower().startswith('utm_') and k.lower() not in {'fbclid','gclid'}))
         return urlunparse((p.scheme.lower() or 'https',p.netloc.lower(),path,'',query,''))
@@ -79,6 +83,34 @@ class WebsiteMonitor:
     def _classify(self,url):
         suffix=Path(urlparse(url).path).suffix.lower()
         return 'document' if suffix in self.DOCUMENT_EXTENSIONS else 'ignore' if suffix in self.IGNORED_EXTENSIONS else 'page'
+
+    @staticmethod
+    def _is_volatile_url(url):
+        """Signed, expiring downloads are not durable crawl documents."""
+        parsed = urlparse(url)
+        keys = {key.casefold() for key, _ in parse_qsl(parsed.query, keep_blank_values=True)}
+        return (bool(keys & {'signature', 'expires', 'token', 'x-amz-signature'})
+                and '/files/view/' in parsed.path.casefold())
+
+    @staticmethod
+    def _is_malformed_page_url(url):
+        # The institute sitemap publishes department display names as URL
+        # paths (for example "/academics/departments/artificial intelligence ...").
+        # Those paths consistently return 404; real department slugs are
+        # hyphenated and usually under /undergraduate/ or /postgraduate/.
+        parsed = urlparse(url)
+        return (Path(parsed.path).suffix.lower() not in WebsiteMonitor.DOCUMENT_EXTENSIONS
+                and (bool(re.search(r'\s|%20|[{}]', parsed.path, re.I))
+                     or bool(re.search(r'[{}]', parsed.query))))
+
+    @staticmethod
+    def _is_known_broken_url(url):
+        parsed = urlparse(url)
+        host = (parsed.hostname or '').casefold()
+        path = parsed.path.casefold().rstrip('/')
+        return ((host in {'egspec.org', 'www.egspec.org'}
+                 and path in {'/academics/departments/academics', '/log-viewer'})
+                or (host == 'admissions.egspgroup.in' and path == '/engineering'))
 
     def _links(self,html,page_url):
         soup=BeautifulSoup(html,'html.parser'); found=set()
@@ -150,11 +182,20 @@ class WebsiteMonitor:
     def scan(self):
         if hasattr(self, 'pages_to_monitor'):
             return self._scan_legacy_pages()
-        queue=deque([self.base_url,*sorted(self._sitemap_urls())]); visited=set(); failures=[]
+        queue=deque([self.base_url,*sorted(self._sitemap_urls())]); visited=set(); failures=[]; skipped_volatile=0; skipped_malformed=0; skipped_broken=0
         changed_pages=[]; new_docs=[]; changed_docs=[]
         while queue and len(visited)<config.MONITOR_MAX_PAGES:
             url=self._canonical_url(queue.popleft())
             if url in visited or not self._is_same_domain(url) or self._classify(url)=='ignore': continue
+            if self._is_volatile_url(url):
+                skipped_volatile += 1
+                continue
+            if self._is_malformed_page_url(url):
+                skipped_malformed += 1
+                continue
+            if self._is_known_broken_url(url):
+                skipped_broken += 1
+                continue
             visited.add(url)
             try:
                 r=self._fetch_response(url); final=self._canonical_url(getattr(r,'url',url)); ctype=r.headers.get('content-type','').split(';')[0].lower(); data=r.content
@@ -191,7 +232,7 @@ class WebsiteMonitor:
             except Exception as exc:
                 recovered=False
                 response_status = getattr(getattr(exc, 'response', None), 'status_code', None)
-                explicit_gate = isinstance(exc, PermissionError) or response_status in {401, 403, 429}
+                explicit_gate = isinstance(exc, PermissionError) or response_status in {401, 403, 404, 429}
                 if config.ADVANCED_WEB_INGESTION and self._classify(url)=='page' and not explicit_gate:
                     enhanced=self.web_router.extract(url)
                     if enhanced.blocked:
@@ -211,7 +252,10 @@ class WebsiteMonitor:
         return {'changed_pages':changed_pages,'new_documents':new_docs,'changed_documents':changed_docs,
                 'new_pdfs':new_docs,'changed_pdfs':changed_docs,'discovered_pdf_count':len(new_docs)+len(changed_docs),
                 'visited_count':len(visited),'reachable_pages':len(visited)-len(failures),'failed_count':len(failures),
-                'failures':failures[:25],'crawl_limit_reached':bool(queue),
+                'failures':failures[:25],'skipped_volatile_count':skipped_volatile,
+                'skipped_malformed_count':skipped_malformed,
+                'skipped_known_broken_count':skipped_broken,
+                'crawl_limit_reached':bool(queue),
                 'network':self.network.snapshot()}
 
     def _scan_legacy_pages(self):

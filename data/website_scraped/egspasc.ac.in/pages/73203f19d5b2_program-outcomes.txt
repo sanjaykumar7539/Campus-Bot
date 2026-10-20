@@ -1,0 +1,60 @@
+URL: https://egspasc.ac.in/public/academics/departments/commerce-computer-application/program-outcomes
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+B.Com – Computer Applications
+Program Outcomes (POs)
+Program Outcomes describe what students are expected to know or be able to do by graduation.
+##
+Program Outcome
+PO1
+Disciplinary knowledge in commerce and management.
+PO2
+Effective written and oral communication using appropriate media.
+PO3
+Critical thinking to evaluate evidence and formulate arguments.
+PO4
+Problem solving in unfamiliar business contexts.
+PO5
+Analytical reasoning; synthesize data and draw valid conclusions.
+PO6
+Research skills: problem definition, hypothesis testing and reporting.
+PO7
+Teamwork and collaboration in diverse groups.
+PO8
+Scientific/quantitative reasoning in business decisions.
+PO9
+Reflective thinking with self-awareness and social sensibility.
+PO10
+Information/digital literacy; effective use of ICT tools.
+PO11
+Self-directed learning and project management.
+PO12
+Multicultural competence and global perspective.
+PO13
+Moral and ethical awareness; responsible conduct.
+PO14
+Leadership readiness and people management.
+PO15
+Lifelong learning for career and personal development.
+Quick Links
+About
+Department Highlights
+HoD`s Desk
+Faculty Details
+Curriculum & Syllabus
+Student Achievements
+Research & Publications
+Program Outcomes
+Program Educational Objectives
+Program Specific Outcomes
+Department Contact
+Mrs. A. Helen Selvakumari, M. COM., M. PHIL., B ED
+Head of Department
+·
+Phone
+Not available
+Mail
+hodbcomca@egspasc.org

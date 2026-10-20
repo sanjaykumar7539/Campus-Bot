@@ -1,0 +1,33 @@
+URL: https://egspasc.ac.in/public/clubs
+EXTRACTOR: requests+bs4
+
+Home
+Services
+Clubs
+About Clubs
+E.G.S. Pillay Arts and Science College (Autonomous) provides a wide range of student clubs and co-curricular forums to support overall personality development, leadership qualities, social awareness, and creative talents among students.
+Club activities enable students to connect with peers who share similar interests, develop organizational skills, participate in community service initiatives, and represent the college at regional and national levels.
+Vision
+To create an active, inclusive, and empowering campus environment where students cultivate leadership, civic responsibility, social consciousness, and creative excellence through student-led club engagements.
+Mission
+To provide structured opportunities for students to pursue diverse cultural, literary, social, scientific, and athletic interests.
+To instill ethical values, teamwork, community service, and environmental stewardship through active field work and campus events.
+To foster self-confidence, effective communication, and problem-solving abilities necessary for professional and personal growth.
+Objectives of Student Clubs
+Provide an active platform for talent identification and skill enhancement beyond the academic curriculum.
+Encourage participation in community outreach, literacy campaigns, health camps, and environmental conservation drives.
+Develop event planning, team collaboration, public speaking, and leadership competencies.
+Organize inter-departmental, inter-collegiate, and state-level competitions, seminars, and workshops.
+Foster unity, mutual respect, and social harmony among students from diverse backgrounds.
+Quick Links
+Committee Head and Members
+List of Clubs
+Department Contact
+Student Affairs & Clubs Coordinator
+Contact Clubs Office
+·
+Student Affairs Cell
+Phone
+Not available
+Mail
+clubs@egspasc.org

@@ -1,0 +1,35 @@
+URL: https://egspasc.ac.in/public/academics/departments/biotechnology/program-specific-outcomes
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Biotechnology
+Program Specific Outcomes (PSOs)
+##
+Program Specific Outcomes
+PSO1
+To impart the ability to apply biotechnology skills (including molecular & microbiology, immunology & genetic engineering, bioprocess & fermentation, enzyme & food technology, and bioinformatics) and its applications in core and allied fields.
+PSO2
+To provide students with the concepts and research approaches for their higher career in the field of biotechnology and develop their scientific interest.
+PSO3
+To impart in-depth practical-oriented knowledge to students in various thrust areas of biotechnology, so as to meet the demands of industry and academia.
+Quick Links
+About
+Department Highlights
+Hod`s Desk
+Faculty Details
+Curriculum & Syllabus
+Research & Publications
+Placements
+Student Achievements
+Program Outcomes
+Program Educational Objectives
+Department Contact
+Dr. R. Kadhar Nivas, M.Sc., M.Phil., Ph.D
+Head of Department
+·
+Phone
+Not available
+Mail
+hodbtegspasc@gmail.com

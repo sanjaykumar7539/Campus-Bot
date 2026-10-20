@@ -1,0 +1,54 @@
+URL: https://egspec.org/events?event=aksharam-2025&filter=old&page=5
+EXTRACTOR: requests+bs4
+
+Home
+Events
+Upcoming Events
+Upcoming / Latest
+Past Events
+Important
+52
+(Oldest first)
+12
+Oct
+09:30 AM
+2026
+MCA LAB
+PARTIAL DELIVERY ON NEXTGEN AI CLUB - GENERATIVE AI FOR SOFTWARE DEVELOPMENT
+View Details
+13
+EEE SIMULATION LABORATORY
+PARTIAL DELIVERY COURSE ON 2302EE503 AI FOR ELECTRICAL ENGINEERING
+14
+EGSP MAIN AUDITORIUM
+WORKSHOP ON ENTREPRENEURSHIP DEVELOPMENT & BUSINESS OPPORTUNITIES
+11:00 AM
+SJB201
+TECHNICAL EVENT MATHTECH-INAUGURAL
+Be part of our journey to empower aspiring engineers, scientists, and managers towards success!
+04356 251114
+E.G.S Pillay Engineering College
+Old Nagore Road, Thethi Village
+Nagapattinam - 611002
+Follow Us:
+On Campus
+28.5°C
+Overcast
+Facebook
+LinkedIn
+Twitter
+Instagram
+YouTube
+Copyright © 2006 - 2026 All
+Rights Reserved by
+EGS Pillay Group of Institutions
+Developed By
+Raghavan Jeeva
+|
+Status Page
+Sitemap
+Privacy Policy
+Terms & Conditions
+Contact Web Admin
+Website last updated on:
+2026-10-15 12:45:15 PM

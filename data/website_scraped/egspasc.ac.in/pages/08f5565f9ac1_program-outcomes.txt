@@ -1,0 +1,46 @@
+URL: https://egspasc.ac.in/academics/departments/mathematics/program-outcomes
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Mathematics
+Program Outcomes (POs)
+B.Sc. Mathematics – Program Outcomes (POs)
+##
+Outcome
+PO1
+Develop scientific temper and quantitative reasoning.
+PO2
+Acquire practical, technical, and domain knowledge across the science stream.
+PO3
+Become employable in industry or pursue entrepreneurship.
+PO4
+Possess foundational knowledge for higher studies and professional courses.
+PO5
+Adopt solution-oriented approaches to social and environmental issues.
+M.Sc. Mathematics – Program Outcomes (POs)
+Gain advanced knowledge of principles, methods, and the power of mathematical ideas.
+Translate verbal information into mathematical form and apply suitable techniques to conclude.
+Develop a positive attitude toward mathematics as valuable and interesting.
+Build critical reasoning, applied/theoretical depth, and communication skills.
+Strengthen logical thinking and problem-solving abilities.
+Quick Links
+About
+Department Highlights
+Hod`s Desk
+Faculty Details
+Students Achievements
+Research & Publications
+Program Educational Objectives (PEOs)
+Programme Specific Outcomes (PSOs)
+Curriculum & Syllabus
+Placements
+Department Contact
+Dr. R. Mekala, M.Sc., M.Phil., Ph.D.
+Head of Department
+·
+Phone
+Not available
+Mail
+hodmaths@egspasc.org

@@ -1,0 +1,38 @@
+URL: https://egspasc.ac.in/public/academics/departments/computer-science
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Computer Science
+PG & Research Department of Computer Science
+Promotional Outline
+The Computer Science Department is committed to producing skilled, confident and industry-ready professionals by providing a strong foundation in computing technologies. With modern laboratories, experienced faculty and an industry-focused curriculum, the department emphasizes innovation, problem-solving and practical learning. Students gain enhanced technical expertise through workshops, seminars, conferences, webinars, internships and research activities. Through value-added courses, industry collaborations and hands-on projects, learners are prepared for emerging fields such as Artificial Intelligence, Data Science, Cloud Computing, Cyber Security, and Software Development. The department continuously nurtures talent, fosters creativity, and promotes holistic growth for successful careers in the IT sector and beyond.
+Vision
+To impart knowledge to rural youth and enhance their skills so they meet their intellectual
+and social aspirations—becoming self-reliant, purposeful, and responsible global citizens.
+Mission
+To be a leading college in education, excellence, and enlightenment while meeting social commitments.
+To equip students with knowledge, emotional stability, and holistic personality development.
+To instill confidence and a winning edge in the global context with education relevant to real life.
+To expose students to rural realities through meaningful engagement.
+Quick Links
+About
+Department Highlights
+HoD`s Desk
+Faculty Details
+Research & Publications
+Student Achievements
+Curriculum & Syllabus
+Program Outcomes
+Program Educational Objectives
+Program Specific Outcomes
+Department Contact
+G. Renukadevi
+Head of the Department
+·
+PG & Research – Computer Science
+Phone
+Not available
+Mail
+hodcs@egspasc.org

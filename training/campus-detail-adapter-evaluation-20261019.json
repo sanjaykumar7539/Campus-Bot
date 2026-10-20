@@ -1,0 +1,59 @@
+{
+  "metrics": {
+    "steps": 17,
+    "device": "cpu",
+    "dtype": "torch.float32",
+    "max_length": 1024,
+    "answer_only_loss": true,
+    "learning_rate": 2e-05,
+    "shuffle": false,
+    "epochs": 1,
+    "starting_adapter": ".venv\\models\\smollm2-campus-detail-candidate-20261019\\checkpoint-10",
+    "dataset_sha256": {
+      "train": "faf6294387a0c943b1b3ccec2f3b4e194660a09984baca761f18fcdd05f31b19",
+      "validation": "9bcf7c367aa451a6324e9744bd3f29bd98043bbda225ed325f425b2e56c05f86"
+    },
+    "eval_examples_limit": 2,
+    "validation_loss_before": 0.007284180173372621,
+    "validation_loss_after": 0.0064406815115689185,
+    "base_model": ".venv/models/smollm2-360m-instruct",
+    "automatic_activation": false
+  },
+  "adapter_tensor_count": 256,
+  "weights_finite": true,
+  "evaluation_split": "validation",
+  "evidence_grounded_task": true,
+  "validation_fact_overlap": [
+    "engineering_environment",
+    "engineering_teaching",
+    "engineering_vision_mission"
+  ],
+  "answers": [
+    {
+      "question": "engineering pathi engineering environment details points la sollu",
+      "expected": "- Campus setting: The official infrastructure page describes lawns and green trees around the buildings, with space between the entrance and academic blocks. This is the college's description, not an independent student rating.\n- Student facilities: It lists three residential hostels, study and recreation rooms, indoor games, health/gym and sports areas.\n- Connectivity: The page reports 1 Gbps internet and campus Wi-Fi, including hostels.\n- Academic setting: Classrooms, drawing halls, seminar halls, department libraries and laboratories are listed. Actual experience can vary by department and year; visit the campus for a personal assessment.",
+      "generated": "- Campus setting: The official infrastructure page describes lawns and green trees around the buildings, with space between the entrance and academic blocks. This is the college's description, not an independent student rating.\n- Student facilities: It lists three residential hostels, study and recreation rooms, indoor games, health/gym and sports areas.\n- Connectivity: The page reports 1 Gbps internet and campus Wi-Fi, including hostels.\n- Academic setting: Classrooms, drawing halls, seminar halls, department libraries and laboratories are listed. Actual experience can vary by department and year; visit the campus for a personal assessment.",
+      "source_url": "https://egspec.org/facilities/infrastructure",
+      "exact_match": true
+    },
+    {
+      "question": "engineering pathi engineering vision mission details points la sollu",
+      "expected": "- Vision: The college says it aims to become a global centre of academic excellence.\n- Mission: Its official page emphasizes world-class education, developing student talent, modern teaching facilities, competent faculty and staff development, industry interaction, emerging research centres, and continuing/vocational education benefiting society.\n- Meaning for a student: The published goals connect classroom learning, practical facilities, research and industry; they describe institutional aims, not a guarantee of a particular outcome.",
+      "generated": "- Vision: The college says it aims to become a global centre of academic excellence.\n- Mission: Its official page emphasizes world-class education, developing student talent, modern teaching facilities, competent faculty and staff development, industry interaction, emerging research centres, and continuing/vocational education benefiting society.\n- Meaning for a student: The published goals connect classroom learning, practical facilities, research and industry; they describe institutional aims, not a guarantee of a particular outcome.",
+      "source_url": "https://www.egspec.org/about/vision-and-mission",
+      "exact_match": true
+    },
+    {
+      "question": "engineering pathi engineering teaching details points la sollu",
+      "expected": "- Academic structure: The official UG regulations divide study into humanities/communication, basic science, engineering science, branch core, electives and employability-enhancement courses.\n- Practical learning: The regulations include project work, internship, seminars, case studies and industrial/practical training.\n- Skills: The same regulations identify soft skills, aptitude and group-discussion courses from Training and Placement.\n- Department differences: Teaching methods, lab hours and syllabus depend on the branch, regulation year and semester; check the relevant COE syllabus.",
+      "generated": "- Academic structure: The official UG regulations divide study into humanities/communication, basic science, engineering science, branch core, electives and employability-enhancement courses.\n- Practical learning: The regulations include project work, internship, seminars, case studies and industrial/practical training.\n- Skills: The same regulations identify soft skills, aptitude and group-discussion courses from Training and Placement.\n- Department differences: Teaching methods, lab hours and syllabus depend on the branch, regulation year and semester; check the relevant COE syllabus.",
+      "source_url": "https://coe.egspec.org/admin/regulations/R2023UGRegulations.pdf",
+      "exact_match": true
+    }
+  ],
+  "exact_match_accuracy": 1.0,
+  "answer_accuracy": null,
+  "accuracy_definition": "correct answers divided by evaluated answers, from 0 to 1; factual review required",
+  "manual_factual_review_required": true,
+  "automatic_activation": false
+}

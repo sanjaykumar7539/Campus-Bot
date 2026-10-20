@@ -15,6 +15,7 @@ class SLMModel:
         if getattr(self, '_constructed', False):
             return
         self.model_path = config.MODEL_PATH
+        self.adapter_path = config.MODEL_ADAPTER_PATH
         self.model = self.tokenizer = self.pipe = None
         self._initialized = False
         self._constructed = True
@@ -37,16 +38,26 @@ class SLMModel:
             self.model_path, torch_dtype=torch.bfloat16, device_map='auto',
             trust_remote_code=True, low_cpu_mem_usage=True,
         )
+        if config.ENABLE_MODEL_ADAPTER:
+            adapter = Path(self.adapter_path)
+            if not adapter.is_dir():
+                raise FileNotFoundError(f'SLM adapter not found at {adapter}')
+            from peft import PeftModel
+            self.model = PeftModel.from_pretrained(self.model, adapter)
+            self.model.eval()
         self._initialized = True
 
-    def generate(self, prompt: str, max_tokens: int = 384) -> str:
+    def generate(self, prompt: str, max_tokens: int = 1024) -> str:
         if not self._initialized:
             self.load_model()
         import torch
-        inputs = self.tokenizer(prompt, return_tensors='pt').to(self.model.device)
+        context_limit = int(getattr(self.model.config, 'max_position_embeddings', 8192))
+        output_limit = max(1, min(max_tokens, context_limit - 1))
+        inputs = self.tokenizer(prompt, return_tensors='pt', truncation=True,
+                                max_length=context_limit - output_limit).to(self.model.device)
         with torch.inference_mode():
             output = self.model.generate(
-                **inputs, max_new_tokens=max_tokens, temperature=0.1, top_p=0.9,
+                **inputs, max_new_tokens=output_limit, temperature=0.1, top_p=0.9,
                 repetition_penalty=1.1, do_sample=True,
                 pad_token_id=self.tokenizer.pad_token_id,
             )

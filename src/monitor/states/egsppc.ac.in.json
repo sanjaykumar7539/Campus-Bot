@@ -1,0 +1,252 @@
+{
+  "content_hashes": {
+    "0127573fcb5179926d73ea0f7011bd40a20a8406cfeb5a708cb88f29be4313b8": "https://egsppc.ac.in/academics/aicte-approvals",
+    "02df3dc27747d180ef7215ef42a5b9b1a51391da8394092c941e9aa3ee44076a": "https://egsppc.ac.in/academics/departments/basic-engineering",
+    "0a2c2dadc4d0e60c292f4422ec097dcf5804f1964dbf0203f83374468f45617b": "https://egsppc.ac.in/activities/anti-ragging-committee",
+    "0c7c877ebbcf2261a3660e467494858f997fc7855846f40c28261da7a180c333": "https://egsppc.ac.in/about/principal",
+    "0dd734d23d59a015c713a08e5ee63b13f22d6bed31c919e30ea6cf3bf89fea10": "https://egsppc.ac.in/academics/departments/civil-engineering",
+    "0f5abaa70cc8cd295085e13e6d47d41640e35f345b2f6c738424d9914941711a": "https://egsppc.ac.in/academics/departments/mechanical-engineering",
+    "122454bf04231b637f9c2e653f5e4be84cfcc2db719888c0af43c9b573075235": "https://egsppc.ac.in/activities/red-ribbon-club",
+    "1866b8e87acc8ed2ca8e818c46967a5c9dd794d50f8fa59c12d18bc4746074f8": "https://egsppc.ac.in/academics/departments/electronics-and-communication-engineering",
+    "1f65839e355f8cfe2ee762430756a6f6630cbe2c705b11080e4a28307aa84af7": "https://egsppc.ac.in/activities/national-service-scheme",
+    "1fec01dbd57d24cfe57156dd78666120961892a56d8f15c13ab8795d606ebc31": "https://egsppc.ac.in/",
+    "26bed9c0fafd03c02bf13cb9bf0c1dc1bf3641aa7ffad0ad02928edc3fd53eb0": "https://egsppc.ac.in/sitemap",
+    "2a2f3a7c59f22f0d4061ce9e7cb0f28f076fa7ab437a9b46df4776f0ed9abe68": "https://egsppc.ac.in/regulation",
+    "2e8d267ac886c3e36f0d81eb842ce82dfbbfcf618c5fc4eae2550e3b5e9bfb33": "https://egsppc.ac.in/about/secretary",
+    "31c30acffa8137e2fb25ca085dc8c61e0aa4cc3c2c66b812351907ca1b124062": "https://egsppc.ac.in/about/organizational-chart",
+    "4c3b4af201b80612199902885616b4d2d829818d3f9baad16425e1787a83aed9": "https://egsppc.ac.in/academics/departments/electrical-and-electronics-engineering",
+    "4df3c7f4905275cb6ab14c3c34f542c516be8b50de6591ff8675fa9ef259ba45": "https://egsppc.ac.in/about/history",
+    "62ea36caedde7df2635f15d93bf9c87f8ffd288c3e60a621738f2332ac0f7bb2": "https://egsppc.ac.in/gallery",
+    "8a99edd1f41b584c0b0096832f3352bd7b38855d5da824c9d5b6289d5bacbd87": "https://egsppc.ac.in/academics/departments",
+    "9077ea0ca75732ce0a5c7a09bb41f25ec0d497f1e60be1b80f65d70f2be8d013": "https://egsppc.ac.in/academics/eligibility",
+    "a627763f5c0054eefd661c9d98888192e4646589bc73a0d0163738a91e0f14d3": "https://egsppc.ac.in/academics/departments/computer-science-engineering",
+    "bc9a7aa03a69bf4ea114153fade8903ba538131b9c40bda5aa780f0de77f4c0c": "https://egsppc.ac.in/activities/anti-drug-committee",
+    "c89f82ed359c5cd6d5e0fde8428507beb5c097eca458ee108925bec359f9f227": "https://egsppc.ac.in/academics/programmes-offered",
+    "c9e357a9951ca64b58e55712eaede97abec2a768e48564de9261032b4ba22f0a": "https://egsppc.ac.in/about/founder",
+    "dff485b68cfb2e604995db5d9bae3821cff4e93f3a05ea380aaf99487aad52b2": "https://egsppc.ac.in/academics/fees-structure",
+    "f36ace9e610f9121b807a73e20889e07ac4b6ffc0271a75e7edd36caeb839eff": "https://egsppc.ac.in/activities/vishaka-committee",
+    "fb3acd5ab42095a5aae02cc6bb53051daa439521ac5c56f0371f0876910cf0b5": "https://egsppc.ac.in/about/vision-and-mission",
+    "fcb665c27b602967f0bd3aec6578694370765e1d14e6015510d872e9b80b719b": "https://egsppc.ac.in/admission"
+  },
+  "last_check": "2026-10-19T04:06:33.687054+00:00",
+  "pdfs": {},
+  "resources": {
+    "https://egsppc.ac.in/": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "1fec01dbd57d24cfe57156dd78666120961892a56d8f15c13ab8795d606ebc31",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:01:58.887270+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egsppc.ac.in\\pages\\28dc771554fc_home.txt"
+    },
+    "https://egsppc.ac.in/about/founder": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "c9e357a9951ca64b58e55712eaede97abec2a768e48564de9261032b4ba22f0a",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:02:38.338376+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egsppc.ac.in\\pages\\46f381a3e0cd_founder.txt"
+    },
+    "https://egsppc.ac.in/about/history": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "4df3c7f4905275cb6ab14c3c34f542c516be8b50de6591ff8675fa9ef259ba45",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:02:38.779349+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egsppc.ac.in\\pages\\f83a4597000f_history.txt"
+    },
+    "https://egsppc.ac.in/about/organizational-chart": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "31c30acffa8137e2fb25ca085dc8c61e0aa4cc3c2c66b812351907ca1b124062",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:03:13.473925+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egsppc.ac.in\\pages\\2cd189a31d0a_organizational-chart.txt"
+    },
+    "https://egsppc.ac.in/about/principal": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "0c7c877ebbcf2261a3660e467494858f997fc7855846f40c28261da7a180c333",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:02:54.457769+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egsppc.ac.in\\pages\\5cdab4c808ca_principal.txt"
+    },
+    "https://egsppc.ac.in/about/secretary": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "2e8d267ac886c3e36f0d81eb842ce82dfbbfcf618c5fc4eae2550e3b5e9bfb33",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:03:18.037694+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egsppc.ac.in\\pages\\cf4f1bed5d30_secretary.txt"
+    },
+    "https://egsppc.ac.in/about/vision-and-mission": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "fb3acd5ab42095a5aae02cc6bb53051daa439521ac5c56f0371f0876910cf0b5",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:03:10.293378+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egsppc.ac.in\\pages\\cad60dc1394d_vision-and-mission.txt"
+    },
+    "https://egsppc.ac.in/academics/aicte-approvals": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "0127573fcb5179926d73ea0f7011bd40a20a8406cfeb5a708cb88f29be4313b8",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:02:37.620250+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egsppc.ac.in\\pages\\730a1efb1ff5_aicte-approvals.txt"
+    },
+    "https://egsppc.ac.in/academics/departments": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "8a99edd1f41b584c0b0096832f3352bd7b38855d5da824c9d5b6289d5bacbd87",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:02:39.365913+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egsppc.ac.in\\pages\\7691e6f8c68e_departments.txt"
+    },
+    "https://egsppc.ac.in/academics/departments/basic-engineering": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "02df3dc27747d180ef7215ef42a5b9b1a51391da8394092c941e9aa3ee44076a",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:02:51.039401+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egsppc.ac.in\\pages\\5225cc9e9bdf_basic-engineering.txt"
+    },
+    "https://egsppc.ac.in/academics/departments/civil-engineering": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "0dd734d23d59a015c713a08e5ee63b13f22d6bed31c919e30ea6cf3bf89fea10",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:03:22.475514+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egsppc.ac.in\\pages\\51717534e678_civil-engineering.txt"
+    },
+    "https://egsppc.ac.in/academics/departments/computer-science-engineering": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "a627763f5c0054eefd661c9d98888192e4646589bc73a0d0163738a91e0f14d3",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:03:18.674335+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egsppc.ac.in\\pages\\27250ebee4ac_computer-science-engineering.txt"
+    },
+    "https://egsppc.ac.in/academics/departments/electrical-and-electronics-engineering": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "4c3b4af201b80612199902885616b4d2d829818d3f9baad16425e1787a83aed9",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:01:59.724566+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egsppc.ac.in\\pages\\76505f529fcb_electrical-and-electronics-engineering.txt"
+    },
+    "https://egsppc.ac.in/academics/departments/electronics-and-communication-engineering": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "1866b8e87acc8ed2ca8e818c46967a5c9dd794d50f8fa59c12d18bc4746074f8",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:02:43.807789+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egsppc.ac.in\\pages\\0e263e72c734_electronics-and-communication-engineering.txt"
+    },
+    "https://egsppc.ac.in/academics/departments/mechanical-engineering": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "0f5abaa70cc8cd295085e13e6d47d41640e35f345b2f6c738424d9914941711a",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:02:44.284543+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egsppc.ac.in\\pages\\bae10ffc42dc_mechanical-engineering.txt"
+    },
+    "https://egsppc.ac.in/academics/eligibility": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "9077ea0ca75732ce0a5c7a09bb41f25ec0d497f1e60be1b80f65d70f2be8d013",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:02:44.889309+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egsppc.ac.in\\pages\\7f9391bcc18b_eligibility.txt"
+    },
+    "https://egsppc.ac.in/academics/fees-structure": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "dff485b68cfb2e604995db5d9bae3821cff4e93f3a05ea380aaf99487aad52b2",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:03:17.252281+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egsppc.ac.in\\pages\\7f9e0b5146d2_fees-structure.txt"
+    },
+    "https://egsppc.ac.in/academics/programmes-offered": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "c89f82ed359c5cd6d5e0fde8428507beb5c097eca458ee108925bec359f9f227",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:03:17.761939+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egsppc.ac.in\\pages\\96eb1fac77af_programmes-offered.txt"
+    },
+    "https://egsppc.ac.in/activities/anti-drug-committee": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "bc9a7aa03a69bf4ea114153fade8903ba538131b9c40bda5aa780f0de77f4c0c",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:02:33.786928+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egsppc.ac.in\\pages\\ec73475af980_anti-drug-committee.txt"
+    },
+    "https://egsppc.ac.in/activities/anti-ragging-committee": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "0a2c2dadc4d0e60c292f4422ec097dcf5804f1964dbf0203f83374468f45617b",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:01:59.185924+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egsppc.ac.in\\pages\\471bfe022833_anti-ragging-committee.txt"
+    },
+    "https://egsppc.ac.in/activities/national-service-scheme": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "1f65839e355f8cfe2ee762430756a6f6630cbe2c705b11080e4a28307aa84af7",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:02:33.148843+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egsppc.ac.in\\pages\\a445c23bf0a0_national-service-scheme.txt"
+    },
+    "https://egsppc.ac.in/activities/red-ribbon-club": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "122454bf04231b637f9c2e653f5e4be84cfcc2db719888c0af43c9b573075235",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:02:33.485358+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egsppc.ac.in\\pages\\4dccf94a6edf_red-ribbon-club.txt"
+    },
+    "https://egsppc.ac.in/activities/vishaka-committee": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "f36ace9e610f9121b807a73e20889e07ac4b6ffc0271a75e7edd36caeb839eff",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:03:10.027865+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egsppc.ac.in\\pages\\966a44e6edc4_vishaka-committee.txt"
+    },
+    "https://egsppc.ac.in/admission": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "fcb665c27b602967f0bd3aec6578694370765e1d14e6015510d872e9b80b719b",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:02:40.483426+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egsppc.ac.in\\pages\\3b7d89919170_admission.txt"
+    },
+    "https://egsppc.ac.in/gallery": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "62ea36caedde7df2635f15d93bf9c87f8ffd288c3e60a621738f2332ac0f7bb2",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:03:06.622755+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egsppc.ac.in\\pages\\a6242abaf9c9_gallery.txt"
+    },
+    "https://egsppc.ac.in/regulation": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "2a2f3a7c59f22f0d4061ce9e7cb0f28f076fa7ab437a9b46df4776f0ed9abe68",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:02:57.864214+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egsppc.ac.in\\pages\\560ad30e597a_regulation.txt"
+    },
+    "https://egsppc.ac.in/sitemap": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "26bed9c0fafd03c02bf13cb9bf0c1dc1bf3641aa7ffad0ad02928edc3fd53eb0",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:02:37.980814+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\egsppc.ac.in\\pages\\7d7a92c24c6c_sitemap.txt"
+    }
+  },
+  "version": 3
+}

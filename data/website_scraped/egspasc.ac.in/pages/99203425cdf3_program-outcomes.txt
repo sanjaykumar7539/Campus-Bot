@@ -1,0 +1,42 @@
+URL: https://egspasc.ac.in/public/academics/departments/information-technology/program-outcomes
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Information Technology (IT)
+Program Outcomes (POs)
+UG Programme Outcomes (POs)
+##
+Programme Outcomes
+PO1
+Comprehend basic concepts and apply them in real-life situations with analytical skills.
+PO2
+Become employable/entrepreneurs or pursue higher education through acquired skills and enhanced knowledge.
+PO3
+Contribute effectively as software engineers using modern software tools.
+PO4
+Relate Computer Science concepts with allied papers for holistic understanding.
+PO5
+Imbibe ethical values and social responsibility for a peaceful society.
+Quick Links
+About
+Department Highlights
+Hod`s Desk
+Faculty Details
+Curriculum & Syllabus
+Research & Publications
+Placements
+Student Achievements
+Program Outcomes
+Program Educational Objectives
+Program Specific Outcomes
+Department Contact
+Mrs.P.HELAN CHANDRA
+Assistant Professor & Head
+·
+Information Technology
+Phone
+Not available
+Mail
+hodit@egspasc.org

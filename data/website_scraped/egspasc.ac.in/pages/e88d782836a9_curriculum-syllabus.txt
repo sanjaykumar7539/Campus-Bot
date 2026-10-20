@@ -1,0 +1,43 @@
+URL: https://egspasc.ac.in/academics/departments/commerce/curriculum-syllabus
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Commerce
+Curriculum & Syllabus
+Curriculum & Syllabus - Commerce
+Curriculum & Regulations
+COE Examination Portal
+The curriculum is designed under autonomous regulations, incorporating industry demands, choice-based credit system (CBCS), outcome-based education (OBE), and holistic skill development.
+S.No
+Curriculum / Regulation Document
+Action
+1
+demo
+Download PDF
+Programme Syllabus
+Detailed semester-wise syllabi covering course objectives, modular outlines, practical lab requirements, and reference bibliographies.
+Course / Subject Title
+Semester / Level
+Syllabus files for this department will be uploaded shortly.
+Visit COE Academic Portal
+Quick Links
+About
+Department Highlights
+HoD's Desk
+Faculty Details
+Research & Publications
+Student Achievements
+Program Outcomes
+Program Educational Objectives
+Program Specific Outcomes
+COE Portal
+Department Contact
+Department Information
+·
+EGSPASC
+Phone
+Not available
+Mail
+info@egspasc.org

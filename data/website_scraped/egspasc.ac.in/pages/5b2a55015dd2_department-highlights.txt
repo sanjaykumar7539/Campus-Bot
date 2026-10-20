@@ -1,0 +1,54 @@
+URL: https://egspasc.ac.in/public/academics/departments/computer-applications/department-highlights
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Computer Applications (BCA)
+Department Highlights
+Highlights
+Outcome-based curriculum aligned to current software industry practices
+Modern computing labs with latest IDEs, version control, and virtualization support
+Strong foundation in programming (C, C++, Java, Python), Data Structures and Algorithms
+Applied focus on Web/Mobile App Development, Databases, and Cloud Fundamentals
+Electives covering AI/ML basics, Data Analytics, RPA, and Cybersecurity essentials
+Regular coding practice via online judges and coding platforms (hackathons & contests)
+Capstone projects, mini-projects each semester, and real-world case studies
+Value-added/Certification programs (e.g., AWS Academy, Oracle Academy, Red Hat, Cisco)
+Industry collaborations, guest lectures, and tech talks by practitioners
+Internships and industry visits to improve employability and domain exposure
+Dedicated placement readiness: aptitude, soft skills, interview prep, and resume clinics
+Student clubs: Programming, UI/UX & Design, App Development, Open-Source initiatives
+Mentor–mentee scheme and professional counseling for academic & career guidance
+Research & Innovation support: paper presentations, workshops, and project showcases
+Access to LMS, digital libraries, and NPTEL/SWAYAM courses for self-paced learning
+Active alumni network for mentoring, internships, and career referrals
+Incubation and entrepreneurship support for student start-up ideas
+Regular FDPs for faculty and continuous pedagogy upskilling
+Inclusive campus activities and committees for holistic student development
+Academic support for competitive exams and higher studies pathways
+Department Class Rooms and Lab Facilities
+Smart Class Rooms And Access To Modern Computer Labs With High Speed Internet
+Modern Class Rooms Equipped With CCTV Facilities Ensuring A Safe And Secure Learning Environment.
+High Configuration Computer System
+Computer Lab Equipped With Wifi Connectivity.
+Quick Links
+About
+Hod`s Desk
+Faculty Details
+Curriculum & Syllabus
+Research & Publications
+Placements
+Student Achievements
+Program Outcomes
+Program Educational Objectives
+Program Specific Outcomes
+Department Contact
+Mr. T. Manivannan, M.C.A., M.Phil., SET, (Ph.D.)
+Head of Department
+·
+Computer Applications
+Phone
+Not available
+Mail
+hodbca@egspasc.org

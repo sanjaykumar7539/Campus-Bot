@@ -4,41 +4,49 @@ EXTRACTOR: requests+bs4
 Academics
 Event Reports
 Browse department-wise event reports and activities.
-46 Reports Found
+55 Reports Found
+Apr 20, 2026
+FDP on next - generation AI: advance concepts and Real world deployment
+Computer Science and Engineering
+View Report
+Apr 18, 2026
+Dr. S. RAJASRI
+Guest Lecture Webinar – 2302EC601 – Antennas and Wave Propagation
+Electronics and Communication Engineering
+Apr 10, 2026
+Mr. ARUN ARUMUGAM Technical Le...
+Workshop on "International seminar on Modern enterprise innovative oracle people soft".
+MCA (Master of Computer Applications)
+Apr 08, 2026
+Mr. DHANDAYUTHAPANI P
+SEMINAR ON COMMUNICATION SKILLS
+Computer Science and Business Systems Engineering
+Mar 28, 2026
+Mr.Ashok P
+Alumni Interaction webinar on Cyber Security and Automation
+Mar 25, 2026
+Er.S. Anbuyazhini., B.E., M.Te...
+Electronics to Excellence – Mapping Your Career in ECE
+COE - Controller of Examination
+Mar 24, 2026
+Mr. Rakesh Panigrahy
+Agentic AI And its Frameworks
+Electrical and Electronics Engineering
+S.DINESH DHANABALAN
+YOUNG INNOVATORS IDEATHON
+Information Technology
 Mar 20, 2026
+Mr. Pavan Purohit
+Webinar on Multimodel AI
 Dr. Edward Anand
 The Art of Writing a Research Paper
 MBA (Master of Business Administration)
-View Report
 Mar 16, 2026
 Mr.ABDUL GANI IRFAN
 Workshop on "Structure of IT workflows& fundamentals of data analytics"
-MCA (Master of Computer Applications)
 Mr.M.Muthu karthikeyan
 ONE DAY WORKSHOP ON PREDICTIVE ANALYTICS IN HEALTHCARE USING AI&ML
 Artificial Intelligence and Data Science
-Mar 14, 2026
-Mr. Daniel Pushparaj
-UI/UX Design Bootcamp
-Mar 11, 2026
-INTERNATIONAL STUDENT SYMPOSIUM: NEXUS 2026
-Feb 18, 2026
-Dr.K.Karthikeyan
-Career Pathways in Biomedical Engineering: Education, Research, and Industry
-Biomedical Engineering
-Feb 16, 2026
-Mr. M.Muthu Karthikeyan
-One day Workshop on Predictive Analytics in Healthcare using AI&ML
-Electrical and Electronics Engineering
-Feb 13, 2026
-Alumni Conclave - 2026
-Feb 03, 2026
-MAHATHI K
-VIZQUEST: A TABLEAU WEBINAR WITH BRAIN-BOOSTING QUIZ
-Apr 21, 2025
-Mr.Thennavan
-Career Campus 2026: “Industry Insights on Full Stack Development”
-Information Technology
 Department Event
 ×
 Loading...
@@ -52,8 +60,8 @@ Old Nagore Road, Thethi Village
 Nagapattinam - 611002
 Follow Us:
 On Campus
-28.4°C
-Cloudy
+28.5°C
+Overcast
 Facebook
 LinkedIn
 Twitter
@@ -71,4 +79,4 @@ Privacy Policy
 Terms & Conditions
 Contact Web Admin
 Website last updated on:
-2026-10-12 04:03:06 PM
+2026-10-15 12:45:15 PM

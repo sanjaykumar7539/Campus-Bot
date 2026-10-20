@@ -1,0 +1,77 @@
+URL: https://egspec.org/events?event=aksharam-2025&filter=latest&page=2
+EXTRACTOR: requests+bs4
+
+Home
+Events
+Upcoming Events
+Upcoming / Latest
+Past Events
+Important
+52
+(Newest first)
+29
+Sep
+10:00 AM
+2026
+GGB 304
+PARTIAL DELIVERY COURSE ON 2303ME030 FAILURE ANALYSIS OF NDT TECHNIQUES INDUSTRIAL RADIOLOGY INSPECTION AND IMAGING
+View Details
+02:00 AM
+GG309
+AI TOOL ORIENTATION FACULTY ORIENTATION PROGRAM ON AICTE-PGQID
+28
+06:30 AM
+Virtual
+"Professional Society Event-IWS WEBINAR ON Effect of Post-Deposition Heat Treatment on the Mechanical and Fatigue Crack Growth Behaviour of Hot-Wire TIG Wire Arc Additively Manufactured Ni Alloy 740H"
+EGSP MAIN AUDITORIUM
+SKILL DEVELOPMENT PROGRAM DIGITAL ENTREPRENEURSHIP: MARKETING CONTENT CREATION & FREELANCING
+WEBINAR ON Campus to Career: Unlocking Success with Soft Skills
+27
+EXPERT TECHNICAL TALK GENERATIVE AI AND LARGE LANGUAGE MODELS: SHAPING THE FUTURE OF INTELLIGENT APPLICATIONS
+26
+WEBINAR ON Entrepreneurship Essentials for Engineers
+24
+09:30 AM
+SJB310
+WORKSHOP ON AI FRONTIER: DISCOVERING THE INTELLIGENCE & MACHINE LEARNING
+09:15 AM
+EEE simulation lab
+WORKSHOP ON EV POWERTRAIN DESIGN AND SIMULATION WITH HANDS-ON HARDWARE EXPOSURE
+23
+11:30 AM
+PG Block 303
+GUEST LECTURE ON WHY HRM IS IMPORTANT FOR COMPUTER APPLICATIONS
+21
+01:30 AM
+GGB312
+"GATE 2027 - Awareness, Strategy & Success for Mechanical Engineering Students"
+19
+Electronics Lab
+ISTE SPONSORED WORKSHOP ON EFFECTIVE LABORATORY OPERATION, MAINTENANCE AND DEVELOPMENT: FROM LABORATORY SETUP TO SUSTAINABLE TECHNICAL EXCELLENCE
+Be part of our journey to empower aspiring engineers, scientists, and managers towards success!
+04356 251114
+E.G.S Pillay Engineering College
+Old Nagore Road, Thethi Village
+Nagapattinam - 611002
+Follow Us:
+On Campus
+28.5°C
+Overcast
+Facebook
+LinkedIn
+Twitter
+Instagram
+YouTube
+Copyright © 2006 - 2026 All
+Rights Reserved by
+EGS Pillay Group of Institutions
+Developed By
+Raghavan Jeeva
+|
+Status Page
+Sitemap
+Privacy Policy
+Terms & Conditions
+Contact Web Admin
+Website last updated on:
+2026-10-15 12:45:15 PM

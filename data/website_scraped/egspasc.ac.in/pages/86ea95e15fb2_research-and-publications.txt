@@ -1,0 +1,34 @@
+URL: https://egspasc.ac.in/academics/departments/biotechnology/research-and-publications
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Biotechnology
+Research & Publications
+S.No
+Title
+Author(s)
+Year
+Publication
+No research publications available at this time.
+Note: The list is updated periodically as new research papers and publications appear.
+Quick Links
+About
+Department Highlights
+Hod`s Desk
+Faculty Details
+Curriculum & Syllabus
+Placements
+Student Achievements
+Program Outcomes
+Program Educational Objectives
+Program Specific Outcomes
+Department Contact
+Dr. R. Kadhar Nivas, M.Sc., M.Phil., Ph.D
+Head of Department
+·
+Phone
+Not available
+Mail
+hodbtegspasc@gmail.com

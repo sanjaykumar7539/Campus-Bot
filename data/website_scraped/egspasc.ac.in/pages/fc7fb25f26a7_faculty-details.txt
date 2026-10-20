@@ -1,0 +1,47 @@
+URL: https://egspasc.ac.in/public/academics/departments/commerce-business-process-service/faculty-details
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Commerce – BPS & Professional Accounting
+Faculty Details
+Faculty Members (Teaching & Supporting Staff)
+S.No
+Name
+Designation
+Qualification
+Profile
+1
+Mrs. R. Bhuvaneswari
+Head of the Department (HOD), Assistant Professor
+M.Com., M.Phil.
+Download PDF
+2
+Mrs. S. Anusuya
+Assistant Professor
+B.Sc., MBA
+3
+Ms. R. Naveena
+B. COM, MBA
+4
+Mrs. T. Kalaiselvi
+Quick Links
+About
+Department Highlights
+HoD's Desk
+Student Achievements
+Curriculum & Syllabus
+Placements
+Research & Publications
+Program Outcomes (POs)
+Program Educational Objectives (PEOs)
+Programme Specific Outcomes (PSOs)
+Department Contact
+Ms. R. Bhuvaneswari, M.Com., M.Phil.
+Assistant Professor & Head
+·
+Phone
+Not available
+Mail
+hodbps@egspasc.org

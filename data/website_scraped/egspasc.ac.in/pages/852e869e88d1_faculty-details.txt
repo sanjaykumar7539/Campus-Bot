@@ -1,0 +1,66 @@
+URL: https://egspasc.ac.in/public/academics/departments/commerce-computer-application/faculty-details
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+B.Com – Computer Applications
+Faculty Details
+Faculty Members
+S.No
+Name
+Designation
+Qualification
+Profile
+1
+Mrs. A. Helen Selvakumari
+Head of the Department (HOD), Assistant Professor
+M.Com., M.Phil.
+Download PDF
+2
+Mrs. V. Sujatha
+Assistant Professor
+3
+Mrs. R. Punitha
+4
+Mrs. B. Sharon Angeline
+5
+Mrs. K. Malarvizhi
+6
+Mrs. S. Cibiya
+M.Com.
+7
+Mrs. N. Suguna
+8
+Mrs. D. Selvamathi
+9
+Mrs. E. Manisha
+MBA
+10
+Ms. S. Varshini
+11
+Mr. K. Hariharan
+12
+Ms. A. Agnas Maria
+13
+Mrs. S. Abinaya
+14
+Mr. K. Alexander
+Quick Links
+About
+Department Highlights
+HoD`s Desk
+Curriculum & Syllabus
+Student Achievements
+Research & Publications
+Program Outcomes
+Program Educational Objectives
+Program Specific Outcomes
+Department Contact
+Mrs. A. Helen Selvakumari, M. COM., M. PHIL., B ED
+Head of Department
+·
+Phone
+Not available
+Mail
+hodbcomca@egspasc.org

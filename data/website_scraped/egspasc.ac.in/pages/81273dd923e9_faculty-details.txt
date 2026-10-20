@@ -1,0 +1,71 @@
+URL: https://egspasc.ac.in/academics/departments/english/faculty-details
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+English
+Faculty Details
+Faculty Directory
+S.No
+Name
+Designation
+Qualification
+Profile
+1
+Mr. T. Arputhajeeviyaraj
+Head of the Department (HOD), Assistant Professor
+M.A
+Download PDF
+2
+Mr. B. Sathyamoorthy
+Assistant Professor
+M.A, M.Phil.
+3
+Dr. N. Sivachandran
+Associate Professor
+M.A, M.Phil., Ph.D
+4
+Ms. D. Srivarthini
+5
+Mrs. N. Sarumathi
+6
+Mr. A. Sivagurumurthy
+7
+Ms. A. Ahalya
+8
+Mr. N. Rajesh
+—
+9
+Ms. V. Sangavi
+10
+Mr. M. Gunalan
+11
+Mr. S. A.kalanithi
+12
+Ms. D. V.aarthi
+13
+Mrs. J. Sheeba Jenifer
+14
+Ms. I. Beulah
+15
+Mr. B. Bala Aravind
+16
+Ms. M. Nishanthini
+17
+Ms. R. Mangayarkarasi
+Quick Links
+Department Highlights
+HOD’s Desk
+Student Achievements
+Placements
+Curriculum & Syllabus
+Program Outcomes (POs)
+Department Contact
+Department of English
+·
+Arts & Science
+Phone
+Not available
+Mail
+english@egspasc.ac.in

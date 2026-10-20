@@ -1,4 +1,6 @@
 from fastapi.testclient import TestClient
+from pathlib import Path
+
 from src.api.main import app
 from src.voice.voice_config import get_voice_languages
 
@@ -20,7 +22,15 @@ def test_voice_languages_api():
 
 def test_frontend_has_voice_assistant():
     html = TestClient(app).get("/").text
-    assert 'id="homeVoiceBtn"' in html
-    assert 'id="chatVoiceBtn"' in html
-    assert 'id="voiceLanguage"' in html
-    assert "speechSynthesis" in html
+    assert 'id="root"' in html
+
+    # The production UI is a React bundle, so its interactive controls are
+    # rendered client-side instead of being present in the index shell.
+    frontend = Path(__file__).parents[1] / "frontend-react" / "src"
+    chat = (frontend / "components" / "Chat.jsx").read_text(encoding="utf-8")
+    header = (frontend / "components" / "Header.jsx").read_text(encoding="utf-8")
+    voice = (frontend / "hooks" / "useVoice.js").read_text(encoding="utf-8")
+    assert 'aria-label="Voice input"' in chat
+    assert "Auto-speak" in header
+    assert "speechSynthesis" in voice
+    assert "localStorage.getItem('egspec_auto_speak') === 'true'" in voice

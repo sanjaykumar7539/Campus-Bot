@@ -1,0 +1,35 @@
+URL: https://egspasc.ac.in/academics/departments/computer-science-with-cognitive-system/program-specific-outcomes
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Computer Science with Cognitive System
+Programme Specific Outcomes (PSOs)
+##
+Programme Specific Outcomes
+PSO1
+The ability to apply theoretical foundations of Computer Science and problem-solving skills through programming techniques for complex real-time problems using appropriate data structures and algorithms with appreciation of emerging topics such as Analytics, Machine Learning, Cloud Computing & Internet of Things.
+PSO2
+The ability to design and develop hardware and software interfaces along with database management to meet the needs of industry with appreciation of humanities, management science and human values using Design Thinking & Financial Management.
+PSO3
+The ability to demonstrate personal, organizational and entrepreneurship skills through critical thinking, and to engage in life-long learning by following innovations in business, science & technology.
+Quick Links
+About
+Department Highlights
+HoD`s Desk
+Faculty Details
+Industry Collaboration (TCS)
+Curriculum & Syllabus
+Student Achievements
+Program Outcomes
+Program Educational Objectives
+Program Specific Outcomes
+Department Contact
+Mr. I. Manoj, M.C.A., M.Phil., B.Ed.
+Head of Department
+·
+Phone
+Not available
+Mail
+hodcscs@egspasc.org

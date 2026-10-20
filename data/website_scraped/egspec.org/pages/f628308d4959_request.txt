@@ -1,0 +1,9 @@
+URL: https://egspec.org/v1/portal/u/access/password-reset/request
+EXTRACTOR: crawl4ai
+
+![E.G.S Pillay Engineering College logo](https://egspec.org/assets/egspec_logo_svg.svg) ![E.G.S Pillay Engineering College logo](https://egspec.org/assets/egspec_logo_white_svg.svg)
+#  Forgot password? 
+[ back to login  ](https://egspec.org/v1/portal/u/access/login)
+Email address*
+Send email 
+© 2026 E.G.S Pillay Engineering College. All rights reserved.

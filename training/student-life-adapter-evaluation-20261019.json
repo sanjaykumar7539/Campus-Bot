@@ -1,0 +1,51 @@
+{
+  "metrics": {
+    "steps": 6,
+    "device": "cpu",
+    "dtype": "torch.float32",
+    "max_length": 2048,
+    "answer_only_loss": true,
+    "learning_rate": 2e-05,
+    "shuffle": false,
+    "epochs": 1,
+    "starting_adapter": ".venv\\models\\smollm2-student-life-candidate-20261019\\checkpoint-1",
+    "dataset_sha256": {
+      "train": "e29bf7918e9687e9f32e94a9d014ab3fcdc961e88e05babc1495522d0a59be2e",
+      "validation": "c451fead0c04b7394a9c86c57ff63a7e5fa0bb264945395897449177af8bf4b1"
+    },
+    "eval_examples_limit": 2,
+    "validation_loss_before": 0.009165153817271421,
+    "validation_loss_after": 0.008716306801362202,
+    "base_model": ".venv\\models\\smollm2-360m-instruct",
+    "automatic_activation": false
+  },
+  "adapter_tensor_count": 256,
+  "weights_finite": true,
+  "evaluation_split": "validation",
+  "evidence_grounded_task": true,
+  "validation_fact_overlap": [
+    "engineering_extracurricular",
+    "engineering_sports"
+  ],
+  "answers": [
+    {
+      "question": "EGSPEC pathi engineering sports details point wise ah sollu",
+      "expected": "- Sports on the official Physical Education page: cricket, basketball, badminton, hockey, tennis and volleyball; its achievement records also show chess, kabaddi, table tennis, handball and athletics.\n- Competition: The page publishes 2024–25 and 2025–26 team/individual achievement documents and inter-college results. The group-hosted Energy 2025 tournament lists football, basketball, cricket, volleyball, badminton, table tennis, kabaddi, athletics and chess.\n- Support: The Physical Education page says students interested in sports careers receive special attention and training; this is a published aim, not a guaranteed selection or scholarship.\n- Contact: The official page names Mr. D. Velavan as Director of Physical Education and lists +91 99429 97667. Ask the department about current trials, practice times, facilities and sports-quota rules.\n- Timing: A fixed annual sports season or next tournament date is not established by these records; check the current sports/event notice.",
+      "generated": "- Sports on the official Physical Education page: cricket, basketball, badminton, hockey, tennis and volleyball; its achievement records also show chess, kabaddi, table tennis, handball and athletics.\n- Competition: The page publishes 2024–25 and 2025–26 team/individual achievement documents and inter-college results. The group-hosted Energy 2025 tournament lists football, basketball, cricket, volleyball, badminton, table tennis, kabaddi, athletics and chess.\n- Support: The Physical Education page says students interested in sports careers receive special attention and training; this is a published aim, not a guaranteed selection or scholarship.\n- Contact: The official page names Mr. D. Velavan as Director of Physical Education and lists +91 99429 97667. Ask the department about current trials, practice times, facilities and sports-quota rules.\n- Timing: A fixed annual sports season or next tournament date is not established by these records; check the current sports/event notice.",
+      "source_url": "https://www.egspec.org/activities/extra-curricular/sports",
+      "exact_match": true
+    },
+    {
+      "question": "EGSPEC pathi engineering extracurricular details point wise ah sollu",
+      "expected": "- Creative activities: The college has a Fine Arts Club page with cumulative reports and photos. Its UG regulations describe participation in music, painting and documentary films with social themes.\n- Student clubs: The college says technical clubs organize hands-on projects, seminars, workshops and hackathons. Its administrative directory names Programmers Paradise, Designers Domain and Renewable Energy clubs; confirm which clubs are accepting members this term.\n- Campus events: Sports, cultural events, workshops, symposiums and conferences are listed on the college site. The academic schedule recorded Aksharam on 27 March 2025; this does not establish a fixed annual date.\n- Participation: Ask the club convener or department for the current calendar, registration, eligibility and certificates. A past event or listed club is not a promise it will run on the same date every year.",
+      "generated": "- Creative activities: The college has a Fine Arts Club page with cumulative reports and photos. Its UG regulations describe participation in music, painting and documentary films with social themes.\n- Student clubs: The college says technical clubs organize hands-on projects, seminars, workshops and hackathons. Its administrative directory names Programmers Paradise, Designers Domain and Renewable Energy clubs; confirm which clubs are accepting members this term.\n- Campus events: Sports, cultural events, workshops, symposiums and conferences are listed on the college site. The academic schedule recorded Aksharam on 27 March 2025; this does not establish a fixed annual date.\n- Participation: Ask the club convener or department for the current calendar, registration, eligibility and certificates. A past event or listed club is not a promise it will run on the same date every year.",
+      "source_url": "https://www.egspec.org/activities/extra-curricular/finearts-club",
+      "exact_match": true
+    }
+  ],
+  "exact_match_accuracy": 1.0,
+  "answer_accuracy": null,
+  "accuracy_definition": "correct answers divided by evaluated answers, from 0 to 1; factual review required",
+  "manual_factual_review_required": true,
+  "automatic_activation": false
+}

@@ -1,0 +1,48 @@
+URL: https://egspasc.ac.in/academics/departments/computer-applications
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Computer Applications
+Department of Computer Applications
+Introduction
+BCA full form is Bachelor of Computer Applications. It is a three-year undergraduate degree program that helps students learn to solve challenging problems in today’s fast-moving technology world. A Bachelor of Computer Application degree is the core of Computer Science in today’s world.
+This degree is for those who want to study computer science, software engineering, information technology, information security, and networking technology. The degree focuses on the design, development, and deployment of software systems with a special focus on the design and analysis of software security.
+Vision
+To disseminate quality education in Computer Science and related fields, especially to rural
+students, enabling them to build a strong foundation and confidently face the challenges of
+the IT world.
+Mission
+To adopt improved teaching methodologies through continuous faculty training and upgradation
+programmes.
+To facilitate teachers in imparting computer education and its practical applications
+effectively.
+To motivate students to achieve excellent results and prepare them for independent growth and
+progressive careers with long-term professional employability.
+To attain leadership in planning and resource management in order to enhance the quality of
+technical education.
+To cultivate values and vibrancy within the department that support the development activities
+of the college.
+To make significant contributions in key areas such as faculty development, modern laboratories,
+and advanced learning resources.
+Quick Links
+About
+Department Highlights
+Hod`s Desk
+Faculty Details
+Curriculum & Syllabus
+Research & Publications
+Placements
+Student Achievements
+Program Outcomes
+Program Educational Objectives
+Program Specific Outcomes
+Department Contact
+Mr. T. Manivannan, M.C.A., M.Phil., SET, (Ph.D.)
+Head of Department
+·
+Phone
+Not available
+Mail
+hodbca@egspasc.org

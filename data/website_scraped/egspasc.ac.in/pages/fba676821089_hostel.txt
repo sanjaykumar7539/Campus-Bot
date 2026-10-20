@@ -1,0 +1,22 @@
+URL: https://egspasc.ac.in/facilities/hostel
+EXTRACTOR: requests+bs4
+
+Home
+Facilities
+Hostels
+Hostel Facilities
+Hostel Administration
+The hostel administration is managed by the Secretary with assistance from the Warden and Deputy Wardens. Residential Lecturers are available to provide guidance and counseling to students.
+A separate mess operates inside the hostel, providing quality and nutritious meals, both vegetarian and non-vegetarian.
+Hostel Admission
+Students can obtain the hostel admission application form from the hostel office. Applicants must meet the Warden with a parent or guardian and pay the prescribed hostel admission fees.
+Parent or guardian presence is mandatory at the time of admission to ensure proper guidance and verification.
+Hostel & Mess Facilities
+Separate, well-furnished hostels for boys and girls
+Fine dining facilities serving nutritious vegetarian and non-vegetarian meals
+First-aid and healthcare facilities with an appointed college doctor
+Recreational areas and study spaces within the hostels
+Five Deputy Wardens dedicated to student welfare
+Safe drinking water and hygienic living conditions
+Staff & Guest Accommodations
+Faculty may reside with their families in the staff quarters provided on campus. A guest house is also available for visitors to the college, ensuring comfortable accommodations for both staff and guests.

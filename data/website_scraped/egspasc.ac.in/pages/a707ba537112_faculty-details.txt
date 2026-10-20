@@ -1,0 +1,51 @@
+URL: https://egspasc.ac.in/public/academics/departments/nutrition-and-dietetics/faculty-details
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Nutrition & Dietetics
+Faculty Details
+Faculty Members
+S.No
+Name
+Designation
+Qualification
+1
+Mrs. S. Devi
+Head of the Department (HOD), Assistant Professor
+M.Sc., M.Phil.
+2
+Mrs. A. Abirami
+Assistant Professor
+M.Sc.
+3
+Mrs. D. Selvarani
+4
+Dr. J. Vanithasri
+M.Sc., Ph.D
+5
+Ms. M. Ezhileswari
+6
+Ms. M. Shanthini Devi
+7
+Ms. R. Priyadharshini
+Quick Links
+About
+Department Highlights
+Department Activities
+HoD's Desk
+Research & Publications
+Curriculum & Syllabus
+Student Achievements
+Program Outcomes
+Program Educational Objectives
+Program Specific Outcomes
+Department Contact
+S. Devi
+Head of the Department
+·
+Phone
+Not available
+Mail
+hodndfsn.egspasc.org@gmail.com

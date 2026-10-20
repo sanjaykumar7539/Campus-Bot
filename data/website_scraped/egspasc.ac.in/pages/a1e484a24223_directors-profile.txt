@@ -1,0 +1,9 @@
+URL: https://egspasc.ac.in/iqac/directors-profile
+EXTRACTOR: requests+bs4
+
+Home
+IQAC
+Director's Profile
+Dr. V. S. Raja Krishnan, M.Com., M.Phil., MBA., Ph.D.
+Vice Principal & Director - IQAC
+Dr. V. S. Raja Krishnan currently serves as the Vice Principal, bringing over 26 years of teaching experience. He has guided 42 M.Phil. and 11 Ph.D. candidates, published 67 research papers (22 international, 45 national), and received the Best Teacher Award in 2021. Actively engaged in academic and sports administration, he is also the Vice President of the Nagapattinam District Cricket Association. Contact: drvsrajakrishnan@gmail.com | +91 98424 98302.

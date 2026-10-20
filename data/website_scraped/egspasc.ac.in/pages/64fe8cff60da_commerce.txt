@@ -1,0 +1,41 @@
+URL: https://egspasc.ac.in/academics/departments/commerce
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Commerce
+Department of Commerce
+About the Department
+Commerce often highlight practical applications, a broad curriculum covering different areas like accounting, finance, and business management, and a strong faculty. They may also emphasize career opportunities in areas like banking, entrepreneurship, and government jobs, along with placement assistance and industry engagement. In our Department experienced faculty, mentorship support, career services, co-curricular and extracurricular activities.
+Scope
+The scope for commerce students is broad, encompassing traditional roles in finance, accounting, and banking, as well as emerging fields like digital marketing, e-commerce, data analytics, and Fin Tech.
+Vision
+To provide excellent and value-based commerce education for rural and economically backward students.
+Mission
+Train students to understand national culture through the lens of commerce.
+Motivate students to gain global knowledge in business and accounting.
+Instill strong business ethics and professionalism.
+Enable learners to contribute to society through commerce education.
+Develop social consciousness related to trade and commerce.
+Empower young men and women with holistic commerce education.
+Inspire learners to become innovative leaders.
+Quick Links
+About
+Department Highlights
+Hod`s Desk
+Faculty Details
+Research & Publications
+Academic Events
+Curriculum & Syllabus
+Student Achievements
+Placements
+Program Outcomes (POs)
+Department Contact
+Mrs. R. Vinodhani, M.Com., M.Phil.
+Head & Assistant Professor
+·
+Phone
+Not available
+Mail
+hodcommerce@egspasc.org

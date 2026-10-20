@@ -1,0 +1,139 @@
+{
+  "content_hashes": {
+    "0c74063ee0c0b0cdc911d5784410854a1800e61e84b8e6e83c8d3eeb5edaebd5": "https://www.egsppharma.org/index.php?data=results",
+    "0e414642fef845af7b684d790fe156f1a28eefd57d45df04e46ff7988726051f": "https://www.egsppharma.org/index.php?data=facilities",
+    "18481e430974cd3f3c74e91dafd51f51a82838269c455e5e472b47b04821cdd9": "https://www.egsppharma.org/index.php?data=faculty",
+    "4c000d7147fd487edb39b4fb52d6c003130e0d089642f4e9ef15f9f238b9277a": "https://www.egsppharma.org/index.php?data=Approval",
+    "4c720826d8905a041c4be2bfa114f3bac5ac5c81f1adbacc632bc3ab06e39b57": "https://www.egsppharma.org/index.php?data=opportunity",
+    "a320f335480d9dbe7ddccb7bd0a4e08efac5da059f7c224127d8d24dfcc255f9": "https://www.egsppharma.org/",
+    "b6bf8a39048de32a7f37fd101276410c4682f4025537a8bf49ed39228f9ae2b0": "https://www.egsppharma.org/index.php?data=aboutus",
+    "ed6da31b2d5255a61685866b3150fb24b1ac236ee32e4154f6622bd72fb0e5a7": "https://www.egsppharma.org/index.php?data=gallery",
+    "f25f157ffdc5537f22a0262ffed2d46aab737c5647ef0fbdc8759fee51646be6": "https://www.egsppharma.org/index.php?data=course",
+    "f7cb052ae53c2934c354ab7f68d7b538dc462a4b811b0f4e5133b5c450a58f51": "https://www.egsppharma.org/index.php?data=contacts"
+  },
+  "last_check": "2026-10-19T04:08:54.062606+00:00",
+  "pdfs": {},
+  "resources": {
+    "https://www.egsppharma.org/": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "a320f335480d9dbe7ddccb7bd0a4e08efac5da059f7c224127d8d24dfcc255f9",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:08:26.726711+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\www.egsppharma.org\\pages\\0ab13a1b1ecc_home.txt"
+    },
+    "https://www.egsppharma.org/index.php": {
+      "content_type": "text/plain",
+      "duplicate_of": "https://www.egsppharma.org/",
+      "hash": "a320f335480d9dbe7ddccb7bd0a4e08efac5da059f7c224127d8d24dfcc255f9",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:08:47.354973+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\www.egsppharma.org\\pages\\0ab13a1b1ecc_home.txt"
+    },
+    "https://www.egsppharma.org/index.php?data=Approval": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "4c000d7147fd487edb39b4fb52d6c003130e0d089642f4e9ef15f9f238b9277a",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:08:54.044109+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\www.egsppharma.org\\pages\\1c6fbafe9d1b_index.txt"
+    },
+    "https://www.egsppharma.org/index.php?data=aboutus": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "b6bf8a39048de32a7f37fd101276410c4682f4025537a8bf49ed39228f9ae2b0",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:08:34.993077+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\www.egsppharma.org\\pages\\6eabc3fc1ed6_index.txt"
+    },
+    "https://www.egsppharma.org/index.php?data=alumni": {
+      "content_type": "text/plain",
+      "duplicate_of": "https://www.egsppharma.org/",
+      "hash": "a320f335480d9dbe7ddccb7bd0a4e08efac5da059f7c224127d8d24dfcc255f9",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:08:43.663109+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\www.egsppharma.org\\pages\\0ab13a1b1ecc_home.txt"
+    },
+    "https://www.egsppharma.org/index.php?data=contacts": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "f7cb052ae53c2934c354ab7f68d7b538dc462a4b811b0f4e5133b5c450a58f51",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:08:53.095470+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\www.egsppharma.org\\pages\\ad4edc9cc724_index.txt"
+    },
+    "https://www.egsppharma.org/index.php?data=course": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "f25f157ffdc5537f22a0262ffed2d46aab737c5647ef0fbdc8759fee51646be6",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:08:48.388449+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\www.egsppharma.org\\pages\\d6aea3a4f843_index.txt"
+    },
+    "https://www.egsppharma.org/index.php?data=downloads": {
+      "content_type": "text/plain",
+      "duplicate_of": "https://www.egsppharma.org/",
+      "hash": "a320f335480d9dbe7ddccb7bd0a4e08efac5da059f7c224127d8d24dfcc255f9",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:08:30.526789+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\www.egsppharma.org\\pages\\0ab13a1b1ecc_home.txt"
+    },
+    "https://www.egsppharma.org/index.php?data=examinations": {
+      "content_type": "text/plain",
+      "duplicate_of": "https://www.egsppharma.org/",
+      "hash": "a320f335480d9dbe7ddccb7bd0a4e08efac5da059f7c224127d8d24dfcc255f9",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:08:52.584909+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\www.egsppharma.org\\pages\\0ab13a1b1ecc_home.txt"
+    },
+    "https://www.egsppharma.org/index.php?data=facilities": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "0e414642fef845af7b684d790fe156f1a28eefd57d45df04e46ff7988726051f",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:08:48.900008+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\www.egsppharma.org\\pages\\003933a6d55f_index.txt"
+    },
+    "https://www.egsppharma.org/index.php?data=faculty": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "18481e430974cd3f3c74e91dafd51f51a82838269c455e5e472b47b04821cdd9",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:08:47.871545+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\www.egsppharma.org\\pages\\1ead4801f1b8_index.txt"
+    },
+    "https://www.egsppharma.org/index.php?data=gallery": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "ed6da31b2d5255a61685866b3150fb24b1ac236ee32e4154f6622bd72fb0e5a7",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:08:39.310944+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\www.egsppharma.org\\pages\\0677244bdee6_index.txt"
+    },
+    "https://www.egsppharma.org/index.php?data=opportunity": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "4c720826d8905a041c4be2bfa114f3bac5ac5c81f1adbacc632bc3ab06e39b57",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:08:53.601547+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\www.egsppharma.org\\pages\\7ddf66160026_index.txt"
+    },
+    "https://www.egsppharma.org/index.php?data=other_fac": {
+      "content_type": "text/plain",
+      "duplicate_of": "https://www.egsppharma.org/",
+      "hash": "a320f335480d9dbe7ddccb7bd0a4e08efac5da059f7c224127d8d24dfcc255f9",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:08:34.486554+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\www.egsppharma.org\\pages\\0ab13a1b1ecc_home.txt"
+    },
+    "https://www.egsppharma.org/index.php?data=results": {
+      "content_type": "text/plain",
+      "duplicate_of": null,
+      "hash": "0c74063ee0c0b0cdc911d5784410854a1800e61e84b8e6e83c8d3eeb5edaebd5",
+      "kind": "page",
+      "last_seen": "2026-10-19T04:08:39.782974+00:00",
+      "path": "D:\\Project\\Campus\\data\\website_scraped\\www.egsppharma.org\\pages\\dca6e41d181c_index.txt"
+    }
+  },
+  "version": 3
+}

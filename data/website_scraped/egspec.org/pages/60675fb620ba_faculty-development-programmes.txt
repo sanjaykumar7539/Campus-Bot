@@ -1,0 +1,71 @@
+URL: https://egspec.org/academics/departments/undergraduate/cyber-security/faculty-development-programmes
+EXTRACTOR: requests+bs4
+
+Academics
+Departments
+Cyber Security
+Faculty Development Programmes
+Faculty Development Programmes (FDP) & Workshops
+S.No
+Programme Title
+Duration
+Resource Person
+1
+National Level Workshop on Hands-on Ethical Hacking & Penetration Testing
+5 Days
+Certified Ethical Hacker & Industry Specialist, CyberDef Solutions
+2
+Faculty Development Programme on Cloud Security Architecture & Zero Trust Models
+3 Days
+Senior Cloud Security Architect, AWS Academy
+3
+Seminar on Digital Forensics Investigation & Cyber Crime Analytics
+2 Days
+Forensics Consultant, Cyber Crime Investigation Cell
+4
+Workshop on AI-Driven Threat Detection & Network Intrusion Prevention Systems
+Research Scientist, DeepSecure AI Labs
+Department Quick Links
+About
+Department Highlights
+Hod's Desk
+Faculty Details
+Curriculum
+Placements
+Faculty Development Programme (FDP)
+Program Outcomes
+Programme Educational Objectives
+Programme Specific Outcomes
+Department Contact
+Head of Department
+Phone:
+04365251112
+Mail:
+[email protected]
+Be part of our journey to empower aspiring engineers, scientists, and managers towards success!
+04356 251114
+E.G.S Pillay Engineering College
+Old Nagore Road, Thethi Village
+Nagapattinam - 611002
+Follow Us:
+On Campus
+28.5°C
+Overcast
+Facebook
+LinkedIn
+Twitter
+Instagram
+YouTube
+Copyright © 2006 - 2026 All
+Rights Reserved by
+EGS Pillay Group of Institutions
+Developed By
+Raghavan Jeeva
+|
+Status Page
+Sitemap
+Privacy Policy
+Terms & Conditions
+Contact Web Admin
+Website last updated on:
+2026-10-15 12:45:15 PM

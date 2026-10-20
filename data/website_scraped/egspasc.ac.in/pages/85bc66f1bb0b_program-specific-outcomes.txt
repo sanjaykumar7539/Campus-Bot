@@ -1,0 +1,42 @@
+URL: https://egspasc.ac.in/public/academics/departments/biochemistry/program-specific-outcomes
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Biochemistry
+Programme Specific Outcomes (PSOs)
+Biochemistry — PSOs
+The programme equips students with strong foundations in biomolecular structure–function,
+metabolic pathways, and real-world applications across health, research, and industry.
+##
+Programme Specific Outcome
+PSO1
+Demonstrate comprehensive knowledge of biochemical principles, biomolecules, metabolism, and the molecular basis of life.
+PSO2
+Design, conduct, analyse, and communicate biochemical research with sound analytical skills.
+PSO3
+Apply biochemistry to medicine, biotechnology, and pharmaceuticals—understanding roles in health and disease.
+PSO4
+Be career-ready for academia, research, industry, and healthcare (clinical biochemistry, lab management, pharma R&D).
+PSO5
+Integrate interdisciplinary knowledge from molecular biology, immunology, endocrinology, and related fields.
+Quick Links
+About
+Department Highlights
+HoD's Desk
+Faculty Details
+Research & Publications
+Curriculum & Syllabus
+Student Achievements
+Program Outcomes
+Program Educational Objectives
+Program Specific Outcomes
+Department Contact
+K. Uma
+Head of the Department
+·
+Phone
+Not available
+Mail
+amirthap23@gmail.com

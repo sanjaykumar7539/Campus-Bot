@@ -1,0 +1,338 @@
+{
+  "total": 24,
+  "passed": 24,
+  "failed": 0,
+  "results": [
+    {
+      "institution": "engineering",
+      "level": "simple",
+      "question": "Tell me about EGSPEC",
+      "expected_fact_id": "engineering_overview",
+      "actual_fact_id": "engineering_overview",
+      "expected_markers": [
+        "11 undergraduate",
+        "NAAC A++"
+      ],
+      "grounded": true,
+      "passed": true,
+      "answer": "E. G. S. Pillay Engineering College (EGSPEC) is an autonomous engineering institution in Nagapattinam established in 1995 by the G. S. Pillay & Sons Charitable and Educational Trust. It is affiliated with Anna University, recognized by the UGC under Sections 2(f) and 12(B), and accredited with NAAC A++. The official history records 11 undergraduate and 9 postgraduate programs, with recognized research centres in Mechanical Engineering, EEE, ECE, CSE, and Civil Engineering."
+    },
+    {
+      "institution": "engineering",
+      "level": "complex",
+      "question": "Give engineering placement highest package, placement percentage, recruiters and offers",
+      "expected_fact_id": "placements",
+      "actual_fact_id": "placements",
+      "expected_markers": [
+        "60 LPA",
+        "95.8%",
+        "1,400+"
+      ],
+      "grounded": true,
+      "passed": true,
+      "answer": "Placement rate: The official EGSPEC homepage reports 95.8% of students placed.\nHighest package: ₹60 LPA.\nHigh-value offers: 172 students placed above ₹10 LPA.\nTotal offers: 1,400+.\nRecruiter reach: Placements across 250+ global organizations.\nRegular recruiters named on official department pages: TCS, Wipro, Amazon, Tech Mahindra, Zoho, Cognizant, Accenture, Inforview and other product, service and core-industry employers.\nLowest and average package: A verified college-wide figure is not published in the currently indexed official pages, so it should not be guessed.\nNote: These are institution-published placement highlights; outcomes and salary vary by batch, branch, employer and student performance."
+    },
+    {
+      "institution": "engineering",
+      "level": "confusing",
+      "question": "enginering collage la TNEA moolama epadi join pandrathu cutoff fixed ah",
+      "expected_fact_id": "engineering_admission_tnea",
+      "actual_fact_id": "engineering_admission_tnea",
+      "expected_markers": [
+        "3806",
+        "cutoff"
+      ],
+      "grounded": true,
+      "passed": true,
+      "answer": "TNEA code: 3806.\nJoining through counselling: Register for Tamil Nadu Engineering Admissions, complete certificate verification, receive your rank, enter EGSPEC code 3806 and preferred branches during choice filling, and complete reporting after allotment.\nCourses covered: TNEA is the single-window route for Tamil Nadu B.E. and B.Tech admissions.\nCutoff: There is no single fixed minimum or maximum cutoff for EGSPEC. Closing cutoffs change every year by branch, community category, counselling round and seat availability.\nBranch chance: A realistic branch estimate requires your cutoff mark, community, preferred branch and admission year. The currently indexed official college page explains TNEA but does not publish a verified branch-wise closing-cutoff table, so an exact chance should not be invented.\nOther routes: The college also publishes separate admission procedures for postgraduate and lateral-entry applicants."
+    },
+    {
+      "institution": "arts & science",
+      "level": "simple",
+      "question": "What courses are in EGS Pillay Arts and Science College?",
+      "expected_fact_id": "arts_science_overview",
+      "actual_fact_id": "arts_science_overview",
+      "expected_markers": [
+        "B.Com",
+        "B.Sc"
+      ],
+      "grounded": true,
+      "passed": true,
+      "answer": "The official EGSPASC course list includes UG programs: B.Com, B.Com Computer Applications, B.Com Business Process Service, B.B.A., B.A. Defence and Strategic Studies, B.Sc Computer Science, B.Sc Computer Science (Cognitive Systems), B.C.A., B.Sc Information Technology, Biochemistry, Biotechnology, Physics, Mathematics, Chemistry, Nutrition & Dietetics, Visual Communication, Fashion Technology and Costume Designing, Hospital Administration, B.A. Tamil, and B.A. English. The official programmes page also lists newer UG offerings including B.Com Professional Accounting, B.Sc Artificial Intelligence and Machine Learning, Data Science, and Microbiology. PG programs include M.Sc Chemistry, Computer Science, Information Technology, Biochemistry, Biotechnology, Food Science and Nutrition, Physics, Mathematics, M.Com, M.A. English, and MBA. Research programs listed are Ph.D. Commerce, Management, Biochemistry, Computer Science, Biotechnology, English, and Physics."
+    },
+    {
+      "institution": "arts & science",
+      "level": "complex",
+      "question": "Arts and Science college hostel library internet computer lab details",
+      "expected_fact_id": "arts_science_facilities",
+      "actual_fact_id": "arts_science_facilities",
+      "expected_markers": [
+        "30,000",
+        "1 Gbps"
+      ],
+      "grounded": true,
+      "passed": true,
+      "answer": "The official Arts and Science infrastructure page lists:\n- Academic, laboratory, library and administrative blocks\n- Auditorium, seminar facilities and cafeteria\n- Separate boys' and girls' hostels with study, recreation, indoor-game, Wi-Fi, dining, medical, security and power facilities\n- More than 200 computers with 1 Gbps connectivity\n- A library with more than 30,000 volumes and over 100 journals\n\nCurrent hostel vacancy, transport routes and fees should be confirmed with admissions."
+    },
+    {
+      "institution": "arts & science",
+      "level": "confusing",
+      "question": "arts clg admision ku yaruku call pannanum mail enna",
+      "expected_fact_id": "arts_science_admission_contact",
+      "actual_fact_id": "arts_science_admission_contact",
+      "expected_markers": [
+        "98765 43210"
+      ],
+      "grounded": true,
+      "passed": true,
+      "answer": "Arts and Science admissions contact:\n- Phone: +91 98765 43210\n- Email: admissions.asc@egspgoi.ac.in\n\nThe central admissions page lists UG, PG and Ph.D. admission categories. Ask the office for the current application dates, eligibility, fees and seat availability."
+    },
+    {
+      "institution": "pharmacy",
+      "level": "simple",
+      "question": "Pharmacy college courses enna?",
+      "expected_fact_id": "pharmacy_overview",
+      "actual_fact_id": "pharmacy_overview",
+      "expected_markers": [
+        "D.Pharm",
+        "B.Pharm"
+      ],
+      "grounded": true,
+      "passed": true,
+      "answer": "The official Pharmacy site lists D.Pharm (2 years, intake 60), B.Pharm (4 years, intake 100; 3-year lateral entry after D.Pharm), Pharm.D (6 years, intake 30), and M.Pharm (2 years) with Pharmaceutics, Pharmaceutical Analysis, and Pharmacology branches. Typical scope includes community and hospital pharmacy, pharmaceutical manufacturing, quality assurance and control, regulatory affairs, clinical pharmacy, pharmacovigilance, research, and higher studies. Eligibility varies by course and must be checked against the current admission notification."
+    },
+    {
+      "institution": "pharmacy",
+      "level": "complex",
+      "question": "Explain D Pharm B Pharm Pharm D M Pharm duration intake branches and job scope",
+      "expected_fact_id": "pharmacy_overview",
+      "actual_fact_id": "pharmacy_overview",
+      "expected_markers": [
+        "6 years",
+        "Pharmaceutics"
+      ],
+      "grounded": true,
+      "passed": true,
+      "answer": "The official Pharmacy site lists D.Pharm (2 years, intake 60), B.Pharm (4 years, intake 100; 3-year lateral entry after D.Pharm), Pharm.D (6 years, intake 30), and M.Pharm (2 years) with Pharmaceutics, Pharmaceutical Analysis, and Pharmacology branches. Typical scope includes community and hospital pharmacy, pharmaceutical manufacturing, quality assurance and control, regulatory affairs, clinical pharmacy, pharmacovigilance, research, and higher studies. Eligibility varies by course and must be checked against the current admission notification."
+    },
+    {
+      "institution": "pharmacy",
+      "level": "confusing",
+      "question": "pharmasy admision ku contact numbr and mail sollu",
+      "expected_fact_id": "pharmacy_admission_contact",
+      "actual_fact_id": "pharmacy_admission_contact",
+      "expected_markers": [
+        "99887 76655"
+      ],
+      "grounded": true,
+      "passed": true,
+      "answer": "Pharmacy admissions contact:\n- Phone: +91 99887 76655\n- Email: admissions.pharm@egspgoi.ac.in\n\nThe central admissions page lists D.Pharm, B.Pharm, Pharm.D and M.Pharm admission categories. Ask the office for current eligibility, counselling, fees, certificates and seat availability."
+    },
+    {
+      "institution": "nursing",
+      "level": "simple",
+      "question": "What nursing courses are available?",
+      "expected_fact_id": "nursing_overview",
+      "actual_fact_id": "nursing_overview",
+      "expected_markers": [
+        "B.Sc",
+        "DGNM"
+      ],
+      "grounded": true,
+      "passed": true,
+      "answer": "The official Nursing admissions page lists B.Sc. Nursing and DGNM programs. It highlights clinical training in reputed hospitals, modern clinical laboratories and simulation kits, experienced faculty mentorship, and 100% placement assistance. The page also states accreditation by the Indian Nursing Council (INC). Career paths can include hospital and community nursing, public health, clinical specializations, nursing administration, education, and higher studies, subject to the qualification and applicable registration requirements."
+    },
+    {
+      "institution": "nursing",
+      "level": "complex",
+      "question": "Does Nursing have INC recognition clinical training labs and placement assistance?",
+      "expected_fact_id": "nursing_overview",
+      "actual_fact_id": "nursing_overview",
+      "expected_markers": [
+        "INC",
+        "clinical"
+      ],
+      "grounded": true,
+      "passed": true,
+      "answer": "The official Nursing admissions page lists B.Sc. Nursing and DGNM programs. It highlights clinical training in reputed hospitals, modern clinical laboratories and simulation kits, experienced faculty mentorship, and 100% placement assistance. The page also states accreditation by the Indian Nursing Council (INC). Career paths can include hospital and community nursing, public health, clinical specializations, nursing administration, education, and higher studies, subject to the qualification and applicable registration requirements."
+    },
+    {
+      "institution": "nursing",
+      "level": "confusing",
+      "question": "nurshing join panna yaruku call pannanum eligibility age fee hum kekanum",
+      "expected_fact_id": "nursing_admission_contact",
+      "actual_fact_id": "nursing_admission_contact",
+      "expected_markers": [
+        "99768 88999"
+      ],
+      "grounded": true,
+      "passed": true,
+      "answer": "Nursing admissions contact:\n- Phone: +91 99768 88999 or +91 86809 54537\n- Email: admission@egspec.org\n- Campus: Old Nagore Main Road, Thethi Village, Nagore, Nagapattinam, Tamil Nadu 611002\n\nAsk the office to confirm current B.Sc Nursing or DGNM eligibility, age rules, certificates, fees and seat availability."
+    },
+    {
+      "institution": "polytechnic",
+      "level": "simple",
+      "question": "List Polytechnic diploma branches",
+      "expected_fact_id": "polytechnic_overview",
+      "actual_fact_id": "polytechnic_overview",
+      "expected_markers": [
+        "Computer Engineering",
+        "Mechanical"
+      ],
+      "grounded": true,
+      "passed": true,
+      "answer": "The official Polytechnic site lists 3-year Diploma programs. Government-aided courses include Electronics and Communication Engineering, Computer Engineering, and Instrumentation and Control Engineering. Self-financing courses include Electrical and Electronics Engineering and Mechanical Engineering. First-year Basic Engineering is common, followed by the allotted branch across six semesters. The college was established in 2006, is affiliated to DOTE Tamil Nadu, and highlights workshops, laboratories, placement support, and lateral-entry options to B.E."
+    },
+    {
+      "institution": "polytechnic",
+      "level": "complex",
+      "question": "After 10th can I join Polytechnic and what duration documents and percentage are needed?",
+      "expected_fact_id": "polytechnic_admission",
+      "actual_fact_id": "polytechnic_admission",
+      "expected_markers": [
+        "35%",
+        "SSLC"
+      ],
+      "grounded": true,
+      "passed": true,
+      "answer": "EGS Pillay Polytechnic's official admission page states:\n- Regular diploma: pass 10th/SSLC with at least 35%; normal duration 3 years and maximum completion period 6 years.\n- Lateral entry: eligible 10+2 candidates with the listed academic/vocational subjects, or 10th plus a two-year ITI; normal duration 2 years and maximum completion period 5 years.\n- Original documents listed for admission: SSLC mark sheet, HSC mark sheet for lateral entry, Transfer Certificate, recent Community Certificate, sports certificate when claiming sports quota, and three passport-size photographs.\n- Reservations follow Tamil Nadu Government rules.\n- Admission contact: 04365 252112.\n\nApplicants should confirm the current-year branch availability and eligibility before applying."
+    },
+    {
+      "institution": "polytechnic",
+      "level": "confusing",
+      "question": "polytecnic la boys girls hostal bus wifi workshop la iruka",
+      "expected_fact_id": "polytechnic_facilities",
+      "actual_fact_id": "polytechnic_facilities",
+      "expected_markers": [
+        "boys",
+        "Wi-Fi"
+      ],
+      "grounded": true,
+      "passed": true,
+      "answer": "The official Polytechnic site highlights:\n- Department laboratories and workshops\n- Wi-Fi-enabled campus\n- Transport covering multiple places\n- Separate hostel facilities for boys and girls\n- Placement support\n\nRoute, hostel vacancy, mess and current fee details are not published on this page and should be confirmed with the college at 04365 252112."
+    },
+    {
+      "institution": "education",
+      "level": "simple",
+      "question": "Tell me about EGS Pillay College of Education",
+      "expected_fact_id": "education_overview",
+      "actual_fact_id": "education_overview",
+      "expected_markers": [
+        "B.Ed",
+        "100"
+      ],
+      "grounded": true,
+      "passed": true,
+      "answer": "EGS Pillay College of Education offers B.Ed with an annual intake of 100. Its official site says it has functioned since 2014 with Tamil Nadu Government and NCTE permission and is affiliated to Tamil Nadu Teachers Education University (college code 11316).\n\nContact:\n- Phone: 04365 252113\n- Email: principal.egspcoe@gmail.com\n- Address: Old Nagore Road, Thethi Village, Nagapattinam 611002\n\nCurrent subject combinations, eligibility, fees and admission dates should be confirmed from the college for the applicable admission year."
+    },
+    {
+      "institution": "education",
+      "level": "complex",
+      "question": "Is B.Ed NCTE approved, which university is it affiliated to, intake and college code?",
+      "expected_fact_id": "education_overview",
+      "actual_fact_id": "education_overview",
+      "expected_markers": [
+        "NCTE",
+        "11316"
+      ],
+      "grounded": true,
+      "passed": true,
+      "answer": "EGS Pillay College of Education offers B.Ed with an annual intake of 100. Its official site says it has functioned since 2014 with Tamil Nadu Government and NCTE permission and is affiliated to Tamil Nadu Teachers Education University (college code 11316).\n\nContact:\n- Phone: 04365 252113\n- Email: principal.egspcoe@gmail.com\n- Address: Old Nagore Road, Thethi Village, Nagapattinam 611002\n\nCurrent subject combinations, eligibility, fees and admission dates should be confirmed from the college for the applicable admission year."
+    },
+    {
+      "institution": "education",
+      "level": "confusing",
+      "question": "education collage b ed ku ethana seat contact enna",
+      "expected_fact_id": "education_overview",
+      "actual_fact_id": "education_overview",
+      "expected_markers": [
+        "100",
+        "252113"
+      ],
+      "grounded": true,
+      "passed": true,
+      "answer": "EGS Pillay College of Education offers B.Ed with an annual intake of 100. Its official site says it has functioned since 2014 with Tamil Nadu Government and NCTE permission and is affiliated to Tamil Nadu Teachers Education University (college code 11316).\n\nContact:\n- Phone: 04365 252113\n- Email: principal.egspcoe@gmail.com\n- Address: Old Nagore Road, Thethi Village, Nagapattinam 611002\n\nCurrent subject combinations, eligibility, fees and admission dates should be confirmed from the college for the applicable admission year."
+    },
+    {
+      "institution": "naturopathy",
+      "level": "simple",
+      "question": "Which course is offered by EGS Pillay Naturopathy College?",
+      "expected_fact_id": "naturopathy_overview",
+      "actual_fact_id": "naturopathy_overview",
+      "expected_markers": [
+        "Bachelor of Naturopathy"
+      ],
+      "grounded": true,
+      "passed": true,
+      "answer": "The official EGS Pillay Group directory lists EGS Pillay Naturopathy and Yoga Medical College and identifies Bachelor of Naturopathy and Yogic Sciences as its study area. Its separate official domain was unreachable during the latest sync, so duration, intake, eligibility, approval, fees, and facilities are not stated as verified here. Confirm current details through central admissions at +91 99768 88999 or admission@egspec.org."
+    },
+    {
+      "institution": "naturopathy",
+      "level": "complex",
+      "question": "Explain BNYS duration intake eligibility approval facilities and fees",
+      "expected_fact_id": "naturopathy_overview",
+      "actual_fact_id": "naturopathy_overview",
+      "expected_markers": [
+        "Bachelor of Naturopathy",
+        "not stated"
+      ],
+      "grounded": true,
+      "passed": true,
+      "answer": "The official EGS Pillay Group directory lists EGS Pillay Naturopathy and Yoga Medical College and identifies Bachelor of Naturopathy and Yogic Sciences as its study area. Its separate official domain was unreachable during the latest sync, so duration, intake, eligibility, approval, fees, and facilities are not stated as verified here. Confirm current details through central admissions at +91 99768 88999 or admission@egspec.org."
+    },
+    {
+      "institution": "naturopathy",
+      "level": "confusing",
+      "question": "yoga medical collage la enna course join panna mudiyum details sollu",
+      "expected_fact_id": "naturopathy_overview",
+      "actual_fact_id": "naturopathy_overview",
+      "expected_markers": [
+        "Bachelor of Naturopathy"
+      ],
+      "grounded": true,
+      "passed": true,
+      "answer": "The official EGS Pillay Group directory lists EGS Pillay Naturopathy and Yoga Medical College and identifies Bachelor of Naturopathy and Yogic Sciences as its study area. Its separate official domain was unreachable during the latest sync, so duration, intake, eligibility, approval, fees, and facilities are not stated as verified here. Confirm current details through central admissions at +91 99768 88999 or admission@egspec.org."
+    },
+    {
+      "institution": "school",
+      "level": "simple",
+      "question": "Tell me about EGS Pillay International School",
+      "expected_fact_id": "school_overview",
+      "actual_fact_id": "school_overview",
+      "expected_markers": [
+        "CBSE"
+      ],
+      "grounded": true,
+      "passed": true,
+      "answer": "The official EGS Pillay Group website identifies EGS Pillay International School as a CBSE-curriculum school. The currently available official pages do not publish a verified class range, fee structure, or grade-wise admission eligibility. Confirm current details through central admissions at +91 99768 88999 or admission@egspec.org."
+    },
+    {
+      "institution": "school",
+      "level": "complex",
+      "question": "What curriculum, class range, fees and grade eligibility does the International School have?",
+      "expected_fact_id": "school_overview",
+      "actual_fact_id": "school_overview",
+      "expected_markers": [
+        "CBSE",
+        "do not publish"
+      ],
+      "grounded": true,
+      "passed": true,
+      "answer": "The official EGS Pillay Group website identifies EGS Pillay International School as a CBSE-curriculum school. The currently available official pages do not publish a verified class range, fee structure, or grade-wise admission eligibility. Confirm current details through central admissions at +91 99768 88999 or admission@egspec.org."
+    },
+    {
+      "institution": "school",
+      "level": "confusing",
+      "question": "international schol CBSE ah which class varaikum admision edukuranga",
+      "expected_fact_id": "school_overview",
+      "actual_fact_id": "school_overview",
+      "expected_markers": [
+        "CBSE",
+        "class range"
+      ],
+      "grounded": true,
+      "passed": true,
+      "answer": "The official EGS Pillay Group website identifies EGS Pillay International School as a CBSE-curriculum school. The currently available official pages do not publish a verified class range, fee structure, or grade-wise admission eligibility. Confirm current details through central admissions at +91 99768 88999 or admission@egspec.org."
+    }
+  ]
+}

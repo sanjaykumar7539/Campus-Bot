@@ -40,8 +40,9 @@ class Retriever:
     def retrieve_bundle(self, query: str, k: int = None) -> dict:
         analysis = self.query_processor.analyze(query)
 
-        if getattr(config, 'ENABLE_CAG', True) and k is None:
-            cached = self.cache.get(analysis.normalized)
+        cache_key = f'{analysis.normalized}|k={k or config.TOP_K}'
+        if getattr(config, 'ENABLE_CAG', True):
+            cached = self.cache.get(cache_key)
             if cached is not None:
                 cached['analysis'] = analysis
                 cached['retrieval_mode'] = 'cag_cache'
@@ -127,8 +128,8 @@ class Retriever:
             'kag_facts_used': len(kag_used),
         }
 
-        if getattr(config, 'ENABLE_CAG', True) and k is None and bundle['context']:
-            self.cache.set(analysis.normalized, bundle)
+        if getattr(config, 'ENABLE_CAG', True) and bundle['context']:
+            self.cache.set(cache_key, bundle)
 
         return bundle
 

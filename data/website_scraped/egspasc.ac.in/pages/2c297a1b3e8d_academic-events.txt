@@ -1,0 +1,32 @@
+URL: https://egspasc.ac.in/academics/departments/commerce/academic-events
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Commerce
+Academic Events
+Academic Events Conducted - Department of Commerce
+Academic Events Conducted
+List of Seminar / Webinar / Symposium / Conference /FDP Conducted
+/ View
+List of Seminar / Webinar / Symposium / Conference /FDP Participated
+Quick Links
+About
+Department Highlights
+Hod`s Desk
+Faculty Details
+Research & Publications
+Curriculum & Syllabus
+Student Achievements
+Placements
+Program Outcomes (POs)
+Department Contact
+Mrs. R. Vinodhani, M.Com., M.Phil.
+Head & Assistant Professor
+·
+Department of Commerce
+Phone
+Not available
+Mail
+hodcommerce@egspasc.org

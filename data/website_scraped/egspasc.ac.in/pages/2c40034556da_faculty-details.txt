@@ -1,0 +1,48 @@
+URL: https://egspasc.ac.in/academics/departments/biochemistry/faculty-details
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Biochemistry
+Faculty Details
+Faculty Members
+S.No
+Name
+Designation
+Qualification
+1
+Mrs. K. Uma
+Head of the Department (HOD), Assistant Professor
+M.Sc., M.Phil.
+2
+Mrs. J. Ramalakshmi
+Assistant Professor
+3
+Dr. S. Karthikeyan
+M.Sc., M.Phil., Ph.D
+4
+Dr. U. Sathiya
+5
+Ms. N. Revathi
+M.Sc.
+6
+Mr. T. Dhineshkumar
+Quick Links
+About
+Department Highlights
+HoD's Desk
+Research & Publications
+Curriculum & Syllabus
+Student Achievements
+Program Outcomes
+Program Educational Objectives
+Program Specific Outcomes
+Department Contact
+K. Uma
+Head of the Department
+·
+Phone
+Not available
+Mail
+amirthap23@gmail.com

@@ -1,0 +1,50 @@
+URL: https://egspasc.ac.in/academics/departments/information-technology/faculty-details
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Information Technology (IT)
+Faculty Details
+Faculty Members
+S.No
+Name
+Designation
+Qualification
+Profile
+1
+Mrs. P. Helan Chandra
+Head of the Department (HOD), Assistant Professor
+MCA
+Download PDF
+2
+Mr. T. G.prakash
+Assistant Professor
+M.Sc., M.Phil.
+3
+Mrs. M. Monica
+4
+Mrs. M. Sathyavani
+5
+Ms. K. Mekala
+M.Sc.
+Quick Links
+About
+Department Highlights
+Hod`s Desk
+Curriculum & Syllabus
+Research & Publications
+Placements
+Student Achievements
+Program Outcomes
+Program Educational Objectives
+Program Specific Outcomes
+Department Contact
+Mrs.P.HELAN CHANDRA
+Assistant Professor & Head
+·
+Information Technology
+Phone
+Not available
+Mail
+hodit@egspasc.org

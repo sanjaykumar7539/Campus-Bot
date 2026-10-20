@@ -1,0 +1,28 @@
+URL: https://egspasc.ac.in/academics/departments/visual-communication/student-achievements
+EXTRACTOR: requests+bs4
+
+Home
+Academics
+Departments
+Visual Communication
+Student Achievements
+View Student Achievements (Academic & Non-Academic)
+Quick Links
+About
+Department Highlights
+Department Activities
+HoD's Desk
+Faculty Details
+Research & Publications
+Curriculum & Syllabus
+Program Outcomes
+Program Educational Objectives
+Program Specific Outcomes
+Department Contact
+HOD - VisCom
+Head of the Department
+·
+Phone
+Not available
+Mail
+hodviscom@egspasc.ac.in
