@@ -25,3 +25,15 @@ __pycache__/
 debug.log
 *.tmp
 .test-tmp-*
+
+.tools/
+
+.env
+*.log
+debug.log
+.tools/
+.test-tmp-*
+*.tmp
+__pycache__/
+.venv/
+node_modules/
